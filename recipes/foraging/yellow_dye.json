@@ -1,0 +1,12 @@
+{
+  "name": "yellow_dye",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "dandelion"
+    }
+  ],
+  "result": {
+    "name": "yellow_dye"
+  }
+}

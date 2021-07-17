@@ -1,0 +1,12 @@
+{
+  "name": "red_dye",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "poppy"
+    }
+  ],
+  "result": {
+    "name": "red_dye"
+  }
+}
