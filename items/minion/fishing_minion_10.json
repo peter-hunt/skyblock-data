@@ -1,0 +1,7 @@
+{
+  "name": "fishing_minion",
+  "tier": 10,
+  "cooldown": 53,
+  "slots": 14,
+  "type": "minion"
+}

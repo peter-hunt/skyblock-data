@@ -1,0 +1,8 @@
+{
+  "name": "refined_titanium_pickaxe",
+  "rarity": "rare",
+  "breaking_power": 6,
+  "mining_speed": 400,
+  "damage": 65,
+  "type": "pickaxe"
+}

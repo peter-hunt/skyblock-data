@@ -1,0 +1,12 @@
+{
+  "name": "adaptive_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "strength": 15,
+  "health": 90,
+  "defense": 45,
+  "intelligence": 15,
+  "stars": 0,
+  "dungeon_completion_req": 3,
+  "type": "armor"
+}

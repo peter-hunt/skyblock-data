@@ -1,0 +1,8 @@
+{
+  "name": "golem_sword",
+  "rarity": "rare",
+  "damage": 80,
+  "strength": 125,
+  "defense": 25,
+  "type": "sword"
+}

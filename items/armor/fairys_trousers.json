@@ -1,0 +1,11 @@
+{
+  "name": "fairys_trousers",
+  "rarity": "uncommon",
+  "part": "leggings",
+  "health": 1,
+  "defense": 1,
+  "intelligence": -1,
+  "speed": 10,
+  "abilities": ["fairys_outfit"],
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "diamond_atom",
+  "modifier": "perfect",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [25000, 50000, 150000, 300000, 600000, 800000],
+  "mining_skill_req": 22,
+  "type": "reforge_stone"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "lapis_leggings",
+  "rarity": "uncommon",
+  "part": "leggings",
+  "defense": 35,
+  "abilities": ["lapis_armor_exp_bonus", "lapis_armor_health"],
+  "type": "armor"
+}

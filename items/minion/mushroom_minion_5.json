@@ -1,0 +1,7 @@
+{
+  "name": "mushroom_minion",
+  "tier": 5,
+  "cooldown": 26,
+  "slots": 6,
+  "type": "minion"
+}

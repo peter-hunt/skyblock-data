@@ -1,0 +1,7 @@
+{
+  "name": "chicken_minion",
+  "tier": 9,
+  "cooldown": 18,
+  "slots": 12,
+  "type": "minion"
+}

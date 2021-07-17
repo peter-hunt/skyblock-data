@@ -1,0 +1,11 @@
+{
+  "name": "strong_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "strength": 25,
+  "health": 100,
+  "defense": 140,
+  "combat_skill_req": 16,
+  "abilities": ["strong_blood"],
+  "type": "armor"
+}

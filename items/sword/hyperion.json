@@ -1,0 +1,11 @@
+{
+  "name": "hyperion",
+  "rarity": "legendary",
+  "damage": 260,
+  "strength": 150,
+  "intelligence": 350,
+  "ferocity": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "sword"
+}

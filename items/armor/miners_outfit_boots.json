@@ -1,0 +1,8 @@
+{
+  "name": "miners_outfit_boots",
+  "rarity": "uncommon",
+  "part": "boots",
+  "defense": 15,
+  "abilities": ["miners_outfit_haste"],
+  "type": "armor"
+}

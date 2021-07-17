@@ -1,0 +1,8 @@
+{
+  "name": "creeper_pants",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 200,
+  "defense": 65,
+  "type": "armor"
+}

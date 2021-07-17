@@ -1,0 +1,7 @@
+{
+  "name": "oak_minion",
+  "tier": 1,
+  "cooldown": 48,
+  "slots": 1,
+  "type": "minion"
+}

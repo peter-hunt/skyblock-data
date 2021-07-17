@@ -1,0 +1,8 @@
+{
+  "name": "farm_suit_helmet",
+  "rarity": "common",
+  "part": "helmet",
+  "defense": 15,
+  "abilities": ["farm_suit_speed"],
+  "type": "armor"
+}

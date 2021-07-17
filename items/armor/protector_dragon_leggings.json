@@ -1,0 +1,10 @@
+{
+  "name": "protector_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 100,
+  "defense": 165,
+  "combat_skill_req": 16,
+  "abilities": ["protective_blood"],
+  "type": "armor"
+}

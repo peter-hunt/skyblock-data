@@ -1,0 +1,9 @@
+{
+  "name": "pigman_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "defense": 50,
+  "strength": 50,
+  "ferocity": 5,
+  "type": "pet"
+}

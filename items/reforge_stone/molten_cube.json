@@ -1,0 +1,9 @@
+{
+  "name": "molten_cube",
+  "modifier": "cubic",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [4000, 7500, 15000, 40000, 75000, 150000],
+  "mining_skill_req": 10,
+  "type": "reforge_stone"
+}

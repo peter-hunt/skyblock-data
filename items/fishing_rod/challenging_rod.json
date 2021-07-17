@@ -1,0 +1,10 @@
+{
+  "name": "challenging_rod",
+  "rarity": "rare",
+  "damage": 60,
+  "strength": 60,
+  "fishing_speed": 50,
+  "sea_creature_chance": 2,
+  "fishing_skill_req": 10,
+  "type": "fishing_rod"
+}

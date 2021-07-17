@@ -1,0 +1,9 @@
+{
+  "name": "pumpkin_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "health": 14,
+  "defense": 14,
+  "abilities": ["pumpkin_buff"],
+  "type": "armor"
+}

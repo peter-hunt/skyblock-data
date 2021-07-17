@@ -1,0 +1,11 @@
+{
+  "name": "wither_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 300,
+  "defense": 250,
+  "intelligence": 10,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

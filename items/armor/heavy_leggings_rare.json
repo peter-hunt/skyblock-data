@@ -1,0 +1,11 @@
+{
+  "name": "heavy_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 75,
+  "defense": 107,
+  "speed": -5,
+  "stars": 0,
+  "dungeon_skill_req": 2,
+  "type": "armor"
+}

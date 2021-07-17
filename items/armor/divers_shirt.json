@@ -1,0 +1,9 @@
+{
+  "name": "divers_shirt",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 100,
+  "defense": 200,
+  "sea_creature_chance": 2,
+  "type": "armor"
+}

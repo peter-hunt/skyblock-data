@@ -1,0 +1,8 @@
+{
+  "name": "giraffe_pet",
+  "rarity": "uncommon",
+  "category": "foraging",
+  "health": 100,
+  "crit_chance": 5,
+  "type": "pet"
+}

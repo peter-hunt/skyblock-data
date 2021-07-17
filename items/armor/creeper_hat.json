@@ -1,0 +1,12 @@
+{
+  "name": "creeper_hat",
+  "rarity": "common",
+  "part": "helmet",
+  "strength": 5,
+  "crit_chance": 5,
+  "crit_damage": 5,
+  "health": 5,
+  "defense": 5,
+  "intelligence": 5,
+  "type": "armor"
+}

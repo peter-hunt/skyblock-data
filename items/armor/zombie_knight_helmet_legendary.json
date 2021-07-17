@@ -1,0 +1,11 @@
+{
+  "name": "zombie_knight_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 26,
+  "defense": 137,
+  "speed": 11,
+  "stars": 0,
+  "dungeon_skill_req": 24,
+  "type": "armor"
+}

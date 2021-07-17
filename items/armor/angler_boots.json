@@ -1,0 +1,8 @@
+{
+  "name": "angler_boots",
+  "rarity": "common",
+  "part": "boots",
+  "defense": 15,
+  "sea_creature_chance": 1,
+  "type": "armor"
+}

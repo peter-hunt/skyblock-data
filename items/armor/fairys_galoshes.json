@@ -1,0 +1,11 @@
+{
+  "name": "fairys_galoshes",
+  "rarity": "uncommon",
+  "part": "boots",
+  "health": 1,
+  "defense": 1,
+  "intelligence": -1,
+  "speed": 10,
+  "abilities": ["fairys_outfit"],
+  "type": "armor"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "adaptive_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "strength": 15,
+  "health": 170,
+  "defense": 85,
+  "intelligence": 15,
+  "stars": 0,
+  "dungeon_completion_req": 3,
+  "type": "armor"
+}

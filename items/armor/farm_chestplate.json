@@ -1,0 +1,9 @@
+{
+  "name": "farm_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 20,
+  "defense": 75,
+  "abilities": ["farm_armor_speed"],
+  "type": "armor"
+}

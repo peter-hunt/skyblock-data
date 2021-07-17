@@ -1,0 +1,11 @@
+{
+  "name": "young_dragon_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 60,
+  "defense": 90,
+  "speed": 20,
+  "combat_skill_req": 16,
+  "abilities": ["young_blood"],
+  "type": "armor"
+}

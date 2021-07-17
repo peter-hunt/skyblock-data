@@ -1,0 +1,9 @@
+{
+  "name": "titanium_drill_355",
+  "rarity": "epic",
+  "breaking_power": 7,
+  "mining_speed": 700,
+  "mining_fortune": 15,
+  "damage": 75,
+  "type": "drill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "rookie_axe",
+  "rarity": "common",
+  "tool_speed": 4,
+  "enchantments": {
+    "efficiency": 1
+  },
+  "type": "axe"
+}

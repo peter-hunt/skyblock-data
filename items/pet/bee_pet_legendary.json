@@ -1,0 +1,9 @@
+{
+  "name": "bee_pet",
+  "rarity": "legendary",
+  "category": "farming",
+  "speed": 10,
+  "intelligence": 50,
+  "strength": 30,
+  "type": "pet"
+}

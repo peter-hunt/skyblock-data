@@ -1,0 +1,10 @@
+{
+  "name": "skeletor_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 36,
+  "defense": 59,
+  "stars": 0,
+  "dungeon_skill_req": 15,
+  "type": "armor"
+}

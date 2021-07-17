@@ -1,0 +1,8 @@
+{
+  "name": "skeleton_horse_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "speed": 50,
+  "intelligence": 100,
+  "type": "pet"
+}

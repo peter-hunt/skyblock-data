@@ -1,0 +1,9 @@
+{
+  "name": "pumpkin_leggings",
+  "rarity": "common",
+  "part": "leggings",
+  "health": 10,
+  "defense": 10,
+  "abilities": ["pumpkin_buff"],
+  "type": "armor"
+}

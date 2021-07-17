@@ -1,0 +1,7 @@
+{
+  "name": "wheat_minion",
+  "tier": 5,
+  "cooldown": 11,
+  "slots": 6,
+  "type": "minion"
+}

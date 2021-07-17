@@ -1,0 +1,11 @@
+{
+  "name": "storms_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 180,
+  "defense": 80,
+  "intelligence": 400,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

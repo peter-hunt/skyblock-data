@@ -1,0 +1,11 @@
+{
+  "name": "heavy_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 75,
+  "defense": 116,
+  "speed": -5,
+  "stars": 0,
+  "dungeon_skill_req": 2,
+  "type": "armor"
+}

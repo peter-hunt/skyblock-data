@@ -1,0 +1,7 @@
+{
+  "name": "golden_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "defense": 25,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "creeper_minion",
+  "tier": 7,
+  "cooldown": 21,
+  "slots": 9,
+  "type": "minion"
+}

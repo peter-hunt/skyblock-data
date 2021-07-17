@@ -1,0 +1,8 @@
+{
+  "name": "tacticians_sword",
+  "rarity": "rare",
+  "damage": 50,
+  "crit_chance": 20,
+  "abilities": ["tacticians_sword"],
+  "type": "sword"
+}

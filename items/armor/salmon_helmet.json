@@ -1,0 +1,9 @@
+{
+  "name": "salmon_helmet",
+  "rarity": "common",
+  "part": "helmet",
+  "health": 35,
+  "defense": 80,
+  "sea_creature_chance": 1.5,
+  "type": "armor"
+}

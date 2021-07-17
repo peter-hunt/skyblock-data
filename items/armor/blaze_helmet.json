@@ -1,0 +1,9 @@
+{
+  "name": "blaze_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "strength": 10,
+  "defense": 50,
+  "speed": 2,
+  "type": "armor"
+}

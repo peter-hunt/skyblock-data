@@ -1,0 +1,7 @@
+{
+  "name": "birch_minion",
+  "tier": 5,
+  "cooldown": 42,
+  "slots": 6,
+  "type": "minion"
+}

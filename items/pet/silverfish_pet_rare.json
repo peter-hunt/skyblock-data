@@ -1,0 +1,8 @@
+{
+  "name": "silverfish_pet",
+  "rarity": "rare",
+  "category": "mining",
+  "health": 20,
+  "defense": 100,
+  "type": "pet"
+}

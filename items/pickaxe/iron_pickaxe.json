@@ -1,0 +1,8 @@
+{
+  "name": "iron_pickaxe",
+  "rarity": "common",
+  "breaking_power": 3,
+  "mining_speed": 160,
+  "damage": 25,
+  "type": "pickaxe"
+}

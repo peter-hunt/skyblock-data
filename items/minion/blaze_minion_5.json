@@ -1,0 +1,7 @@
+{
+  "name": "blaze_minion",
+  "tier": 5,
+  "cooldown": 28.5,
+  "slots": 6,
+  "type": "minion"
+}

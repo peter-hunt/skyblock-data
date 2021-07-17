@@ -1,0 +1,7 @@
+{
+  "name": "potato_minion",
+  "tier": 10,
+  "cooldown": 12,
+  "slots": 15,
+  "type": "minion"
+}

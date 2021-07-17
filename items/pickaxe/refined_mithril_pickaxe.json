@@ -1,0 +1,8 @@
+{
+  "name": "refined_mithril_pickaxe",
+  "rarity": "rare",
+  "breaking_power": 5,
+  "mining_speed": 300,
+  "damage": 50,
+  "type": "pickaxe"
+}

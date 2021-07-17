@@ -1,0 +1,7 @@
+{
+  "name": "melon_minion",
+  "tier": 4,
+  "cooldown": 22.5,
+  "slots": 6,
+  "type": "minion"
+}

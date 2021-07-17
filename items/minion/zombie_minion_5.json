@@ -1,0 +1,7 @@
+{
+  "name": "zombie_minion",
+  "tier": 5,
+  "cooldown": 22,
+  "slots": 6,
+  "type": "minion"
+}

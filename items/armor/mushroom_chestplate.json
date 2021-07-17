@@ -1,0 +1,8 @@
+{
+  "name": "mushroom_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "health": 10,
+  "defense": 10,
+  "type": "armor"
+}

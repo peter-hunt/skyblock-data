@@ -1,0 +1,7 @@
+{
+  "name": "cobblestone_minion",
+  "tier": 6,
+  "cooldown": 10,
+  "slots": 9,
+  "type": "minion"
+}

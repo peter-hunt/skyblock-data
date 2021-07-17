@@ -1,0 +1,8 @@
+{
+  "name": "golem_armor_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 65,
+  "defense": 90,
+  "type": "armor"
+}

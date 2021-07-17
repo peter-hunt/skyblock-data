@@ -1,0 +1,12 @@
+{
+  "name": "adaptive_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "strength": 15,
+  "health": 145,
+  "defense": 65,
+  "intelligence": 15,
+  "stars": 0,
+  "dungeon_completion_req": 3,
+  "type": "armor"
+}

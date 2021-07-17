@@ -1,0 +1,9 @@
+{
+  "name": "ghoul_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "health": 100,
+  "intelligence": 70,
+  "ferocity": 5,
+  "type": "pet"
+}

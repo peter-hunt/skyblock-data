@@ -1,0 +1,7 @@
+{
+  "name": "acacia_minion",
+  "tier": 11,
+  "cooldown": 27,
+  "slots": 15,
+  "type": "minion"
+}

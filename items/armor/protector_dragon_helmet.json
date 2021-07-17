@@ -1,0 +1,10 @@
+{
+  "name": "protector_dragon_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 70,
+  "defense": 135,
+  "combat_skill_req": 16,
+  "abilities": ["protective_blood"],
+  "type": "armor"
+}

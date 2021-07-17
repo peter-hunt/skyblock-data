@@ -1,0 +1,7 @@
+{
+  "name": "chainmail_chestplate",
+  "rarity": "uncommon",
+  "part": "chestplate",
+  "defense": 30,
+  "type": "armor"
+}

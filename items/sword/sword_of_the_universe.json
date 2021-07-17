@@ -1,0 +1,7 @@
+{
+  "name": "sword_of_the_universe",
+  "rarity": "special",
+  "damage": Infinity,
+  "abilities": ["sword_of_the_universe"],
+  "type": "sword"
+}

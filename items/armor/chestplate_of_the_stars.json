@@ -1,0 +1,9 @@
+{
+  "name": "chestplate_of_the_stars",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 20000,
+  "defense": 5000,
+  "intelligence": 2000,
+  "type": "armor"
+}

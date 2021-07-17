@@ -1,0 +1,7 @@
+{
+  "name": "sugar_cane_minion",
+  "tier": 7,
+  "cooldown": 16,
+  "slots": 8,
+  "type": "minion"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "goblin_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "defense": 140,
+  "intelligence": -1,
+  "mining_speed": 10,
+  "type": "armor"
+}

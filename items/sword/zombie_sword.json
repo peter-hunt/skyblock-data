@@ -1,0 +1,8 @@
+{
+  "name": "zombie_sword",
+  "rarity": "rare",
+  "damage": 100,
+  "strength": 50,
+  "intelligence": 50,
+  "type": "sword"
+}

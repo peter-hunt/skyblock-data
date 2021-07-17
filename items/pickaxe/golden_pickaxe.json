@@ -1,0 +1,8 @@
+{
+  "name": "golden_pickaxe",
+  "rarity": "common",
+  "breaking_power": 1,
+  "mining_speed": 250,
+  "damage": 15,
+  "type": "pickaxe"
+}

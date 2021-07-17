@@ -1,0 +1,10 @@
+{
+  "name": "super_heavy_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "defense": 85,
+  "speed": -10,
+  "stars": 0,
+  "dungeon_skill_req": 15,
+  "type": "armor"
+}

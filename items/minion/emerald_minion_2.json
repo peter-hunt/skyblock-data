@@ -1,0 +1,7 @@
+{
+  "name": "emerald_minion",
+  "tier": 2,
+  "cooldown": 28,
+  "slots": 3,
+  "type": "minion"
+}

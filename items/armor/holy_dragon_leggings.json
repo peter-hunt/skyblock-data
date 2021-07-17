@@ -1,0 +1,10 @@
+{
+  "name": "holy_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 155,
+  "defense": 140,
+  "combat_skill_req": 16,
+  "abilities": ["holy_blood"],
+  "type": "armor"
+}

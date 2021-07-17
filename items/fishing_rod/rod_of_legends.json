@@ -1,0 +1,10 @@
+{
+  "name": "rod_of_legends",
+  "rarity": "rare",
+  "damage": 130,
+  "strength": 120,
+  "fishing_speed": 70,
+  "sea_creature_chance": 6,
+  "fishing_skill_req": 20,
+  "type": "fishing_rod"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "storms_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 260,
+  "defense": 120,
+  "intelligence": 250,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

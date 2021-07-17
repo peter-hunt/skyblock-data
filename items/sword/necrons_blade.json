@@ -1,0 +1,13 @@
+{
+  "name": "necrons_blade",
+  "rarity": "legendary",
+  "damage": 210,
+  "strength": 60,
+  "defense": 250,
+  "intelligence": 50,
+  "true_defense": 20,
+  "ferocity": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "sword"
+}

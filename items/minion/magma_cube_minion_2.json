@@ -1,0 +1,7 @@
+{
+  "name": "magma_cube_minion",
+  "tier": 2,
+  "cooldown": 32,
+  "slots": 4,
+  "type": "minion"
+}

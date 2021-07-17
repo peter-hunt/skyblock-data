@@ -1,0 +1,7 @@
+{
+  "name": "lapis_minion",
+  "tier": 11,
+  "cooldown": 18,
+  "slots": 15,
+  "type": "minion"
+}

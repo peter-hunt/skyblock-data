@@ -1,0 +1,11 @@
+{
+  "name": "glacite_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "defense": 125,
+  "speed": 15,
+  "mining_speed": 10,
+  "true_defense": 20,
+  "abilities": ["glacite_expert_miner", "glacite_double_defense"],
+  "type": "armor"
+}

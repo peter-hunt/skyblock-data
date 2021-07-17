@@ -1,0 +1,9 @@
+{
+  "name": "salmon_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "health": 130,
+  "defense": 55,
+  "sea_creature_chance": 1.5,
+  "type": "armor"
+}

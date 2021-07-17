@@ -1,0 +1,8 @@
+{
+  "name": "elephant_pet",
+  "rarity": "rare",
+  "category": "farming",
+  "health": 100,
+  "intelligence": 75,
+  "type": "pet"
+}

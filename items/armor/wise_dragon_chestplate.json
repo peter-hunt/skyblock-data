@@ -1,0 +1,10 @@
+{
+  "name": "wise_dragon_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 120,
+  "defense": 160,
+  "intelligence": 75,
+  "combat_skill_req": 16,
+  "type": "armor"
+}

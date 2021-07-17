@@ -1,0 +1,8 @@
+{
+  "name": "diamond_pickaxe",
+  "rarity": "uncommon",
+  "breaking_power": 4,
+  "mining_speed": 230,
+  "damage": 30,
+  "type": "pickaxe"
+}

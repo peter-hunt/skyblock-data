@@ -1,0 +1,9 @@
+{
+  "name": "rare_diamond",
+  "modifier": "reinforced",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [2500, 5000, 10000, 25000, 50000, 100000],
+  "mining_skill_req": 8,
+  "type": "reforge_stone"
+}

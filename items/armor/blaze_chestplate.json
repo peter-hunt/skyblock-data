@@ -1,0 +1,9 @@
+{
+  "name": "blaze_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "strength": 10,
+  "defense": 150,
+  "speed": 2,
+  "type": "armor"
+}

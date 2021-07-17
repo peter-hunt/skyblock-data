@@ -1,0 +1,11 @@
+{
+  "name": "young_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 100,
+  "defense": 140,
+  "speed": 20,
+  "combat_skill_req": 16,
+  "abilities": ["young_blood"],
+  "type": "armor"
+}

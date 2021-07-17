@@ -1,0 +1,9 @@
+{
+  "name": "beating_heart",
+  "modifier": "bloody",
+  "category": "accessory",
+  "rarity": "rare",
+  "cost": [750, 1500, 3650, 7500, 15000, 30000],
+  "mining_skill_req": 18,
+  "type": "reforge_stone"
+}

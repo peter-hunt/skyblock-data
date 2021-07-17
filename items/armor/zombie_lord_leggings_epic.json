@@ -1,0 +1,12 @@
+{
+  "name": "zombie_lord_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "strength": 13,
+  "health": 138,
+  "defense": 62,
+  "intelligence": 13,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

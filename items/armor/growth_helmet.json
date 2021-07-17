@@ -1,0 +1,8 @@
+{
+  "name": "growth_helmet",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 50,
+  "defense": 30,
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dolphin_pet",
+  "rarity": "epic",
+  "category": "fishing",
+  "intelligence": 100,
+  "sea_creature_chance": 5,
+  "abilities": ["epic_echolocation"],
+  "type": "pet"
+}

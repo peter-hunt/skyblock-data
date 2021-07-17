@@ -1,0 +1,8 @@
+{
+  "name": "promising_pickaxe",
+  "rarity": "uncommon",
+  "breaking_power": 2,
+  "mining_speed": 190,
+  "damage": 20,
+  "type": "pickaxe"
+}

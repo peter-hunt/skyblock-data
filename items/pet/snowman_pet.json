@@ -1,0 +1,9 @@
+{
+  "name": "snowman_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "strength": 15,
+  "crit_damage": 15,
+  "damage": 25,
+  "type": "pet"
+}

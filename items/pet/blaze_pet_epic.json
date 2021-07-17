@@ -1,0 +1,8 @@
+{
+  "name": "blaze_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "defense": 30,
+  "intelligence": 100,
+  "type": "pet"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "miners_outfit_chestplate",
+  "rarity": "uncommon",
+  "part": "chestplate",
+  "defense": 40,
+  "abilities": ["miners_outfit_haste"],
+  "type": "armor"
+}

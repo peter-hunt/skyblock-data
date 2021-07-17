@@ -1,0 +1,9 @@
+{
+  "name": "megalodon_pet",
+  "rarity": "legendary",
+  "category": "fishing",
+  "strength": 50,
+  "magic_find": 10,
+  "ferocity": 5,
+  "type": "pet"
+}

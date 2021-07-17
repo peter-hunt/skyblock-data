@@ -1,0 +1,12 @@
+{
+  "name": "zombie_lord_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "strength": 13,
+  "health": 106,
+  "defense": 47,
+  "intelligence": 13,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

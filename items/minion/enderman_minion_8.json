@@ -1,0 +1,7 @@
+{
+  "name": "enderman_minion",
+  "tier": 8,
+  "cooldown": 25,
+  "slots": 12,
+  "type": "minion"
+}

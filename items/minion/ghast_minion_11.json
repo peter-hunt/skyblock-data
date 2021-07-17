@@ -1,0 +1,7 @@
+{
+  "name": "ghast_minion",
+  "tier": 11,
+  "cooldown": 32,
+  "slots": 15,
+  "type": "minion"
+}

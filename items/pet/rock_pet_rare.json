@@ -1,0 +1,8 @@
+{
+  "name": "rock_pet",
+  "rarity": "rare",
+  "category": "mining",
+  "defense": 200,
+  "true_defense": 10,
+  "type": "pet"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "spider_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "strength": 10,
+  "crit_chance": 10,
+  "type": "pet"
+}

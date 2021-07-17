@@ -1,0 +1,7 @@
+{
+  "name": "slime_minion",
+  "tier": 10,
+  "cooldown": 16,
+  "slots": 15,
+  "type": "minion"
+}

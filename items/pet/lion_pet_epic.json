@@ -1,0 +1,10 @@
+{
+  "name": "lion_pet",
+  "rarity": "epic",
+  "category": "foraging",
+  "speed": 25,
+  "strength": 50,
+  "ferocity": 5,
+  "abilities": ["epic_primal_force"],
+  "type": "pet"
+}

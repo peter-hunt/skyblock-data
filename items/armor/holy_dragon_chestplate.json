@@ -1,0 +1,10 @@
+{
+  "name": "holy_dragon_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 180,
+  "defense": 160,
+  "combat_skill_req": 16,
+  "abilities": ["holy_blood"],
+  "type": "armor"
+}

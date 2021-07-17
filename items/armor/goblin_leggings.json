@@ -1,0 +1,9 @@
+{
+  "name": "goblin_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "defense": 125,
+  "intelligence": -1,
+  "mining_speed": 10,
+  "type": "armor"
+}

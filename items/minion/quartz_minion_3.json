@@ -1,0 +1,7 @@
+{
+  "name": "quartz_minion",
+  "tier": 3,
+  "cooldown": 21,
+  "slots": 3,
+  "type": "minion"
+}

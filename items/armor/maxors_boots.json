@@ -1,0 +1,13 @@
+{
+  "name": "maxors_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_damage": 30,
+  "health": 145,
+  "defense": 65,
+  "intelligence": 10,
+  "speed": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

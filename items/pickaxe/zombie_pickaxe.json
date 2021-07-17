@@ -1,0 +1,7 @@
+{
+  "name": "zombie_pickaxe",
+  "rarity": "common",
+  "breaking_power": 3,
+  "mining_speed": 290,
+  "type": "pickaxe"
+}

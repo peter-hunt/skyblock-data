@@ -1,0 +1,8 @@
+{
+  "name": "growth_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "health": 50,
+  "defense": 25,
+  "type": "armor"
+}

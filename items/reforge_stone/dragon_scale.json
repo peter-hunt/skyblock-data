@@ -1,0 +1,9 @@
+{
+  "name": "dragon_scale",
+  "modifier": "spiked",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [30000, 75000, 150000, 300000, 600000, 1200000],
+  "mining_skill_req": 20,
+  "type": "reforge_stone"
+}

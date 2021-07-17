@@ -1,0 +1,7 @@
+{
+  "name": "skeleton_minion",
+  "tier": 2,
+  "cooldown": 26,
+  "slots": 4,
+  "type": "minion"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redstone_minion",
+  "tier": 10,
+  "cooldown": 21,
+  "slots": 15,
+  "type": "minion"
+}

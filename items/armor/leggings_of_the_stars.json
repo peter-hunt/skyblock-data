@@ -1,0 +1,9 @@
+{
+  "name": "leggings_of_the_stars",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 15000,
+  "defense": 4000,
+  "intelligence": 1500,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "end_stone_minion",
+  "tier": 2,
+  "cooldown": 26,
+  "slots": 3,
+  "type": "minion"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "farmers_rod",
+  "rarity": "uncommon",
+  "damage": 50,
+  "strength": 20,
+  "fishing_speed": 40,
+  "fishing_skill_req": 8,
+  "type": "fishing_rod"
+}

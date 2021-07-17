@@ -1,0 +1,9 @@
+{
+  "name": "water_hydra_head",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 100,
+  "defense": 100,
+  "sea_creature_chance": 1.8,
+  "type": "armor"
+}

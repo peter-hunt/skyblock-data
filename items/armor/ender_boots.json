@@ -1,0 +1,10 @@
+{
+  "name": "ender_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 15,
+  "defense": 25,
+  "combat_skill_req": 12,
+  "abilities": ["ender_armor"],
+  "type": "armor"
+}

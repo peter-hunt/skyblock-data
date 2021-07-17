@@ -1,0 +1,10 @@
+{
+  "name": "wolf_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "health": 50,
+  "speed": 20,
+  "true_defense": 10,
+  "crit_damage": 10,
+  "type": "pet"
+}

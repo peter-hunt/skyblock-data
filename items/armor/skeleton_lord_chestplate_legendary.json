@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_lord_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "crit_chance": 3,
+  "crit_damage": 54,
+  "health": 66,
+  "defense": 129,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

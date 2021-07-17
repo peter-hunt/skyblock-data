@@ -1,0 +1,9 @@
+{
+  "name": "spiders_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "defense": 45,
+  "intelligence": 50,
+  "speed": 5,
+  "type": "armor"
+}

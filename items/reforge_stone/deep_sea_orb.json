@@ -1,0 +1,9 @@
+{
+  "name": "deep_sea_orb",
+  "modifier": "submerged",
+  "category": "armor",
+  "rarity": "epic",
+  "cost": [50000, 150000, 300000, 600000, 750000, 800000],
+  "mining_skill_req": 25,
+  "type": "reforge_stone"
+}

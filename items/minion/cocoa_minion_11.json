@@ -1,0 +1,7 @@
+{
+  "name": "cocoa_minion",
+  "tier": 11,
+  "cooldown": 15,
+  "slots": 15,
+  "type": "minion"
+}

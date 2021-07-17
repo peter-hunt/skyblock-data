@@ -1,0 +1,8 @@
+{
+  "name": "golem_armor_helmet",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 45,
+  "defense": 45,
+  "type": "armor"
+}

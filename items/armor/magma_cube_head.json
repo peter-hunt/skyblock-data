@@ -1,0 +1,8 @@
+{
+  "name": "magma_cube_head",
+  "rarity": "common",
+  "part": "helmet",
+  "health": 25,
+  "defense": 25,
+  "type": "armor"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "skeleton_pet",
+  "rarity": "rare",
+  "category": "combat",
+  "crit_chance": 15,
+  "crit_damage": 30,
+  "type": "pet"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_lord_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_chance": 3,
+  "crit_damage": 54,
+  "health": 35,
+  "defense": 71,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

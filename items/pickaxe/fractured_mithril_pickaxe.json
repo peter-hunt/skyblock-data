@@ -1,0 +1,8 @@
+{
+  "name": "fractured_mithril_pickaxe",
+  "rarity": "uncommon",
+  "breaking_power": 5,
+  "mining_speed": 200,
+  "damage": 30,
+  "type": "pickaxe"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goldors_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 190,
+  "defense": 165,
+  "intelligence": 20,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

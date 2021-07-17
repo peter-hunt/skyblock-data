@@ -1,0 +1,9 @@
+{
+  "name": "divers_mask",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 120,
+  "defense": 65,
+  "sea_creature_chance": 2,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spruce_minion",
+  "tier": 6,
+  "cooldown": 42,
+  "slots": 9,
+  "type": "minion"
+}

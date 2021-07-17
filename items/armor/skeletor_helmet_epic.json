@@ -1,0 +1,10 @@
+{
+  "name": "skeletor_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 17,
+  "defense": 28,
+  "stars": 0,
+  "dungeon_skill_req": 15,
+  "type": "armor"
+}

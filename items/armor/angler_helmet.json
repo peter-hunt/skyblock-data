@@ -1,0 +1,8 @@
+{
+  "name": "angler_helmet",
+  "rarity": "common",
+  "part": "helmet",
+  "defense": 15,
+  "sea_creature_chance": 1,
+  "type": "armor"
+}

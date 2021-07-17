@@ -1,0 +1,11 @@
+{
+  "name": "unstable_dragon_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_chance": 5,
+  "crit_damage": 15,
+  "health": 60,
+  "defense": 90,
+  "combat_skill_req": 16,
+  "type": "armor"
+}

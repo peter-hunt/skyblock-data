@@ -1,0 +1,8 @@
+{
+  "name": "sponge_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "defense": 80,
+  "sea_creature_chance": 1.8,
+  "type": "armor"
+}

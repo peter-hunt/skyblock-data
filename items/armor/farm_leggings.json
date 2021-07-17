@@ -1,0 +1,9 @@
+{
+  "name": "farm_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 20,
+  "defense": 50,
+  "abilities": ["farm_armor_speed"],
+  "type": "armor"
+}

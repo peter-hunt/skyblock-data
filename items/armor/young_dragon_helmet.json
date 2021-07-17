@@ -1,0 +1,11 @@
+{
+  "name": "young_dragon_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 70,
+  "defense": 110,
+  "speed": 20,
+  "combat_skill_req": 16,
+  "abilities": ["young_blood"],
+  "type": "armor"
+}

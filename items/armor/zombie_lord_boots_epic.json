@@ -1,0 +1,12 @@
+{
+  "name": "zombie_lord_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "strength": 13,
+  "health": 84,
+  "defense": 36,
+  "intelligence": 13,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

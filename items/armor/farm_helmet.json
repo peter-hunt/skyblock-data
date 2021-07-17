@@ -1,0 +1,9 @@
+{
+  "name": "farm_helmet",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 20,
+  "defense": 40,
+  "abilities": ["farm_armor_speed"],
+  "type": "armor"
+}

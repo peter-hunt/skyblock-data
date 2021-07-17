@@ -1,0 +1,12 @@
+{
+  "name": "zombie_lord_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "strength": 13,
+  "health": 160,
+  "defense": 73,
+  "intelligence": 13,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

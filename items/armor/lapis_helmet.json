@@ -1,0 +1,8 @@
+{
+  "name": "lapis_helmet",
+  "rarity": "uncommon",
+  "part": "helmet",
+  "defense": 25,
+  "abilities": ["lapis_armor_exp_bonus", "lapis_armor_health"],
+  "type": "armor"
+}

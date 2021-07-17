@@ -1,0 +1,8 @@
+{
+  "name": "rock_candy",
+  "modifier": "sweet",
+  "category": "accessory",
+  "rarity": "rare",
+  "cost": [20000, 40000, 80000, 150000, 300000, 600000],
+  "type": "reforge_stone"
+}

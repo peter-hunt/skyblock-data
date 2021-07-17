@@ -1,0 +1,8 @@
+{
+  "name": "mithril_pickaxe",
+  "rarity": "uncommon",
+  "breaking_power": 5,
+  "mining_speed": 280,
+  "damage": 40,
+  "type": "pickaxe"
+}

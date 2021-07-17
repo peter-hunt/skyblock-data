@@ -1,0 +1,8 @@
+{
+  "name": "jerry_pet",
+  "rarity": "mythic",
+  "category": "combat",
+  "intelligence": -100,
+  "abilities": ["jerry_damage"],
+  "type": "pet"
+}

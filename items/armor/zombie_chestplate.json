@@ -1,0 +1,8 @@
+{
+  "name": "zombie_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 200,
+  "defense": 40,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enderman_pet",
+  "rarity": "rare",
+  "category": "combat",
+  "crit_damage": 75,
+  "type": "pet"
+}

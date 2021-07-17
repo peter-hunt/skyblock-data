@@ -1,0 +1,8 @@
+{
+  "name": "golem_armor_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 55,
+  "defense": 75,
+  "type": "armor"
+}

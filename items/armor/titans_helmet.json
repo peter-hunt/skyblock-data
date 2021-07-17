@@ -1,0 +1,10 @@
+{
+  "name": "titans_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 10,
+  "health": 150,
+  "defense": 100,
+  "intelligence": 50,
+  "type": "armor"
+}

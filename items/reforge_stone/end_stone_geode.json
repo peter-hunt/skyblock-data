@@ -1,0 +1,9 @@
+{
+  "name": "end_stone_geode",
+  "modifier": "warped",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [5000, 10000, 20000, 50000, 100000, 200000],
+  "mining_skill_req": 24,
+  "type": "reforge_stone"
+}

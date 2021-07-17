@@ -1,0 +1,8 @@
+{
+  "name": "phoenix_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "intelligence": 50,
+  "strength": 10,
+  "type": "pet"
+}

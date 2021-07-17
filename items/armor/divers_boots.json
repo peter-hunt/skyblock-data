@@ -1,0 +1,9 @@
+{
+  "name": "divers_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 60,
+  "defense": 110,
+  "sea_creature_chance": 2,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "diamond_minion",
+  "tier": 6,
+  "cooldown": 25,
+  "slots": 9,
+  "type": "minion"
+}

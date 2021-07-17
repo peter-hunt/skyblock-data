@@ -1,0 +1,9 @@
+{
+  "name": "cactus_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "health": 15,
+  "defense": 25,
+  "abilities": ["deflect"],
+  "type": "armor"
+}

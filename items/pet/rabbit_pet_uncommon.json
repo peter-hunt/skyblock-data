@@ -1,0 +1,8 @@
+{
+  "name": "rabbit_pet",
+  "rarity": "uncommon",
+  "category": "farming",
+  "health": 100,
+  "speed": 20,
+  "type": "pet"
+}

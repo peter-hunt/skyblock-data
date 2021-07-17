@@ -1,0 +1,7 @@
+{
+  "name": "cactus_minion",
+  "tier": 7,
+  "cooldown": 21,
+  "slots": 8,
+  "type": "minion"
+}

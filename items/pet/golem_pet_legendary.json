@@ -1,0 +1,8 @@
+{
+  "name": "golem_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "health": 150,
+  "strength": 50,
+  "type": "pet"
+}

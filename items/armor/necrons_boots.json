@@ -1,0 +1,13 @@
+{
+  "name": "necrons_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 40,
+  "crit_damage": 30,
+  "health": 145,
+  "defense": 80,
+  "intelligence": 10,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

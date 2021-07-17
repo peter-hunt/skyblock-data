@@ -1,0 +1,11 @@
+{
+  "name": "strong_dragon_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 25,
+  "health": 60,
+  "defense": 90,
+  "combat_skill_req": 16,
+  "abilities": ["strong_blood"],
+  "type": "armor"
+}

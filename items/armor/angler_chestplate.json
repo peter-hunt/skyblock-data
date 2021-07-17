@@ -1,0 +1,8 @@
+{
+  "name": "angler_chestplate",
+  "rarity": "common",
+  "part": "chestplate",
+  "defense": 40,
+  "sea_creature_chance": 1,
+  "type": "armor"
+}

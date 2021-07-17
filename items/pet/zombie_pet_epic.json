@@ -1,0 +1,8 @@
+{
+  "name": "zombie_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "health": 100,
+  "crit_damage": 30,
+  "type": "pet"
+}

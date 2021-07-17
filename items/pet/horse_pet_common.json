@@ -1,0 +1,8 @@
+{
+  "name": "horse_pet",
+  "rarity": "common",
+  "category": "combat",
+  "speed": 25,
+  "intelligence": 50,
+  "type": "pet"
+}

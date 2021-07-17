@@ -1,0 +1,8 @@
+{
+  "name": "blobfish_hat",
+  "rarity": "common",
+  "part": "helmet",
+  "strength": 25,
+  "intelligence": -10,
+  "type": "armor"
+}

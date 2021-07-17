@@ -1,0 +1,8 @@
+{
+  "name": "guardian_pet",
+  "rarity": "epic",
+  "category": "enchanting",
+  "defense": 50,
+  "intelligence": 100,
+  "type": "pet"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "young_dragon_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 120,
+  "defense": 160,
+  "speed": 20,
+  "combat_skill_req": 16,
+  "abilities": ["young_blood"],
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "super_heavy_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "defense": 78,
+  "speed": -10,
+  "stars": 0,
+  "dungeon_skill_req": 15,
+  "type": "armor"
+}

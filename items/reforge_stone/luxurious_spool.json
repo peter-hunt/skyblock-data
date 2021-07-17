@@ -1,0 +1,9 @@
+{
+  "name": "luxurious_spool",
+  "modifier": "silky",
+  "category": "accessory",
+  "rarity": "rare",
+  "cost": [250, 500, 1000, 2500, 5000, 10000],
+  "mining_skill_req": 6,
+  "type": "reforge_stone"
+}

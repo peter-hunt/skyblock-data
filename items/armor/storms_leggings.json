@@ -1,0 +1,11 @@
+{
+  "name": "storms_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 230,
+  "defense": 105,
+  "intelligence": 250,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

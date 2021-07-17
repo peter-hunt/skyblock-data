@@ -1,0 +1,7 @@
+{
+  "name": "rabbit_minion",
+  "tier": 1,
+  "cooldown": 26,
+  "slots": 3,
+  "type": "minion"
+}

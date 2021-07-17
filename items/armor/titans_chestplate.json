@@ -1,0 +1,10 @@
+{
+  "name": "titans_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 20,
+  "health": 300,
+  "defense": 200,
+  "intelligence": 75,
+  "type": "armor"
+}

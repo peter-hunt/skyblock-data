@@ -1,0 +1,10 @@
+{
+  "name": "ender_dragon_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "strength": 50,
+  "crit_chance": 10,
+  "crit_damage": 50,
+  "abilities": ["one_with_the_dragons", "superior"],
+  "type": "pet"
+}

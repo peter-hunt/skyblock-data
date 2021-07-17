@@ -1,0 +1,13 @@
+{
+  "name": "shadow_assassin_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "strength": 25,
+  "crit_damage": 25,
+  "health": 210,
+  "defense": 95,
+  "speed": 7,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "armor"
+}

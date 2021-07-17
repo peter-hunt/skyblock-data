@@ -1,0 +1,7 @@
+{
+  "name": "jungle_axe",
+  "rarity": "uncommon",
+  "tool_speed": 2,
+  "abilities": ["jungle_axe"],
+  "type": "axe"
+}

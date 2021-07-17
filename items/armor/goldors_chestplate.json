@@ -1,0 +1,11 @@
+{
+  "name": "goldors_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 310,
+  "defense": 275,
+  "intelligence": 20,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

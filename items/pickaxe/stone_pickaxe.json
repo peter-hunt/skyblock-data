@@ -1,0 +1,8 @@
+{
+  "name": "stone_pickaxe",
+  "rarity": "common",
+  "breaking_power": 2,
+  "mining_speed": 110,
+  "damage": 20,
+  "type": "pickaxe"
+}

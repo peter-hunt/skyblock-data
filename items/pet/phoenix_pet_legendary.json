@@ -1,0 +1,9 @@
+{
+  "name": "phoenix_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "intelligence": 50,
+  "strength": 10,
+  "abilities": ["eternal_coins"],
+  "type": "pet"
+}

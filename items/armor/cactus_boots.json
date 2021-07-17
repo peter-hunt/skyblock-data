@@ -1,0 +1,9 @@
+{
+  "name": "cactus_boots",
+  "rarity": "common",
+  "part": "boots",
+  "health": 5,
+  "defense": 10,
+  "abilities": ["deflect"],
+  "type": "armor"
+}

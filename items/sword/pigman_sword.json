@@ -1,0 +1,10 @@
+{
+  "name": "pigman_sword",
+  "rarity": "legendary",
+  "damage": 220,
+  "strength": 100,
+  "crit_chance": 5,
+  "crit_damage": 30,
+  "intelligence": 300,
+  "type": "sword"
+}

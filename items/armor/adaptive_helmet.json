@@ -1,0 +1,12 @@
+{
+  "name": "adaptive_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "strength": 15,
+  "health": 110,
+  "defense": 50,
+  "intelligence": 15,
+  "stars": 0,
+  "dungeon_completion_req": 3,
+  "type": "armor"
+}

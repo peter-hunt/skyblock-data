@@ -1,0 +1,8 @@
+{
+  "name": "zombie_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 120,
+  "defense": 25,
+  "type": "armor"
+}

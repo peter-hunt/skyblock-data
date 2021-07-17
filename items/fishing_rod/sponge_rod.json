@@ -1,0 +1,9 @@
+{
+  "name": "sponge_rod",
+  "rarity": "common",
+  "damage": 20,
+  "strength": 15,
+  "fishing_speed": 20,
+  "fishing_skill_req": 5,
+  "type": "fishing_rod"
+}

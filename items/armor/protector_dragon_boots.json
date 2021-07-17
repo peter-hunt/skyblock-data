@@ -1,0 +1,10 @@
+{
+  "name": "protector_dragon_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 60,
+  "defense": 115,
+  "combat_skill_req": 16,
+  "abilities": ["protective_blood"],
+  "type": "armor"
+}

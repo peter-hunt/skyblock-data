@@ -1,0 +1,10 @@
+{
+  "name": "wise_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 100,
+  "defense": 140,
+  "intelligence": 75,
+  "combat_skill_req": 16,
+  "type": "armor"
+}

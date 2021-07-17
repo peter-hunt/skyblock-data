@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_lord_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "crit_chance": 3,
+  "crit_damage": 54,
+  "health": 39,
+  "defense": 119,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "monkey_pet",
+  "rarity": "legendary",
+  "category": "foraging",
+  "speed": 20,
+  "intelligence": 50,
+  "abilities": ["epic_vine_swing", "evolves_axes"],
+  "type": "pet"
+}

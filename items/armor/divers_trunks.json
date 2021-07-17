@@ -1,0 +1,9 @@
+{
+  "name": "divers_trunks",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 75,
+  "defense": 170,
+  "sea_creature_chance": 2,
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "speedster_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "defense": 95,
+  "speed": 15,
+  "abilities": ["speester_bonus"],
+  "type": "armor"
+}

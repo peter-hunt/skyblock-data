@@ -1,0 +1,10 @@
+{
+  "name": "sorrow_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "magic_find": 10,
+  "mining_speed": 50,
+  "mining_fortune": 20,
+  "true_defense": 100,
+  "type": "armor"
+}

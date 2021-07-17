@@ -1,0 +1,10 @@
+{
+  "name": "sorrow_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "magic_find": 10,
+  "mining_speed": 50,
+  "mining_fortune": 20,
+  "true_defense": 150,
+  "type": "armor"
+}

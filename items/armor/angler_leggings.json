@@ -1,0 +1,8 @@
+{
+  "name": "angler_leggings",
+  "rarity": "common",
+  "part": "leggings",
+  "defense": 30,
+  "sea_creature_chance": 1,
+  "type": "armor"
+}

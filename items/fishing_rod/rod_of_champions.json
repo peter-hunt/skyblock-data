@@ -1,0 +1,10 @@
+{
+  "name": "rod_of_champions",
+  "rarity": "rare",
+  "damage": 90,
+  "strength": 80,
+  "fishing_speed": 60,
+  "sea_creature_chance": 4,
+  "fishing_skill_req": 15,
+  "type": "fishing_rod"
+}

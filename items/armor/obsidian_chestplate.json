@@ -1,0 +1,8 @@
+{
+  "name": "obsidian_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "defense": 250,
+  "combat_skill_req": 14,
+  "type": "armor"
+}

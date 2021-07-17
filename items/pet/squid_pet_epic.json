@@ -1,0 +1,8 @@
+{
+  "name": "squid_pet",
+  "rarity": "epic",
+  "category": "fishing",
+  "health": 50,
+  "intelligence": 50,
+  "type": "pet"
+}

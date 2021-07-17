@@ -1,0 +1,10 @@
+{
+  "name": "zombie_commander_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 134,
+  "defense": 50,
+  "stars": 0,
+  "dungeon_skill_req": 18,
+  "type": "armor"
+}

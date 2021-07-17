@@ -1,0 +1,7 @@
+{
+  "name": "glowstone_minion",
+  "tier": 5,
+  "cooldown": 21,
+  "slots": 6,
+  "type": "minion"
+}

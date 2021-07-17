@@ -1,0 +1,9 @@
+{
+  "name": "helmet_of_the_stars",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 10000,
+  "defense": 3000,
+  "intelligence": 1000,
+  "type": "armor"
+}

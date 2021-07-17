@@ -1,0 +1,9 @@
+{
+  "name": "ranchers_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "health": 100,
+  "defense": 70,
+  "speed": 50,
+  "type": "armor"
+}

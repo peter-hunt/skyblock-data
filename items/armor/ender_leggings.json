@@ -1,0 +1,10 @@
+{
+  "name": "ender_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 25,
+  "defense": 50,
+  "combat_skill_req": 12,
+  "abilities": ["ender_armor"],
+  "type": "armor"
+}

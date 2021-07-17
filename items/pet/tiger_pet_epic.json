@@ -1,0 +1,11 @@
+{
+  "name": "tiger_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "strength": 15,
+  "crit_chance": 5,
+  "crit_damage": 50,
+  "ferocity": 25,
+  "abilities": ["uncommon_merciless_swipe"],
+  "type": "pet"
+}

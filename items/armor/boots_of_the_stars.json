@@ -1,0 +1,9 @@
+{
+  "name": "boots_of_the_stars",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 7500,
+  "defense": 2500,
+  "intelligence": 1000,
+  "type": "armor"
+}

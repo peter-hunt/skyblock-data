@@ -1,0 +1,9 @@
+{
+  "name": "goblin_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "defense": 60,
+  "intelligence": -1,
+  "mining_speed": 10,
+  "type": "armor"
+}

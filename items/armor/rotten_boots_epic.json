@@ -1,0 +1,9 @@
+{
+  "name": "rotten_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "defense": 22.5,
+  "stars": 0,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

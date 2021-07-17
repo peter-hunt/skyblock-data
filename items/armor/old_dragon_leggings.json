@@ -1,0 +1,10 @@
+{
+  "name": "old_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 130,
+  "defense": 140,
+  "combat_skill_req": 16,
+  "abilities": ["old_blood"],
+  "type": "armor"
+}

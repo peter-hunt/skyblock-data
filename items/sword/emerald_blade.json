@@ -1,0 +1,7 @@
+{
+  "name": "emerald_blade",
+  "rarity": "epic",
+  "damage": 130,
+  "abilities": ["pure_emerald"],
+  "type": "sword"
+}

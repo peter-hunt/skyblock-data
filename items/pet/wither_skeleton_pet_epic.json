@@ -1,0 +1,11 @@
+{
+  "name": "wither_skeleton_pet",
+  "rarity": "epic",
+  "category": "mining",
+  "defense": 25,
+  "intelligence": 25,
+  "strength": 25,
+  "crit_chance": 5,
+  "crit_damage": 25,
+  "type": "pet"
+}

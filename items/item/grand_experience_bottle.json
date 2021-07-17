@@ -1,0 +1,7 @@
+{
+  "name": "grand_experience_bottle",
+  "count": 64,
+  "rarity": "uncommon",
+  "abilities": ["exp_bottle"],
+  "type": "item"
+}

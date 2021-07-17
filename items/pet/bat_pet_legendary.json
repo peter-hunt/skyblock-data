@@ -1,0 +1,8 @@
+{
+  "name": "bat_pet",
+  "rarity": "legendary",
+  "category": "mining",
+  "speed": 5,
+  "intelligence": 100,
+  "type": "pet"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wooden_pickaxe",
+  "rarity": "common",
+  "breaking_power": 1,
+  "mining_speed": 70,
+  "damage": 20,
+  "type": "pickaxe"
+}

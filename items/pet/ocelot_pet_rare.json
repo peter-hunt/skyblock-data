@@ -1,0 +1,8 @@
+{
+  "name": "ocelot_pet",
+  "rarity": "rare",
+  "category": "foraging",
+  "speed": 50,
+  "ferocity": 10,
+  "type": "pet"
+}

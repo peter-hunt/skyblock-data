@@ -1,0 +1,7 @@
+{
+  "name": "jerry_pet",
+  "rarity": "common",
+  "category": "combat",
+  "intelligence": -100,
+  "type": "pet"
+}

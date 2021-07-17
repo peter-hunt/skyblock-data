@@ -1,0 +1,8 @@
+{
+  "name": "guardian_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 20,
+  "defense": 50,
+  "type": "armor"
+}

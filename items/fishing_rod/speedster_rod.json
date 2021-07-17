@@ -1,0 +1,9 @@
+{
+  "name": "speedster_rod",
+  "rarity": "uncommon",
+  "damage": 30,
+  "strength": 15,
+  "fishing_speed": 30,
+  "fishing_skill_req": 6,
+  "type": "fishing_rod"
+}

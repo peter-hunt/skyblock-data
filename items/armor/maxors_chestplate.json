@@ -1,0 +1,13 @@
+{
+  "name": "maxors_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "crit_damage": 30,
+  "health": 260,
+  "defense": 120,
+  "intelligence": 10,
+  "speed": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

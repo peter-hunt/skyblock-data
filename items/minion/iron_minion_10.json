@@ -1,0 +1,7 @@
+{
+  "name": "iron_minion",
+  "tier": 10,
+  "cooldown": 10,
+  "slots": 15,
+  "type": "minion"
+}

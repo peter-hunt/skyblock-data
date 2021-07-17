@@ -1,0 +1,9 @@
+{
+  "name": "prismarine_rod",
+  "rarity": "common",
+  "damage": 15,
+  "strength": 10,
+  "fishing_speed": 10,
+  "fishing_skill_req": 3,
+  "type": "fishing_rod"
+}

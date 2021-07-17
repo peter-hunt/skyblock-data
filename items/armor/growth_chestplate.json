@@ -1,0 +1,8 @@
+{
+  "name": "growth_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 100,
+  "defense": 50,
+  "type": "armor"
+}

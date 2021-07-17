@@ -1,0 +1,7 @@
+{
+  "name": "blue_whale_pet",
+  "rarity": "common",
+  "category": "fishing",
+  "health": 200,
+  "type": "pet"
+}

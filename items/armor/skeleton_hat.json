@@ -1,0 +1,8 @@
+{
+  "name": "skeleton_hat",
+  "rarity": "common",
+  "part": "helmet",
+  "intelligence": 10,
+  "speed": 2,
+  "type": "armor"
+}

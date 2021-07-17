@@ -1,0 +1,10 @@
+{
+  "name": "titans_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "strength": 15,
+  "health": 200,
+  "defense": 175,
+  "intelligence": 50,
+  "type": "armor"
+}

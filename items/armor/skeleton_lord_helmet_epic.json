@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_lord_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "crit_chance": 2,
+  "crit_damage": 36,
+  "health": 26,
+  "defense": 53,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

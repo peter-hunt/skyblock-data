@@ -1,0 +1,15 @@
+{
+  "name": "superior_dragon_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 10,
+  "crit_chance": 2,
+  "crit_damage": 10,
+  "health": 80,
+  "defense": 110,
+  "intelligence": 25,
+  "speed": 3,
+  "combat_skill_req": 20,
+  "abilities": ["superior_blood"],
+  "type": "armor"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "monkey_pet",
+  "rarity": "common",
+  "category": "foraging",
+  "speed": 20,
+  "intelligence": 50,
+  "type": "pet"
+}

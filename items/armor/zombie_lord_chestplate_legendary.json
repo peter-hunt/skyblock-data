@@ -1,0 +1,12 @@
+{
+  "name": "zombie_lord_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 20,
+  "health": 240,
+  "defense": 110,
+  "intelligence": 20,
+  "stars": 0,
+  "dungeon_skill_req": 25,
+  "type": "armor"
+}

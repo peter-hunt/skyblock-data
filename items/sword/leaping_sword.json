@@ -1,0 +1,8 @@
+{
+  "name": "leaping_sword",
+  "rarity": "epic",
+  "damage": 150,
+  "strength": 100,
+  "crit_damage": 25,
+  "type": "sword"
+}

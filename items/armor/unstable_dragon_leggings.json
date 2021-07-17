@@ -1,0 +1,11 @@
+{
+  "name": "unstable_dragon_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "crit_chance": 5,
+  "crit_damage": 15,
+  "health": 100,
+  "defense": 140,
+  "combat_skill_req": 16,
+  "type": "armor"
+}

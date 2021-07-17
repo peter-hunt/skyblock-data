@@ -1,0 +1,10 @@
+{
+  "name": "zombie_soldier_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 165,
+  "defense": 201,
+  "stars": 0,
+  "dungeon_skill_req": 9,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian_minion",
+  "tier": 11,
+  "cooldown": 24,
+  "slots": 15,
+  "type": "minion"
+}

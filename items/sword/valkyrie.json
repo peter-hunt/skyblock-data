@@ -1,0 +1,11 @@
+{
+  "name": "valkyrie",
+  "rarity": "legendary",
+  "damage": 270,
+  "strength": 145,
+  "intelligence": 60,
+  "ferocity": 60,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "sword"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sponge_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "defense": 60,
+  "sea_creature_chance": 1.8,
+  "type": "armor"
+}

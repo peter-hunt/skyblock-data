@@ -1,0 +1,11 @@
+{
+  "name": "wither_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 250,
+  "defense": 220,
+  "intelligence": 10,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

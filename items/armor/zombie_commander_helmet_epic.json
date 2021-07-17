@@ -1,0 +1,10 @@
+{
+  "name": "zombie_commander_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 114,
+  "defense": 37,
+  "stars": 0,
+  "dungeon_skill_req": 18,
+  "type": "armor"
+}

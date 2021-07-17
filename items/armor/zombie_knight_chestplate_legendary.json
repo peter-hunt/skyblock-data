@@ -1,0 +1,11 @@
+{
+  "name": "zombie_knight_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 50,
+  "defense": 242,
+  "speed": 11,
+  "stars": 0,
+  "dungeon_skill_req": 24,
+  "type": "armor"
+}

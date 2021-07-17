@@ -1,0 +1,13 @@
+{
+  "name": "shadow_assassin_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "strength": 25,
+  "crit_damage": 25,
+  "health": 125,
+  "defense": 55,
+  "speed": 7,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "armor"
+}

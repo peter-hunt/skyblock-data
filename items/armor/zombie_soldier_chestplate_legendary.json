@@ -1,0 +1,10 @@
+{
+  "name": "zombie_soldier_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 188,
+  "defense": 230,
+  "stars": 0,
+  "dungeon_skill_req": 9,
+  "type": "armor"
+}

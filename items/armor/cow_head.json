@@ -1,0 +1,8 @@
+{
+  "name": "cow_head",
+  "rarity": "common",
+  "part": "helmet",
+  "health": 15,
+  "defense": 5,
+  "type": "armor"
+}

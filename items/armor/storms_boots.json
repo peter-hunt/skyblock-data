@@ -1,0 +1,11 @@
+{
+  "name": "storms_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 145,
+  "defense": 65,
+  "intelligence": 250,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chicken_pet",
+  "rarity": "legendary",
+  "category": "farming",
+  "health": 200,
+  "type": "pet"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "old_dragon_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 110,
+  "defense": 90,
+  "combat_skill_req": 16,
+  "abilities": ["old_blood"],
+  "type": "armor"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "giants_sword",
+  "rarity": "legendary",
+  "damage": 500,
+  "stars": 0,
+  "dungeon_completion_req": 6,
+  "type": "sword"
+}

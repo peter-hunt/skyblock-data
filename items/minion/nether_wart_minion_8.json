@@ -1,0 +1,7 @@
+{
+  "name": "nether_wart_minion",
+  "tier": 8,
+  "cooldown": 41,
+  "slots": 12,
+  "type": "minion"
+}

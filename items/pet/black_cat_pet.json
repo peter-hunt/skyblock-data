@@ -1,0 +1,9 @@
+{
+  "name": "black_cat_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "speed": 25,
+  "intelligence": 100,
+  "abilities": ["omen", "supernatural", "hunter"],
+  "type": "pet"
+}

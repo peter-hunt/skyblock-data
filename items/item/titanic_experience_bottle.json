@@ -1,0 +1,7 @@
+{
+  "name": "titanic_experience_bottle",
+  "count": 64,
+  "rarity": "rare",
+  "abilities": ["exp_bottle"],
+  "type": "item"
+}

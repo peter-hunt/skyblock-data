@@ -1,0 +1,11 @@
+{
+  "name": "griffin_pet",
+  "rarity": "uncommon",
+  "category": "combat",
+  "intelligence": 10,
+  "strength": 25,
+  "crit_chance": 10,
+  "crit_damage": 50,
+  "magic_find": 10,
+  "type": "pet"
+}

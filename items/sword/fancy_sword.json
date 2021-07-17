@@ -1,0 +1,12 @@
+{
+  "name": "fancy_sword",
+  "rarity": "common",
+  "damage": 30,
+  "enchantments": {
+    "first_strike": 1,
+    "scavenger": 1,
+    "sharpness": 2,
+    "vampirism": 1
+  },
+  "type": "sword"
+}

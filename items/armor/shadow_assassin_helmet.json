@@ -1,0 +1,13 @@
+{
+  "name": "shadow_assassin_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "strength": 25,
+  "crit_damage": 25,
+  "health": 160,
+  "defense": 70,
+  "speed": 7,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "armor"
+}

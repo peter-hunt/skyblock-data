@@ -1,0 +1,10 @@
+{
+  "name": "protector_dragon_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 120,
+  "defense": 185,
+  "combat_skill_req": 16,
+  "abilities": ["protective_blood"],
+  "type": "armor"
+}

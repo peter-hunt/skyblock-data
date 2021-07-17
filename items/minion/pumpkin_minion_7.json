@@ -1,0 +1,7 @@
+{
+  "name": "pumpkin_minion",
+  "tier": 7,
+  "cooldown": 24,
+  "slots": 8,
+  "type": "minion"
+}

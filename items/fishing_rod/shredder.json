@@ -1,0 +1,9 @@
+{
+  "name": "shredder",
+  "rarity": "legendary",
+  "damage": 120,
+  "ferocity": 50,
+  "fishing_speed": 75,
+  "fishing_skill_req": 20,
+  "type": "fishing_rod"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "scylla",
+  "rarity": "legendary",
+  "damage": 270,
+  "strength": 150,
+  "crit_chance": 12,
+  "crit_damage": 35,
+  "intelligence": 50,
+  "ferocity": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "sword"
+}

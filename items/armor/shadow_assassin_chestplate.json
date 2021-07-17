@@ -1,0 +1,13 @@
+{
+  "name": "shadow_assassin_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "strength": 25,
+  "crit_damage": 25,
+  "health": 240,
+  "defense": 110,
+  "speed": 7,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rotten_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 112,
+  "defense": 15,
+  "stars": 0,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

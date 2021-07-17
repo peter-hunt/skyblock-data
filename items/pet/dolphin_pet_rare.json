@@ -1,0 +1,9 @@
+{
+  "name": "dolphin_pet",
+  "rarity": "rare",
+  "category": "fishing",
+  "intelligence": 100,
+  "sea_creature_chance": 5,
+  "abilities": ["rare_echolocation"],
+  "type": "pet"
+}

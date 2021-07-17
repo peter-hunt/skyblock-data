@@ -1,0 +1,11 @@
+{
+  "name": "necromancer_lord_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 180,
+  "defense": 150,
+  "intelligence": 10,
+  "stars": 0,
+  "dungeon_completion_req": 6,
+  "type": "armor"
+}

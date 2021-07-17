@@ -1,0 +1,13 @@
+{
+  "name": "necrons_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 40,
+  "crit_damage": 30,
+  "health": 180,
+  "defense": 100,
+  "intelligence": 30,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "armor"
+}

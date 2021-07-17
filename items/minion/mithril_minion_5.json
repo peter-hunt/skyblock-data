@@ -1,0 +1,7 @@
+{
+  "name": "mithril_minion",
+  "tier": 5,
+  "cooldown": 70,
+  "slots": 6,
+  "type": "minion"
+}

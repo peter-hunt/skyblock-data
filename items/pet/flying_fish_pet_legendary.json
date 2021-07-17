@@ -1,0 +1,8 @@
+{
+  "name": "flying_fish_pet",
+  "rarity": "legendary",
+  "category": "fishing",
+  "health": 40,
+  "defense": 40,
+  "type": "pet"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "farmer_boots",
+  "rarity": "uncommon",
+  "part": "boots",
+  "health": 40,
+  "defense": 20,
+  "speed": 10,
+  "type": "armor"
+}

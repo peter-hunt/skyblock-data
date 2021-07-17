@@ -1,0 +1,8 @@
+{
+  "name": "lapis_chestplate",
+  "rarity": "uncommon",
+  "part": "chestplate",
+  "defense": 40,
+  "abilities": ["lapis_armor_exp_bonus", "lapis_armor_health"],
+  "type": "armor"
+}

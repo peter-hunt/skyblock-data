@@ -1,0 +1,7 @@
+{
+  "name": "flint_minion",
+  "tier": 6,
+  "cooldown": 22,
+  "slots": 9,
+  "type": "minion"
+}

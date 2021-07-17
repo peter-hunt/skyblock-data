@@ -1,0 +1,8 @@
+{
+  "name": "squid_boots",
+  "rarity": "uncommon",
+  "part": "boots",
+  "health": 100,
+  "sea_creature_chance": 1.5,
+  "type": "armor"
+}

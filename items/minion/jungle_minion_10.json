@@ -1,0 +1,7 @@
+{
+  "name": "jungle_minion",
+  "tier": 10,
+  "cooldown": 33,
+  "slots": 15,
+  "type": "minion"
+}

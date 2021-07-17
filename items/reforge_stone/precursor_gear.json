@@ -1,0 +1,9 @@
+{
+  "name": "precursor_gear",
+  "modifier": "ancient",
+  "category": "armor",
+  "rarity": "epic",
+  "cost": [10000, 20000, 30000, 40000, 50000, 60000],
+  "mining_skill_req": 30,
+  "type": "reforge_stone"
+}
