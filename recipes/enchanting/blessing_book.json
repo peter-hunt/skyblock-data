@@ -1,0 +1,25 @@
+{
+  "name": "blessing_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "enchanted_pufferfish",
+      "count": 8
+    },
+    {
+      "name": "gold_block",
+      "count": 64
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "blessing": 4
+    }
+  },
+  "collection_req": ["prismarine_crystals", 7]
+}

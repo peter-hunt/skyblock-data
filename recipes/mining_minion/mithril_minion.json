@@ -1,0 +1,18 @@
+{
+  "name": "mithril_minion",
+  "category": "mining",
+  "recipes": [
+    "mithril_minion_1",
+    "mithril_minion_2",
+    "mithril_minion_3",
+    "mithril_minion_4",
+    "mithril_minion_5",
+    "mithril_minion_6",
+    "mithril_minion_7",
+    "mithril_minion_8",
+    "mithril_minion_9",
+    "mithril_minion_10",
+    "mithril_minion_11"
+  ],
+  "collection_req": ["mithril", 1]
+}

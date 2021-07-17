@@ -1,0 +1,19 @@
+{
+  "name": "creeper_minion_11",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "creeper_minion",
+      "tier": 10
+    },
+    {
+      "name": "enchanted_firework_rocket",
+      "count": 16
+    }
+  ],
+  "result": {
+    "name": "creeper_minion",
+    "tier": 11
+  },
+  "collection_req": ["gunpowder", 1]
+}

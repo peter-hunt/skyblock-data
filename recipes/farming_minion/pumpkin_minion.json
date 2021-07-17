@@ -1,0 +1,18 @@
+{
+  "name": "pumpkin_minion",
+  "category": "farming",
+  "recipes": [
+    "pumpkin_minion_1",
+    "pumpkin_minion_2",
+    "pumpkin_minion_3",
+    "pumpkin_minion_4",
+    "pumpkin_minion_5",
+    "pumpkin_minion_6",
+    "pumpkin_minion_7",
+    "pumpkin_minion_8",
+    "pumpkin_minion_9",
+    "pumpkin_minion_10",
+    "pumpkin_minion_11"
+  ],
+  "collection_req": ["pumpkin", 1]
+}

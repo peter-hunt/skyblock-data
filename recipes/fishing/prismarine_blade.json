@@ -1,0 +1,17 @@
+{
+  "name": "prismarine_blade",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "prismarine_shard",
+      "count": 64
+    },
+    {
+      "name": "stick"
+    }
+  ],
+  "result": {
+    "name": "prismarine_blade"
+  },
+  "collection_req": ["prismarine_shard", 2]
+}

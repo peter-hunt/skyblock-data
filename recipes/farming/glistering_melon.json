@@ -1,0 +1,16 @@
+{
+  "name": "glistering_melon",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "melon"
+    },
+    {
+      "name": "gold_nugget",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "glistering_melon"
+  }
+}

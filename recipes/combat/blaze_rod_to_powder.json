@@ -1,0 +1,13 @@
+{
+  "name": "blaze_rod_to_powder",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "blaze_rod"
+    }
+  ],
+  "result": {
+    "name": "blaze_powder",
+    "count": 2
+  }
+}

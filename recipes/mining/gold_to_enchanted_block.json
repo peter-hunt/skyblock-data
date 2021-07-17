@@ -1,0 +1,14 @@
+{
+  "name": "gold_to_enchanted_block",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_gold",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_gold_block"
+  },
+  "collection_req": ["gold", 7]
+}

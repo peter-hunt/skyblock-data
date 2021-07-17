@@ -1,0 +1,19 @@
+{
+  "name": "magma_cube_minion_9",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "magma_cube_minion",
+      "tier": 8
+    },
+    {
+      "name": "enchanted_magma_cream",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "magma_cube_minion",
+    "tier": 9
+  },
+  "collection_req": ["magma_cream", 1]
+}

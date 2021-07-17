@@ -1,0 +1,25 @@
+{
+  "name": "frail_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "pufferfish",
+      "count": 64
+    },
+    {
+      "name": "lily_pad",
+      "count": 40
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "frail": 4
+    }
+  },
+  "collection_req": ["clay", 4]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sorrow_leggings",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "sorrow",
+      "count": 21
+    }
+  ],
+  "result": {
+    "name": "sorrow_leggings"
+  }
+}

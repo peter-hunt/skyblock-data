@@ -1,0 +1,18 @@
+{
+  "name": "emerald_minion",
+  "category": "mining",
+  "recipes": [
+    "emerald_minion_1",
+    "emerald_minion_2",
+    "emerald_minion_3",
+    "emerald_minion_4",
+    "emerald_minion_5",
+    "emerald_minion_6",
+    "emerald_minion_7",
+    "emerald_minion_8",
+    "emerald_minion_9",
+    "emerald_minion_10",
+    "emerald_minion_11"
+  ],
+  "collection_req": ["emerald", 1]
+}

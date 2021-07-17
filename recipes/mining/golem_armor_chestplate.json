@@ -1,0 +1,14 @@
+{
+  "name": "golem_armor_chestplate",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_iron",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "golem_armor_chestplate"
+  },
+  "collection_req": ["iron", 6]
+}

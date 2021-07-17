@@ -1,0 +1,11 @@
+{
+  "name": "miners_outfit_armor",
+  "category": "mining",
+  "recipes": [
+    "miners_outfit_helmet",
+    "miners_outfit_chestplate",
+    "miners_outfit_leggings",
+    "miners_outfit_boots"
+  ],
+  "collection_req": ["cobblestone", 7]
+}

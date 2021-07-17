@@ -1,0 +1,14 @@
+{
+  "name": "sponge_leggings",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "enchanted_wet_sponge",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "sponge_leggings"
+  },
+  "collection_req": ["sponge", 9]
+}

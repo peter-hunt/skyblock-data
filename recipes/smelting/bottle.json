@@ -1,0 +1,14 @@
+{
+  "name": "bottle",
+  "category": "smelting",
+  "ingredients": [
+    {
+      "name": "glass",
+      "count": 3
+    }
+  ],
+  "result": {
+    "name": "bottle",
+    "count": 3
+  }
+}

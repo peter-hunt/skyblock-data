@@ -1,0 +1,14 @@
+{
+  "name": "speed_talisman",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "sugar_cane",
+      "count": 108
+    }
+  ],
+  "result": {
+    "name": "speed_talisman"
+  },
+  "collection_req": ["sugar_cane", 2]
+}

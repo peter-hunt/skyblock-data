@@ -1,0 +1,19 @@
+{
+  "name": "wheat_minion_9",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "wheat_minion",
+      "tier": 8
+    },
+    {
+      "name": "enchanted_hay_bale",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "wheat_minion",
+    "tier": 9
+  },
+  "collection_req": ["wheat", 1]
+}

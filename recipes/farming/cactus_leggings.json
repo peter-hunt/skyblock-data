@@ -1,0 +1,14 @@
+{
+  "name": "cactus_leggings",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "cactus",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "cactus_leggings"
+  },
+  "collection_req": ["cactus", 2]
+}

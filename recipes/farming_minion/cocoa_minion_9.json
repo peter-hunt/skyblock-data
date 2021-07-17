@@ -1,0 +1,19 @@
+{
+  "name": "cocoa_minion_9",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "cocoa_minion",
+      "tier": 8
+    },
+    {
+      "name": "enchanted_cocoa",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "cocoa_minion",
+    "tier": 9
+  },
+  "collection_req": ["cocoa", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "acacia_leaves",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "acacia_sapling"
+    }
+  ],
+  "result": {
+    "name": "acacia_leaves"
+  },
+  "collection_req": ["acacia_wood", 2]
+}

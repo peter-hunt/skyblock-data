@@ -1,0 +1,18 @@
+{
+  "name": "wheat_minion",
+  "category": "farming",
+  "recipes": [
+    "wheat_minion_1",
+    "wheat_minion_2",
+    "wheat_minion_3",
+    "wheat_minion_4",
+    "wheat_minion_5",
+    "wheat_minion_6",
+    "wheat_minion_7",
+    "wheat_minion_8",
+    "wheat_minion_9",
+    "wheat_minion_10",
+    "wheat_minion_11"
+  ],
+  "collection_req": ["wheat", 1]
+}

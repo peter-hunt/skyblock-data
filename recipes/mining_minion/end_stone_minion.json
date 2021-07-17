@@ -1,0 +1,18 @@
+{
+  "name": "end_stone_minion",
+  "category": "mining",
+  "recipes": [
+    "end_stone_minion_1",
+    "end_stone_minion_2",
+    "end_stone_minion_3",
+    "end_stone_minion_4",
+    "end_stone_minion_5",
+    "end_stone_minion_6",
+    "end_stone_minion_7",
+    "end_stone_minion_8",
+    "end_stone_minion_9",
+    "end_stone_minion_10",
+    "end_stone_minion_11"
+  ],
+  "collection_req": ["end_stone", 1]
+}

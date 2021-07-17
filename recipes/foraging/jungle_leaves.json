@@ -1,0 +1,13 @@
+{
+  "name": "jungle_leaves",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "jungle_sapling"
+    }
+  ],
+  "result": {
+    "name": "jungle_leaves"
+  },
+  "collection_req": ["jungle_wood", 2]
+}

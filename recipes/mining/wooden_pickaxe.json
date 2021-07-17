@@ -1,0 +1,17 @@
+{
+  "name": "wooden_pickaxe",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "planks",
+      "count": 3
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "wooden_pickaxe"
+  }
+}

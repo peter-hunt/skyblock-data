@@ -1,0 +1,11 @@
+{
+  "name": "angler_armor",
+  "category": "fishing",
+  "recipes": [
+    "angler_helmet",
+    "angler_chestplate",
+    "angler_leggings",
+    "angler_boots"
+  ],
+  "collection_req": ["fish", 5]
+}

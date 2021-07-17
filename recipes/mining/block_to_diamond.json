@@ -1,0 +1,13 @@
+{
+  "name": "block_to_diamond",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "diamond_block"
+    }
+  ],
+  "result": {
+    "name": "diamond",
+    "count": 9
+  }
+}

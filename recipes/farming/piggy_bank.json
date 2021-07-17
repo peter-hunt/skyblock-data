@@ -1,0 +1,17 @@
+{
+  "name": "piggy_bank",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_pork",
+      "count": 40
+    },
+    {
+      "name": "chest"
+    }
+  ],
+  "result": {
+    "name": "piggy_bank"
+  },
+  "collection_req": ["pork", 5]
+}

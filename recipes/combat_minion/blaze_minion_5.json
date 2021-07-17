@@ -1,0 +1,19 @@
+{
+  "name": "blaze_minion_5",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "blaze_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_blaze_powder",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "blaze_minion",
+    "tier": 5
+  },
+  "collection_req": ["blaze_rod", 1]
+}

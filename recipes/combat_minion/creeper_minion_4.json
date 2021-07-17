@@ -1,0 +1,19 @@
+{
+  "name": "creeper_minion_4",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "creeper_minion",
+      "tier": 3
+    },
+    {
+      "name": "gunpowder",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "creeper_minion",
+    "tier": 4
+  },
+  "collection_req": ["gunpowder", 1]
+}

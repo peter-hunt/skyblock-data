@@ -1,0 +1,14 @@
+{
+  "name": "blaze_hat",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "blaze_rod",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "blaze_hat"
+  },
+  "collection_req": ["blaze_rod", 2]
+}

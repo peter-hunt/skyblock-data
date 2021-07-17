@@ -1,0 +1,21 @@
+{
+  "name": "prismarine_rod",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "prismarine_shard",
+      "count": 2
+    },
+    {
+      "name": "prismarine_crystals"
+    },
+    {
+      "name": "string",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "prismarine_rod"
+  },
+  "collection_req": ["prismarine_shard", 4]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "iron_helmet",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "iron",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "iron_helmet"
+  }
+}

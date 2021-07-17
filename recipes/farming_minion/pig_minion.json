@@ -1,0 +1,18 @@
+{
+  "name": "pig_minion",
+  "category": "farming",
+  "recipes": [
+    "pig_minion_1",
+    "pig_minion_2",
+    "pig_minion_3",
+    "pig_minion_4",
+    "pig_minion_5",
+    "pig_minion_6",
+    "pig_minion_7",
+    "pig_minion_8",
+    "pig_minion_9",
+    "pig_minion_10",
+    "pig_minion_11"
+  ],
+  "collection_req": ["pork", 1]
+}

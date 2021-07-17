@@ -1,0 +1,14 @@
+{
+  "name": "mithril_coat",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_mithril",
+      "count": 32
+    }
+  ],
+  "result": {
+    "name": "mithril_coat"
+  },
+  "collection_req": ["mithril", 5]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "treecapitator",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "jungle_axe"
+    },
+    {
+      "name": "enchanted_obsidian",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "treecapitator"
+  },
+  "collection_req": ["obsidian", 8]
+}

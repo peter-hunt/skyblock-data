@@ -1,0 +1,14 @@
+{
+  "name": "miners_outfit_leggings",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_cobblestone",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "miners_outfit_leggings"
+  },
+  "collection_req": ["cobblestone", 7]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "growth_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "enchanted_dark_oak",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "growth": 4
+    }
+  },
+  "collection_req": ["dark_oak_wood", 7]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "epic_pig_pet",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "pork",
+      "count": 512
+    },
+    {
+      "name": "super_enchanted_egg"
+    }
+  ],
+  "result": {
+    "name": "pig_pet",
+    "rarity": "epic"
+  },
+  "collection_req": ["pork", 3]
+}

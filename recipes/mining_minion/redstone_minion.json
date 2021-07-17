@@ -1,0 +1,18 @@
+{
+  "name": "redstone_minion",
+  "category": "mining",
+  "recipes": [
+    "redstone_minion_1",
+    "redstone_minion_2",
+    "redstone_minion_3",
+    "redstone_minion_4",
+    "redstone_minion_5",
+    "redstone_minion_6",
+    "redstone_minion_7",
+    "redstone_minion_8",
+    "redstone_minion_9",
+    "redstone_minion_10",
+    "redstone_minion_11"
+  ],
+  "collection_req": ["redstone", 1]
+}

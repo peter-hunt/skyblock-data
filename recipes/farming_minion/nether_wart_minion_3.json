@@ -1,0 +1,19 @@
+{
+  "name": "nether_wart_minion_3",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "nether_wart_minion",
+      "tier": 2
+    },
+    {
+      "name": "nether_wart",
+      "count": 320
+    }
+  ],
+  "result": {
+    "name": "nether_wart_minion",
+    "tier": 3
+  },
+  "collection_req": ["nether_wart", 1]
+}

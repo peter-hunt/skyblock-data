@@ -1,0 +1,14 @@
+{
+  "name": "speedster_boots",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_sugar_cane",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "speedster_boots"
+  },
+  "collection_req": ["sugar_cane", 9]
+}

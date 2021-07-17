@@ -1,0 +1,18 @@
+{
+  "name": "skeleton_minion",
+  "category": "combat",
+  "recipes": [
+    "skeleton_minion_1",
+    "skeleton_minion_2",
+    "skeleton_minion_3",
+    "skeleton_minion_4",
+    "skeleton_minion_5",
+    "skeleton_minion_6",
+    "skeleton_minion_7",
+    "skeleton_minion_8",
+    "skeleton_minion_9",
+    "skeleton_minion_10",
+    "skeleton_minion_11"
+  ],
+  "collection_req": ["bone", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dark_oak_leaves",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "dark_oak_sapling"
+    }
+  ],
+  "result": {
+    "name": "dark_oak_leaves"
+  },
+  "collection_req": ["dark_oak_wood", 2]
+}

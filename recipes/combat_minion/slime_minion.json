@@ -1,0 +1,18 @@
+{
+  "name": "slime_minion",
+  "category": "combat",
+  "recipes": [
+    "slime_minion_1",
+    "slime_minion_2",
+    "slime_minion_3",
+    "slime_minion_4",
+    "slime_minion_5",
+    "slime_minion_6",
+    "slime_minion_7",
+    "slime_minion_8",
+    "slime_minion_9",
+    "slime_minion_10",
+    "slime_minion_11"
+  ],
+  "collection_req": ["slime_ball", 1]
+}

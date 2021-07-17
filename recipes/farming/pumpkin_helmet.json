@@ -1,0 +1,14 @@
+{
+  "name": "pumpkin_helmet",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "pumpkin_helmet"
+  },
+  "collection_req": ["pumpkin", 2]
+}

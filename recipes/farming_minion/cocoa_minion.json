@@ -1,0 +1,18 @@
+{
+  "name": "cocoa_minion",
+  "category": "farming",
+  "recipes": [
+    "cocoa_minion_1",
+    "cocoa_minion_2",
+    "cocoa_minion_3",
+    "cocoa_minion_4",
+    "cocoa_minion_5",
+    "cocoa_minion_6",
+    "cocoa_minion_7",
+    "cocoa_minion_8",
+    "cocoa_minion_9",
+    "cocoa_minion_10",
+    "cocoa_minion_11"
+  ],
+  "collection_req": ["cocoa", 1]
+}

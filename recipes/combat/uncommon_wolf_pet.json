@@ -1,0 +1,18 @@
+{
+  "name": "uncommon_wolf_pet",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_spruce",
+      "count": 512
+    },
+    {
+      "name": "enchanted_egg"
+    }
+  ],
+  "result": {
+    "name": "wolf_pet",
+    "rarity": "uncommon"
+  },
+  "collection_req": ["spruce_wood", 8]
+}

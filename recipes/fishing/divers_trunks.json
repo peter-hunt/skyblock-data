@@ -1,0 +1,13 @@
+{
+  "name": "divers_trunks",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "emperors_skull",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "divers_trunks"
+  }
+}

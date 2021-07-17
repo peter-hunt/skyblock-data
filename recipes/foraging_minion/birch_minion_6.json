@@ -1,0 +1,19 @@
+{
+  "name": "birch_minion_6",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "birch_minion",
+      "tier": 5
+    },
+    {
+      "name": "enchanted_birch",
+      "count": 16
+    }
+  ],
+  "result": {
+    "name": "birch_minion",
+    "tier": 6
+  },
+  "collection_req": ["birch_wood", 1]
+}

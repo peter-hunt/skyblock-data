@@ -1,0 +1,18 @@
+{
+  "name": "carrot_minion",
+  "category": "farming",
+  "recipes": [
+    "carrot_minion_1",
+    "carrot_minion_2",
+    "carrot_minion_3",
+    "carrot_minion_4",
+    "carrot_minion_5",
+    "carrot_minion_6",
+    "carrot_minion_7",
+    "carrot_minion_8",
+    "carrot_minion_9",
+    "carrot_minion_10",
+    "carrot_minion_11"
+  ],
+  "collection_req": ["carrot", 1]
+}

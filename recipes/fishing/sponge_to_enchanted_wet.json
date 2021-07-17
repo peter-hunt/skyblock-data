@@ -1,0 +1,14 @@
+{
+  "name": "sponge_to_enchanted_wet",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "enchanted_sponge",
+      "count": 40
+    }
+  ],
+  "result": {
+    "name": "enchanted_wet_sponge"
+  },
+  "collection_req": ["sponge", 7]
+}

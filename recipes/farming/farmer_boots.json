@@ -1,0 +1,14 @@
+{
+  "name": "farmer_boots",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_pumpkin",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "farmer_boots"
+  },
+  "collection_req": ["pumpkin", 9]
+}

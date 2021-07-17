@@ -1,0 +1,14 @@
+{
+  "name": "growth_leggings",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "enchanted_dark_oak",
+      "count": 448
+    }
+  ],
+  "result": {
+    "name": "growth_leggings"
+  },
+  "collection_req": ["dark_oak_wood", 9]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "thorns_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 6
+    },
+    {
+      "name": "enchanted_cactus_green",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "thorns": 2
+    }
+  },
+  "collection_req": ["cactus", 7]
+}

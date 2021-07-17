@@ -1,0 +1,18 @@
+{
+  "name": "clay_minion",
+  "category": "fishing",
+  "recipes": [
+    "clay_minion_1",
+    "clay_minion_2",
+    "clay_minion_3",
+    "clay_minion_4",
+    "clay_minion_5",
+    "clay_minion_6",
+    "clay_minion_7",
+    "clay_minion_8",
+    "clay_minion_9",
+    "clay_minion_10",
+    "clay_minion_11"
+  ],
+  "collection_req": ["clay", 1]
+}

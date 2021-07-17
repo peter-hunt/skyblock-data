@@ -1,0 +1,14 @@
+{
+  "name": "blaze_leggings",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_blaze_rod",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "blaze_leggings"
+  },
+  "collection_req": ["blaze_rod", 8]
+}

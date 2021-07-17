@@ -1,0 +1,14 @@
+{
+  "name": "cow_head",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "beef",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "cow_head"
+  },
+  "collection_req": ["leather", 2]
+}

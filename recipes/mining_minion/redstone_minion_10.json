@@ -1,0 +1,19 @@
+{
+  "name": "redstone_minion_10",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "redstone_minion",
+      "tier": 9
+    },
+    {
+      "name": "enchanted_redstone_block",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "redstone_minion",
+    "tier": 10
+  },
+  "collection_req": ["redstone", 1]
+}

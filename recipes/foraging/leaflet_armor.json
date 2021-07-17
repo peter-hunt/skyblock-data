@@ -1,0 +1,11 @@
+{
+  "name": "leaflet_armor",
+  "category": "foraging",
+  "recipes": [
+    "leaflet_helmet",
+    "leaflet_chestplate",
+    "leaflet_leggings",
+    "leaflet_boots"
+  ],
+  "collection_req": ["oak_wood", 3]
+}

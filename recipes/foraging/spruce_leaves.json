@@ -1,0 +1,13 @@
+{
+  "name": "spruce_leaves",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "spruce_sapling"
+    }
+  ],
+  "result": {
+    "name": "spruce_leaves"
+  },
+  "collection_req": ["spruce_wood", 2]
+}

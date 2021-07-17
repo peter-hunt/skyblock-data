@@ -1,0 +1,11 @@
+{
+  "name": "emerald_armor",
+  "category": "mining",
+  "recipes": [
+    "emerald_helmet",
+    "emerald_chestplate",
+    "emerald_leggings",
+    "emerald_boots"
+  ],
+  "collection_req": ["emerald", 9]
+}

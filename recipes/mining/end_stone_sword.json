@@ -1,0 +1,17 @@
+{
+  "name": "end_stone_sword",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_end_stone",
+      "count": 128
+    },
+    {
+      "name": "stick"
+    }
+  ],
+  "result": {
+    "name": "end_stone_sword"
+  },
+  "collection_req": ["end_stone", 10]
+}

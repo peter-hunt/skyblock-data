@@ -1,0 +1,19 @@
+{
+  "name": "cobblestone_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "cobblestone_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_cobblestone",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "cobblestone_minion",
+    "tier": 5
+  },
+  "collection_req": ["cobblestone", 1]
+}

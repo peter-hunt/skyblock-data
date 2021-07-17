@@ -1,0 +1,19 @@
+{
+  "name": "mushroom_minion_7",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "mushroom_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_mushroom",
+      "count": 32
+    }
+  ],
+  "result": {
+    "name": "mushroom_minion",
+    "tier": 7
+  },
+  "collection_req": ["mushroom", 1]
+}

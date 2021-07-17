@@ -1,0 +1,18 @@
+{
+  "name": "nether_wart_minion_1",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "wooden_hoe"
+    },
+    {
+      "name": "nether_wart",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "nether_wart_minion",
+    "tier": 1
+  },
+  "collection_req": ["nether_wart", 1]
+}

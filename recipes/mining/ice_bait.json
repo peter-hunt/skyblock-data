@@ -1,0 +1,16 @@
+{
+  "name": "ice_bait",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "ice"
+    },
+    {
+      "name": "fish"
+    }
+  ],
+  "result": {
+    "name": "ice_bait"
+  },
+  "collection_req": ["ice", 6]
+}

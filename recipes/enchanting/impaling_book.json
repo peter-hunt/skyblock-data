@@ -1,0 +1,21 @@
+{
+  "name": "impaling_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 6
+    },
+    {
+      "name": "prismarine_shard",
+      "count": 20
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "impaling": 2
+    }
+  },
+  "collection_req": ["prismarine_shard", 1]
+}

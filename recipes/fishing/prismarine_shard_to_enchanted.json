@@ -1,0 +1,14 @@
+{
+  "name": "prismarine_shard_to_enchanted",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "prismarine_shard",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "enchanted_prismarine_shard"
+  },
+  "collection_req": ["prismarine_shard", 3]
+}

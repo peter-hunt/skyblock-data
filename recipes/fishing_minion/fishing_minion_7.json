@@ -1,0 +1,19 @@
+{
+  "name": "fishing_minion_7",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fishing_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_fish",
+      "count": 64
+    }
+  ],
+  "result": {
+    "name": "fishing_minion",
+    "tier": 7
+  },
+  "collection_req": ["fish", 1]
+}

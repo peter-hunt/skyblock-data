@@ -1,0 +1,18 @@
+{
+  "name": "glowstone_minion_1",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "wooden_pickaxe"
+    },
+    {
+      "name": "glowstone",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "glowstone_minion",
+    "tier": 1
+  },
+  "collection_req": ["glowstone", 1]
+}

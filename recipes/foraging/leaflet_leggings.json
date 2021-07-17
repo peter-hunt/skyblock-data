@@ -1,0 +1,14 @@
+{
+  "name": "leaflet_leggings",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "oak_leaves",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "leaflet_leggings"
+  },
+  "collection_req": ["oak_wood", 3]
+}

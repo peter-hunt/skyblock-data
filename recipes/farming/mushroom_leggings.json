@@ -1,0 +1,14 @@
+{
+  "name": "mushroom_leggings",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "mushroom_leggings"
+  },
+  "collection_req": ["mushroom", 3]
+}

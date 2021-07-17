@@ -1,0 +1,19 @@
+{
+  "name": "slime_minion_4",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "slime_minion",
+      "tier": 3
+    },
+    {
+      "name": "slime_ball",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "slime_minion",
+    "tier": 4
+  },
+  "collection_req": ["slime_ball", 1]
+}

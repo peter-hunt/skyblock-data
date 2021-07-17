@@ -1,0 +1,22 @@
+{
+  "name": "scroll_to_gold",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_ender_pearl",
+      "count": 16
+    },
+    {
+      "name": "enchanted_iron",
+      "count": 48
+    },
+    {
+      "name": "enchanted_gold",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "travel_scroll_to_gold"
+  },
+  "collection_req": ["coal", 6]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "salmon_leggings",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "enchanted_salmon",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "salmon_leggings"
+  },
+  "collection_req": ["salmon", 9]
+}

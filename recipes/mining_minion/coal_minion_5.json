@@ -1,0 +1,19 @@
+{
+  "name": "coal_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "coal_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_coal",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "coal_minion",
+    "tier": 5
+  },
+  "collection_req": ["coal", 1]
+}

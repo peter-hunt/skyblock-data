@@ -1,0 +1,17 @@
+{
+  "name": "experience_bottle",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "lapis",
+      "count": 6
+    },
+    {
+      "name": "bottle"
+    }
+  ],
+  "result": {
+    "name": "experience_bottle"
+  },
+  "collection_req": ["lapis", 2]
+}

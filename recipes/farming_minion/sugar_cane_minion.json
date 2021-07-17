@@ -1,0 +1,18 @@
+{
+  "name": "sugar_cane_minion",
+  "category": "farming",
+  "recipes": [
+    "sugar_cane_minion_1",
+    "sugar_cane_minion_2",
+    "sugar_cane_minion_3",
+    "sugar_cane_minion_4",
+    "sugar_cane_minion_5",
+    "sugar_cane_minion_6",
+    "sugar_cane_minion_7",
+    "sugar_cane_minion_8",
+    "sugar_cane_minion_9",
+    "sugar_cane_minion_10",
+    "sugar_cane_minion_11"
+  ],
+  "collection_req": ["sugar_cane", 1]
+}

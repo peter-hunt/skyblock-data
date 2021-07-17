@@ -1,0 +1,18 @@
+{
+  "name": "iron_minion",
+  "category": "mining",
+  "recipes": [
+    "iron_minion_1",
+    "iron_minion_2",
+    "iron_minion_3",
+    "iron_minion_4",
+    "iron_minion_5",
+    "iron_minion_6",
+    "iron_minion_7",
+    "iron_minion_8",
+    "iron_minion_9",
+    "iron_minion_10",
+    "iron_minion_11"
+  ],
+  "collection_req": ["iron", 1]
+}

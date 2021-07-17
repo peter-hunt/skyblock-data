@@ -1,0 +1,14 @@
+{
+  "name": "ghast_head",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "ghast_tear",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "ghast_head"
+  },
+  "collection_req": ["ghast_tear", 2]
+}

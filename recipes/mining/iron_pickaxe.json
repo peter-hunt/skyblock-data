@@ -1,0 +1,17 @@
+{
+  "name": "iron_pickaxe",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "iron",
+      "count": 3
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "iron_pickaxe"
+  }
+}

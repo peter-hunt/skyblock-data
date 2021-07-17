@@ -1,0 +1,19 @@
+{
+  "name": "iron_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "iron_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_iron",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "iron_minion",
+    "tier": 5
+  },
+  "collection_req": ["iron", 1]
+}

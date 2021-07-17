@@ -1,0 +1,18 @@
+{
+  "name": "jungle_minion",
+  "category": "foraging",
+  "recipes": [
+    "jungle_minion_1",
+    "jungle_minion_2",
+    "jungle_minion_3",
+    "jungle_minion_4",
+    "jungle_minion_5",
+    "jungle_minion_6",
+    "jungle_minion_7",
+    "jungle_minion_8",
+    "jungle_minion_9",
+    "jungle_minion_10",
+    "jungle_minion_11"
+  ],
+  "collection_req": ["jungle_wood", 1]
+}

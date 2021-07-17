@@ -1,0 +1,27 @@
+{
+  "name": "titanium_drill_355",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "drill_engine"
+    },
+    {
+      "name": "fuel_tank"
+    },
+    {
+      "name": "golden_plate",
+      "count": 6
+    },
+    {
+      "name": "refined_titanium",
+      "count": 10
+    },
+    {
+      "name": "refined_mithril",
+      "count": 10
+    }
+  ],
+  "result": {
+    "name": "titanium_drill_355"
+  }
+}

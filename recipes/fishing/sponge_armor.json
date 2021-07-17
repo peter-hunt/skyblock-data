@@ -1,0 +1,11 @@
+{
+  "name": "sponge_armor",
+  "category": "fishing",
+  "recipes": [
+    "sponge_helmet",
+    "sponge_chestplate",
+    "sponge_leggings",
+    "sponge_boots"
+  ],
+  "collection_req": ["sponge", 9]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "spider_minion",
+  "category": "combat",
+  "recipes": [
+    "spider_minion_1",
+    "spider_minion_2",
+    "spider_minion_3",
+    "spider_minion_4",
+    "spider_minion_5",
+    "spider_minion_6",
+    "spider_minion_7",
+    "spider_minion_8",
+    "spider_minion_9",
+    "spider_minion_10",
+    "spider_minion_11"
+  ],
+  "collection_req": ["string", 1]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gold_sword",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "gold",
+      "count": 2
+    },
+    {
+      "name": "stick"
+    }
+  ],
+  "result": {
+    "name": "golden_sword"
+  }
+}

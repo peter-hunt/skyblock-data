@@ -1,0 +1,18 @@
+{
+  "name": "cane_to_enchanted_bookshelf",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_paper",
+      "count": 6
+    },
+    {
+      "name": "enchanted_oak",
+      "count": 6
+    }
+  ],
+  "result": {
+    "name": "enchanted_bookshelf"
+  },
+  "collection_req": ["sugar_cane", 6]
+}

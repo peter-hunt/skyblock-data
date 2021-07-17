@@ -1,0 +1,11 @@
+{
+  "name": "hardened_diamond_armor",
+  "category": "mining",
+  "recipes": [
+    "hardened_diamond_helmet",
+    "hardened_diamond_chestplate",
+    "hardened_diamond_leggings",
+    "hardened_diamond_boots"
+  ],
+  "collection_req": ["diamond", 7]
+}

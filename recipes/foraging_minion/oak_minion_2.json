@@ -1,0 +1,19 @@
+{
+  "name": "oak_minion_2",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "oak_minion",
+      "tier": 1
+    },
+    {
+      "name": "oak_wood",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "oak_minion",
+    "tier": 2
+  },
+  "collection_req": ["oak_wood", 1]
+}

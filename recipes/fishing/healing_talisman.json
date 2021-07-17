@@ -1,0 +1,14 @@
+{
+  "name": "healing_talisman",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "lily_pad",
+      "count": 144
+    }
+  ],
+  "result": {
+    "name": "healing_talisman"
+  },
+  "collection_req": ["lily_pad", 3]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "diamond_minion_8",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "diamond_minion",
+      "tier": 7
+    },
+    {
+      "name": "enchanted_diamond",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "diamond_minion",
+    "tier": 8
+  },
+  "collection_req": ["diamond", 1]
+}

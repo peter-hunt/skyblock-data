@@ -1,0 +1,14 @@
+{
+  "name": "vaccine_talisman",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "poisonous_potato",
+      "count": 9
+    }
+  ],
+  "result": {
+    "name": "vaccine_talisman"
+  },
+  "collection_req": ["potato", 3]
+}

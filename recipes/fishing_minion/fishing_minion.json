@@ -1,0 +1,18 @@
+{
+  "name": "fishing_minion",
+  "category": "fishing",
+  "recipes": [
+    "fishing_minion_1",
+    "fishing_minion_2",
+    "fishing_minion_3",
+    "fishing_minion_4",
+    "fishing_minion_5",
+    "fishing_minion_6",
+    "fishing_minion_7",
+    "fishing_minion_8",
+    "fishing_minion_9",
+    "fishing_minion_10",
+    "fishing_minion_11"
+  ],
+  "collection_req": ["fish", 1]
+}

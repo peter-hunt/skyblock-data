@@ -1,0 +1,14 @@
+{
+  "name": "ice_to_packed",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "ice",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "packed_ice"
+  },
+  "collection_req": ["ice", 3]
+}

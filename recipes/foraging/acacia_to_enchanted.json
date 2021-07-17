@@ -1,0 +1,14 @@
+{
+  "name": "acacia_to_enchanted",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "acacia_wood",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_acacia"
+  },
+  "collection_req": ["acacia_wood", 6]
+}

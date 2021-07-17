@@ -1,0 +1,18 @@
+{
+  "name": "potato_minion",
+  "category": "farming",
+  "recipes": [
+    "potato_minion_1",
+    "potato_minion_2",
+    "potato_minion_3",
+    "potato_minion_4",
+    "potato_minion_5",
+    "potato_minion_6",
+    "potato_minion_7",
+    "potato_minion_8",
+    "potato_minion_9",
+    "potato_minion_10",
+    "potato_minion_11"
+  ],
+  "collection_req": ["potato", 1]
+}

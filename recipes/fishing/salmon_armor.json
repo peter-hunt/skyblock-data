@@ -1,0 +1,11 @@
+{
+  "name": "salmon_armor",
+  "category": "fishing",
+  "recipes": [
+    "salmon_helmet",
+    "salmon_chestplate",
+    "salmon_leggings",
+    "salmon_boots"
+  ],
+  "collection_req": ["salmon", 9]
+}

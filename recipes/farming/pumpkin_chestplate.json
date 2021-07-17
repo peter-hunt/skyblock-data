@@ -1,0 +1,14 @@
+{
+  "name": "pumpkin_chestplate",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "pumpkin_chestplate"
+  },
+  "collection_req": ["pumpkin", 2]
+}

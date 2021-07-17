@@ -1,0 +1,25 @@
+{
+  "name": "spiked_hook_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "pufferfish",
+      "count": 64
+    },
+    {
+      "name": "gravel",
+      "count": 40
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "spiked_hook": 4
+    }
+  },
+  "collection_req": ["pufferfish", 6]
+}

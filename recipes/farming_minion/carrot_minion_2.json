@@ -1,0 +1,19 @@
+{
+  "name": "carrot_minion_2",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "carrot_minion",
+      "tier": 1
+    },
+    {
+      "name": "carrot",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "carrot_minion",
+    "tier": 2
+  },
+  "collection_req": ["carrot", 1]
+}

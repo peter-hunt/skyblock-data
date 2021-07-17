@@ -1,0 +1,22 @@
+{
+  "name": "whale_bait",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fish_bait"
+    },
+    {
+      "name": "light_bait"
+    },
+    {
+      "name": "dark_bait"
+    },
+    {
+      "name": "blessed_bait"
+    }
+  ],
+  "result": {
+    "name": "whale_bait"
+  },
+  "collection_req": ["lily_pad", 6]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ghast_tear_to_enchanted",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "ghast_tear",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "enchanted_ghast_tear"
+  },
+  "collection_req": ["ghast_tear", 4]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "potato_minion_5",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "potato_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_potato",
+      "count": 24
+    }
+  ],
+  "result": {
+    "name": "potato_minion",
+    "tier": 5
+  },
+  "collection_req": ["potato", 1]
+}

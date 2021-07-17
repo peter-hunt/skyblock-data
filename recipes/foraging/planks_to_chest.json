@@ -1,0 +1,13 @@
+{
+  "name": "planks_to_chest",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "planks",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "chest"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cow_minion",
+  "category": "farming",
+  "recipes": [
+    "cow_minion_1",
+    "cow_minion_2",
+    "cow_minion_3",
+    "cow_minion_4",
+    "cow_minion_5",
+    "cow_minion_6",
+    "cow_minion_7",
+    "cow_minion_8",
+    "cow_minion_9",
+    "cow_minion_10",
+    "cow_minion_11"
+  ],
+  "collection_req": ["leather", 1]
+}

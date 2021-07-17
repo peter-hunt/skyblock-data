@@ -1,0 +1,14 @@
+{
+  "name": "mushroom_helmet",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "mushroom_helmet"
+  },
+  "collection_req": ["mushroom", 3]
+}

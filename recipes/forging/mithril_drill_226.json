@@ -1,0 +1,19 @@
+{
+  "name": "mithril_drill_226",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "drill_engine"
+    },
+    {
+      "name": "refined_mithril",
+      "count": 3
+    },
+    {
+      "name": "fuel_tank"
+    }
+  ],
+  "result": {
+    "name": "mithril_drill_226"
+  }
+}

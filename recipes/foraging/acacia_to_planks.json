@@ -1,0 +1,13 @@
+{
+  "name": "acacia_to_planks",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "acacia_wood"
+    }
+  ],
+  "result": {
+    "name": "planks",
+    "count": 4
+  }
+}

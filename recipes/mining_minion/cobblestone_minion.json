@@ -1,0 +1,18 @@
+{
+  "name": "cobblestone_minion",
+  "category": "mining",
+  "recipes": [
+    "cobblestone_minion_1",
+    "cobblestone_minion_2",
+    "cobblestone_minion_3",
+    "cobblestone_minion_4",
+    "cobblestone_minion_5",
+    "cobblestone_minion_6",
+    "cobblestone_minion_7",
+    "cobblestone_minion_8",
+    "cobblestone_minion_9",
+    "cobblestone_minion_10",
+    "cobblestone_minion_11"
+  ],
+  "collection_req": ["cobblestone", 1]
+}

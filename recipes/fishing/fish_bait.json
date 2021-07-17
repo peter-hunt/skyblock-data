@@ -1,0 +1,17 @@
+{
+  "name": "fish_bait",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fish",
+      "count": 2
+    },
+    {
+      "name": "salmon"
+    }
+  ],
+  "result": {
+    "name": "fish_bait"
+  },
+  "collection_req": ["salmon", 6]
+}

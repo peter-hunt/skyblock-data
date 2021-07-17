@@ -1,0 +1,17 @@
+{
+  "name": "diamond_hoe",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "diamond",
+      "count": 2
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "diamond_hoe"
+  }
+}

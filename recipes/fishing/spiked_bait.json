@@ -1,0 +1,16 @@
+{
+  "name": "spiked_bait",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fish"
+    },
+    {
+      "name": "pufferfish"
+    }
+  ],
+  "result": {
+    "name": "spiked_bait"
+  },
+  "collection_req": ["pufferfish", 5]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "harvesting_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 48
+    },
+    {
+      "name": "wheat",
+      "count": 16
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "harvesting": 4
+    }
+  },
+  "collection_req": ["wheat", 2]
+}

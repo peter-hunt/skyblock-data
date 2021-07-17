@@ -1,0 +1,17 @@
+{
+  "name": "gold_axe",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "gold",
+      "count": 3
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "golden_axe"
+  }
+}

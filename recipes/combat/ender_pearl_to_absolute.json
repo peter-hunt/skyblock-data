@@ -1,0 +1,14 @@
+{
+  "name": "ender_pearl_to_absolute",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_ender_pearl",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "absolute_ender_pearl"
+  },
+  "collection_req": ["ender_pearl", 7]
+}

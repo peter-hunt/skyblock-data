@@ -1,0 +1,21 @@
+{
+  "name": "cleave_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "pufferfish",
+      "count": 40
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "cleave": 4
+    }
+  },
+  "collection_req": ["pufferfish", 3]
+}

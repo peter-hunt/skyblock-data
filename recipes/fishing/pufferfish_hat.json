@@ -1,0 +1,14 @@
+{
+  "name": "pufferfish_hat",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "pufferfish",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "pufferfish_hat"
+  },
+  "collection_req": ["pufferfish", 1]
+}

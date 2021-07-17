@@ -1,0 +1,13 @@
+{
+  "name": "golden_leggings",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "gold",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "golden_leggings"
+  }
+}

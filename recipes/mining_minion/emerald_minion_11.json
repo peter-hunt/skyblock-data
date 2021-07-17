@@ -1,0 +1,19 @@
+{
+  "name": "emerald_minion_11",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "emerald_minion",
+      "tier": 10
+    },
+    {
+      "name": "enchanted_emerald_block",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "emerald_minion",
+    "tier": 11
+  },
+  "collection_req": ["emerald", 1]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scroll_to_desert",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_ender_pearl",
+      "count": 16
+    },
+    {
+      "name": "enchanted_cactus_green",
+      "count": 48
+    },
+    {
+      "name": "enchanted_cocoa",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "travel_scroll_to_desert"
+  },
+  "collection_req": ["cocoa", 5]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "titanic_experience_bottle",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_lapis_block",
+      "count": 6
+    },
+    {
+      "name": "bottle"
+    }
+  ],
+  "result": {
+    "name": "titanic_experience_bottle"
+  },
+  "collection_req": ["lapis", 8]
+}

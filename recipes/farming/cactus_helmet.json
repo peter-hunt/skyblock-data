@@ -1,0 +1,14 @@
+{
+  "name": "cactus_helmet",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "cactus",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "cactus_helmet"
+  },
+  "collection_req": ["cactus", 2]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "clay_minion_7",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "clay_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_clay",
+      "count": 32
+    }
+  ],
+  "result": {
+    "name": "clay_minion",
+    "tier": 7
+  },
+  "collection_req": ["clay", 1]
+}

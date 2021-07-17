@@ -1,0 +1,18 @@
+{
+  "name": "melon_minion",
+  "category": "farming",
+  "recipes": [
+    "melon_minion_1",
+    "melon_minion_2",
+    "melon_minion_3",
+    "melon_minion_4",
+    "melon_minion_5",
+    "melon_minion_6",
+    "melon_minion_7",
+    "melon_minion_8",
+    "melon_minion_9",
+    "melon_minion_10",
+    "melon_minion_11"
+  ],
+  "collection_req": ["melon", 1]
+}

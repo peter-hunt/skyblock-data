@@ -1,0 +1,11 @@
+{
+  "name": "speedster_armor",
+  "category": "farming",
+  "recipes": [
+    "speedster_helmet",
+    "speedster_chestplate",
+    "speedster_leggings",
+    "speedster_boots"
+  ],
+  "collection_req": ["sugar_cane", 9]
+}

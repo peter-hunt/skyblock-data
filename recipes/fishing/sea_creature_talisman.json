@@ -1,0 +1,14 @@
+{
+  "name": "sea_creature_talisman",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "sponge",
+      "count": 18
+    }
+  ],
+  "result": {
+    "name": "sea_creature_talisman"
+  },
+  "collection_req": ["sponge", 4]
+}

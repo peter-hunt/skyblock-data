@@ -1,0 +1,19 @@
+{
+  "name": "cow_minion_10",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "cow_minion",
+      "tier": 9
+    },
+    {
+      "name": "enchanted_beef",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "cow_minion",
+    "tier": 10
+  },
+  "collection_req": ["leather", 1]
+}

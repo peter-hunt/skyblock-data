@@ -1,0 +1,13 @@
+{
+  "name": "iron_to_block",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "iron",
+      "count": 9
+    }
+  ],
+  "result": {
+    "name": "iron_block"
+  }
+}

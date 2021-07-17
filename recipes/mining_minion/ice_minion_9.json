@@ -1,0 +1,19 @@
+{
+  "name": "ice_minion_9",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "ice_minion",
+      "tier": 8
+    },
+    {
+      "name": "enchanted_ice",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "ice_minion",
+    "tier": 9
+  },
+  "collection_req": ["ice", 1]
+}

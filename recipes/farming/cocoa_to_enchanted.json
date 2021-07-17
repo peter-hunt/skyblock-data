@@ -1,0 +1,14 @@
+{
+  "name": "cocoa_to_enchanted",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "cocoa",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_cocoa"
+  },
+  "collection_req": ["cocoa", 4]
+}

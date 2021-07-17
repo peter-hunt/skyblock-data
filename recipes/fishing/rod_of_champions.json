@@ -1,0 +1,17 @@
+{
+  "name": "rod_of_champions",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "challenging_rod"
+    },
+    {
+      "name": "enchanted_lily_pad",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "rod_of_champions"
+  },
+  "collection_req": ["lily_pad", 7]
+}

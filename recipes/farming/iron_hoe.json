@@ -1,0 +1,17 @@
+{
+  "name": "iron_hoe",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "iron",
+      "count": 2
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "iron_hoe"
+  }
+}

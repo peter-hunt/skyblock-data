@@ -1,0 +1,13 @@
+{
+  "name": "spruce_to_planks",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "spruce_wood"
+    }
+  ],
+  "result": {
+    "name": "planks",
+    "count": 4
+  }
+}

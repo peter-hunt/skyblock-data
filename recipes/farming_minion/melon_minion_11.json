@@ -1,0 +1,19 @@
+{
+  "name": "melon_minion_11",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "melon_minion",
+      "tier": 10
+    },
+    {
+      "name": "enchanted_melon_block",
+      "count": 16
+    }
+  ],
+  "result": {
+    "name": "melon_minion",
+    "tier": 11
+  },
+  "collection_req": ["melon", 1]
+}

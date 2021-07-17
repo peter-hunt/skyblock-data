@@ -1,0 +1,26 @@
+{
+  "name": "drill_engine",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "enchanted_iron_block"
+    },
+    {
+      "name": "enchanted_redstone_block",
+      "count": 3
+    },
+    {
+      "name": "golden_plate"
+    },
+    {
+      "name": "treasurite",
+      "count": 10
+    },
+    {
+      "name": "refined_diamond"
+    }
+  ],
+  "result": {
+    "name": "drill_engine"
+  }
+}

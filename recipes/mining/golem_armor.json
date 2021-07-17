@@ -1,0 +1,11 @@
+{
+  "name": "golem_armor",
+  "category": "mining",
+  "recipes": [
+    "golem_armor_helmet",
+    "golem_armor_chestplate",
+    "golem_armor_leggings",
+    "golem_armor_boots"
+  ],
+  "collection_req": ["iron", 6]
+}

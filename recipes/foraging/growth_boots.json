@@ -1,0 +1,14 @@
+{
+  "name": "growth_boots",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "enchanted_dark_oak",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "growth_boots"
+  },
+  "collection_req": ["dark_oak_wood", 9]
+}

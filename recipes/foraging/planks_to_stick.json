@@ -1,0 +1,14 @@
+{
+  "name": "planks_to_stick",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "planks",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "stick",
+    "count": 4
+  }
+}

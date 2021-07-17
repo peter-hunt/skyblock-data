@@ -1,0 +1,14 @@
+{
+  "name": "pumpkin_boots",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "pumpkin_boots"
+  },
+  "collection_req": ["pumpkin", 2]
+}

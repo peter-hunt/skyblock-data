@@ -1,0 +1,18 @@
+{
+  "name": "ice_minion",
+  "category": "mining",
+  "recipes": [
+    "ice_minion_1",
+    "ice_minion_2",
+    "ice_minion_3",
+    "ice_minion_4",
+    "ice_minion_5",
+    "ice_minion_6",
+    "ice_minion_7",
+    "ice_minion_8",
+    "ice_minion_9",
+    "ice_minion_10",
+    "ice_minion_11"
+  ],
+  "collection_req": ["ice", 1]
+}

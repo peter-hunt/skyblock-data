@@ -1,0 +1,18 @@
+{
+  "name": "cleaver",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "gold",
+      "count": 4
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "cleaver"
+  },
+  "collection_req": ["gold", 2]
+}

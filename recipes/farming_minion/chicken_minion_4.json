@@ -1,0 +1,19 @@
+{
+  "name": "chicken_minion_4",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "chicken_minion",
+      "tier": 3
+    },
+    {
+      "name": "chicken",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "chicken_minion",
+    "tier": 4
+  },
+  "collection_req": ["chicken", 1]
+}

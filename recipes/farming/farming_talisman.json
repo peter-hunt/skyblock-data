@@ -1,0 +1,18 @@
+{
+  "name": "farming_talisman",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "hay_bale",
+      "count": 5
+    },
+    {
+      "name": "seeds",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "farming_talisman"
+  },
+  "collection_req": ["wheat", 4]
+}

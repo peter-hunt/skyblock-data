@@ -1,0 +1,16 @@
+{
+  "name": "wooden_sword",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "planks",
+      "count": 2
+    },
+    {
+      "name": "stick"
+    }
+  ],
+  "result": {
+    "name": "wooden_sword"
+  }
+}

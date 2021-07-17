@@ -1,0 +1,14 @@
+{
+  "name": "farm_suit_chestplate",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "hay_bale",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "farm_suit_chestplate"
+  },
+  "collection_req": ["wheat", 3]
+}

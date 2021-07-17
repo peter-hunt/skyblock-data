@@ -1,0 +1,19 @@
+{
+  "name": "coal_minion_3",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "coal_minion",
+      "tier": 2
+    },
+    {
+      "name": "coal",
+      "count": 320
+    }
+  ],
+  "result": {
+    "name": "coal_minion",
+    "tier": 3
+  },
+  "collection_req": ["coal", 1]
+}

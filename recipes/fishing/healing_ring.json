@@ -1,0 +1,17 @@
+{
+  "name": "healing_ring",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "healing_talisman"
+    },
+    {
+      "name": "enchanted_lily_pad",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "healing_ring"
+  },
+  "collection_req": ["lily_pad", 8]
+}

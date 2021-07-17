@@ -1,0 +1,18 @@
+{
+  "name": "acacia_minion",
+  "category": "foraging",
+  "recipes": [
+    "acacia_minion_1",
+    "acacia_minion_2",
+    "acacia_minion_3",
+    "acacia_minion_4",
+    "acacia_minion_5",
+    "acacia_minion_6",
+    "acacia_minion_7",
+    "acacia_minion_8",
+    "acacia_minion_9",
+    "acacia_minion_10",
+    "acacia_minion_11"
+  ],
+  "collection_req": ["acacia_wood", 1]
+}

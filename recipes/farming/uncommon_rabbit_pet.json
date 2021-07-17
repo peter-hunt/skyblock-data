@@ -1,0 +1,18 @@
+{
+  "name": "uncommon_rabbit_pet",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "rabbit",
+      "count": 64
+    },
+    {
+      "name": "enchanted_egg"
+    }
+  ],
+  "result": {
+    "name": "rabbit_pet",
+    "rarity": "uncommon"
+  },
+  "collection_req": ["rabbit", 2]
+}

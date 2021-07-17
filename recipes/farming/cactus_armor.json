@@ -1,0 +1,11 @@
+{
+  "name": "cactus_armor",
+  "category": "farming",
+  "recipes": [
+    "cactus_helmet",
+    "cactus_chestplate",
+    "cactus_leggings",
+    "cactus_boots"
+  ],
+  "collection_req": ["cactus", 2]
+}

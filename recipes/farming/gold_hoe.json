@@ -1,0 +1,17 @@
+{
+  "name": "gold_hoe",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "gold",
+      "count": 2
+    },
+    {
+      "name": "stick",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "golden_hoe"
+  }
+}

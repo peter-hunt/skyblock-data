@@ -1,0 +1,19 @@
+{
+  "name": "iron_minion_3",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "iron_minion",
+      "tier": 2
+    },
+    {
+      "name": "iron",
+      "count": 320
+    }
+  ],
+  "result": {
+    "name": "iron_minion",
+    "tier": 3
+  },
+  "collection_req": ["iron", 1]
+}

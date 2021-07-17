@@ -1,0 +1,14 @@
+{
+  "name": "night_vision_charm",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_mushroom",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "night_vision_charm"
+  },
+  "collection_req": ["mushroom", 7]
+}

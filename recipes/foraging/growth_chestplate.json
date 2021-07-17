@@ -1,0 +1,14 @@
+{
+  "name": "growth_chestplate",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "enchanted_dark_oak",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "growth_chestplate"
+  },
+  "collection_req": ["dark_oak_wood", 9]
+}

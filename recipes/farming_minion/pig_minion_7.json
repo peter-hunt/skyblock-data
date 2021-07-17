@@ -1,0 +1,19 @@
+{
+  "name": "pig_minion_7",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "pig_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_pork",
+      "count": 64
+    }
+  ],
+  "result": {
+    "name": "pig_minion",
+    "tier": 7
+  },
+  "collection_req": ["pork", 1]
+}

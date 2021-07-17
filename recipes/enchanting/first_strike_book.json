@@ -1,0 +1,24 @@
+{
+  "name": "first_strike_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 12
+    },
+    {
+      "name": "enchanted_flint",
+      "count": 4
+    },
+    {
+      "name": "iron_sword"
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "first_strike": 3
+    }
+  },
+  "collection_req": ["flint", 6]
+}

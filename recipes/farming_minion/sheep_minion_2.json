@@ -1,0 +1,19 @@
+{
+  "name": "sheep_minion_2",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "sheep_minion",
+      "tier": 1
+    },
+    {
+      "name": "mutton",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "sheep_minion",
+    "tier": 2
+  },
+  "collection_req": ["mutton", 1]
+}

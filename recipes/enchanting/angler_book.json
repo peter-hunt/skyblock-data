@@ -1,0 +1,21 @@
+{
+  "name": "angler_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "ink_sack",
+      "count": 32
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "angler": 4
+    }
+  },
+  "collection_req": ["ink_sack", 7]
+}

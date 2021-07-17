@@ -1,0 +1,13 @@
+{
+  "name": "bejeweled_handle",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "glacite_jewel",
+      "count": 3
+    }
+  ],
+  "result": {
+    "name": "bejeweled_handle"
+  }
+}

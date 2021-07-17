@@ -1,0 +1,19 @@
+{
+  "name": "gold_minion_11",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "gold_minion",
+      "tier": 10
+    },
+    {
+      "name": "enchanted_gold_block",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "gold_minion",
+    "tier": 11
+  },
+  "collection_req": ["gold", 1]
+}

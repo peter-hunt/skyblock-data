@@ -1,0 +1,19 @@
+{
+  "name": "gold_minion_2",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "gold_minion",
+      "tier": 1
+    },
+    {
+      "name": "gold",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "gold_minion",
+    "tier": 2
+  },
+  "collection_req": ["gold", 1]
+}

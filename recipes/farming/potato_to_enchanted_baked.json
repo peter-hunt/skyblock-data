@@ -1,0 +1,14 @@
+{
+  "name": "potato_to_enchanted_baked",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_potato",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_baked_potato"
+  },
+  "collection_req": ["potato", 7]
+}

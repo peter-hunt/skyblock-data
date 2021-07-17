@@ -1,0 +1,19 @@
+{
+  "name": "wheat_minion_2",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "wheat_minion",
+      "tier": 1
+    },
+    {
+      "name": "wheat",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "wheat_minion",
+    "tier": 2
+  },
+  "collection_req": ["wheat", 1]
+}

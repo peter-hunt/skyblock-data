@@ -1,0 +1,21 @@
+{
+  "name": "knockback_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 3
+    },
+    {
+      "name": "slime_ball",
+      "count": 3
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "knockback": 1
+    }
+  },
+  "collection_req": ["slime_ball", 3]
+}

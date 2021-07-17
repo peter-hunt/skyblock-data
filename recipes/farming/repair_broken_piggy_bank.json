@@ -1,0 +1,17 @@
+{
+  "name": "repair_broken_piggy_bank",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "broken_piggy_bank"
+    },
+    {
+      "name": "enchanted_pork",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "piggy_bank"
+  },
+  "collection_req": ["pork", 5]
+}

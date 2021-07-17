@@ -1,0 +1,14 @@
+{
+  "name": "hardened_diamond_leggings",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_diamond",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "hardened_diamond_leggings"
+  },
+  "collection_req": ["diamond", 7]
+}

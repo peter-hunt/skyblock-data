@@ -1,0 +1,12 @@
+{
+  "name": "cane_to_sugar",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "sugar_cane"
+    }
+  ],
+  "result": {
+    "name": "sugar"
+  }
+}

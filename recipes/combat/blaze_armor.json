@@ -1,0 +1,11 @@
+{
+  "name": "blaze_armor",
+  "category": "combat",
+  "recipes": [
+    "blaze_helmet",
+    "blaze_chestplate",
+    "blaze_leggings",
+    "blaze_boots"
+  ],
+  "collection_req": ["blaze_rod", 8]
+}

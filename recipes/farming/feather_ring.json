@@ -1,0 +1,17 @@
+{
+  "name": "feather_ring",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "feather_talisman"
+    },
+    {
+      "name": "enchanted_feather",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "feather_ring"
+  },
+  "collection_req": ["feather", 7]
+}

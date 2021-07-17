@@ -1,0 +1,11 @@
+{
+  "name": "farm_suit_armor",
+  "category": "farming",
+  "recipes": [
+    "farm_suit_helmet",
+    "farm_suit_chestplate",
+    "farm_suit_leggings",
+    "farm_suit_boots"
+  ],
+  "collection_req": ["wheat", 3]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "golem_armor_leggings",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_iron",
+      "count": 70
+    }
+  ],
+  "result": {
+    "name": "golem_armor_leggings"
+  },
+  "collection_req": ["iron", 6]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rabbit_to_enchanted",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "rabbit",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_rabbit"
+  }
+}

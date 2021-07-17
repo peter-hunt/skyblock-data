@@ -1,0 +1,13 @@
+{
+  "name": "leather_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "leather",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "leather_chestplate"
+  }
+}

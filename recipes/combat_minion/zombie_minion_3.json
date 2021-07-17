@@ -1,0 +1,19 @@
+{
+  "name": "zombie_minion_3",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "zombie_minion",
+      "tier": 2
+    },
+    {
+      "name": "rotten_flesh",
+      "count": 320
+    }
+  ],
+  "result": {
+    "name": "zombie_minion",
+    "tier": 3
+  },
+  "collection_req": ["rotten_flesh", 1]
+}

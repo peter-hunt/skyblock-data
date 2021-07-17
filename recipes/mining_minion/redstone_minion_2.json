@@ -1,0 +1,19 @@
+{
+  "name": "redstone_minion_2",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "redstone_minion",
+      "tier": 1
+    },
+    {
+      "name": "redstone",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "redstone_minion",
+    "tier": 2
+  },
+  "collection_req": ["redstone", 1]
+}

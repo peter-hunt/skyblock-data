@@ -1,0 +1,14 @@
+{
+  "name": "spider_hat",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "spider_eye",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "spider_hat"
+  },
+  "collection_req": ["spider_eye", 3]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sand_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "sand_minion",
+      "tier": 4
+    },
+    {
+      "name": "enchanted_sand",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "sand_minion",
+    "tier": 5
+  },
+  "collection_req": ["sand", 1]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "life_steal_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 6
+    },
+    {
+      "name": "enchanted_golden_apple",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "life_steal": 4
+    }
+  }
+}

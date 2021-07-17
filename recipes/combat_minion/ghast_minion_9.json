@@ -1,0 +1,19 @@
+{
+  "name": "ghast_minion_9",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "ghast_minion",
+      "tier": 8
+    },
+    {
+      "name": "silver_fang",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "ghast_minion",
+    "tier": 9
+  },
+  "collection_req": ["ghast_tear", 1]
+}

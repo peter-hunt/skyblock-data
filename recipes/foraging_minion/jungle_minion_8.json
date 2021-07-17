@@ -1,0 +1,19 @@
+{
+  "name": "jungle_minion_8",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "jungle_minion",
+      "tier": 7
+    },
+    {
+      "name": "enchanted_jungle",
+      "count": 64
+    }
+  ],
+  "result": {
+    "name": "jungle_minion",
+    "tier": 8
+  },
+  "collection_req": ["jungle_wood", 1]
+}

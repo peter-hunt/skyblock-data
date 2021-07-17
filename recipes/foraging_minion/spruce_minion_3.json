@@ -1,0 +1,19 @@
+{
+  "name": "spruce_minion_3",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "spruce_minion",
+      "tier": 2
+    },
+    {
+      "name": "spruce_wood",
+      "count": 320
+    }
+  ],
+  "result": {
+    "name": "spruce_minion",
+    "tier": 3
+  },
+  "collection_req": ["spruce_wood", 1]
+}

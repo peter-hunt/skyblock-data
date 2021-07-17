@@ -1,0 +1,13 @@
+{
+  "name": "string_to_wool",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "string",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "wool"
+  }
+}

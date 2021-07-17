@@ -1,0 +1,17 @@
+{
+  "name": "light_bait",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "prismarine_crystals",
+      "count": 2
+    },
+    {
+      "name": "fish"
+    }
+  ],
+  "result": {
+    "name": "light_bait"
+  },
+  "collection_req": ["prismarine_crystals", 2]
+}

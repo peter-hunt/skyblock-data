@@ -1,0 +1,18 @@
+{
+  "name": "cave_spider_minion",
+  "category": "combat",
+  "recipes": [
+    "cave_spider_minion_1",
+    "cave_spider_minion_2",
+    "cave_spider_minion_3",
+    "cave_spider_minion_4",
+    "cave_spider_minion_5",
+    "cave_spider_minion_6",
+    "cave_spider_minion_7",
+    "cave_spider_minion_8",
+    "cave_spider_minion_9",
+    "cave_spider_minion_10",
+    "cave_spider_minion_11"
+  ],
+  "collection_req": ["spider_eye", 1]
+}

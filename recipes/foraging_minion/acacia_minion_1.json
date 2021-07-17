@@ -1,0 +1,18 @@
+{
+  "name": "acacia_minion_1",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "wooden_axe"
+    },
+    {
+      "name": "acacia_wood",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "acacia_minion",
+    "tier": 1
+  },
+  "collection_req": ["acacia_wood", 1]
+}

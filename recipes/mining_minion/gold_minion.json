@@ -1,0 +1,18 @@
+{
+  "name": "gold_minion",
+  "category": "mining",
+  "recipes": [
+    "gold_minion_1",
+    "gold_minion_2",
+    "gold_minion_3",
+    "gold_minion_4",
+    "gold_minion_5",
+    "gold_minion_6",
+    "gold_minion_7",
+    "gold_minion_8",
+    "gold_minion_9",
+    "gold_minion_10",
+    "gold_minion_11"
+  ],
+  "collection_req": ["gold", 1]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "golden_plate",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "enchanted_gold_block",
+      "count": 2
+    },
+    {
+      "name": "glacite_jewel",
+      "count": 5
+    },
+    {
+      "name": "refined_diamond"
+    }
+  ],
+  "result": {
+    "name": "golden_plate"
+  }
+}

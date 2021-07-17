@@ -1,0 +1,18 @@
+{
+  "name": "nether_wart_minion",
+  "category": "farming",
+  "recipes": [
+    "nether_wart_minion_1",
+    "nether_wart_minion_2",
+    "nether_wart_minion_3",
+    "nether_wart_minion_4",
+    "nether_wart_minion_5",
+    "nether_wart_minion_6",
+    "nether_wart_minion_7",
+    "nether_wart_minion_8",
+    "nether_wart_minion_9",
+    "nether_wart_minion_10",
+    "nether_wart_minion_11"
+  ],
+  "collection_req": ["nether_wart", 1]
+}

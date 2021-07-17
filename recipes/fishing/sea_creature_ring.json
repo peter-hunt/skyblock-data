@@ -1,0 +1,21 @@
+{
+  "name": "sea_creature_ring",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "sea_creature_talisman"
+    },
+    {
+      "name": "enchanted_sponge",
+      "count": 2
+    },
+    {
+      "name": "sponge",
+      "count": 6
+    }
+  ],
+  "result": {
+    "name": "sea_creature_ring"
+  },
+  "collection_req": ["sponge", 6]
+}

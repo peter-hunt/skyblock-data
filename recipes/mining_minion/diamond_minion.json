@@ -1,0 +1,18 @@
+{
+  "name": "diamond_minion",
+  "category": "mining",
+  "recipes": [
+    "diamond_minion_1",
+    "diamond_minion_2",
+    "diamond_minion_3",
+    "diamond_minion_4",
+    "diamond_minion_5",
+    "diamond_minion_6",
+    "diamond_minion_7",
+    "diamond_minion_8",
+    "diamond_minion_9",
+    "diamond_minion_10",
+    "diamond_minion_11"
+  ],
+  "collection_req": ["diamond", 1]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sugar_cane_minion_7",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "sugar_cane_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_sugar",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "sugar_cane_minion",
+    "tier": 7
+  },
+  "collection_req": ["sugar_cane", 1]
+}

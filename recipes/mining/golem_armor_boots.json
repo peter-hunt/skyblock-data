@@ -1,0 +1,14 @@
+{
+  "name": "golem_armor_boots",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_iron",
+      "count": 40
+    }
+  ],
+  "result": {
+    "name": "golem_armor_boots"
+  },
+  "collection_req": ["iron", 6]
+}

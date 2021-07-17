@@ -1,0 +1,18 @@
+{
+  "name": "redstone_minion_1",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "wooden_pickaxe"
+    },
+    {
+      "name": "redstone",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "redstone_minion",
+    "tier": 1
+  },
+  "collection_req": ["redstone", 1]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "caster_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "whale_bait",
+      "count": 8
+    },
+    {
+      "name": "lily_pad",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "caster": 4
+    }
+  },
+  "collection_req": ["ink_sack", 5]
+}

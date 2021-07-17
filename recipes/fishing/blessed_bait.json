@@ -1,0 +1,19 @@
+{
+  "name": "blessed_bait",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "prismarine_crystals"
+    },
+    {
+      "name": "fish"
+    },
+    {
+      "name": "gold_block"
+    }
+  ],
+  "result": {
+    "name": "blessed_bait"
+  },
+  "collection_req": ["prismarine_crystals", 6]
+}

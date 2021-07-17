@@ -1,0 +1,13 @@
+{
+  "name": "leather_leggings",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "leather",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "leather_leggings"
+  }
+}

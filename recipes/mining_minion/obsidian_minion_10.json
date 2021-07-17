@@ -1,0 +1,19 @@
+{
+  "name": "obsidian_minion_10",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "obsidian_minion",
+      "tier": 9
+    },
+    {
+      "name": "enchanted_obsidian",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "obsidian_minion",
+    "tier": 10
+  },
+  "collection_req": ["obsidian", 1]
+}

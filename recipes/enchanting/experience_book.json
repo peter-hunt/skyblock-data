@@ -1,0 +1,21 @@
+{
+  "name": "experience_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 6
+    },
+    {
+      "name": "lapis",
+      "count": 2
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "experience": 2
+    }
+  },
+  "collection_req": ["lapis", 3]
+}

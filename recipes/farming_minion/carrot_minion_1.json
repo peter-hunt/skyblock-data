@@ -1,0 +1,18 @@
+{
+  "name": "carrot_minion_1",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "wooden_hoe"
+    },
+    {
+      "name": "carrot",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "carrot_minion",
+    "tier": 1
+  },
+  "collection_req": ["carrot", 1]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scroll_to_end",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_ender_pearl",
+      "count": 16
+    },
+    {
+      "name": "enchanted_obsidian",
+      "count": 48
+    },
+    {
+      "name": "enchanted_end_stone",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "travel_scroll_to_end"
+  },
+  "collection_req": ["end_stone", 8]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "carrot_minion_10",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "carrot_minion",
+      "tier": 9
+    },
+    {
+      "name": "enchanted_golden_carrot",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "carrot_minion",
+    "tier": 10
+  },
+  "collection_req": ["carrot", 1]
+}

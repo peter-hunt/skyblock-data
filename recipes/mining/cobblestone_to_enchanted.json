@@ -1,0 +1,14 @@
+{
+  "name": "cobblestone_to_enchanted",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "cobblestone",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_cobblestone"
+  },
+  "collection_req": ["cobblestone", 4]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pumpkin_armor",
+  "category": "farming",
+  "recipes": [
+    "pumpkin_helmet",
+    "pumpkin_chestplate",
+    "pumpkin_leggings",
+    "pumpkin_boots"
+  ],
+  "collection_req": ["pumpkin", 2]
+}

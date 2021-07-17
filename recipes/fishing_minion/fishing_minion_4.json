@@ -1,0 +1,19 @@
+{
+  "name": "fishing_minion_4",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fishing_minion",
+      "tier": 3
+    },
+    {
+      "name": "fish",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "fishing_minion",
+    "tier": 4
+  },
+  "collection_req": ["fish", 1]
+}

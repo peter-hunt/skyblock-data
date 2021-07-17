@@ -1,0 +1,21 @@
+{
+  "name": "looting_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 6
+    },
+    {
+      "name": "gold_block",
+      "count": 4
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "looting": 2
+    }
+  },
+  "collection_req": ["gold", 3]
+}

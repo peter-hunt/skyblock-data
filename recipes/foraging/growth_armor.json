@@ -1,0 +1,11 @@
+{
+  "name": "growth_armor",
+  "category": "foraging",
+  "recipes": [
+    "growth_helmet",
+    "growth_chestplate",
+    "growth_leggings",
+    "growth_boots"
+  ],
+  "collection_req": ["dark_oak_wood", 9]
+}

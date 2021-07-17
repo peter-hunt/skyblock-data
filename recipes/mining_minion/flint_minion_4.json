@@ -1,0 +1,19 @@
+{
+  "name": "flint_minion_4",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "flint_minion",
+      "tier": 3
+    },
+    {
+      "name": "flint",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "flint_minion",
+    "tier": 4
+  },
+  "collection_req": ["flint", 1]
+}

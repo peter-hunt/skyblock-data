@@ -1,0 +1,14 @@
+{
+  "name": "blaze_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_blaze_rod",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "blaze_chestplate"
+  },
+  "collection_req": ["blaze_rod", 8]
+}

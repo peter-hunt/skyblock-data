@@ -1,0 +1,24 @@
+{
+  "name": "refined_mithril_pickaxe",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "refined_mithril",
+      "count": 3
+    },
+    {
+      "name": "bejeweled_handle",
+      "count": 2
+    },
+    {
+      "name": "refined_diamond"
+    },
+    {
+      "name": "enchanted_gold",
+      "count": 30
+    }
+  ],
+  "result": {
+    "name": "refined_mithril_pickaxe"
+  }
+}

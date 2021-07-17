@@ -1,0 +1,14 @@
+{
+  "name": "clay_to_enchanted",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "clay",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_clay"
+  },
+  "collection_req": ["clay", 2]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zombies_heart",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_rotten_flesh",
+      "count": 256
+    }
+  ],
+  "result": {
+    "name": "zombies_heart"
+  },
+  "collection_req": ["rotten_flesh", 6]
+}

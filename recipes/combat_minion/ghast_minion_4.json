@@ -1,0 +1,19 @@
+{
+  "name": "ghast_minion_4",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "ghast_minion",
+      "tier": 3
+    },
+    {
+      "name": "ghast_tear",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "ghast_minion",
+    "tier": 4
+  },
+  "collection_req": ["ghast_tear", 1]
+}

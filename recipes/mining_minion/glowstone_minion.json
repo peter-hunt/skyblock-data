@@ -1,0 +1,18 @@
+{
+  "name": "glowstone_minion",
+  "category": "mining",
+  "recipes": [
+    "glowstone_minion_1",
+    "glowstone_minion_2",
+    "glowstone_minion_3",
+    "glowstone_minion_4",
+    "glowstone_minion_5",
+    "glowstone_minion_6",
+    "glowstone_minion_7",
+    "glowstone_minion_8",
+    "glowstone_minion_9",
+    "glowstone_minion_10",
+    "glowstone_minion_11"
+  ],
+  "collection_req": ["glowstone", 1]
+}

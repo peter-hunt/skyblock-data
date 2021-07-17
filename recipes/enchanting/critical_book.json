@@ -1,0 +1,21 @@
+{
+  "name": "critical_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 24
+    },
+    {
+      "name": "enchanted_diamond",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "critical": 4
+    }
+  },
+  "collection_req": ["diamond", 5]
+}

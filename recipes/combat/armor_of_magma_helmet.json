@@ -1,0 +1,14 @@
+{
+  "name": "armor_of_magma_helmet",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_magma_cream",
+      "count": 60
+    }
+  ],
+  "result": {
+    "name": "armor_of_magma_helmet"
+  },
+  "collection_req": ["magma_cream", 8]
+}

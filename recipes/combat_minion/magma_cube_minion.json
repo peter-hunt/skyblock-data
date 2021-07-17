@@ -1,0 +1,18 @@
+{
+  "name": "magma_cube_minion",
+  "category": "combat",
+  "recipes": [
+    "magma_cube_minion_1",
+    "magma_cube_minion_2",
+    "magma_cube_minion_3",
+    "magma_cube_minion_4",
+    "magma_cube_minion_5",
+    "magma_cube_minion_6",
+    "magma_cube_minion_7",
+    "magma_cube_minion_8",
+    "magma_cube_minion_9",
+    "magma_cube_minion_10",
+    "magma_cube_minion_11"
+  ],
+  "collection_req": ["magma_cream", 1]
+}

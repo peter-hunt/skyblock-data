@@ -1,0 +1,18 @@
+{
+  "name": "rabbit_minion",
+  "category": "farming",
+  "recipes": [
+    "rabbit_minion_1",
+    "rabbit_minion_2",
+    "rabbit_minion_3",
+    "rabbit_minion_4",
+    "rabbit_minion_5",
+    "rabbit_minion_6",
+    "rabbit_minion_7",
+    "rabbit_minion_8",
+    "rabbit_minion_9",
+    "rabbit_minion_10",
+    "rabbit_minion_11"
+  ],
+  "collection_req": ["rabbit", 1]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "wood_affinity_talisman",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "enchanted_oak"
+    },
+    {
+      "name": "oak_leaves",
+      "count": 8
+    }
+  ],
+  "result": {
+    "name": "wood_affinity_talisman"
+  },
+  "collection_req": ["oak_wood", 8]
+}

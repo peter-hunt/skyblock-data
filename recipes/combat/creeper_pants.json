@@ -1,0 +1,14 @@
+{
+  "name": "creeper_pants",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "enchanted_gunpowder",
+      "count": 224
+    }
+  ],
+  "result": {
+    "name": "creeper_pants"
+  },
+  "collection_req": ["gunpowder", 8]
+}

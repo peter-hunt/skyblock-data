@@ -1,0 +1,6 @@
+{
+  "name": "endermite_pet",
+  "category": "mining",
+  "recipes": ["uncommon_endermite_pet", "epic_endermite_pet"],
+  "collection_req": ["end_stone", 7]
+}

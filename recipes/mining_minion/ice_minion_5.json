@@ -1,0 +1,19 @@
+{
+  "name": "ice_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "ice_minion",
+      "tier": 4
+    },
+    {
+      "name": "packed_ice",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "ice_minion",
+    "tier": 5
+  },
+  "collection_req": ["ice", 1]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "scroll_to_park",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "enchanted_ender_pearl",
+      "count": 16
+    },
+    {
+      "name": "enchanted_birch",
+      "count": 128
+    }
+  ],
+  "result": {
+    "name": "travel_scroll_to_park"
+  },
+  "collection_req": ["birch_wood", 8]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "piercing_book",
+  "category": "enchanting",
+  "ingredients": [
+    {
+      "name": "paper",
+      "count": 3
+    },
+    {
+      "name": "cactus",
+      "count": 10
+    },
+    {
+      "name": "arrow"
+    }
+  ],
+  "result": {
+    "name": "enchanted_book",
+    "enchantments": {
+      "piercing": 1
+    }
+  },
+  "collection_req": ["cactus", 6]
+}

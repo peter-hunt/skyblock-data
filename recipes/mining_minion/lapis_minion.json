@@ -1,0 +1,18 @@
+{
+  "name": "lapis_minion",
+  "category": "mining",
+  "recipes": [
+    "lapis_minion_1",
+    "lapis_minion_2",
+    "lapis_minion_3",
+    "lapis_minion_4",
+    "lapis_minion_5",
+    "lapis_minion_6",
+    "lapis_minion_7",
+    "lapis_minion_8",
+    "lapis_minion_9",
+    "lapis_minion_10",
+    "lapis_minion_11"
+  ],
+  "collection_req": ["lapis", 1]
+}

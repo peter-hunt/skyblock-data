@@ -1,0 +1,16 @@
+{
+  "name": "titanium_artifact",
+  "category": "forging",
+  "ingredients": [
+    {
+      "name": "titanium_ring"
+    },
+    {
+      "name": "refined_titanium",
+      "count": 12
+    }
+  ],
+  "result": {
+    "name": "titanium_artifact"
+  }
+}

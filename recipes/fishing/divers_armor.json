@@ -1,0 +1,10 @@
+{
+  "name": "divers_armor",
+  "category": "fishing",
+  "recipes": [
+    "divers_helmet",
+    "divers_chestplate",
+    "divers_leggings",
+    "divers_boots"
+  ]
+}

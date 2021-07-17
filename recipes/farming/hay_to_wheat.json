@@ -1,0 +1,13 @@
+{
+  "name": "hay_to_wheat",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "hay_bale"
+    }
+  ],
+  "result": {
+    "name": "wheat",
+    "count": 9
+  }
+}

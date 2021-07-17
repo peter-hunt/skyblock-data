@@ -1,0 +1,13 @@
+{
+  "name": "oak_to_planks",
+  "category": "foraging",
+  "ingredients": [
+    {
+      "name": "oak_wood"
+    }
+  ],
+  "result": {
+    "name": "planks",
+    "count": 4
+  }
+}

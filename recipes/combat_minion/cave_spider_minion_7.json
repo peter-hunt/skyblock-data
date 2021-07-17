@@ -1,0 +1,19 @@
+{
+  "name": "cave_spider_minion_7",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "cave_spider_minion",
+      "tier": 6
+    },
+    {
+      "name": "enchanted_spider_eye",
+      "count": 64
+    }
+  ],
+  "result": {
+    "name": "cave_spider_minion",
+    "tier": 7
+  },
+  "collection_req": ["spider_eye", 1]
+}

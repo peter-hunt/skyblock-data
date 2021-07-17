@@ -1,0 +1,15 @@
+{
+  "name": "zombie_sword",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "zombies_heart",
+      "count": 2
+    },
+    Item('stick', count=1, rarity='common', abilities=[])
+  ],
+  "result": {
+    "name": "zombie_sword"
+  },
+  "collection_req": ["rotten_flesh", 7]
+}

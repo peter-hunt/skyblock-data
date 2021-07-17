@@ -1,0 +1,18 @@
+{
+  "name": "zombie_minion",
+  "category": "combat",
+  "recipes": [
+    "zombie_minion_1",
+    "zombie_minion_2",
+    "zombie_minion_3",
+    "zombie_minion_4",
+    "zombie_minion_5",
+    "zombie_minion_6",
+    "zombie_minion_7",
+    "zombie_minion_8",
+    "zombie_minion_9",
+    "zombie_minion_10",
+    "zombie_minion_11"
+  ],
+  "collection_req": ["rotten_flesh", 1]
+}

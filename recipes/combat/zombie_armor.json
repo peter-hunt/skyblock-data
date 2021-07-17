@@ -1,0 +1,6 @@
+{
+  "name": "zombie_armor",
+  "category": "combat",
+  "recipes": ["zombie_chestplate", "zombie_leggings", "zombie_boots"],
+  "collection_req": ["rotten_flesh", 8]
+}

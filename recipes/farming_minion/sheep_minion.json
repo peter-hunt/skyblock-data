@@ -1,0 +1,18 @@
+{
+  "name": "sheep_minion",
+  "category": "farming",
+  "recipes": [
+    "sheep_minion_1",
+    "sheep_minion_2",
+    "sheep_minion_3",
+    "sheep_minion_4",
+    "sheep_minion_5",
+    "sheep_minion_6",
+    "sheep_minion_7",
+    "sheep_minion_8",
+    "sheep_minion_9",
+    "sheep_minion_10",
+    "sheep_minion_11"
+  ],
+  "collection_req": ["mutton", 1]
+}

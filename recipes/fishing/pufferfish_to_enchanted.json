@@ -1,0 +1,14 @@
+{
+  "name": "pufferfish_to_enchanted",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "pufferfish",
+      "count": 160
+    }
+  ],
+  "result": {
+    "name": "enchanted_pufferfish"
+  },
+  "collection_req": ["pufferfish", 2]
+}

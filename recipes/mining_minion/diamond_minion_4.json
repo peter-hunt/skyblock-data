@@ -1,0 +1,19 @@
+{
+  "name": "diamond_minion_4",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "diamond_minion",
+      "tier": 3
+    },
+    {
+      "name": "diamond",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "diamond_minion",
+    "tier": 4
+  },
+  "collection_req": ["diamond", 1]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hardened_diamond_helmet",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_diamond",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "hardened_diamond_helmet"
+  },
+  "collection_req": ["diamond", 7]
+}

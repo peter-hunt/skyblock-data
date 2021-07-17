@@ -1,0 +1,18 @@
+{
+  "name": "flint_minion",
+  "category": "mining",
+  "recipes": [
+    "flint_minion_1",
+    "flint_minion_2",
+    "flint_minion_3",
+    "flint_minion_4",
+    "flint_minion_5",
+    "flint_minion_6",
+    "flint_minion_7",
+    "flint_minion_8",
+    "flint_minion_9",
+    "flint_minion_10",
+    "flint_minion_11"
+  ],
+  "collection_req": ["flint", 1]
+}

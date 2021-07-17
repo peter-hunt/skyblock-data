@@ -1,0 +1,14 @@
+{
+  "name": "angler_leggings",
+  "category": "fishing",
+  "ingredients": [
+    {
+      "name": "fish",
+      "count": 7
+    }
+  ],
+  "result": {
+    "name": "angler_leggings"
+  },
+  "collection_req": ["fish", 5]
+}

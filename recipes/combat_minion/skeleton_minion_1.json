@@ -1,0 +1,18 @@
+{
+  "name": "skeleton_minion_1",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "wooden_sword"
+    },
+    {
+      "name": "bone",
+      "count": 80
+    }
+  ],
+  "result": {
+    "name": "skeleton_minion",
+    "tier": 1
+  },
+  "collection_req": ["bone", 1]
+}

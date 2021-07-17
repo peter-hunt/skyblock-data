@@ -1,0 +1,19 @@
+{
+  "name": "sand_minion_4",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "sand_minion",
+      "tier": 3
+    },
+    {
+      "name": "sand",
+      "count": 512
+    }
+  ],
+  "result": {
+    "name": "sand_minion",
+    "tier": 4
+  },
+  "collection_req": ["sand", 1]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mushroom_armor",
+  "category": "farming",
+  "recipes": [
+    "mushroom_helmet",
+    "mushroom_chestplate",
+    "mushroom_leggings",
+    "mushroom_boots"
+  ],
+  "collection_req": ["mushroom", 3]
+}

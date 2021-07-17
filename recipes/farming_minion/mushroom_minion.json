@@ -1,0 +1,18 @@
+{
+  "name": "mushroom_minion",
+  "category": "farming",
+  "recipes": [
+    "mushroom_minion_1",
+    "mushroom_minion_2",
+    "mushroom_minion_3",
+    "mushroom_minion_4",
+    "mushroom_minion_5",
+    "mushroom_minion_6",
+    "mushroom_minion_7",
+    "mushroom_minion_8",
+    "mushroom_minion_9",
+    "mushroom_minion_10",
+    "mushroom_minion_11"
+  ],
+  "collection_req": ["mushroom", 1]
+}

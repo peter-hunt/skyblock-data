@@ -1,0 +1,18 @@
+{
+  "name": "blaze_minion",
+  "category": "combat",
+  "recipes": [
+    "blaze_minion_1",
+    "blaze_minion_2",
+    "blaze_minion_3",
+    "blaze_minion_4",
+    "blaze_minion_5",
+    "blaze_minion_6",
+    "blaze_minion_7",
+    "blaze_minion_8",
+    "blaze_minion_9",
+    "blaze_minion_10",
+    "blaze_minion_11"
+  ],
+  "collection_req": ["blaze_rod", 1]
+}

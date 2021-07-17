@@ -1,0 +1,13 @@
+{
+  "name": "diamond_helmet",
+  "category": "combat",
+  "ingredients": [
+    {
+      "name": "diamond",
+      "count": 5
+    }
+  ],
+  "result": {
+    "name": "diamond_helmet"
+  }
+}

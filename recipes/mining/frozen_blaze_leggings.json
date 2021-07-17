@@ -1,0 +1,17 @@
+{
+  "name": "frozen_blaze_leggings",
+  "category": "mining",
+  "ingredients": [
+    {
+      "name": "enchanted_packed_ice",
+      "count": 64
+    },
+    {
+      "name": "blaze_leggings"
+    }
+  ],
+  "result": {
+    "name": "frozen_blaze_leggings"
+  },
+  "collection_req": ["ice", 9]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "farm_armor",
+  "category": "farming",
+  "recipes": ["farm_helmet", "farm_chestplate", "farm_leggings", "farm_boots"],
+  "collection_req": ["wheat", 9]
+}

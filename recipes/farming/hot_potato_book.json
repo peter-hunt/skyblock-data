@@ -1,0 +1,17 @@
+{
+  "name": "hot_potato_book",
+  "category": "farming",
+  "ingredients": [
+    {
+      "name": "enchanted_baked_potato"
+    },
+    {
+      "name": "paper",
+      "count": 3
+    }
+  ],
+  "result": {
+    "name": "hot_potato_book"
+  },
+  "collection_req": ["potato", 8]
+}
