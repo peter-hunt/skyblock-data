@@ -1,0 +1,15 @@
+{
+  "name": "cobblestone",
+  "category": "mining",
+  "levels": [
+    [50, "cobblestone_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "cobblestone_to_enchanted"],
+    [2500, 250],
+    [5000, "silverfish_pet"],
+    [10000, "miners_outfit_armor"],
+    [25000, 2500],
+    [40000, "experience_artifact"]
+  ]
+}

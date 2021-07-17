@@ -1,0 +1,15 @@
+{
+  "name": "ink_sack",
+  "category": "fishing",
+  "levels": [
+    [20, "squid_hat"],
+    [40, "dark_bait"],
+    [100, "ink_sack_to_enchanted"],
+    [200, 20],
+    [400, "caster_book"],
+    [800, 80],
+    [1500, "angler_book"],
+    [2500, 250],
+    [4000, "ink_wand"]
+  ]
+}

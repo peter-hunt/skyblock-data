@@ -1,0 +1,11 @@
+{
+  "name": "netherrack",
+  "category": "mining",
+  "levels": [
+    [50, 5],
+    [250, 25],
+    [500, 50],
+    [1000, "netherrack_to_enchanted"],
+    [5000, 500]
+  ]
+}

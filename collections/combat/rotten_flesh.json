@@ -1,0 +1,15 @@
+{
+  "name": "rotten_flesh",
+  "category": "combat",
+  "levels": [
+    [50, "zombie_minion"],
+    [100, "zombie_pickaxe"],
+    [250, "smite_book"],
+    [1000, "rotten_flesh_to_enchanted"],
+    [2500, "zombie_hat"],
+    [5000, "zombies_heart"],
+    [10000, "zombie_sword"],
+    [25000, "zombie_armor"],
+    [50000, "zombie_pet"]
+  ]
+}

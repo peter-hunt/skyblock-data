@@ -1,0 +1,15 @@
+{
+  "name": "glowstone",
+  "category": "mining",
+  "levels": [
+    [50, "glowstone_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "glowstone_to_enchanted"],
+    [2500, 250],
+    [5000, "glowstone_to_enchanted_block"],
+    [10000, "glowstone_to_enchanted_lamp"],
+    [25000, 2500],
+    [50000, 5000]
+  ]
+}

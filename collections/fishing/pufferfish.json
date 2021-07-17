@@ -1,0 +1,15 @@
+{
+  "name": "pufferfish",
+  "category": "fishing",
+  "levels": [
+    [20, "pufferfish_hat"],
+    [50, "pufferfish_to_enchanted"],
+    [100, "cleave_book"],
+    [150, 15],
+    [400, "spiked_bait"],
+    [800, "spiked_hook_book"],
+    [2400, 240],
+    [4800, 480],
+    [9000, 900]
+  ]
+}

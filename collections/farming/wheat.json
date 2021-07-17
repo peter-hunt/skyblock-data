@@ -1,0 +1,17 @@
+{
+  "name": "wheat",
+  "category": "farming",
+  "levels": [
+    [50, "wheat_minion"],
+    [100, "harvesting_book"],
+    [250, "farm_suit_armor"],
+    [500, "farming_talisman"],
+    [1000, 100],
+    [2500, 250],
+    [10000, "hay_to_enchanted"],
+    [15000, 1500],
+    [25000, "farm_armor"],
+    [50000, 5000],
+    [100000, "hay_to_tighted"]
+  ]
+}

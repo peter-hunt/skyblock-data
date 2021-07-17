@@ -1,0 +1,13 @@
+{
+  "name": "sand",
+  "category": "mining",
+  "levels": [
+    [50, "sand_minion"],
+    [100, 10],
+    [250, 25],
+    [500, 50],
+    [1000, "sand_to_enchanted"],
+    [2500, 250],
+    [5000, 500]
+  ]
+}

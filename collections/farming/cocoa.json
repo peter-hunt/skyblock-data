@@ -1,0 +1,15 @@
+{
+  "name": "cocoa",
+  "category": "farming",
+  "levels": [
+    [75, "cocoa_minion"],
+    [200, 20],
+    [500, 50],
+    [2000, "cocoa_to_enchanted"],
+    [5000, "scroll_to_desert"],
+    [10000, "cocoa_to_enchanted_cookie"],
+    [20000, 2000],
+    [50000, 5000],
+    [100000, 10000]
+  ]
+}

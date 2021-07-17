@@ -1,0 +1,13 @@
+{
+  "name": "clownfish",
+  "category": "fishing",
+  "levels": [
+    [10, "clownfish_hat"],
+    [25, 2.5],
+    [50, "magnet_book"],
+    [100, 10],
+    [200, 20],
+    [400, 40],
+    [800, 80]
+  ]
+}

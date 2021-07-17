@@ -1,0 +1,15 @@
+{
+  "name": "flint",
+  "category": "mining",
+  "levels": [
+    [50, "flint_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "sharpness_book"],
+    [2500, "flint_to_enchanted"],
+    [5000, "first_strike_book"],
+    [10000, 1000],
+    [15000, "scroll_to_spider"],
+    [50000, 5000]
+  ]
+}

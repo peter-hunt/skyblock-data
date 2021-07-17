@@ -1,0 +1,15 @@
+{
+  "name": "chicken",
+  "category": "farming",
+  "levels": [
+    [50, "chicken_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "chicken_to_enchanted"],
+    [2500, "egg_to_enchanted"],
+    [5000, "chicken_pet"],
+    [10000, "enchanted_cake"],
+    [25000, 2500],
+    [50000, "egg_to_super_enchanted"]
+  ]
+}

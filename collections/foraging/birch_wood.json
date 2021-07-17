@@ -1,0 +1,15 @@
+{
+  "name": "birch_wood",
+  "category": "foraging",
+  "levels": [
+    [50, "birch_minion"],
+    [100, "birch_leaves"],
+    [250, 25],
+    [500, 50],
+    [1000, 100],
+    [2000, "birch_to_enchanted"],
+    [5000, 500],
+    [10000, "scroll_to_park"],
+    [25000, 2500]
+  ]
+}

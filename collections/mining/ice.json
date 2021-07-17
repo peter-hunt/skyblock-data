@@ -1,0 +1,16 @@
+{
+  "name": "ice",
+  "category": "mining",
+  "levels": [
+    [50, "ice_minion"],
+    [100, 10],
+    [250, "ice_to_packed"],
+    [500, "ice_to_enchanted"],
+    [1000, 100],
+    [5000, "ice_bait"],
+    [10000, "ice_to_enchanted_packed"],
+    [50000, "frozen_scythe"],
+    [100000, 10000],
+    [250000, 25000]
+  ]
+}

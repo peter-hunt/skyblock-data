@@ -1,0 +1,15 @@
+{
+  "name": "slime_ball",
+  "category": "combat",
+  "levels": [
+    [50, "slime_minion"],
+    [100, "slime_hat"],
+    [250, "knockback_book"],
+    [1000, 100],
+    [2500, "slime_ball_to_enchanted"],
+    [5000, "punch_book"],
+    [10000, 1000],
+    [25000, "slime_ball_to_enchanted_block"],
+    [50000, "slime_bow"]
+  ]
+}

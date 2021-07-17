@@ -1,0 +1,15 @@
+{
+  "name": "mithril",
+  "category": "mining",
+  "levels": [
+    [50, "mithril_minion"],
+    [250, 25],
+    [1000, "mithril_to_enchanted"],
+    [2500, 250],
+    [5000, "mithril_coat"],
+    [10000, 1000],
+    [250000, "mithril_golem_pet"],
+    [500000, 50000],
+    [1000000, 100000]
+  ]
+}

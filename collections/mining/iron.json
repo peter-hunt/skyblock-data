@@ -1,0 +1,18 @@
+{
+  "name": "iron",
+  "category": "mining",
+  "levels": [
+    [50, "iron_minion"],
+    [100, "golem_hat"],
+    [250, "protection_book"],
+    [1000, "iron_to_enchanted"],
+    [2500, 250],
+    [5000, "golem_armor"],
+    [10000, "iron_to_enchanted_block"],
+    [25000, "golem_sword"],
+    [50000, 5000],
+    [100000, 10000],
+    [200000, 20000],
+    [400000, 40000]
+  ]
+}

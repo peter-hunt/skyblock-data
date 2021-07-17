@@ -1,0 +1,17 @@
+{
+  "name": "pumpkin",
+  "category": "farming",
+  "levels": [
+    [40, "pumpkin_minion"],
+    [100, "pumpkin_armor"],
+    [250, "pumpkin_to_enchanted"],
+    [1000, "cubism_book"],
+    [2500, 250],
+    [5000, 500],
+    [10000, 1000],
+    [25000, 2500],
+    [50000, "farmer_boots"],
+    [100000, "pumpkin_to_polished"],
+    [250000, "ranchers_boots"]
+  ]
+}

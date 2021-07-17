@@ -1,0 +1,16 @@
+{
+  "name": "bone",
+  "category": "combat",
+  "levels": [
+    [50, "skeleton_minion"],
+    [100, 10],
+    [250, "power_book"],
+    [1000, "skeleton_hat"],
+    [2500, "bone_to_enchanted"],
+    [5000, "skeleton_pet"],
+    [10000, "hurricane_bow"],
+    [25000, "skeletons_helmet"],
+    [50000, "runaans_bow"],
+    [150000, "bone_to_enchanted_block"]
+  ]
+}

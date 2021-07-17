@@ -1,0 +1,15 @@
+{
+  "name": "oak_wood",
+  "category": "foraging",
+  "levels": [
+    [50, "oak_minion"],
+    [100, "oak_leaves"],
+    [250, "leaflet_armor"],
+    [500, 50],
+    [1000, 100],
+    [2000, "oak_to_enchanted"],
+    [5000, 500],
+    [10000, "wood_affinity_talisman"],
+    [30000, 3000]
+  ]
+}

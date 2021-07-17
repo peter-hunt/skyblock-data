@@ -1,0 +1,15 @@
+{
+  "name": "rabbit",
+  "category": "farming",
+  "levels": [
+    [50, "rabbit_minion"],
+    [100, "rabbit_pet"],
+    [250, 25],
+    [1000, "rabbit_foot_to_enchanted"],
+    [2500, "luck_book"],
+    [5000, "rabbit_hide_to_enchanted"],
+    [10000, "luck_of_the_sea_book"],
+    [25000, 2500],
+    [50000, 5000]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "obsidian",
+  "category": "mining",
+  "levels": [
+    [50, "obsidian_minion"],
+    [100, "lethality_book"],
+    [250, 25],
+    [1000, "obsidian_to_enchanted"],
+    [2500, 250],
+    [5000, 500],
+    [10000, 1000],
+    [25000, "treecapitator"],
+    [50000, 5000],
+    [100000, 10000]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jungle_wood",
+  "category": "foraging",
+  "levels": [
+    [50, "jungle_minion"],
+    [100, "jungle_leaves"],
+    [250, 25],
+    [1000, 100],
+    [2000, 200],
+    [5000, "jungle_to_enchanted"],
+    [10000, "jungle_axe"],
+    [25000, 2500],
+    [50000, "ocelot_pet"]
+  ]
+}

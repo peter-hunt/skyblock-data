@@ -1,0 +1,13 @@
+{
+  "name": "prismarine_crystals",
+  "category": "fishing",
+  "levels": [
+    [10, 1],
+    [25, "light_bait"],
+    [50, "prismarine_crystals_to_enchanted"],
+    [100, 10],
+    [200, "guardian_chestplate"],
+    [400, "blessed_bait"],
+    [800, "blessing_book"]
+  ]
+}

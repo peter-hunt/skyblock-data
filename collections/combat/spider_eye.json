@@ -1,0 +1,15 @@
+{
+  "name": "spider_eye",
+  "category": "combat",
+  "levels": [
+    [50, "cave_spider_minion"],
+    [100, "spider_sword"],
+    [250, "spider_hat"],
+    [1000, "spider_eye_to_enchanted"],
+    [2500, "bane_of_arthropods_book"],
+    [5000, 500],
+    [10000, "spider_eye_to_enchanted_fermented"],
+    [25000, 2500],
+    [50000, "leaping_sword"]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "melon",
+  "category": "farming",
+  "levels": [
+    [250, "melon_minion"],
+    [500, 50],
+    [1200, 120],
+    [5000, "melon_to_enchanted"],
+    [15500, "melon_to_enchanted_glistering"],
+    [25000, "melon_to_enchanted_block"],
+    [50000, 5000],
+    [100000, 10000],
+    [250000, 25000]
+  ]
+}

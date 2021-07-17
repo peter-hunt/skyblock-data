@@ -1,0 +1,15 @@
+{
+  "name": "lily_pad",
+  "category": "fishing",
+  "levels": [
+    [10, "spooky_bait"],
+    [50, "blobfish_hat"],
+    [100, "healing_talisman"],
+    [200, "lily_pad_to_enchanted"],
+    [500, "challenging_rod"],
+    [1500, "whale_bait"],
+    [3000, "rod_of_champions"],
+    [6000, "healing_ring"],
+    [10000, "rod_of_legends"]
+  ]
+}

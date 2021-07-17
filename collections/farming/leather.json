@@ -1,0 +1,16 @@
+{
+  "name": "leather",
+  "category": "farming",
+  "levels": [
+    [50, "cow_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "beef_to_enchanted"],
+    [2500, 250],
+    [5000, "leather_to_enchanted"],
+    [10000, 1000],
+    [25000, 2500],
+    [50000, "horse_pet"],
+    [100000, 10000]
+  ]
+}

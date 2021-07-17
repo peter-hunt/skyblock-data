@@ -1,0 +1,15 @@
+{
+  "name": "carrot",
+  "category": "farming",
+  "levels": [
+    [100, "carrot_minion"],
+    [250, 25],
+    [500, 50],
+    [1700, "carrot_to_enchanted"],
+    [5000, 500],
+    [10000, 1000],
+    [25000, "carrot_to_enchanted_golden"],
+    [50000, 5000],
+    [100000, 10000]
+  ]
+}

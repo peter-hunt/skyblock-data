@@ -1,0 +1,11 @@
+{
+  "name": "prismarine_shard",
+  "category": "fishing",
+  "levels": [
+    [10, "impaling_book"],
+    [25, "prismarine_blade"],
+    [50, "prismarine_shard_to_enchanted"],
+    [100, "prismarine_rod"],
+    [200, "prismarine_bow"]
+  ]
+}
