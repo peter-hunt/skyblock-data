@@ -1,0 +1,6 @@
+[
+  [{"name": "rotten_flesh"}, 1],
+  [{"name": "poisonous_potato"}, 0.02],
+  [{"name": "carrot"}, 0.01],
+  [{"name": "potato"}, 0.01]
+]

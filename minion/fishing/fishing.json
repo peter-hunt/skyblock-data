@@ -1,0 +1,9 @@
+[
+  [{"name": "fish"}, 1],
+  [{"name": "salmon"}, 0.25],
+  [{"name": "pufferfish"}, 0.12],
+  [{"name": "clownfish"}, 0.04],
+  [{"name": "prismarine_crystals"}, 0.03],
+  [{"name": "prismarine_shard"}, 0.03],
+  [{"name": "sponge"}, 0.03]
+]
