@@ -2,18 +2,9 @@
   "name": "lapis_minion_5",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "lapis_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_lapis",
-      "count": 64
-    }
+    {"name": "lapis_minion", "tier": 4},
+    {"name": "enchanted_lapis", "count": 64}
   ],
-  "result": {
-    "name": "lapis_minion",
-    "tier": 5
-  },
+  "result": {"name": "lapis_minion", "tier": 5},
   "collection_req": ["lapis", 1]
 }

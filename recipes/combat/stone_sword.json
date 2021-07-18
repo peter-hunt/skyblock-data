@@ -1,16 +1,6 @@
 {
   "name": "stone_sword",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "cobblestone",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
-  ],
-  "result": {
-    "name": "stone_sword"
-  }
+  "ingredients": [{"name": "cobblestone", "count": 2}, {"name": "stick"}],
+  "result": {"name": "stone_sword"}
 }

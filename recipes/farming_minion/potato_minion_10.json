@@ -2,18 +2,9 @@
   "name": "potato_minion_10",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "potato_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_baked_potato",
-      "count": 8
-    }
+    {"name": "potato_minion", "tier": 9},
+    {"name": "enchanted_baked_potato", "count": 8}
   ],
-  "result": {
-    "name": "potato_minion",
-    "tier": 10
-  },
+  "result": {"name": "potato_minion", "tier": 10},
   "collection_req": ["potato", 1]
 }

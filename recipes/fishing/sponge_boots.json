@@ -1,14 +1,7 @@
 {
   "name": "sponge_boots",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "enchanted_wet_sponge",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "sponge_boots"
-  },
+  "ingredients": [{"name": "enchanted_wet_sponge", "count": 4}],
+  "result": {"name": "sponge_boots"},
   "collection_req": ["sponge", 9]
 }

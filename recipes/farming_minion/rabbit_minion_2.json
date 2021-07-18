@@ -2,18 +2,9 @@
   "name": "rabbit_minion_2",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "rabbit_minion",
-      "tier": 1
-    },
-    {
-      "name": "rabbit",
-      "count": 128
-    }
+    {"name": "rabbit_minion", "tier": 1},
+    {"name": "rabbit", "count": 128}
   ],
-  "result": {
-    "name": "rabbit_minion",
-    "tier": 2
-  },
+  "result": {"name": "rabbit_minion", "tier": 2},
   "collection_req": ["rabbit", 1]
 }

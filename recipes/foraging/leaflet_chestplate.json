@@ -1,14 +1,7 @@
 {
   "name": "leaflet_chestplate",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "oak_leaves",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "leaflet_chestplate"
-  },
+  "ingredients": [{"name": "oak_leaves", "count": 8}],
+  "result": {"name": "leaflet_chestplate"},
   "collection_req": ["oak_wood", 3]
 }

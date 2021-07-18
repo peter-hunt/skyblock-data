@@ -1,14 +1,7 @@
 {
   "name": "emerald_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "emerald",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_emerald"
-  },
+  "ingredients": [{"name": "emerald", "count": 160}],
+  "result": {"name": "enchanted_emerald"},
   "collection_req": ["emerald", 4]
 }

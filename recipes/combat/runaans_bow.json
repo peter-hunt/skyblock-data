@@ -2,17 +2,9 @@
   "name": "runaans_bow",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_bone",
-      "count": 192
-    },
-    {
-      "name": "enchanted_string",
-      "count": 192
-    }
+    {"name": "enchanted_bone", "count": 192},
+    {"name": "enchanted_string", "count": 192}
   ],
-  "result": {
-    "name": "runaans_bow"
-  },
+  "result": {"name": "runaans_bow"},
   "collection_req": ["bone", 9]
 }

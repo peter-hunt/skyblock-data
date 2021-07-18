@@ -2,18 +2,9 @@
   "name": "dark_oak_minion_10",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "dark_oak_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_dark_oak",
-      "count": 256
-    }
+    {"name": "dark_oak_minion", "tier": 9},
+    {"name": "enchanted_dark_oak", "count": 256}
   ],
-  "result": {
-    "name": "dark_oak_minion",
-    "tier": 10
-  },
+  "result": {"name": "dark_oak_minion", "tier": 10},
   "collection_req": ["dark_oak_wood", 1]
 }

@@ -1,14 +1,7 @@
 {
   "name": "armor_of_magma_leggings",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_magma_cream",
-      "count": 84
-    }
-  ],
-  "result": {
-    "name": "armor_of_magma_leggings"
-  },
+  "ingredients": [{"name": "enchanted_magma_cream", "count": 84}],
+  "result": {"name": "armor_of_magma_leggings"},
   "collection_req": ["magma_cream", 8]
 }

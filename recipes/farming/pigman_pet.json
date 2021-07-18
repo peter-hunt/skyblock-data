@@ -2,17 +2,9 @@
   "name": "pigman_pet",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_grilled_pork",
-      "count": 8
-    },
-    {
-      "name": "super_enchanted_egg"
-    }
+    {"name": "enchanted_grilled_pork", "count": 8},
+    {"name": "super_enchanted_egg"}
   ],
-  "result": {
-    "name": "pigman_pet",
-    "rarity": "epic"
-  },
+  "result": {"name": "pigman_pet", "rarity": "epic"},
   "collection_req": ["pork", 8]
 }

@@ -1,13 +1,6 @@
 {
   "name": "iron_chestplate",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "iron_chestplate"
-  }
+  "ingredients": [{"name": "iron", "count": 8}],
+  "result": {"name": "iron_chestplate"}
 }

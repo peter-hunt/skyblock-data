@@ -1,13 +1,6 @@
 {
   "name": "jungle_to_planks",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "jungle_wood"
-    }
-  ],
-  "result": {
-    "name": "planks",
-    "count": 4
-  }
+  "ingredients": [{"name": "jungle_wood"}],
+  "result": {"name": "planks", "count": 4}
 }

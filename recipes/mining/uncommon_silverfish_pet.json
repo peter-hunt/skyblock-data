@@ -2,17 +2,9 @@
   "name": "uncommon_silverfish_pet",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_cobblestone",
-      "count": 64
-    },
-    {
-      "name": "enchanted_egg"
-    }
+    {"name": "enchanted_cobblestone", "count": 64},
+    {"name": "enchanted_egg"}
   ],
-  "result": {
-    "name": "silverfish_pet",
-    "rarity": "uncommon"
-  },
+  "result": {"name": "silverfish_pet", "rarity": "uncommon"},
   "collection_req": ["cobblestone", 6]
 }

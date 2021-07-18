@@ -2,18 +2,10 @@
   "name": "enchanted_cake",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_egg"
-    },
-    {
-      "name": "enchanted_sugar"
-    },
-    {
-      "name": "wheat"
-    }
+    {"name": "enchanted_egg"},
+    {"name": "enchanted_sugar"},
+    {"name": "wheat"}
   ],
-  "result": {
-    "name": "enchanted_cake"
-  },
+  "result": {"name": "enchanted_cake"},
   "collection_req": ["chicken", 7]
 }

@@ -1,14 +1,7 @@
 {
   "name": "prismarine_crystals_to_enchanted",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "prismarine_crystals",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "enchanted_prismarine_crystals"
-  },
+  "ingredients": [{"name": "prismarine_crystals", "count": 80}],
+  "result": {"name": "enchanted_prismarine_crystals"},
   "collection_req": ["prismarine_crystals", 3]
 }

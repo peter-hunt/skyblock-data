@@ -2,20 +2,9 @@
   "name": "giant_killer_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "ghast_tear",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "ghast_tear", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "giant_killer": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"giant_killer": 4}},
   "collection_req": ["ghast_tear", 3]
 }

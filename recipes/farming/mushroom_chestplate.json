@@ -1,14 +1,7 @@
 {
   "name": "mushroom_chestplate",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "mushroom",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "mushroom_chestplate"
-  },
+  "ingredients": [{"name": "mushroom", "count": 8}],
+  "result": {"name": "mushroom_chestplate"},
   "collection_req": ["mushroom", 3]
 }

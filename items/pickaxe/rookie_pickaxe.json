@@ -4,8 +4,6 @@
   "breaking_power": 2,
   "mining_speed": 180,
   "damage": 15,
-  "enchantments": {
-    "efficiency": 1
-  },
+  "enchantments": {"efficiency": 1},
   "type": "pickaxe"
 }

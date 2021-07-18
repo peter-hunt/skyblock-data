@@ -1,16 +1,6 @@
 {
   "name": "golden_apple",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "gold",
-      "count": 8
-    },
-    {
-      "name": "apple"
-    }
-  ],
-  "result": {
-    "name": "golden_apple"
-  }
+  "ingredients": [{"name": "gold", "count": 8}, {"name": "apple"}],
+  "result": {"name": "golden_apple"}
 }

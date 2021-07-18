@@ -2,18 +2,9 @@
   "name": "diamond_minion_3",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "diamond_minion",
-      "tier": 2
-    },
-    {
-      "name": "diamond",
-      "count": 320
-    }
+    {"name": "diamond_minion", "tier": 2},
+    {"name": "diamond", "count": 320}
   ],
-  "result": {
-    "name": "diamond_minion",
-    "tier": 3
-  },
+  "result": {"name": "diamond_minion", "tier": 3},
   "collection_req": ["diamond", 1]
 }

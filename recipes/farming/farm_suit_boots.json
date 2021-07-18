@@ -1,14 +1,7 @@
 {
   "name": "farm_suit_boots",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "hay_bale",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "farm_suit_boots"
-  },
+  "ingredients": [{"name": "hay_bale", "count": 4}],
+  "result": {"name": "farm_suit_boots"},
   "collection_req": ["wheat", 3]
 }

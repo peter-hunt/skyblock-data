@@ -1,17 +1,6 @@
 {
   "name": "gold_pickaxe",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "gold",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "golden_pickaxe"
-  }
+  "ingredients": [{"name": "gold", "count": 3}, {"name": "stick", "count": 2}],
+  "result": {"name": "golden_pickaxe"}
 }

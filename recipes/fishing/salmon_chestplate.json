@@ -1,14 +1,7 @@
 {
   "name": "salmon_chestplate",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "enchanted_salmon",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "salmon_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_salmon", "count": 8}],
+  "result": {"name": "salmon_chestplate"},
   "collection_req": ["salmon", 9]
 }

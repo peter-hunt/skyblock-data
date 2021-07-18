@@ -1,13 +1,6 @@
 {
   "name": "divers_shirt",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "emperors_skull",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "divers_shirt"
-  }
+  "ingredients": [{"name": "emperors_skull", "count": 8}],
+  "result": {"name": "divers_shirt"}
 }

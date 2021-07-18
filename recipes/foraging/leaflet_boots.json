@@ -1,14 +1,7 @@
 {
   "name": "leaflet_boots",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "oak_leaves",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "leaflet_boots"
-  },
+  "ingredients": [{"name": "oak_leaves", "count": 4}],
+  "result": {"name": "leaflet_boots"},
   "collection_req": ["oak_wood", 3]
 }

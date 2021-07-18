@@ -1,18 +1,7 @@
 {
   "name": "birch_minion_1",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "wooden_axe"
-    },
-    {
-      "name": "birch_wood",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "birch_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_axe"}, {"name": "birch_wood", "count": 80}],
+  "result": {"name": "birch_minion", "tier": 1},
   "collection_req": ["birch_wood", 1]
 }

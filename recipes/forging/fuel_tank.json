@@ -1,13 +1,6 @@
 {
   "name": "fuel_tank",
   "category": "forging",
-  "ingredients": [
-    {
-      "name": "enchanted_coal_block",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "fuel_tank"
-  }
+  "ingredients": [{"name": "enchanted_coal_block", "count": 2}],
+  "result": {"name": "fuel_tank"}
 }

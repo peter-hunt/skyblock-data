@@ -3,8 +3,6 @@
   "rarity": "epic",
   "breaking_power": 1,
   "mining_speed": 380,
-  "enchantments": {
-    "efficiency": 6
-  },
+  "enchantments": {"efficiency": 6},
   "type": "pickaxe"
 }

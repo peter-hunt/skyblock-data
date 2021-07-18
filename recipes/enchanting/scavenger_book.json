@@ -1,20 +1,7 @@
 {
   "name": "scavenger_book",
   "category": "enchanting",
-  "ingredients": [
-    {
-      "name": "paper",
-      "count": 6
-    },
-    {
-      "name": "gold_sword"
-    }
-  ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "scavenger": 2
-    }
-  },
+  "ingredients": [{"name": "paper", "count": 6}, {"name": "gold_sword"}],
+  "result": {"name": "enchanted_book", "enchantments": {"scavenger": 2}},
   "collection_req": ["gold", 6]
 }

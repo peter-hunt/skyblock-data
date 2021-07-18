@@ -2,18 +2,9 @@
   "name": "emerald_minion_10",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "emerald_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_emerald",
-      "count": 512
-    }
+    {"name": "emerald_minion", "tier": 9},
+    {"name": "enchanted_emerald", "count": 512}
   ],
-  "result": {
-    "name": "emerald_minion",
-    "tier": 10
-  },
+  "result": {"name": "emerald_minion", "tier": 10},
   "collection_req": ["emerald", 1]
 }

@@ -1,17 +1,6 @@
 {
   "name": "wooden_hoe",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "planks",
-      "count": 2
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "wooden_hoe"
-  }
+  "ingredients": [{"name": "planks", "count": 2}, {"name": "stick", "count": 2}],
+  "result": {"name": "wooden_hoe"}
 }

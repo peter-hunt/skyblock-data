@@ -1,18 +1,7 @@
 {
   "name": "gold_minion_1",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "wooden_pickaxe"
-    },
-    {
-      "name": "gold",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "gold_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_pickaxe"}, {"name": "gold", "count": 80}],
+  "result": {"name": "gold_minion", "tier": 1},
   "collection_req": ["gold", 1]
 }

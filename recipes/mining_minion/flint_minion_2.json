@@ -2,18 +2,9 @@
   "name": "flint_minion_2",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "flint_minion",
-      "tier": 1
-    },
-    {
-      "name": "flint",
-      "count": 160
-    }
+    {"name": "flint_minion", "tier": 1},
+    {"name": "flint", "count": 160}
   ],
-  "result": {
-    "name": "flint_minion",
-    "tier": 2
-  },
+  "result": {"name": "flint_minion", "tier": 2},
   "collection_req": ["flint", 1]
 }

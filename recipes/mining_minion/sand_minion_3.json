@@ -2,18 +2,9 @@
   "name": "sand_minion_3",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "sand_minion",
-      "tier": 2
-    },
-    {
-      "name": "sand",
-      "count": 320
-    }
+    {"name": "sand_minion", "tier": 2},
+    {"name": "sand", "count": 320}
   ],
-  "result": {
-    "name": "sand_minion",
-    "tier": 3
-  },
+  "result": {"name": "sand_minion", "tier": 3},
   "collection_req": ["sand", 1]
 }

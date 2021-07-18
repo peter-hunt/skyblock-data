@@ -2,16 +2,9 @@
   "name": "leaping_sword",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_fermented_spider_eye",
-      "count": 24
-    },
-    {
-      "name": "stick"
-    }
+    {"name": "enchanted_fermented_spider_eye", "count": 24},
+    {"name": "stick"}
   ],
-  "result": {
-    "name": "leaping_sword"
-  },
+  "result": {"name": "leaping_sword"},
   "collection_req": ["spider_eye", 9]
 }

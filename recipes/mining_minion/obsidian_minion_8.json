@@ -2,18 +2,9 @@
   "name": "obsidian_minion_8",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "obsidian_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_obsidian",
-      "count": 64
-    }
+    {"name": "obsidian_minion", "tier": 7},
+    {"name": "enchanted_obsidian", "count": 64}
   ],
-  "result": {
-    "name": "obsidian_minion",
-    "tier": 8
-  },
+  "result": {"name": "obsidian_minion", "tier": 8},
   "collection_req": ["obsidian", 1]
 }

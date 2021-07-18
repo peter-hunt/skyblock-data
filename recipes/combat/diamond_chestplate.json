@@ -1,13 +1,6 @@
 {
   "name": "diamond_chestplate",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "diamond",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "diamond_chestplate"
-  }
+  "ingredients": [{"name": "diamond", "count": 8}],
+  "result": {"name": "diamond_chestplate"}
 }

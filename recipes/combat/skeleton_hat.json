@@ -1,14 +1,7 @@
 {
   "name": "skeleton_hat",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "bone",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "skeleton_hat"
-  },
+  "ingredients": [{"name": "bone", "count": 8}],
+  "result": {"name": "skeleton_hat"},
   "collection_req": ["bone", 4]
 }

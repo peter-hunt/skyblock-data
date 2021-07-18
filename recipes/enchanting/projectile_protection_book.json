@@ -1,21 +1,10 @@
 {
   "name": "projectile_protection_book",
   "category": "enchanting",
-  "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "arrow",
-      "count": 8
-    }
-  ],
+  "ingredients": [{"name": "paper", "count": 24}, {"name": "arrow", "count": 8}],
   "result": {
     "name": "enchanted_book",
-    "enchantments": {
-      "projectile_protection": 4
-    }
+    "enchantments": {"projectile_protection": 4}
   },
   "collection_req": ["feather", 1]
 }

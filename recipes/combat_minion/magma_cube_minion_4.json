@@ -2,18 +2,9 @@
   "name": "magma_cube_minion_4",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "magma_cube_minion",
-      "tier": 3
-    },
-    {
-      "name": "magma_cream",
-      "count": 512
-    }
+    {"name": "magma_cube_minion", "tier": 3},
+    {"name": "magma_cream", "count": 512}
   ],
-  "result": {
-    "name": "magma_cube_minion",
-    "tier": 4
-  },
+  "result": {"name": "magma_cube_minion", "tier": 4},
   "collection_req": ["magma_cream", 1]
 }

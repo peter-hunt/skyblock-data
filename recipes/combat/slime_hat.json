@@ -1,14 +1,7 @@
 {
   "name": "slime_hat",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "slime_ball",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "slime_hat"
-  },
+  "ingredients": [{"name": "slime_ball", "count": 8}],
+  "result": {"name": "slime_hat"},
   "collection_req": ["slime_ball", 2]
 }

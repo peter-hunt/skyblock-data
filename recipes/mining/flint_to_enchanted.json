@@ -1,14 +1,7 @@
 {
   "name": "flint_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "flint",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_flint"
-  },
+  "ingredients": [{"name": "flint", "count": 160}],
+  "result": {"name": "enchanted_flint"},
   "collection_req": ["flint", 5]
 }

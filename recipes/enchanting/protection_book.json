@@ -1,21 +1,7 @@
 {
   "name": "protection_book",
   "category": "enchanting",
-  "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "iron",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "protection": 4
-    }
-  },
+  "ingredients": [{"name": "paper", "count": 24}, {"name": "iron", "count": 8}],
+  "result": {"name": "enchanted_book", "enchantments": {"protection": 4}},
   "collection_req": ["iron", 3]
 }

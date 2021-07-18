@@ -2,16 +2,8 @@
   "name": "stone_pickaxe",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "cobblestone",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "cobblestone", "count": 3},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "stone_pickaxe"
-  }
+  "result": {"name": "stone_pickaxe"}
 }

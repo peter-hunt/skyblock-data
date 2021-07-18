@@ -1,16 +1,6 @@
 {
   "name": "iron_sword",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
-  ],
-  "result": {
-    "name": "iron_sword"
-  }
+  "ingredients": [{"name": "iron", "count": 2}, {"name": "stick"}],
+  "result": {"name": "iron_sword"}
 }

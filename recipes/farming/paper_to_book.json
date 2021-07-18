@@ -1,16 +1,6 @@
 {
   "name": "paper_to_book",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "paper",
-      "count": 3
-    },
-    {
-      "name": "leather"
-    }
-  ],
-  "result": {
-    "name": "book"
-  }
+  "ingredients": [{"name": "paper", "count": 3}, {"name": "leather"}],
+  "result": {"name": "book"}
 }

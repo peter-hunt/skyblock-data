@@ -2,18 +2,9 @@
   "name": "ice_minion_3",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "ice_minion",
-      "tier": 2
-    },
-    {
-      "name": "ice",
-      "count": 320
-    }
+    {"name": "ice_minion", "tier": 2},
+    {"name": "ice", "count": 320}
   ],
-  "result": {
-    "name": "ice_minion",
-    "tier": 3
-  },
+  "result": {"name": "ice_minion", "tier": 3},
   "collection_req": ["ice", 1]
 }

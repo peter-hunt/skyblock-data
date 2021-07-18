@@ -1,16 +1,6 @@
 {
   "name": "diamond_sword",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "diamond",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
-  ],
-  "result": {
-    "name": "diamond_sword"
-  }
+  "ingredients": [{"name": "diamond", "count": 2}, {"name": "stick"}],
+  "result": {"name": "diamond_sword"}
 }

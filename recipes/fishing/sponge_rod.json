@@ -2,17 +2,9 @@
   "name": "sponge_rod",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "sponge",
-      "count": 3
-    },
-    {
-      "name": "string",
-      "count": 2
-    }
+    {"name": "sponge", "count": 3},
+    {"name": "string", "count": 2}
   ],
-  "result": {
-    "name": "sponge_rod"
-  },
+  "result": {"name": "sponge_rod"},
   "collection_req": ["sponge", 1]
 }

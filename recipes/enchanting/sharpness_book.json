@@ -2,23 +2,10 @@
   "name": "sharpness_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "flint",
-      "count": 8
-    },
-    {
-      "name": "iron_sword"
-    }
+    {"name": "paper", "count": 24},
+    {"name": "flint", "count": 8},
+    {"name": "iron_sword"}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "sharpness": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"sharpness": 4}},
   "collection_req": ["flint", 4]
 }

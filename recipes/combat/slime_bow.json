@@ -2,17 +2,9 @@
   "name": "slime_bow",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_slime_block",
-      "count": 15
-    },
-    {
-      "name": "enchanted_string",
-      "count": 3
-    }
+    {"name": "enchanted_slime_block", "count": 15},
+    {"name": "enchanted_string", "count": 3}
   ],
-  "result": {
-    "name": "slime_bow"
-  },
+  "result": {"name": "slime_bow"},
   "collection_req": ["slime_ball", 9]
 }

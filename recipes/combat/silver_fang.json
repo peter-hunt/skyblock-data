@@ -1,14 +1,7 @@
 {
   "name": "silver_fang",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_ghast_tear",
-      "count": 25
-    }
-  ],
-  "result": {
-    "name": "silver_fang"
-  },
+  "ingredients": [{"name": "enchanted_ghast_tear", "count": 25}],
+  "result": {"name": "silver_fang"},
   "collection_req": ["ghast_tear", 6]
 }

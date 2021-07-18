@@ -2,18 +2,9 @@
   "name": "acacia_minion_9",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "acacia_minion",
-      "tier": 8
-    },
-    {
-      "name": "enchanted_acacia",
-      "count": 128
-    }
+    {"name": "acacia_minion", "tier": 8},
+    {"name": "enchanted_acacia", "count": 128}
   ],
-  "result": {
-    "name": "acacia_minion",
-    "tier": 9
-  },
+  "result": {"name": "acacia_minion", "tier": 9},
   "collection_req": ["acacia_wood", 1]
 }

@@ -2,18 +2,9 @@
   "name": "lapis_minion_2",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "lapis_minion",
-      "tier": 1
-    },
-    {
-      "name": "lapis",
-      "count": 512
-    }
+    {"name": "lapis_minion", "tier": 1},
+    {"name": "lapis", "count": 512}
   ],
-  "result": {
-    "name": "lapis_minion",
-    "tier": 2
-  },
+  "result": {"name": "lapis_minion", "tier": 2},
   "collection_req": ["lapis", 1]
 }

@@ -1,14 +1,7 @@
 {
   "name": "armor_of_magma_chestplate",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_magma_cream",
-      "count": 96
-    }
-  ],
-  "result": {
-    "name": "armor_of_magma_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_magma_cream", "count": 96}],
+  "result": {"name": "armor_of_magma_chestplate"},
   "collection_req": ["magma_cream", 8]
 }

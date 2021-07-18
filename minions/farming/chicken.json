@@ -1,4 +1,1 @@
-[
-  [{"name": "chicken"}, 1],
-  [{"name": "feather"}, 1]
-]
+[[{"name": "chicken"}, 1], [{"name": "feather"}, 1]]

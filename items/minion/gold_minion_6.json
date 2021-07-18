@@ -1,7 +1,1 @@
-{
-  "name": "gold_minion",
-  "tier": 6,
-  "cooldown": 18,
-  "slots": 9,
-  "type": "minion"
-}
+{"name": "gold_minion", "tier": 6, "cooldown": 18, "slots": 9, "type": "minion"}

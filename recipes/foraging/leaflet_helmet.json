@@ -1,14 +1,7 @@
 {
   "name": "leaflet_helmet",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "oak_leaves",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "leaflet_helmet"
-  },
+  "ingredients": [{"name": "oak_leaves", "count": 5}],
+  "result": {"name": "leaflet_helmet"},
   "collection_req": ["oak_wood", 3]
 }

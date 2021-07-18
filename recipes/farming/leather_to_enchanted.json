@@ -1,14 +1,7 @@
 {
   "name": "leather_to_enchanted",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "leather",
-      "count": 576
-    }
-  ],
-  "result": {
-    "name": "enchanted_leather"
-  },
+  "ingredients": [{"name": "leather", "count": 576}],
+  "result": {"name": "enchanted_leather"},
   "collection_req": ["leather", 6]
 }

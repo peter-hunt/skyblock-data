@@ -2,19 +2,9 @@
   "name": "mithril_pickaxe",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "enchanted_mithril",
-      "count": 30
-    },
-    {
-      "name": "bejeweled_handle"
-    },
-    {
-      "name": "enchanted_gold",
-      "count": 10
-    }
+    {"name": "enchanted_mithril", "count": 30},
+    {"name": "bejeweled_handle"},
+    {"name": "enchanted_gold", "count": 10}
   ],
-  "result": {
-    "name": "mithril_pickaxe"
-  }
+  "result": {"name": "mithril_pickaxe"}
 }

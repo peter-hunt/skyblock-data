@@ -6,29 +6,8 @@
   "exp": 32,
   "fishing_exp": 75,
   "drops": [
-    [
-      {
-        "name": "lily_pad"
-      },
-      [1, 2],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "prismarine_shard"
-      },
-      [1, 3],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "prismarine_crystals"
-      },
-      [1, 3],
-      "common",
-      1
-    ]
+    [{"name": "lily_pad"}, [1, 2], "common", 1],
+    [{"name": "prismarine_shard"}, [1, 3], "common", 1],
+    [{"name": "prismarine_crystals"}, [1, 3], "common", 1]
   ]
 }

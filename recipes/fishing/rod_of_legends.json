@@ -2,16 +2,9 @@
   "name": "rod_of_legends",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "rod_of_champions"
-    },
-    {
-      "name": "enchanted_lily_pad",
-      "count": 128
-    }
+    {"name": "rod_of_champions"},
+    {"name": "enchanted_lily_pad", "count": 128}
   ],
-  "result": {
-    "name": "rod_of_legends"
-  },
+  "result": {"name": "rod_of_legends"},
   "collection_req": ["lily_pad", 9]
 }

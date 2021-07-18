@@ -2,20 +2,9 @@
   "name": "lethality_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "obsidian",
-      "count": 24
-    }
+    {"name": "paper", "count": 24},
+    {"name": "obsidian", "count": 24}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "lethality": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"lethality": 4}},
   "collection_req": ["obsidian", 2]
 }

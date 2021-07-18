@@ -2,17 +2,9 @@
   "name": "blobfish_hat",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "lily_pad",
-      "count": 5
-    },
-    {
-      "name": "clay",
-      "count": 4
-    }
+    {"name": "lily_pad", "count": 5},
+    {"name": "clay", "count": 4}
   ],
-  "result": {
-    "name": "blobfish_hat"
-  },
+  "result": {"name": "blobfish_hat"},
   "collection_req": ["lily_pad", 2]
 }

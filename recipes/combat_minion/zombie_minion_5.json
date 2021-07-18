@@ -2,18 +2,9 @@
   "name": "zombie_minion_5",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "zombie_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_rotten_flesh",
-      "count": 8
-    }
+    {"name": "zombie_minion", "tier": 4},
+    {"name": "enchanted_rotten_flesh", "count": 8}
   ],
-  "result": {
-    "name": "zombie_minion",
-    "tier": 5
-  },
+  "result": {"name": "zombie_minion", "tier": 5},
   "collection_req": ["rotten_flesh", 1]
 }

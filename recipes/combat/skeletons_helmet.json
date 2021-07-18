@@ -1,14 +1,7 @@
 {
   "name": "skeletons_helmet",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_bone",
-      "count": 320
-    }
-  ],
-  "result": {
-    "name": "skeletons_helmet"
-  },
+  "ingredients": [{"name": "enchanted_bone", "count": 320}],
+  "result": {"name": "skeletons_helmet"},
   "collection_req": ["bone", 8]
 }

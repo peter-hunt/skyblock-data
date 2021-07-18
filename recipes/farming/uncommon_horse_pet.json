@@ -2,17 +2,9 @@
   "name": "uncommon_horse_pet",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_leather",
-      "count": 8
-    },
-    {
-      "name": "enchanted_egg"
-    }
+    {"name": "enchanted_leather", "count": 8},
+    {"name": "enchanted_egg"}
   ],
-  "result": {
-    "name": "horse_pet",
-    "rarity": "uncommon"
-  },
+  "result": {"name": "horse_pet", "rarity": "uncommon"},
   "collection_req": ["leather", 9]
 }

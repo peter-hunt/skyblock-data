@@ -9,10 +9,7 @@
     [5000, "ender_bow"],
     [10000, "ender_pearl_to_enchanted_eye"],
     [15000, 1500],
-    [
-      25000,
-      ["aspect_of_the_end", "ender_pearl_to_absolute"]
-    ],
+    [25000, ["aspect_of_the_end", "ender_pearl_to_absolute"]],
     [50000, "saving_grace"]
   ]
 }

@@ -1,17 +1,7 @@
 {
   "name": "grand_experience_bottle",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_lapis",
-      "count": 6
-    },
-    {
-      "name": "bottle"
-    }
-  ],
-  "result": {
-    "name": "grand_experience_bottle"
-  },
+  "ingredients": [{"name": "enchanted_lapis", "count": 6}, {"name": "bottle"}],
+  "result": {"name": "grand_experience_bottle"},
   "collection_req": ["lapis", 5]
 }

@@ -1,14 +1,7 @@
 {
   "name": "perfect_boots",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_diamond_block",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "perfect_boots"
-  },
+  "ingredients": [{"name": "enchanted_diamond_block", "count": 4}],
+  "result": {"name": "perfect_boots"},
   "collection_req": ["diamond", 9]
 }

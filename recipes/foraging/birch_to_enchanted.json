@@ -1,14 +1,7 @@
 {
   "name": "birch_to_enchanted",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "birch_wood",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_birch"
-  },
+  "ingredients": [{"name": "birch_wood", "count": 160}],
+  "result": {"name": "enchanted_birch"},
   "collection_req": ["birch_wood", 6]
 }

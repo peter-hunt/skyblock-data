@@ -1,15 +1,6 @@
 {
   "name": "carrot_bait",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "carrot"
-    },
-    {
-      "name": "fish"
-    }
-  ],
-  "result": {
-    "name": "carrot_bait"
-  }
+  "ingredients": [{"name": "carrot"}, {"name": "fish"}],
+  "result": {"name": "carrot_bait"}
 }

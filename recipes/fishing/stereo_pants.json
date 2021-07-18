@@ -2,17 +2,9 @@
   "name": "stereo_pants",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "enchanted_sponge",
-      "count": 3
-    },
-    {
-      "name": "prismarine_shard",
-      "count": 4
-    }
+    {"name": "enchanted_sponge", "count": 3},
+    {"name": "prismarine_shard", "count": 4}
   ],
-  "result": {
-    "name": "stereo_pants"
-  },
+  "result": {"name": "stereo_pants"},
   "collection_req": ["sponge", 5]
 }

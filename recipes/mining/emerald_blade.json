@@ -2,16 +2,9 @@
   "name": "emerald_blade",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_emerald_block",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
+    {"name": "enchanted_emerald_block", "count": 2},
+    {"name": "stick"}
   ],
-  "result": {
-    "name": "emerald_blade"
-  },
+  "result": {"name": "emerald_blade"},
   "collection_req": ["emerald", 8]
 }

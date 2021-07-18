@@ -2,17 +2,9 @@
   "name": "uncommon_endermite_pet",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_end_stone",
-      "count": 512
-    },
-    {
-      "name": "enchanted_egg"
-    }
+    {"name": "enchanted_end_stone", "count": 512},
+    {"name": "enchanted_egg"}
   ],
-  "result": {
-    "name": "endermite_pet",
-    "rarity": "uncommon"
-  },
+  "result": {"name": "endermite_pet", "rarity": "uncommon"},
   "collection_req": ["end_stone", 7]
 }

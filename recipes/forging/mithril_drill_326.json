@@ -2,19 +2,9 @@
   "name": "mithril_drill_326",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "mithril_drill_226"
-    },
-    {
-      "name": "golden_plate",
-      "count": 10
-    },
-    {
-      "name": "mithril_plate",
-      "count": 2
-    }
+    {"name": "mithril_drill_226"},
+    {"name": "golden_plate", "count": 10},
+    {"name": "mithril_plate", "count": 2}
   ],
-  "result": {
-    "name": "mithril_drill_326"
-  }
+  "result": {"name": "mithril_drill_326"}
 }

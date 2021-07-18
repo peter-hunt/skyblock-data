@@ -1,13 +1,6 @@
 {
   "name": "redstone_to_block",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "redstone",
-      "count": 9
-    }
-  ],
-  "result": {
-    "name": "redstone_block"
-  }
+  "ingredients": [{"name": "redstone", "count": 9}],
+  "result": {"name": "redstone_block"}
 }

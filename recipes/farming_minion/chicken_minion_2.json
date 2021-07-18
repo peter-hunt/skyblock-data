@@ -2,18 +2,9 @@
   "name": "chicken_minion_2",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "chicken_minion",
-      "tier": 1
-    },
-    {
-      "name": "chicken",
-      "count": 128
-    }
+    {"name": "chicken_minion", "tier": 1},
+    {"name": "chicken", "count": 128}
   ],
-  "result": {
-    "name": "chicken_minion",
-    "tier": 2
-  },
+  "result": {"name": "chicken_minion", "tier": 2},
   "collection_req": ["chicken", 1]
 }

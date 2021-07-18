@@ -1,14 +1,7 @@
 {
   "name": "beef_to_enchanted",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "beef",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_beef"
-  },
+  "ingredients": [{"name": "beef", "count": 160}],
+  "result": {"name": "enchanted_beef"},
   "collection_req": ["leather", 4]
 }

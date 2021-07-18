@@ -1,18 +1,7 @@
 {
   "name": "diamond_minion_1",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "wooden_pickaxe"
-    },
-    {
-      "name": "diamond",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "diamond_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_pickaxe"}, {"name": "diamond", "count": 80}],
+  "result": {"name": "diamond_minion", "tier": 1},
   "collection_req": ["diamond", 1]
 }

@@ -2,17 +2,9 @@
   "name": "zombie_sword",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "zombies_heart",
-      "count": 2
-    },
-    {
-      "name": "stick",
-      "count": 1
-    }
+    {"name": "zombies_heart", "count": 2},
+    {"name": "stick", "count": 1}
   ],
-  "result": {
-    "name": "zombie_sword"
-  },
+  "result": {"name": "zombie_sword"},
   "collection_req": ["rotten_flesh", 7]
 }

@@ -1,15 +1,6 @@
 {
   "name": "firework_rocket",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gunpowder"
-    },
-    {
-      "name": "paper"
-    }
-  ],
-  "result": {
-    "name": "firework_rocket"
-  }
+  "ingredients": [{"name": "gunpowder"}, {"name": "paper"}],
+  "result": {"name": "firework_rocket"}
 }

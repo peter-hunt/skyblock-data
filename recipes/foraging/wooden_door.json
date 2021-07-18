@@ -1,13 +1,6 @@
 {
   "name": "wooden_door",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "planks",
-      "count": 6
-    }
-  ],
-  "result": {
-    "name": "wooden_door"
-  }
+  "ingredients": [{"name": "planks", "count": 6}],
+  "result": {"name": "wooden_door"}
 }

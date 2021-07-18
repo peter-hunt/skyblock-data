@@ -6,37 +6,9 @@
   "exp": 41,
   "fishing_exp": 169,
   "drops": [
-    [
-      {
-        "name": "bone"
-      },
-      [1, 6],
-      "common",
-      0.14285714285714285
-    ],
-    [
-      {
-        "name": "enchanted_bone"
-      },
-      1,
-      "common",
-      0.8571428571428571
-    ],
-    [
-      {
-        "name": "fish"
-      },
-      [2, 3],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "lily_pad"
-      },
-      [2, 4],
-      "common",
-      1
-    ]
+    [{"name": "bone"}, [1, 6], "common", 0.14285714285714285],
+    [{"name": "enchanted_bone"}, 1, "common", 0.8571428571428571],
+    [{"name": "fish"}, [2, 3], "common", 1],
+    [{"name": "lily_pad"}, [2, 4], "common", 1]
   ]
 }

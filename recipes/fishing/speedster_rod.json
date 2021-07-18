@@ -2,17 +2,9 @@
   "name": "speedster_rod",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "salmon",
-      "count": 96
-    },
-    {
-      "name": "string",
-      "count": 2
-    }
+    {"name": "salmon", "count": 96},
+    {"name": "string", "count": 2}
   ],
-  "result": {
-    "name": "speedster_rod"
-  },
+  "result": {"name": "speedster_rod"},
   "collection_req": ["salmon", 5]
 }

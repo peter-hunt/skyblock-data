@@ -1,14 +1,7 @@
 {
   "name": "blaze_rod_to_enchanted_powder",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "blaze_rod",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_blaze_powder"
-  },
+  "ingredients": [{"name": "blaze_rod", "count": 160}],
+  "result": {"name": "enchanted_blaze_powder"},
   "collection_req": ["blaze_rod", 4]
 }

@@ -2,17 +2,9 @@
   "name": "prismarine_bow",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "prismarine_shard",
-      "count": 48
-    },
-    {
-      "name": "string",
-      "count": 3
-    }
+    {"name": "prismarine_shard", "count": 48},
+    {"name": "string", "count": 3}
   ],
-  "result": {
-    "name": "prismarine_bow"
-  },
+  "result": {"name": "prismarine_bow"},
   "collection_req": ["prismarine_shard", 5]
 }

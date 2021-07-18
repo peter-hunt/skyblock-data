@@ -1,14 +1,7 @@
 {
   "name": "farm_suit_helmet",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "hay_bale",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "farm_suit_helmet"
-  },
+  "ingredients": [{"name": "hay_bale", "count": 5}],
+  "result": {"name": "farm_suit_helmet"},
   "collection_req": ["wheat", 3]
 }

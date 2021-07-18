@@ -1,7 +1,1 @@
-{
-  "name": "coal_minion",
-  "tier": 7,
-  "cooldown": 10,
-  "slots": 9,
-  "type": "minion"
-}
+{"name": "coal_minion", "tier": 7, "cooldown": 10, "slots": 9, "type": "minion"}

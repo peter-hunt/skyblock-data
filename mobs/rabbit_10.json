@@ -5,29 +5,8 @@
   "exp": 2,
   "farming_exp": 2,
   "drops": [
-    [
-      {
-        "name": "rabbit"
-      },
-      1,
-      "common",
-      0.6
-    ],
-    [
-      {
-        "name": "rabbit_hide"
-      },
-      1,
-      "common",
-      0.3
-    ],
-    [
-      {
-        "name": "rabbit_foot"
-      },
-      1,
-      "uncommon",
-      0.1
-    ]
+    [{"name": "rabbit"}, 1, "common", 0.6],
+    [{"name": "rabbit_hide"}, 1, "common", 0.3],
+    [{"name": "rabbit_foot"}, 1, "uncommon", 0.1]
   ]
 }

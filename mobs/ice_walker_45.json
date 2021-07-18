@@ -8,37 +8,9 @@
   "exp": 35,
   "combat_exp": 40,
   "drops": [
-    [
-      {
-        "name": "glacite_helmet"
-      },
-      1,
-      "pray_rngesus",
-      0.0025
-    ],
-    [
-      {
-        "name": "glacite_chestplate"
-      },
-      1,
-      "pray_rngesus",
-      0.0025
-    ],
-    [
-      {
-        "name": "glacite_leggings"
-      },
-      1,
-      "pray_rngesus",
-      0.0025
-    ],
-    [
-      {
-        "name": "glacite_boots"
-      },
-      1,
-      "pray_rngesus",
-      0.0025
-    ]
+    [{"name": "glacite_helmet"}, 1, "pray_rngesus", 0.0025],
+    [{"name": "glacite_chestplate"}, 1, "pray_rngesus", 0.0025],
+    [{"name": "glacite_leggings"}, 1, "pray_rngesus", 0.0025],
+    [{"name": "glacite_boots"}, 1, "pray_rngesus", 0.0025]
   ]
 }

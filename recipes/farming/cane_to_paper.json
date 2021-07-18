@@ -1,14 +1,6 @@
 {
   "name": "cane_to_paper",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "sugar_cane",
-      "count": 3
-    }
-  ],
-  "result": {
-    "name": "paper",
-    "count": 3
-  }
+  "ingredients": [{"name": "sugar_cane", "count": 3}],
+  "result": {"name": "paper", "count": 3}
 }

@@ -2,17 +2,9 @@
   "name": "savanna_bow",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "enchanted_acacia",
-      "count": 3
-    },
-    {
-      "name": "enchanted_string",
-      "count": 3
-    }
+    {"name": "enchanted_acacia", "count": 3},
+    {"name": "enchanted_string", "count": 3}
   ],
-  "result": {
-    "name": "savanna_bow"
-  },
+  "result": {"name": "savanna_bow"},
   "collection_req": ["acacia_wood", 7]
 }

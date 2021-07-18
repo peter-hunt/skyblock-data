@@ -2,18 +2,9 @@
   "name": "iron_minion_4",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "iron_minion",
-      "tier": 3
-    },
-    {
-      "name": "iron",
-      "count": 512
-    }
+    {"name": "iron_minion", "tier": 3},
+    {"name": "iron", "count": 512}
   ],
-  "result": {
-    "name": "iron_minion",
-    "tier": 4
-  },
+  "result": {"name": "iron_minion", "tier": 4},
   "collection_req": ["iron", 1]
 }

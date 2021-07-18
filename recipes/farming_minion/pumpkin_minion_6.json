@@ -2,18 +2,9 @@
   "name": "pumpkin_minion_6",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "pumpkin_minion",
-      "tier": 5
-    },
-    {
-      "name": "enchanted_pumpkin",
-      "count": 16
-    }
+    {"name": "pumpkin_minion", "tier": 5},
+    {"name": "enchanted_pumpkin", "count": 16}
   ],
-  "result": {
-    "name": "pumpkin_minion",
-    "tier": 6
-  },
+  "result": {"name": "pumpkin_minion", "tier": 6},
   "collection_req": ["pumpkin", 1]
 }

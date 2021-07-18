@@ -2,18 +2,9 @@
   "name": "cave_spider_minion_2",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "cave_spider_minion",
-      "tier": 1
-    },
-    {
-      "name": "spider_eye",
-      "count": 160
-    }
+    {"name": "cave_spider_minion", "tier": 1},
+    {"name": "spider_eye", "count": 160}
   ],
-  "result": {
-    "name": "cave_spider_minion",
-    "tier": 2
-  },
+  "result": {"name": "cave_spider_minion", "tier": 2},
   "collection_req": ["spider_eye", 1]
 }

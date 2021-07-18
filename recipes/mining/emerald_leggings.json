@@ -1,14 +1,7 @@
 {
   "name": "emerald_leggings",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_emerald_block",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "emerald_leggings"
-  },
+  "ingredients": [{"name": "enchanted_emerald_block", "count": 7}],
+  "result": {"name": "emerald_leggings"},
   "collection_req": ["emerald", 9]
 }

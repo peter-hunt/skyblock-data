@@ -2,17 +2,9 @@
   "name": "zombie_pickaxe",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "rotten_flesh",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "rotten_flesh", "count": 3},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "zombie_pickaxe"
-  },
+  "result": {"name": "zombie_pickaxe"},
   "collection_req": ["rotten_flesh", 2]
 }

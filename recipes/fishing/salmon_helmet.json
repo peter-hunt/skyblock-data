@@ -1,14 +1,7 @@
 {
   "name": "salmon_helmet",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "enchanted_salmon",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "salmon_helmet"
-  },
+  "ingredients": [{"name": "enchanted_salmon", "count": 5}],
+  "result": {"name": "salmon_helmet"},
   "collection_req": ["salmon", 9]
 }

@@ -1,14 +1,7 @@
 {
   "name": "mithril_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "mithril",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_mithril"
-  },
+  "ingredients": [{"name": "mithril", "count": 160}],
+  "result": {"name": "enchanted_mithril"},
   "collection_req": ["mithril", 3]
 }

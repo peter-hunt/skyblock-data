@@ -2,18 +2,9 @@
   "name": "magma_cube_minion_5",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "magma_cube_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_blaze_powder",
-      "count": 8
-    }
+    {"name": "magma_cube_minion", "tier": 4},
+    {"name": "enchanted_blaze_powder", "count": 8}
   ],
-  "result": {
-    "name": "magma_cube_minion",
-    "tier": 5
-  },
+  "result": {"name": "magma_cube_minion", "tier": 5},
   "collection_req": ["magma_cream", 1]
 }

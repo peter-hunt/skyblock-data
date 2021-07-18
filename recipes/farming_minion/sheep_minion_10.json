@@ -2,18 +2,9 @@
   "name": "sheep_minion_10",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "sheep_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_mutton",
-      "count": 512
-    }
+    {"name": "sheep_minion", "tier": 9},
+    {"name": "enchanted_mutton", "count": 512}
   ],
-  "result": {
-    "name": "sheep_minion",
-    "tier": 10
-  },
+  "result": {"name": "sheep_minion", "tier": 10},
   "collection_req": ["mutton", 1]
 }

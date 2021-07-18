@@ -2,18 +2,9 @@
   "name": "creeper_minion_10",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "creeper_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_gunpowder",
-      "count": 512
-    }
+    {"name": "creeper_minion", "tier": 9},
+    {"name": "enchanted_gunpowder", "count": 512}
   ],
-  "result": {
-    "name": "creeper_minion",
-    "tier": 10
-  },
+  "result": {"name": "creeper_minion", "tier": 10},
   "collection_req": ["gunpowder", 1]
 }

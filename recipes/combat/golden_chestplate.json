@@ -1,13 +1,6 @@
 {
   "name": "golden_chestplate",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gold",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "golden_chestplate"
-  }
+  "ingredients": [{"name": "gold", "count": 8}],
+  "result": {"name": "golden_chestplate"}
 }

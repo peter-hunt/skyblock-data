@@ -1,14 +1,7 @@
 {
   "name": "cactus_chestplate",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "cactus",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "cactus_chestplate"
-  },
+  "ingredients": [{"name": "cactus", "count": 8}],
+  "result": {"name": "cactus_chestplate"},
   "collection_req": ["cactus", 2]
 }

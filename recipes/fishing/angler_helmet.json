@@ -1,14 +1,7 @@
 {
   "name": "angler_helmet",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "fish",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "angler_helmet"
-  },
+  "ingredients": [{"name": "fish", "count": 5}],
+  "result": {"name": "angler_helmet"},
   "collection_req": ["fish", 5]
 }

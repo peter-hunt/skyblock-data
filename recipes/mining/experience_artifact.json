@@ -1,14 +1,7 @@
 {
   "name": "experience_artifact",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_lapis_block",
-      "count": 9
-    }
-  ],
-  "result": {
-    "name": "experience_artifact"
-  },
+  "ingredients": [{"name": "enchanted_lapis_block", "count": 9}],
+  "result": {"name": "experience_artifact"},
   "collection_req": ["lapis", 9]
 }

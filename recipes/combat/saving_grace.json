@@ -2,17 +2,9 @@
   "name": "saving_grace",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 128
-    },
-    {
-      "name": "enchanted_golden_apple",
-      "count": 16
-    }
+    {"name": "enchanted_ender_pearl", "count": 128},
+    {"name": "enchanted_golden_apple", "count": 16}
   ],
-  "result": {
-    "name": "saving_grace"
-  },
+  "result": {"name": "saving_grace"},
   "collection_req": ["ender_pearl", 9]
 }

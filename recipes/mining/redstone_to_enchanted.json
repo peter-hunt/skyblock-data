@@ -1,14 +1,7 @@
 {
   "name": "redstone_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "redstone",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_redstone"
-  },
+  "ingredients": [{"name": "redstone", "count": 160}],
+  "result": {"name": "enchanted_redstone"},
   "collection_req": ["redstone", 4]
 }

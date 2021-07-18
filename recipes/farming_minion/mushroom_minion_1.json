@@ -2,17 +2,9 @@
   "name": "mushroom_minion_1",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "wooden_hoe"
-    },
-    {
-      "name": "mushroom_block",
-      "count": 80
-    }
+    {"name": "wooden_hoe"},
+    {"name": "mushroom_block", "count": 80}
   ],
-  "result": {
-    "name": "mushroom_minion",
-    "tier": 1
-  },
+  "result": {"name": "mushroom_minion", "tier": 1},
   "collection_req": ["mushroom", 1]
 }

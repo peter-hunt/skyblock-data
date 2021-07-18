@@ -2,16 +2,8 @@
   "name": "stone_hoe",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "cobblestone",
-      "count": 2
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "cobblestone", "count": 2},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "stone_hoe"
-  }
+  "result": {"name": "stone_hoe"}
 }

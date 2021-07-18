@@ -6,14 +6,5 @@
   "coins": 5,
   "exp": 3,
   "combat_exp": 4,
-  "drops": [
-    [
-      {
-        "name": "slime_ball"
-      },
-      1,
-      "common",
-      1
-    ]
-  ]
+  "drops": [[{"name": "slime_ball"}, 1, "common", 1]]
 }

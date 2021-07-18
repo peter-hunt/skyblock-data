@@ -1,13 +1,6 @@
 {
   "name": "golden_boots",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gold",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "golden_boots"
-  }
+  "ingredients": [{"name": "gold", "count": 4}],
+  "result": {"name": "golden_boots"}
 }

@@ -2,18 +2,9 @@
   "name": "cactus_minion_8",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "cactus_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_cactus_green",
-      "count": 256
-    }
+    {"name": "cactus_minion", "tier": 7},
+    {"name": "enchanted_cactus_green", "count": 256}
   ],
-  "result": {
-    "name": "cactus_minion",
-    "tier": 8
-  },
+  "result": {"name": "cactus_minion", "tier": 8},
   "collection_req": ["cactus", 1]
 }

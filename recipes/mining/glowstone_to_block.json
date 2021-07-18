@@ -1,13 +1,6 @@
 {
   "name": "glowstone_to_block",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "glowstone",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "glowstone_block"
-  }
+  "ingredients": [{"name": "glowstone", "count": 4}],
+  "result": {"name": "glowstone_block"}
 }

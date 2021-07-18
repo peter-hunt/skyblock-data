@@ -1,13 +1,6 @@
 {
   "name": "titanium_talisman",
   "category": "forging",
-  "ingredients": [
-    {
-      "name": "refined_titanium",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "titanium_talisman"
-  }
+  "ingredients": [{"name": "refined_titanium", "count": 2}],
+  "result": {"name": "titanium_talisman"}
 }

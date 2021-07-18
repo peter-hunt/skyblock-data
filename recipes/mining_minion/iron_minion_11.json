@@ -2,18 +2,9 @@
   "name": "iron_minion_11",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "iron_minion",
-      "tier": 10
-    },
-    {
-      "name": "enchanted_iron_block",
-      "count": 8
-    }
+    {"name": "iron_minion", "tier": 10},
+    {"name": "enchanted_iron_block", "count": 8}
   ],
-  "result": {
-    "name": "iron_minion",
-    "tier": 11
-  },
+  "result": {"name": "iron_minion", "tier": 11},
   "collection_req": ["iron", 1]
 }

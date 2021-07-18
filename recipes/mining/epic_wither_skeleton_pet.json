@@ -2,17 +2,9 @@
   "name": "epic_wither_skeleton_pet",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_coal_block",
-      "count": 8
-    },
-    {
-      "name": "super_enchanted_egg"
-    }
+    {"name": "enchanted_coal_block", "count": 8},
+    {"name": "super_enchanted_egg"}
   ],
-  "result": {
-    "name": "wither_skeleton_pet",
-    "rarity": "epic"
-  },
+  "result": {"name": "wither_skeleton_pet", "rarity": "epic"},
   "collection_req": ["coal", 9]
 }

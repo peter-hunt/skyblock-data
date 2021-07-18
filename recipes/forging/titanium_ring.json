@@ -2,15 +2,8 @@
   "name": "titanium_ring",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "titanium_talisman"
-    },
-    {
-      "name": "refined_titanium",
-      "count": 6
-    }
+    {"name": "titanium_talisman"},
+    {"name": "refined_titanium", "count": 6}
   ],
-  "result": {
-    "name": "titanium_ring"
-  }
+  "result": {"name": "titanium_ring"}
 }

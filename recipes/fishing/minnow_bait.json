@@ -1,14 +1,7 @@
 {
   "name": "minnow_bait",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "fish",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "minnow_bait"
-  },
+  "ingredients": [{"name": "fish", "count": 2}],
+  "result": {"name": "minnow_bait"},
   "collection_req": ["salmon", 1]
 }

@@ -2,18 +2,9 @@
   "name": "rabbit_minion_10",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "rabbit_minion",
-      "tier": 9
-    },
-    {
-      "name": "enchanted_rabbit_hide",
-      "count": 256
-    }
+    {"name": "rabbit_minion", "tier": 9},
+    {"name": "enchanted_rabbit_hide", "count": 256}
   ],
-  "result": {
-    "name": "rabbit_minion",
-    "tier": 10
-  },
+  "result": {"name": "rabbit_minion", "tier": 10},
   "collection_req": ["rabbit", 1]
 }

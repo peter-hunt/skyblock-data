@@ -1,16 +1,7 @@
 {
   "name": "dark_bait",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "ink_sack"
-    },
-    {
-      "name": "fish"
-    }
-  ],
-  "result": {
-    "name": "dark_bait"
-  },
+  "ingredients": [{"name": "ink_sack"}, {"name": "fish"}],
+  "result": {"name": "dark_bait"},
   "collection_req": ["ink_sack", 2]
 }

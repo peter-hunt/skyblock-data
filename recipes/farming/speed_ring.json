@@ -2,16 +2,9 @@
   "name": "speed_ring",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "speed_talisman"
-    },
-    {
-      "name": "enchanted_sugar",
-      "count": 96
-    }
+    {"name": "speed_talisman"},
+    {"name": "enchanted_sugar", "count": 96}
   ],
-  "result": {
-    "name": "speed_ring"
-  },
+  "result": {"name": "speed_ring"},
   "collection_req": ["sugar_cane", 5]
 }

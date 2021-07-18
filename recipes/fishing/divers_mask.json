@@ -1,13 +1,6 @@
 {
   "name": "divers_mask",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "emperors_skull",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "divers_mask"
-  }
+  "ingredients": [{"name": "emperors_skull", "count": 5}],
+  "result": {"name": "divers_mask"}
 }

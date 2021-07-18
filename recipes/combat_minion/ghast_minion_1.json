@@ -1,18 +1,7 @@
 {
   "name": "ghast_minion_1",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "ghast_tear",
-      "count": 64
-    }
-  ],
-  "result": {
-    "name": "ghast_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_sword"}, {"name": "ghast_tear", "count": 64}],
+  "result": {"name": "ghast_minion", "tier": 1},
   "collection_req": ["ghast_tear", 1]
 }

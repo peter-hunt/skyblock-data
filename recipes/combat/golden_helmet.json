@@ -1,13 +1,6 @@
 {
   "name": "golden_helmet",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gold",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "golden_helmet"
-  }
+  "ingredients": [{"name": "gold", "count": 5}],
+  "result": {"name": "golden_helmet"}
 }

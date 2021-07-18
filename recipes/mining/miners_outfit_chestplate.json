@@ -1,14 +1,7 @@
 {
   "name": "miners_outfit_chestplate",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_cobblestone",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "miners_outfit_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_cobblestone", "count": 8}],
+  "result": {"name": "miners_outfit_chestplate"},
   "collection_req": ["cobblestone", 7]
 }

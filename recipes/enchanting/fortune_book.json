@@ -2,20 +2,9 @@
   "name": "fortune_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 6
-    },
-    {
-      "name": "enchanted_gold",
-      "count": 2
-    }
+    {"name": "paper", "count": 6},
+    {"name": "enchanted_gold", "count": 2}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "fortune": 2
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"fortune": 2}},
   "collection_req": ["gold", 8]
 }

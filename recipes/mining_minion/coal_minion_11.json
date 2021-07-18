@@ -2,18 +2,9 @@
   "name": "coal_minion_11",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "coal_minion",
-      "tier": 10
-    },
-    {
-      "name": "enchanted_coal_block",
-      "count": 8
-    }
+    {"name": "coal_minion", "tier": 10},
+    {"name": "enchanted_coal_block", "count": 8}
   ],
-  "result": {
-    "name": "coal_minion",
-    "tier": 11
-  },
+  "result": {"name": "coal_minion", "tier": 11},
   "collection_req": ["coal", 1]
 }

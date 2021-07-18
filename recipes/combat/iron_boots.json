@@ -1,13 +1,6 @@
 {
   "name": "iron_boots",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "iron_boots"
-  }
+  "ingredients": [{"name": "iron", "count": 4}],
+  "result": {"name": "iron_boots"}
 }

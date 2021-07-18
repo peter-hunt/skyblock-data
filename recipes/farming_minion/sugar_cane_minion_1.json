@@ -1,18 +1,7 @@
 {
   "name": "sugar_cane_minion_1",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "wooden_hoe"
-    },
-    {
-      "name": "sugar_cane",
-      "count": 128
-    }
-  ],
-  "result": {
-    "name": "sugar_cane_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_hoe"}, {"name": "sugar_cane", "count": 128}],
+  "result": {"name": "sugar_cane_minion", "tier": 1},
   "collection_req": ["sugar_cane", 1]
 }

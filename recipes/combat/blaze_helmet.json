@@ -1,14 +1,7 @@
 {
   "name": "blaze_helmet",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_blaze_rod",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "blaze_helmet"
-  },
+  "ingredients": [{"name": "enchanted_blaze_rod", "count": 5}],
+  "result": {"name": "blaze_helmet"},
   "collection_req": ["blaze_rod", 8]
 }

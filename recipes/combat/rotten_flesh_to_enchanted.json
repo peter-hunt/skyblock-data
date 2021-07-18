@@ -1,14 +1,7 @@
 {
   "name": "rotten_flesh_to_enchanted",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "rotten_flesh",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_rotten_flesh"
-  },
+  "ingredients": [{"name": "rotten_flesh", "count": 160}],
+  "result": {"name": "enchanted_rotten_flesh"},
   "collection_req": ["rotten_flesh", 4]
 }

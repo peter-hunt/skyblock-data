@@ -1,14 +1,7 @@
 {
   "name": "melon_to_enchanted_glistering",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "glistering_melon",
-      "count": 256
-    }
-  ],
-  "result": {
-    "name": "enchanted_glistering_melon"
-  },
+  "ingredients": [{"name": "glistering_melon", "count": 256}],
+  "result": {"name": "enchanted_glistering_melon"},
   "collection_req": ["melon", 5]
 }

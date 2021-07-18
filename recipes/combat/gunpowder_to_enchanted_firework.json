@@ -2,17 +2,9 @@
   "name": "gunpowder_to_enchanted_firework",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_gunpowder",
-      "count": 64
-    },
-    {
-      "name": "paper",
-      "count": 4
-    }
+    {"name": "enchanted_gunpowder", "count": 64},
+    {"name": "paper", "count": 4}
   ],
-  "result": {
-    "name": "enchanted_firework_rocket"
-  },
+  "result": {"name": "enchanted_firework_rocket"},
   "collection_req": ["gunpowder", 6]
 }

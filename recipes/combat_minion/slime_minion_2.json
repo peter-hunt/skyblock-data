@@ -2,18 +2,9 @@
   "name": "slime_minion_2",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "slime_minion",
-      "tier": 1
-    },
-    {
-      "name": "slime_ball",
-      "count": 160
-    }
+    {"name": "slime_minion", "tier": 1},
+    {"name": "slime_ball", "count": 160}
   ],
-  "result": {
-    "name": "slime_minion",
-    "tier": 2
-  },
+  "result": {"name": "slime_minion", "tier": 2},
   "collection_req": ["slime_ball", 1]
 }

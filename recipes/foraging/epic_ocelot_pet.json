@@ -2,17 +2,9 @@
   "name": "epic_ocelot_pet",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "enchanted_jungle",
-      "count": 512
-    },
-    {
-      "name": "super_enchanted_egg"
-    }
+    {"name": "enchanted_jungle", "count": 512},
+    {"name": "super_enchanted_egg"}
   ],
-  "result": {
-    "name": "ocelot_pet",
-    "rarity": "epic"
-  },
+  "result": {"name": "ocelot_pet", "rarity": "epic"},
   "collection_req": ["jungle_wood", 9]
 }

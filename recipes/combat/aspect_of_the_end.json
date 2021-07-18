@@ -2,16 +2,9 @@
   "name": "aspect_of_the_end",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_eye_of_ender",
-      "count": 32
-    },
-    {
-      "name": "enchanted_diamond"
-    }
+    {"name": "enchanted_eye_of_ender", "count": 32},
+    {"name": "enchanted_diamond"}
   ],
-  "result": {
-    "name": "aspect_of_the_end"
-  },
+  "result": {"name": "aspect_of_the_end"},
   "collection_req": ["ender_pearl", 7]
 }

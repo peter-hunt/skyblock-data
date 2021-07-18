@@ -7,39 +7,19 @@
   "exp": 15,
   "combat_exp": 50,
   "drops": [
+    [{"name": "jungle"}, 1, "common", 1],
+    [{"name": "travel_scroll_to_howl"}, 1, "legendary", 0.00035],
     [
-      {
-        "name": "jungle"
-      },
-      1,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "travel_scroll_to_howl"
-      },
-      1,
-      "legendary",
-      0.00035
-    ],
-    [
-      {
-        "name": "hound_pet",
-        "rarity": "epic"
-      },
+      {"name": "hound_pet", "rarity": "epic"},
       1,
       "pray_rngesus",
-      6.666666666666667e-05
+      0.00006666666666666667
     ],
     [
-      {
-        "name": "hound_pet",
-        "rarity": "legendary"
-      },
+      {"name": "hound_pet", "rarity": "legendary"},
       1,
       "pray_rngesus",
-      1.6666666666666667e-05
+      0.000016666666666666667
     ]
   ]
 }

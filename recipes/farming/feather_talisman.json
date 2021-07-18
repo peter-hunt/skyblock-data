@@ -1,14 +1,7 @@
 {
   "name": "feather_talisman",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "feather",
-      "count": 108
-    }
-  ],
-  "result": {
-    "name": "feather_talisman"
-  },
+  "ingredients": [{"name": "feather", "count": 108}],
+  "result": {"name": "feather_talisman"},
   "collection_req": ["feather", 4]
 }

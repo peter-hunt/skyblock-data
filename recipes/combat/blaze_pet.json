@@ -2,17 +2,9 @@
   "name": "blaze_pet",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_blaze_rod",
-      "count": 64
-    },
-    {
-      "name": "super_enchanted_egg"
-    }
+    {"name": "enchanted_blaze_rod", "count": 64},
+    {"name": "super_enchanted_egg"}
   ],
-  "result": {
-    "name": "blaze_pet",
-    "rarity": "epic"
-  },
+  "result": {"name": "blaze_pet", "rarity": "epic"},
   "collection_req": ["blaze_rod", 9]
 }

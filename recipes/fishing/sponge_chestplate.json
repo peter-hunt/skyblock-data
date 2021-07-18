@@ -1,14 +1,7 @@
 {
   "name": "sponge_chestplate",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "enchanted_wet_sponge",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "sponge_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_wet_sponge", "count": 8}],
+  "result": {"name": "sponge_chestplate"},
   "collection_req": ["sponge", 9]
 }

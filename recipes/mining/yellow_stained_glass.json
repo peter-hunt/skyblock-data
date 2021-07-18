@@ -1,17 +1,6 @@
 {
   "name": "yellow_stained_glass",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "glass",
-      "count": 8
-    },
-    {
-      "name": "yellow_dye"
-    }
-  ],
-  "result": {
-    "name": "yellow_stained_glass",
-    "count": 8
-  }
+  "ingredients": [{"name": "glass", "count": 8}, {"name": "yellow_dye"}],
+  "result": {"name": "yellow_stained_glass", "count": 8}
 }

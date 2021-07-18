@@ -2,17 +2,9 @@
   "name": "magma_cube_minion_1",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "magma_cream",
-      "count": 80
-    }
+    {"name": "wooden_sword"},
+    {"name": "magma_cream", "count": 80}
   ],
-  "result": {
-    "name": "magma_cube_minion",
-    "tier": 1
-  },
+  "result": {"name": "magma_cube_minion", "tier": 1},
   "collection_req": ["magma_cream", 1]
 }

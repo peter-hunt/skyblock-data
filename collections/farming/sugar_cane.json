@@ -6,16 +6,10 @@
     [250, "speed_talisman"],
     [500, 50],
     [1000, "cane_to_enchanted_sugar"],
-    [
-      2000,
-      ["cane_to_enchanted_paper", "speed_ring"]
-    ],
+    [2000, ["cane_to_enchanted_paper", "speed_ring"]],
     [5000, "cane_to_enchanted_bookshelf"],
     [10000, 1000],
-    [
-      25000,
-      ["cane_to_enchanted", "speed_artifact"]
-    ],
+    [25000, ["cane_to_enchanted", "speed_artifact"]],
     [50000, "speedster_armor"]
   ]
 }

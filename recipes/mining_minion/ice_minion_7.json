@@ -2,18 +2,9 @@
   "name": "ice_minion_7",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "ice_minion",
-      "tier": 6
-    },
-    {
-      "name": "packed_ice",
-      "count": 512
-    }
+    {"name": "ice_minion", "tier": 6},
+    {"name": "packed_ice", "count": 512}
   ],
-  "result": {
-    "name": "ice_minion",
-    "tier": 7
-  },
+  "result": {"name": "ice_minion", "tier": 7},
   "collection_req": ["ice", 1]
 }

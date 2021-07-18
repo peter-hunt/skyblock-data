@@ -6,56 +6,11 @@
   "exp": 250,
   "fishing_exp": 3375,
   "drops": [
-    [
-      {
-        "name": "enchanted_lily_pad"
-      },
-      [1, 3],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "emperors_skull"
-      },
-      1,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "shredder"
-      },
-      1,
-      "rare",
-      0.2
-    ],
-    [
-      {
-        "name": "flying_fish_pet",
-        "rarity": "rare"
-      },
-      1,
-      "rare",
-      0.1
-    ],
-    [
-      {
-        "name": "flying_fish_pet",
-        "rarity": "epic"
-      },
-      1,
-      "rare",
-      0.04
-    ],
-    [
-      {
-        "name": "flying_fish_pet",
-        "rarity": "legendary"
-      },
-      1,
-      "rare",
-      0.01
-    ]
+    [{"name": "enchanted_lily_pad"}, [1, 3], "common", 1],
+    [{"name": "emperors_skull"}, 1, "common", 1],
+    [{"name": "shredder"}, 1, "rare", 0.2],
+    [{"name": "flying_fish_pet", "rarity": "rare"}, 1, "rare", 0.1],
+    [{"name": "flying_fish_pet", "rarity": "epic"}, 1, "rare", 0.04],
+    [{"name": "flying_fish_pet", "rarity": "legendary"}, 1, "rare", 0.01]
   ]
 }

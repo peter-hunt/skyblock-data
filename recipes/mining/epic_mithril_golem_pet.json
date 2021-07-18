@@ -2,17 +2,9 @@
   "name": "epic_mithril_golem_pet",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_cobblestone",
-      "count": 64
-    },
-    {
-      "name": "super_enchanted_egg"
-    }
+    {"name": "enchanted_cobblestone", "count": 64},
+    {"name": "super_enchanted_egg"}
   ],
-  "result": {
-    "name": "mithril_golem_pet",
-    "rarity": "epic"
-  },
+  "result": {"name": "mithril_golem_pet", "rarity": "epic"},
   "collection_req": ["mithril", 7]
 }

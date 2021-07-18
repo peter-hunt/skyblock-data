@@ -2,20 +2,9 @@
   "name": "fire_protection_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "magma_cream",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "magma_cream", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "fire_protection": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"fire_protection": 4}},
   "collection_req": ["magma_cream", 3]
 }

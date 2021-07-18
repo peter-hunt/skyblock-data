@@ -6,14 +6,5 @@
   "coins": 10,
   "exp": 8,
   "combat_exp": 25,
-  "drops": [
-    [
-      {
-        "name": "end_stone"
-      },
-      [1, 2],
-      "common",
-      1
-    ]
-  ]
+  "drops": [[{"name": "end_stone"}, [1, 2], "common", 1]]
 }

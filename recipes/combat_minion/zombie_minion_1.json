@@ -2,17 +2,9 @@
   "name": "zombie_minion_1",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "rotten_flesh",
-      "count": 80
-    }
+    {"name": "wooden_sword"},
+    {"name": "rotten_flesh", "count": 80}
   ],
-  "result": {
-    "name": "zombie_minion",
-    "tier": 1
-  },
+  "result": {"name": "zombie_minion", "tier": 1},
   "collection_req": ["rotten_flesh", 1]
 }

@@ -2,24 +2,10 @@
   "name": "magnet_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "clownfish",
-      "count": 8
-    },
-    {
-      "name": "quartz",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "clownfish", "count": 8},
+    {"name": "quartz", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "magnet": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"magnet": 4}},
   "collection_req": ["clownfish", 3]
 }

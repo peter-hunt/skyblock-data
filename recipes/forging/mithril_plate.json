@@ -2,21 +2,10 @@
   "name": "mithril_plate",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "refined_mithril",
-      "count": 5
-    },
-    {
-      "name": "golden_plate"
-    },
-    {
-      "name": "enchanted_iron_block"
-    },
-    {
-      "name": "refined_titanium"
-    }
+    {"name": "refined_mithril", "count": 5},
+    {"name": "golden_plate"},
+    {"name": "enchanted_iron_block"},
+    {"name": "refined_titanium"}
   ],
-  "result": {
-    "name": "mithril_plate"
-  }
+  "result": {"name": "mithril_plate"}
 }

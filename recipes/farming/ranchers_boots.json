@@ -2,16 +2,9 @@
   "name": "ranchers_boots",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "farmer_boots"
-    },
-    {
-      "name": "polished_pumpkin",
-      "count": 16
-    }
+    {"name": "farmer_boots"},
+    {"name": "polished_pumpkin", "count": 16}
   ],
-  "result": {
-    "name": "ranchers_boots"
-  },
+  "result": {"name": "ranchers_boots"},
   "collection_req": ["pumpkin", 11]
 }

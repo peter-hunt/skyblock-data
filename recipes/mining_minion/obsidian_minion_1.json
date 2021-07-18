@@ -1,18 +1,7 @@
 {
   "name": "obsidian_minion_1",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "wooden_pickaxe"
-    },
-    {
-      "name": "obsidian",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "obsidian_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_pickaxe"}, {"name": "obsidian", "count": 80}],
+  "result": {"name": "obsidian_minion", "tier": 1},
   "collection_req": ["obsidian", 1]
 }

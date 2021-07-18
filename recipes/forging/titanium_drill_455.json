@@ -2,23 +2,10 @@
   "name": "titanium_drill_455",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "titanium_drill_355"
-    },
-    {
-      "name": "refined_diamond",
-      "count": 10
-    },
-    {
-      "name": "refined_titanium",
-      "count": 16
-    },
-    {
-      "name": "mithril_plate",
-      "count": 6
-    }
+    {"name": "titanium_drill_355"},
+    {"name": "refined_diamond", "count": 10},
+    {"name": "refined_titanium", "count": 16},
+    {"name": "mithril_plate", "count": 6}
   ],
-  "result": {
-    "name": "titanium_drill_455"
-  }
+  "result": {"name": "titanium_drill_455"}
 }

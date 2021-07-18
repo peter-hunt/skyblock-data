@@ -1,13 +1,6 @@
 {
   "name": "melon_block",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "melon",
-      "count": 9
-    }
-  ],
-  "result": {
-    "name": "melon_block"
-  }
+  "ingredients": [{"name": "melon", "count": 9}],
+  "result": {"name": "melon_block"}
 }

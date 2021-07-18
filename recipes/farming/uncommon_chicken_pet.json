@@ -2,17 +2,9 @@
   "name": "uncommon_chicken_pet",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_chicken",
-      "count": 64
-    },
-    {
-      "name": "enchanted_egg"
-    }
+    {"name": "enchanted_chicken", "count": 64},
+    {"name": "enchanted_egg"}
   ],
-  "result": {
-    "name": "chicken_pet",
-    "rarity": "uncommon"
-  },
+  "result": {"name": "chicken_pet", "rarity": "uncommon"},
   "collection_req": ["chicken", 6]
 }

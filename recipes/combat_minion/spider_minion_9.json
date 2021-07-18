@@ -2,18 +2,9 @@
   "name": "spider_minion_9",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "spider_minion",
-      "tier": 8
-    },
-    {
-      "name": "enchanted_string",
-      "count": 128
-    }
+    {"name": "spider_minion", "tier": 8},
+    {"name": "enchanted_string", "count": 128}
   ],
-  "result": {
-    "name": "spider_minion",
-    "tier": 9
-  },
+  "result": {"name": "spider_minion", "tier": 9},
   "collection_req": ["string", 1]
 }

@@ -1,18 +1,7 @@
 {
   "name": "spruce_minion_1",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "wooden_axe"
-    },
-    {
-      "name": "spruce_wood",
-      "count": 80
-    }
-  ],
-  "result": {
-    "name": "spruce_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_axe"}, {"name": "spruce_wood", "count": 80}],
+  "result": {"name": "spruce_minion", "tier": 1},
   "collection_req": ["spruce_wood", 1]
 }

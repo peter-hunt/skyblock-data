@@ -7,29 +7,8 @@
   "exp": 30,
   "combat_exp": 50,
   "drops": [
-    [
-      {
-        "name": "rotten_flesh"
-      },
-      2,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "gold"
-      },
-      [1, 10],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "golden_powder"
-      },
-      1,
-      "legendary",
-      0.0005
-    ]
+    [{"name": "rotten_flesh"}, 2, "common", 1],
+    [{"name": "gold"}, [1, 10], "common", 1],
+    [{"name": "golden_powder"}, 1, "legendary", 0.0005]
   ]
 }

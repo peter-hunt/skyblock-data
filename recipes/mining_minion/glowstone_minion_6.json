@@ -2,18 +2,9 @@
   "name": "glowstone_minion_6",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "glowstone_minion",
-      "tier": 5
-    },
-    {
-      "name": "enchanted_glowstone",
-      "count": 64
-    }
+    {"name": "glowstone_minion", "tier": 5},
+    {"name": "enchanted_glowstone", "count": 64}
   ],
-  "result": {
-    "name": "glowstone_minion",
-    "tier": 6
-  },
+  "result": {"name": "glowstone_minion", "tier": 6},
   "collection_req": ["glowstone", 1]
 }

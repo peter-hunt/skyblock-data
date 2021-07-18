@@ -2,18 +2,9 @@
   "name": "melon_minion_4",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "melon_minion",
-      "tier": 3
-    },
-    {
-      "name": "melon_block",
-      "count": 256
-    }
+    {"name": "melon_minion", "tier": 3},
+    {"name": "melon_block", "count": 256}
   ],
-  "result": {
-    "name": "melon_minion",
-    "tier": 4
-  },
+  "result": {"name": "melon_minion", "tier": 4},
   "collection_req": ["melon", 1]
 }

@@ -1,14 +1,7 @@
 {
   "name": "speedster_chestplate",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "enchanted_sugar_cane",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "speedster_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_sugar_cane", "count": 8}],
+  "result": {"name": "speedster_chestplate"},
   "collection_req": ["sugar_cane", 9]
 }

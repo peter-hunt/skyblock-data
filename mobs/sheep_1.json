@@ -5,21 +5,7 @@
   "exp": 2,
   "farming_exp": 2,
   "drops": [
-    [
-      {
-        "name": "mutton"
-      },
-      [1, 2],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "wool"
-      },
-      1,
-      "common",
-      1
-    ]
+    [{"name": "mutton"}, [1, 2], "common", 1],
+    [{"name": "wool"}, 1, "common", 1]
   ]
 }

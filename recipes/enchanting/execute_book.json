@@ -2,24 +2,10 @@
   "name": "execute_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "diamond",
-      "count": 40
-    },
-    {
-      "name": "flint",
-      "count": 40
-    }
+    {"name": "paper", "count": 24},
+    {"name": "diamond", "count": 40},
+    {"name": "flint", "count": 40}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "execute": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"execute": 4}},
   "collection_req": ["diamond", 2]
 }

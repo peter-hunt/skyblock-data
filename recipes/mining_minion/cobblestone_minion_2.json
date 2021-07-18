@@ -2,18 +2,9 @@
   "name": "cobblestone_minion_2",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "cobblestone_minion",
-      "tier": 1
-    },
-    {
-      "name": "cobblestone",
-      "count": 160
-    }
+    {"name": "cobblestone_minion", "tier": 1},
+    {"name": "cobblestone", "count": 160}
   ],
-  "result": {
-    "name": "cobblestone_minion",
-    "tier": 2
-  },
+  "result": {"name": "cobblestone_minion", "tier": 2},
   "collection_req": ["cobblestone", 1]
 }

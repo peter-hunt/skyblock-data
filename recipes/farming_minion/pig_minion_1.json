@@ -1,18 +1,7 @@
 {
   "name": "pig_minion_1",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "pork",
-      "count": 64
-    }
-  ],
-  "result": {
-    "name": "pig_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_sword"}, {"name": "pork", "count": 64}],
+  "result": {"name": "pig_minion", "tier": 1},
   "collection_req": ["pork", 1]
 }

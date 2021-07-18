@@ -1,14 +1,7 @@
 {
   "name": "blaze_boots",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_blaze_rod",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "blaze_boots"
-  },
+  "ingredients": [{"name": "enchanted_blaze_rod", "count": 4}],
+  "result": {"name": "blaze_boots"},
   "collection_req": ["blaze_rod", 8]
 }

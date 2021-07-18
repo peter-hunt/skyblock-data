@@ -1,14 +1,7 @@
 {
   "name": "farm_chestplate",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "enchanted_hay_bale",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "farm_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_hay_bale", "count": 8}],
+  "result": {"name": "farm_chestplate"},
   "collection_req": ["wheat", 9]
 }

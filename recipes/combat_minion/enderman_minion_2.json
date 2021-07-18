@@ -2,18 +2,9 @@
   "name": "enderman_minion_2",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enderman_minion",
-      "tier": 1
-    },
-    {
-      "name": "ender_pearl",
-      "count": 128
-    }
+    {"name": "enderman_minion", "tier": 1},
+    {"name": "ender_pearl", "count": 128}
   ],
-  "result": {
-    "name": "enderman_minion",
-    "tier": 2
-  },
+  "result": {"name": "enderman_minion", "tier": 2},
   "collection_req": ["ender_pearl", 1]
 }

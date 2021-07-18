@@ -1,14 +1,7 @@
 {
   "name": "emerald_chestplate",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_emerald_block",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "emerald_chestplate"
-  },
+  "ingredients": [{"name": "enchanted_emerald_block", "count": 8}],
+  "result": {"name": "emerald_chestplate"},
   "collection_req": ["emerald", 9]
 }

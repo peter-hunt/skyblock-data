@@ -2,16 +2,9 @@
   "name": "pigman_sword",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_grilled_pork",
-      "count": 48
-    },
-    {
-      "name": "stick"
-    }
+    {"name": "enchanted_grilled_pork", "count": 48},
+    {"name": "stick"}
   ],
-  "result": {
-    "name": "pigman_sword"
-  },
+  "result": {"name": "pigman_sword"},
   "collection_req": ["pork", 9]
 }

@@ -1,13 +1,7 @@
 {
   "name": "birch_leaves",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "birch_sapling"
-    }
-  ],
-  "result": {
-    "name": "birch_leaves"
-  },
+  "ingredients": [{"name": "birch_sapling"}],
+  "result": {"name": "birch_leaves"},
   "collection_req": ["birch_wood", 2]
 }

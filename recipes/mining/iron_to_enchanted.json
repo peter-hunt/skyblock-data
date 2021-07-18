@@ -1,14 +1,7 @@
 {
   "name": "iron_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_iron"
-  },
+  "ingredients": [{"name": "iron", "count": 160}],
+  "result": {"name": "enchanted_iron"},
   "collection_req": ["iron", 4]
 }

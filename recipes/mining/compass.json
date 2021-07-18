@@ -1,16 +1,6 @@
 {
   "name": "compass",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 4
-    },
-    {
-      "name": "redstone"
-    }
-  ],
-  "result": {
-    "name": "compass"
-  }
+  "ingredients": [{"name": "iron", "count": 4}, {"name": "redstone"}],
+  "result": {"name": "compass"}
 }

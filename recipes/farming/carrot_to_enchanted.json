@@ -1,14 +1,7 @@
 {
   "name": "carrot_to_enchanted",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "carrot",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_carrot"
-  },
+  "ingredients": [{"name": "carrot", "count": 160}],
+  "result": {"name": "enchanted_carrot"},
   "collection_req": ["carrot", 4]
 }

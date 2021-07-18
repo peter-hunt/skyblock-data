@@ -1,14 +1,7 @@
 {
   "name": "mutton_to_enchanted_cooked",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "enchanted_mutton",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_cooked_mutton"
-  },
+  "ingredients": [{"name": "enchanted_mutton", "count": 160}],
+  "result": {"name": "enchanted_cooked_mutton"},
   "collection_req": ["mutton", 8]
 }

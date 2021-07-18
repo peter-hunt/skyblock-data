@@ -1,13 +1,6 @@
 {
   "name": "leather_boots",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "leather",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "leather_boots"
-  }
+  "ingredients": [{"name": "leather", "count": 4}],
+  "result": {"name": "leather_boots"}
 }

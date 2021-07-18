@@ -2,16 +2,9 @@
   "name": "frozen_blaze_chestplate",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_packed_ice",
-      "count": 64
-    },
-    {
-      "name": "blaze_chestplate"
-    }
+    {"name": "enchanted_packed_ice", "count": 64},
+    {"name": "blaze_chestplate"}
   ],
-  "result": {
-    "name": "frozen_blaze_chestplate"
-  },
+  "result": {"name": "frozen_blaze_chestplate"},
   "collection_req": ["ice", 9]
 }

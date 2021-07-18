@@ -1,14 +1,7 @@
 {
   "name": "creeper_hat",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gunpowder",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "creeper_hat"
-  },
+  "ingredients": [{"name": "gunpowder", "count": 8}],
+  "result": {"name": "creeper_hat"},
   "collection_req": ["gunpowder", 2]
 }

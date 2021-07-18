@@ -1,13 +1,6 @@
 {
   "name": "chest",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "planks",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "chest"
-  }
+  "ingredients": [{"name": "planks", "count": 8}],
+  "result": {"name": "chest"}
 }

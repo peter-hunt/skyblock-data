@@ -2,18 +2,9 @@
   "name": "spider_minion_3",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "spider_minion",
-      "tier": 2
-    },
-    {
-      "name": "string",
-      "count": 320
-    }
+    {"name": "spider_minion", "tier": 2},
+    {"name": "string", "count": 320}
   ],
-  "result": {
-    "name": "spider_minion",
-    "tier": 3
-  },
+  "result": {"name": "spider_minion", "tier": 3},
   "collection_req": ["string", 1]
 }

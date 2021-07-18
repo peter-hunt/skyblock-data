@@ -2,16 +2,9 @@
   "name": "ink_wand",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "enchanted_ink_sack",
-      "count": 64
-    },
-    {
-      "name": "stick"
-    }
+    {"name": "enchanted_ink_sack", "count": 64},
+    {"name": "stick"}
   ],
-  "result": {
-    "name": "ink_wand"
-  },
+  "result": {"name": "ink_wand"},
   "collection_req": ["ink_sack", 9]
 }

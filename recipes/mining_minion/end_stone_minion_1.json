@@ -2,17 +2,9 @@
   "name": "end_stone_minion_1",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "wooden_pickaxe"
-    },
-    {
-      "name": "end_stone",
-      "count": 80
-    }
+    {"name": "wooden_pickaxe"},
+    {"name": "end_stone", "count": 80}
   ],
-  "result": {
-    "name": "end_stone_minion",
-    "tier": 1
-  },
+  "result": {"name": "end_stone_minion", "tier": 1},
   "collection_req": ["end_stone", 1]
 }

@@ -1,14 +1,7 @@
 {
   "name": "jungle_to_enchanted",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "jungle_wood",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_jungle"
-  },
+  "ingredients": [{"name": "jungle_wood", "count": 160}],
+  "result": {"name": "enchanted_jungle"},
   "collection_req": ["jungle_wood", 6]
 }

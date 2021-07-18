@@ -2,22 +2,10 @@
   "name": "punch_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 3
-    },
-    {
-      "name": "slime_ball"
-    },
-    {
-      "name": "arrow"
-    }
+    {"name": "paper", "count": 3},
+    {"name": "slime_ball"},
+    {"name": "arrow"}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "punch": 1
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"punch": 1}},
   "collection_req": ["slime_ball", 6]
 }

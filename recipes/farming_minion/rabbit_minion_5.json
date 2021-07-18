@@ -2,18 +2,9 @@
   "name": "rabbit_minion_5",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "rabbit_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_rabbit_foot",
-      "count": 32
-    }
+    {"name": "rabbit_minion", "tier": 4},
+    {"name": "enchanted_rabbit_foot", "count": 32}
   ],
-  "result": {
-    "name": "rabbit_minion",
-    "tier": 5
-  },
+  "result": {"name": "rabbit_minion", "tier": 5},
   "collection_req": ["rabbit", 1]
 }

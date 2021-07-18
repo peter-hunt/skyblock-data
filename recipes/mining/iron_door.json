@@ -1,13 +1,6 @@
 {
   "name": "iron_door",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 6
-    }
-  ],
-  "result": {
-    "name": "iron_door"
-  }
+  "ingredients": [{"name": "iron", "count": 6}],
+  "result": {"name": "iron_door"}
 }

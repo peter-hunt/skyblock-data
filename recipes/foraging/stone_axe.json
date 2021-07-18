@@ -2,16 +2,8 @@
   "name": "stone_axe",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "cobblestone",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "cobblestone", "count": 3},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "stone_axe"
-  }
+  "result": {"name": "stone_axe"}
 }

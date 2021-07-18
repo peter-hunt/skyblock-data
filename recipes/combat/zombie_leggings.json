@@ -2,17 +2,9 @@
   "name": "zombie_leggings",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "zombies_heart",
-      "count": 3
-    },
-    {
-      "name": "enchanted_rotten_flesh",
-      "count": 4
-    }
+    {"name": "zombies_heart", "count": 3},
+    {"name": "enchanted_rotten_flesh", "count": 4}
   ],
-  "result": {
-    "name": "zombie_leggings"
-  },
+  "result": {"name": "zombie_leggings"},
   "collection_req": ["rotten_flesh", 8]
 }

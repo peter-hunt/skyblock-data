@@ -1,14 +1,7 @@
 {
   "name": "emerald_helmet",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_emerald_block",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "emerald_helmet"
-  },
+  "ingredients": [{"name": "enchanted_emerald_block", "count": 5}],
+  "result": {"name": "emerald_helmet"},
   "collection_req": ["emerald", 9]
 }

@@ -1,14 +1,7 @@
 {
   "name": "zombie_hat",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "rotten_flesh",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "zombie_hat"
-  },
+  "ingredients": [{"name": "rotten_flesh", "count": 5}],
+  "result": {"name": "zombie_hat"},
   "collection_req": ["rotten_flesh", 5]
 }

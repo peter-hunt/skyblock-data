@@ -1,13 +1,6 @@
 {
   "name": "diamond_leggings",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "diamond",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "diamond_leggings"
-  }
+  "ingredients": [{"name": "diamond", "count": 7}],
+  "result": {"name": "diamond_leggings"}
 }

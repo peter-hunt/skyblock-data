@@ -2,18 +2,9 @@
   "name": "coal_minion_4",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "coal_minion",
-      "tier": 3
-    },
-    {
-      "name": "coal",
-      "count": 512
-    }
+    {"name": "coal_minion", "tier": 3},
+    {"name": "coal", "count": 512}
   ],
-  "result": {
-    "name": "coal_minion",
-    "tier": 4
-  },
+  "result": {"name": "coal_minion", "tier": 4},
   "collection_req": ["coal", 1]
 }

@@ -1,18 +1,7 @@
 {
   "name": "fishing_minion_1",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "fish",
-      "count": 64
-    }
-  ],
-  "result": {
-    "name": "fishing_minion",
-    "tier": 1
-  },
+  "ingredients": [{"name": "wooden_sword"}, {"name": "fish", "count": 64}],
+  "result": {"name": "fishing_minion", "tier": 1},
   "collection_req": ["fish", 1]
 }

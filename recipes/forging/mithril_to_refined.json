@@ -1,13 +1,6 @@
 {
   "name": "mithril_to_refined",
   "category": "forging",
-  "ingredients": [
-    {
-      "name": "enchanted_mithril",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "refined_mithril"
-  }
+  "ingredients": [{"name": "enchanted_mithril", "count": 160}],
+  "result": {"name": "refined_mithril"}
 }

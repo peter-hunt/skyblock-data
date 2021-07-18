@@ -2,23 +2,10 @@
   "name": "flame_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 3
-    },
-    {
-      "name": "blaze_rod",
-      "count": 2
-    },
-    {
-      "name": "bow"
-    }
+    {"name": "paper", "count": 3},
+    {"name": "blaze_rod", "count": 2},
+    {"name": "bow"}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "flame": 1
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"flame": 1}},
   "collection_req": ["blaze_rod", 6]
 }

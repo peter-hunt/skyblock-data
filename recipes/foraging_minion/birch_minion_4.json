@@ -2,18 +2,9 @@
   "name": "birch_minion_4",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "birch_minion",
-      "tier": 3
-    },
-    {
-      "name": "birch_wood",
-      "count": 512
-    }
+    {"name": "birch_minion", "tier": 3},
+    {"name": "birch_wood", "count": 512}
   ],
-  "result": {
-    "name": "birch_minion",
-    "tier": 4
-  },
+  "result": {"name": "birch_minion", "tier": 4},
   "collection_req": ["birch_wood", 1]
 }

@@ -1,13 +1,6 @@
 {
   "name": "iron_leggings",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "iron_leggings"
-  }
+  "ingredients": [{"name": "iron", "count": 7}],
+  "result": {"name": "iron_leggings"}
 }

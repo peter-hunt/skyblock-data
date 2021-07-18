@@ -1,14 +1,7 @@
 {
   "name": "emerald_boots",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_emerald_block",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "emerald_boots"
-  },
+  "ingredients": [{"name": "enchanted_emerald_block", "count": 4}],
+  "result": {"name": "emerald_boots"},
   "collection_req": ["emerald", 9]
 }

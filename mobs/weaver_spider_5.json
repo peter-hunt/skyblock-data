@@ -7,21 +7,7 @@
   "exp": 2,
   "combat_exp": 8,
   "drops": [
-    [
-      {
-        "name": "string"
-      },
-      1,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "spider_eye"
-      },
-      1,
-      "uncommon",
-      0.1
-    ]
+    [{"name": "string"}, 1, "common", 1],
+    [{"name": "spider_eye"}, 1, "uncommon", 0.1]
   ]
 }

@@ -1,15 +1,6 @@
 {
   "name": "red_wool",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "red_dye"
-    },
-    {
-      "name": "wool"
-    }
-  ],
-  "result": {
-    "name": "red_wool"
-  }
+  "ingredients": [{"name": "red_dye"}, {"name": "wool"}],
+  "result": {"name": "red_wool"}
 }

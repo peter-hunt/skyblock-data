@@ -2,17 +2,9 @@
   "name": "frozen_scythe",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_packed_ice",
-      "count": 64
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "enchanted_packed_ice", "count": 64},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "frozen_scythe"
-  },
+  "result": {"name": "frozen_scythe"},
   "collection_req": ["ice", 8]
 }

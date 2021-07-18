@@ -1,14 +1,7 @@
 {
   "name": "cane_to_enchanted_sugar",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "sugar_cane",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_sugar"
-  },
+  "ingredients": [{"name": "sugar_cane", "count": 160}],
+  "result": {"name": "enchanted_sugar"},
   "collection_req": ["sugar_cane", 4]
 }

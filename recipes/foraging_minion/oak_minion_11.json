@@ -2,18 +2,9 @@
   "name": "oak_minion_11",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "oak_minion",
-      "tier": 10
-    },
-    {
-      "name": "enchanted_oak",
-      "count": 512
-    }
+    {"name": "oak_minion", "tier": 10},
+    {"name": "enchanted_oak", "count": 512}
   ],
-  "result": {
-    "name": "oak_minion",
-    "tier": 11
-  },
+  "result": {"name": "oak_minion", "tier": 11},
   "collection_req": ["oak_wood", 1]
 }

@@ -7,21 +7,7 @@
   "exp": 25,
   "combat_exp": 20,
   "drops": [
-    [
-      {
-        "name": "gold_nugget"
-      },
-      2,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "exp_share_core"
-      },
-      1,
-      "pray_rngesus",
-      0.0001
-    ]
+    [{"name": "gold_nugget"}, 2, "common", 1],
+    [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }

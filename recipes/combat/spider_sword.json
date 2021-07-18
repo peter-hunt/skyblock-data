@@ -1,17 +1,7 @@
 {
   "name": "spider_sword",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "spider_eye",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
-  ],
-  "result": {
-    "name": "spider_sword"
-  },
+  "ingredients": [{"name": "spider_eye", "count": 2}, {"name": "stick"}],
+  "result": {"name": "spider_sword"},
   "collection_req": ["spider_eye", 2]
 }

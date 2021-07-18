@@ -2,18 +2,9 @@
   "name": "quartz_minion_3",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "quartz_minion",
-      "tier": 2
-    },
-    {
-      "name": "quartz",
-      "count": 320
-    }
+    {"name": "quartz_minion", "tier": 2},
+    {"name": "quartz", "count": 320}
   ],
-  "result": {
-    "name": "quartz_minion",
-    "tier": 3
-  },
+  "result": {"name": "quartz_minion", "tier": 3},
   "collection_req": ["quartz", 1]
 }

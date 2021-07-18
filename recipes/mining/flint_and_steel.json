@@ -1,15 +1,6 @@
 {
   "name": "flint_and_steel",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "iron"
-    },
-    {
-      "name": "flint"
-    }
-  ],
-  "result": {
-    "name": "flint_and_steel"
-  }
+  "ingredients": [{"name": "iron"}, {"name": "flint"}],
+  "result": {"name": "flint_and_steel"}
 }

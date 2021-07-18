@@ -1,14 +1,7 @@
 {
   "name": "clownfish_hat",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "clownfish",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "clownfish_hat"
-  },
+  "ingredients": [{"name": "clownfish", "count": 8}],
+  "result": {"name": "clownfish_hat"},
   "collection_req": ["clownfish", 1]
 }

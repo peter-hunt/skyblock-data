@@ -1,14 +1,7 @@
 {
   "name": "farm_leggings",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "enchanted_hay_bale",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "farm_leggings"
-  },
+  "ingredients": [{"name": "enchanted_hay_bale", "count": 7}],
+  "result": {"name": "farm_leggings"},
   "collection_req": ["wheat", 9]
 }

@@ -1,13 +1,6 @@
 {
   "name": "leather_helmet",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "leather",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "leather_helmet"
-  }
+  "ingredients": [{"name": "leather", "count": 5}],
+  "result": {"name": "leather_helmet"}
 }

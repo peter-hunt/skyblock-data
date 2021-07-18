@@ -1,14 +1,7 @@
 {
   "name": "netherrack_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "netherrack",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_netherrack"
-  },
+  "ingredients": [{"name": "netherrack", "count": 160}],
+  "result": {"name": "enchanted_netherrack"},
   "collection_req": ["netherrack", 4]
 }

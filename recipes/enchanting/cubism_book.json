@@ -2,20 +2,9 @@
   "name": "cubism_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "pumpkin",
-      "count": 32
-    }
+    {"name": "paper", "count": 24},
+    {"name": "pumpkin", "count": 32}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "cubism": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"cubism": 4}},
   "collection_req": ["pumpkin", 4]
 }

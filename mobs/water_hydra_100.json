@@ -6,21 +6,9 @@
   "exp": 175,
   "fishing_exp": 3000,
   "drops": [
+    [{"name": "water_hydra_head"}, [1, 2], "rare", 0.05],
     [
-      {
-        "name": "water_hydra_head"
-      },
-      [1, 2],
-      "rare",
-      0.05
-    ],
-    [
-      {
-        "name": "enchanted_book",
-        "enchantments": {
-          "luck_of_the_sea": 6
-        }
-      },
+      {"name": "enchanted_book", "enchantments": {"luck_of_the_sea": 6}},
       1,
       "rare",
       0.02

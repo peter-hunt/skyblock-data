@@ -2,21 +2,10 @@
   "name": "scroll_to_deep",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 16
-    },
-    {
-      "name": "enchanted_redstone",
-      "count": 48
-    },
-    {
-      "name": "enchanted_lapis",
-      "count": 80
-    }
+    {"name": "enchanted_ender_pearl", "count": 16},
+    {"name": "enchanted_redstone", "count": 48},
+    {"name": "enchanted_lapis", "count": 80}
   ],
-  "result": {
-    "name": "travel_scroll_to_deep"
-  },
+  "result": {"name": "travel_scroll_to_deep"},
   "collection_req": ["redstone", 7]
 }

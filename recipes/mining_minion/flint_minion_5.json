@@ -2,18 +2,9 @@
   "name": "flint_minion_5",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "flint_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_flint",
-      "count": 8
-    }
+    {"name": "flint_minion", "tier": 4},
+    {"name": "enchanted_flint", "count": 8}
   ],
-  "result": {
-    "name": "flint_minion",
-    "tier": 5
-  },
+  "result": {"name": "flint_minion", "tier": 5},
   "collection_req": ["flint", 1]
 }

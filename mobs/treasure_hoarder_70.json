@@ -7,29 +7,8 @@
   "exp": 60,
   "combat_exp": 70,
   "drops": [
-    [
-      {
-        "name": "starfall"
-      },
-      [1, 2],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "salmon_opal"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "treasurite"
-      },
-      1,
-      "rare",
-      0.005
-    ]
+    [{"name": "starfall"}, [1, 2], "common", 1],
+    [{"name": "salmon_opal"}, 1, "rare", 0.01],
+    [{"name": "treasurite"}, 1, "rare", 0.005]
   ]
 }

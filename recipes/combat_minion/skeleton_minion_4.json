@@ -2,18 +2,9 @@
   "name": "skeleton_minion_4",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "skeleton_minion",
-      "tier": 3
-    },
-    {
-      "name": "bone",
-      "count": 512
-    }
+    {"name": "skeleton_minion", "tier": 3},
+    {"name": "bone", "count": 512}
   ],
-  "result": {
-    "name": "skeleton_minion",
-    "tier": 4
-  },
+  "result": {"name": "skeleton_minion", "tier": 4},
   "collection_req": ["bone", 1]
 }

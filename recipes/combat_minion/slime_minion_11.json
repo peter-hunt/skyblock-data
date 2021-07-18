@@ -2,18 +2,9 @@
   "name": "slime_minion_11",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "slime_minion",
-      "tier": 10
-    },
-    {
-      "name": "enchanted_slime_block",
-      "count": 8
-    }
+    {"name": "slime_minion", "tier": 10},
+    {"name": "enchanted_slime_block", "count": 8}
   ],
-  "result": {
-    "name": "slime_minion",
-    "tier": 11
-  },
+  "result": {"name": "slime_minion", "tier": 11},
   "collection_req": ["slime_ball", 1]
 }

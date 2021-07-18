@@ -1,13 +1,6 @@
 {
   "name": "sorrow_helmet",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "sorrow",
-      "count": 15
-    }
-  ],
-  "result": {
-    "name": "sorrow_helmet"
-  }
+  "ingredients": [{"name": "sorrow", "count": 15}],
+  "result": {"name": "sorrow_helmet"}
 }

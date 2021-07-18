@@ -1,14 +1,7 @@
 {
   "name": "squid_hat",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "ink_sack",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "squid_hat"
-  },
+  "ingredients": [{"name": "ink_sack", "count": 8}],
+  "result": {"name": "squid_hat"},
   "collection_req": ["ink_sack", 1]
 }

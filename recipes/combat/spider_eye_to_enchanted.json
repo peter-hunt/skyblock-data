@@ -1,14 +1,7 @@
 {
   "name": "spider_eye_to_enchanted",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "spider_eye",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_spider_eye"
-  },
+  "ingredients": [{"name": "spider_eye", "count": 160}],
+  "result": {"name": "enchanted_spider_eye"},
   "collection_req": ["spider_eye", 4]
 }

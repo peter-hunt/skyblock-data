@@ -2,18 +2,9 @@
   "name": "quartz_minion_8",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "quartz_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_quartz",
-      "count": 128
-    }
+    {"name": "quartz_minion", "tier": 7},
+    {"name": "enchanted_quartz", "count": 128}
   ],
-  "result": {
-    "name": "quartz_minion",
-    "tier": 8
-  },
+  "result": {"name": "quartz_minion", "tier": 8},
   "collection_req": ["quartz", 1]
 }

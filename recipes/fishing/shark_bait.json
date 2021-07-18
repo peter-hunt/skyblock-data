@@ -1,14 +1,6 @@
 {
   "name": "shark_bait",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "shark_fin",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "shark_bait",
-    "count": 16
-  }
+  "ingredients": [{"name": "shark_fin", "count": 2}],
+  "result": {"name": "shark_bait", "count": 16}
 }

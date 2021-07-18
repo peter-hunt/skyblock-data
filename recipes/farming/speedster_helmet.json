@@ -1,14 +1,7 @@
 {
   "name": "speedster_helmet",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "enchanted_sugar_cane",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "speedster_helmet"
-  },
+  "ingredients": [{"name": "enchanted_sugar_cane", "count": 5}],
+  "result": {"name": "speedster_helmet"},
   "collection_req": ["sugar_cane", 9]
 }

@@ -2,17 +2,9 @@
   "name": "enderman_minion_1",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "wooden_sword"
-    },
-    {
-      "name": "ender_pearl",
-      "count": 64
-    }
+    {"name": "wooden_sword"},
+    {"name": "ender_pearl", "count": 64}
   ],
-  "result": {
-    "name": "enderman_minion",
-    "tier": 1
-  },
+  "result": {"name": "enderman_minion", "tier": 1},
   "collection_req": ["ender_pearl", 1]
 }

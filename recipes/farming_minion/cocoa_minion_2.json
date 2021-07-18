@@ -2,18 +2,9 @@
   "name": "cocoa_minion_2",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "cocoa_minion",
-      "tier": 1
-    },
-    {
-      "name": "cocoa",
-      "count": 160
-    }
+    {"name": "cocoa_minion", "tier": 1},
+    {"name": "cocoa", "count": 160}
   ],
-  "result": {
-    "name": "cocoa_minion",
-    "tier": 2
-  },
+  "result": {"name": "cocoa_minion", "tier": 2},
   "collection_req": ["cocoa", 1]
 }

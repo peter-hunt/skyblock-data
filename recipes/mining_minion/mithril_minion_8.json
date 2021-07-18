@@ -2,18 +2,9 @@
   "name": "mithril_minion_8",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "mithril_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_mithril",
-      "count": 128
-    }
+    {"name": "mithril_minion", "tier": 7},
+    {"name": "enchanted_mithril", "count": 128}
   ],
-  "result": {
-    "name": "mithril_minion",
-    "tier": 8
-  },
+  "result": {"name": "mithril_minion", "tier": 8},
   "collection_req": ["mithril", 1]
 }

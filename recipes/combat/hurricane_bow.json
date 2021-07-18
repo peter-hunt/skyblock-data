@@ -2,17 +2,9 @@
   "name": "hurricane_bow",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_bone",
-      "count": 96
-    },
-    {
-      "name": "string",
-      "count": 96
-    }
+    {"name": "enchanted_bone", "count": 96},
+    {"name": "string", "count": 96}
   ],
-  "result": {
-    "name": "hurricane_bow"
-  },
+  "result": {"name": "hurricane_bow"},
   "collection_req": ["bone", 7]
 }

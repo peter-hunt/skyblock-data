@@ -2,17 +2,9 @@
   "name": "ender_pearl_to_enchanted_eye",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 16
-    },
-    {
-      "name": "blaze_powder",
-      "count": 64
-    }
+    {"name": "enchanted_ender_pearl", "count": 16},
+    {"name": "blaze_powder", "count": 64}
   ],
-  "result": {
-    "name": "enchanted_eye_of_ender"
-  },
+  "result": {"name": "enchanted_eye_of_ender"},
   "collection_req": ["ender_pearl", 6]
 }

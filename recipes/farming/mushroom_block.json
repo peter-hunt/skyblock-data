@@ -1,14 +1,7 @@
 {
   "name": "mushroom_block",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "mushroom",
-      "count": 9
-    }
-  ],
-  "result": {
-    "name": "mushroom_block"
-  },
+  "ingredients": [{"name": "mushroom", "count": 9}],
+  "result": {"name": "mushroom_block"},
   "collection_req": ["mushroom", 5]
 }

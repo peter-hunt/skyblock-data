@@ -1,13 +1,6 @@
 {
   "name": "sorrow_boots",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "sorrow",
-      "count": 12
-    }
-  ],
-  "result": {
-    "name": "sorrow_boots"
-  }
+  "ingredients": [{"name": "sorrow", "count": 12}],
+  "result": {"name": "sorrow_boots"}
 }

@@ -1,13 +1,6 @@
 {
   "name": "gold_to_nugget",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "gold"
-    }
-  ],
-  "result": {
-    "name": "gold_nugget",
-    "count": 9
-  }
+  "ingredients": [{"name": "gold"}],
+  "result": {"name": "gold_nugget", "count": 9}
 }

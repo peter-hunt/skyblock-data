@@ -2,20 +2,9 @@
   "name": "ender_slayer_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "enchanted_ender_pearl", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "ender_slayer": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"ender_slayer": 4}},
   "collection_req": ["ender_pearl", 3]
 }

@@ -1,16 +1,7 @@
 {
   "name": "spooky_bait",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "pumpkin"
-    },
-    {
-      "name": "fish"
-    }
-  ],
-  "result": {
-    "name": "spooky_bait"
-  },
+  "ingredients": [{"name": "pumpkin"}, {"name": "fish"}],
+  "result": {"name": "spooky_bait"},
   "collection_req": ["lily_pad", 1]
 }

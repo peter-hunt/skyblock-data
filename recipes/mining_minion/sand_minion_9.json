@@ -2,18 +2,9 @@
   "name": "sand_minion_9",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "sand_minion",
-      "tier": 8
-    },
-    {
-      "name": "enchanted_sand",
-      "count": 128
-    }
+    {"name": "sand_minion", "tier": 8},
+    {"name": "enchanted_sand", "count": 128}
   ],
-  "result": {
-    "name": "sand_minion",
-    "tier": 9
-  },
+  "result": {"name": "sand_minion", "tier": 9},
   "collection_req": ["sand", 1]
 }

@@ -2,20 +2,9 @@
   "name": "luck_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "rabbit_hide",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "rabbit_hide", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "luck": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"luck": 4}},
   "collection_req": ["rabbit", 5]
 }

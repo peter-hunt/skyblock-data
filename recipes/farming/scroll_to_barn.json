@@ -2,21 +2,10 @@
   "name": "scroll_to_barn",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 16
-    },
-    {
-      "name": "enchanted_carrot",
-      "count": 48
-    },
-    {
-      "name": "enchanted_potato",
-      "count": 80
-    }
+    {"name": "enchanted_ender_pearl", "count": 16},
+    {"name": "enchanted_carrot", "count": 48},
+    {"name": "enchanted_potato", "count": 80}
   ],
-  "result": {
-    "name": "travel_scroll_to_barn"
-  },
+  "result": {"name": "travel_scroll_to_barn"},
   "collection_req": ["potato", 6]
 }

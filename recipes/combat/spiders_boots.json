@@ -1,14 +1,7 @@
 {
   "name": "spiders_boots",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "enchanted_string",
-      "count": 256
-    }
-  ],
-  "result": {
-    "name": "spiders_boots"
-  },
+  "ingredients": [{"name": "enchanted_string", "count": 256}],
+  "result": {"name": "spiders_boots"},
   "collection_req": ["string", 8]
 }

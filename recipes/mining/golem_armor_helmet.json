@@ -1,14 +1,7 @@
 {
   "name": "golem_armor_helmet",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_iron",
-      "count": 50
-    }
-  ],
-  "result": {
-    "name": "golem_armor_helmet"
-  },
+  "ingredients": [{"name": "enchanted_iron", "count": 50}],
+  "result": {"name": "golem_armor_helmet"},
   "collection_req": ["iron", 6]
 }

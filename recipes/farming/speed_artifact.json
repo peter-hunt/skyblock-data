@@ -2,16 +2,9 @@
   "name": "speed_artifact",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "speed_ring"
-    },
-    {
-      "name": "enchanted_sugar_cane",
-      "count": 48
-    }
+    {"name": "speed_ring"},
+    {"name": "enchanted_sugar_cane", "count": 48}
   ],
-  "result": {
-    "name": "speed_artifact"
-  },
+  "result": {"name": "speed_artifact"},
   "collection_req": ["sugar_cane", 8]
 }

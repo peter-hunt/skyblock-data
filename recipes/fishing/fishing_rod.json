@@ -1,17 +1,6 @@
 {
   "name": "fishing_rod",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "stick",
-      "count": 3
-    },
-    {
-      "name": "string",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "fishing_rod"
-  }
+  "ingredients": [{"name": "stick", "count": 3}, {"name": "string", "count": 2}],
+  "result": {"name": "fishing_rod"}
 }

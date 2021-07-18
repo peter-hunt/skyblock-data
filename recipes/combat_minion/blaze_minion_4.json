@@ -2,18 +2,9 @@
   "name": "blaze_minion_4",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "blaze_minion",
-      "tier": 3
-    },
-    {
-      "name": "blaze_rod",
-      "count": 512
-    }
+    {"name": "blaze_minion", "tier": 3},
+    {"name": "blaze_rod", "count": 512}
   ],
-  "result": {
-    "name": "blaze_minion",
-    "tier": 4
-  },
+  "result": {"name": "blaze_minion", "tier": 4},
   "collection_req": ["blaze_rod", 1]
 }

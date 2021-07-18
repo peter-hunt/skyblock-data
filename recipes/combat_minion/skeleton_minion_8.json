@@ -2,18 +2,9 @@
   "name": "skeleton_minion_8",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "skeleton_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_bone",
-      "count": 64
-    }
+    {"name": "skeleton_minion", "tier": 7},
+    {"name": "enchanted_bone", "count": 64}
   ],
-  "result": {
-    "name": "skeleton_minion",
-    "tier": 8
-  },
+  "result": {"name": "skeleton_minion", "tier": 8},
   "collection_req": ["bone", 1]
 }

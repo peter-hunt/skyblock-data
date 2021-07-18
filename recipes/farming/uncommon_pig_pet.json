@@ -1,18 +1,7 @@
 {
   "name": "uncommon_pig_pet",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "pork",
-      "count": 512
-    },
-    {
-      "name": "enchanted_egg"
-    }
-  ],
-  "result": {
-    "name": "pig_pet",
-    "rarity": "uncommon"
-  },
+  "ingredients": [{"name": "pork", "count": 512}, {"name": "enchanted_egg"}],
+  "result": {"name": "pig_pet", "rarity": "uncommon"},
   "collection_req": ["pork", 3]
 }

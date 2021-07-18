@@ -2,18 +2,9 @@
   "name": "end_stone_minion_8",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "end_stone_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_end_stone",
-      "count": 64
-    }
+    {"name": "end_stone_minion", "tier": 7},
+    {"name": "enchanted_end_stone", "count": 64}
   ],
-  "result": {
-    "name": "end_stone_minion",
-    "tier": 8
-  },
+  "result": {"name": "end_stone_minion", "tier": 8},
   "collection_req": ["end_stone", 1]
 }

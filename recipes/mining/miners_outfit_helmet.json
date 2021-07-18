@@ -1,14 +1,7 @@
 {
   "name": "miners_outfit_helmet",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "enchanted_cobblestone",
-      "count": 5
-    }
-  ],
-  "result": {
-    "name": "miners_outfit_helmet"
-  },
+  "ingredients": [{"name": "enchanted_cobblestone", "count": 5}],
+  "result": {"name": "miners_outfit_helmet"},
   "collection_req": ["cobblestone", 7]
 }

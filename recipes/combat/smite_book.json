@@ -2,20 +2,9 @@
   "name": "smite_book",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "rotten_flesh",
-      "count": 8
-    }
+    {"name": "paper", "count": 24},
+    {"name": "rotten_flesh", "count": 8}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "smite": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"smite": 4}},
   "collection_req": ["rotten_flesh", 3]
 }

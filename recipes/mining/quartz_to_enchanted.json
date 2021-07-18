@@ -1,14 +1,7 @@
 {
   "name": "quartz_to_enchanted",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "quartz",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_quartz"
-  },
+  "ingredients": [{"name": "quartz", "count": 160}],
+  "result": {"name": "enchanted_quartz"},
   "collection_req": ["quartz", 4]
 }

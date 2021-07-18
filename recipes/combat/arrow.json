@@ -1,19 +1,6 @@
 {
   "name": "arrow",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "gravel"
-    },
-    {
-      "name": "stick"
-    },
-    {
-      "name": "feather"
-    }
-  ],
-  "result": {
-    "name": "arrow",
-    "count": 4
-  }
+  "ingredients": [{"name": "gravel"}, {"name": "stick"}, {"name": "feather"}],
+  "result": {"name": "arrow", "count": 4}
 }

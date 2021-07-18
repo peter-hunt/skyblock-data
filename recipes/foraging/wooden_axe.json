@@ -1,17 +1,6 @@
 {
   "name": "wooden_axe",
   "category": "foraging",
-  "ingredients": [
-    {
-      "name": "planks",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
-  ],
-  "result": {
-    "name": "wooden_axe"
-  }
+  "ingredients": [{"name": "planks", "count": 3}, {"name": "stick", "count": 2}],
+  "result": {"name": "wooden_axe"}
 }

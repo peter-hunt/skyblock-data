@@ -2,18 +2,9 @@
   "name": "gold_minion_8",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "gold_minion",
-      "tier": 7
-    },
-    {
-      "name": "enchanted_gold",
-      "count": 128
-    }
+    {"name": "gold_minion", "tier": 7},
+    {"name": "enchanted_gold", "count": 128}
   ],
-  "result": {
-    "name": "gold_minion",
-    "tier": 8
-  },
+  "result": {"name": "gold_minion", "tier": 8},
   "collection_req": ["gold", 1]
 }

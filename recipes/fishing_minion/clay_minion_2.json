@@ -2,18 +2,9 @@
   "name": "clay_minion_2",
   "category": "fishing",
   "ingredients": [
-    {
-      "name": "clay_minion",
-      "tier": 1
-    },
-    {
-      "name": "clay",
-      "count": 128
-    }
+    {"name": "clay_minion", "tier": 1},
+    {"name": "clay", "count": 128}
   ],
-  "result": {
-    "name": "clay_minion",
-    "tier": 2
-  },
+  "result": {"name": "clay_minion", "tier": 2},
   "collection_req": ["clay", 1]
 }

@@ -1,14 +1,7 @@
 {
   "name": "farm_suit_leggings",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "hay_bale",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "farm_suit_leggings"
-  },
+  "ingredients": [{"name": "hay_bale", "count": 7}],
+  "result": {"name": "farm_suit_leggings"},
   "collection_req": ["wheat", 3]
 }

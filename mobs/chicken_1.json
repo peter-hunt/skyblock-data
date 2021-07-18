@@ -5,29 +5,8 @@
   "exp": 2,
   "farming_exp": 2,
   "drops": [
-    [
-      {
-        "name": "chicken"
-      },
-      1,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "feather"
-      },
-      [1, 2],
-      "common",
-      0.6666666666666666
-    ],
-    [
-      {
-        "name": "egg"
-      },
-      1,
-      "common",
-      0.25
-    ]
+    [{"name": "chicken"}, 1, "common", 1],
+    [{"name": "feather"}, [1, 2], "common", 0.6666666666666666],
+    [{"name": "egg"}, 1, "common", 0.25]
   ]
 }

@@ -2,16 +2,9 @@
   "name": "golem_sword",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "enchanted_iron_block",
-      "count": 2
-    },
-    {
-      "name": "stick"
-    }
+    {"name": "enchanted_iron_block", "count": 2},
+    {"name": "stick"}
   ],
-  "result": {
-    "name": "golem_sword"
-  },
+  "result": {"name": "golem_sword"},
   "collection_req": ["iron", 8]
 }

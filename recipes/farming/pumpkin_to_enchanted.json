@@ -1,14 +1,7 @@
 {
   "name": "pumpkin_to_enchanted",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "pumpkin",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_pumpkin"
-  },
+  "ingredients": [{"name": "pumpkin", "count": 160}],
+  "result": {"name": "enchanted_pumpkin"},
   "collection_req": ["pumpkin", 3]
 }

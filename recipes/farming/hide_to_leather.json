@@ -1,13 +1,6 @@
 {
   "name": "hide_to_leather",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "rabbit_hide",
-      "count": 4
-    }
-  ],
-  "result": {
-    "name": "leather"
-  }
+  "ingredients": [{"name": "rabbit_hide", "count": 4}],
+  "result": {"name": "leather"}
 }

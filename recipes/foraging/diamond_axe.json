@@ -2,16 +2,8 @@
   "name": "diamond_axe",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "diamond",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "diamond", "count": 3},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "diamond_axe"
-  }
+  "result": {"name": "diamond_axe"}
 }

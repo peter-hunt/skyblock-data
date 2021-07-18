@@ -1,14 +1,7 @@
 {
   "name": "pumpkin_leggings",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "pumpkin",
-      "count": 7
-    }
-  ],
-  "result": {
-    "name": "pumpkin_leggings"
-  },
+  "ingredients": [{"name": "pumpkin", "count": 7}],
+  "result": {"name": "pumpkin_leggings"},
   "collection_req": ["pumpkin", 2]
 }

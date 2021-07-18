@@ -2,31 +2,12 @@
   "name": "titanium_drill_555",
   "category": "forging",
   "ingredients": [
-    {
-      "name": "titanium_drill_455"
-    },
-    {
-      "name": "refined_diamond",
-      "count": 20
-    },
-    {
-      "name": "refined_titanium",
-      "count": 32
-    },
-    {
-      "name": "enchanted_iron_block",
-      "count": 2
-    },
-    {
-      "name": "mithril_plate",
-      "count": 15
-    },
-    {
-      "name": "plasma",
-      "count": 20
-    }
+    {"name": "titanium_drill_455"},
+    {"name": "refined_diamond", "count": 20},
+    {"name": "refined_titanium", "count": 32},
+    {"name": "enchanted_iron_block", "count": 2},
+    {"name": "mithril_plate", "count": 15},
+    {"name": "plasma", "count": 20}
   ],
-  "result": {
-    "name": "titanium_drill_555"
-  }
+  "result": {"name": "titanium_drill_555"}
 }

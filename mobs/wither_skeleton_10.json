@@ -7,29 +7,8 @@
   "exp": 15,
   "combat_exp": 13,
   "drops": [
-    [
-      {
-        "name": "bone"
-      },
-      3,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "coal"
-      },
-      1,
-      "common",
-      0.5
-    ],
-    [
-      {
-        "name": "enchanted_coal"
-      },
-      1,
-      "rare",
-      0.01
-    ]
+    [{"name": "bone"}, 3, "common", 1],
+    [{"name": "coal"}, 1, "common", 0.5],
+    [{"name": "enchanted_coal"}, 1, "rare", 0.01]
   ]
 }

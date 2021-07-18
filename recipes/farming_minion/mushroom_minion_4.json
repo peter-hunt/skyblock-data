@@ -2,18 +2,9 @@
   "name": "mushroom_minion_4",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "mushroom_minion",
-      "tier": 3
-    },
-    {
-      "name": "mushroom_block",
-      "count": 512
-    }
+    {"name": "mushroom_minion", "tier": 3},
+    {"name": "mushroom_block", "count": 512}
   ],
-  "result": {
-    "name": "mushroom_minion",
-    "tier": 4
-  },
+  "result": {"name": "mushroom_minion", "tier": 4},
   "collection_req": ["mushroom", 1]
 }

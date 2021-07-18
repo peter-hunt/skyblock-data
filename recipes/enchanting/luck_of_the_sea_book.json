@@ -2,20 +2,9 @@
   "name": "luck_of_the_sea_book",
   "category": "enchanting",
   "ingredients": [
-    {
-      "name": "paper",
-      "count": 24
-    },
-    {
-      "name": "rabbit_foot",
-      "count": 16
-    }
+    {"name": "paper", "count": 24},
+    {"name": "rabbit_foot", "count": 16}
   ],
-  "result": {
-    "name": "enchanted_book",
-    "enchantments": {
-      "luck_of_the_sea": 4
-    }
-  },
+  "result": {"name": "enchanted_book", "enchantments": {"luck_of_the_sea": 4}},
   "collection_req": ["rabbit", 7]
 }

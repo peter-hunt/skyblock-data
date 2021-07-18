@@ -1,17 +1,6 @@
 {
   "name": "bow",
   "category": "combat",
-  "ingredients": [
-    {
-      "name": "stick",
-      "count": 3
-    },
-    {
-      "name": "string",
-      "count": 3
-    }
-  ],
-  "result": {
-    "name": "bow"
-  }
+  "ingredients": [{"name": "stick", "count": 3}, {"name": "string", "count": 3}],
+  "result": {"name": "bow"}
 }

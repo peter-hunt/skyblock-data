@@ -1,14 +1,7 @@
 {
   "name": "salmon_to_enchanted_cooked",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "enchanted_salmon",
-      "count": 160
-    }
-  ],
-  "result": {
-    "name": "enchanted_cooked_salmon"
-  },
+  "ingredients": [{"name": "enchanted_salmon", "count": 160}],
+  "result": {"name": "enchanted_cooked_salmon"},
   "collection_req": ["salmon", 8]
 }

@@ -2,18 +2,9 @@
   "name": "wheat_minion_6",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "wheat_minion",
-      "tier": 5
-    },
-    {
-      "name": "hay_bale",
-      "count": 192
-    }
+    {"name": "wheat_minion", "tier": 5},
+    {"name": "hay_bale", "count": 192}
   ],
-  "result": {
-    "name": "wheat_minion",
-    "tier": 6
-  },
+  "result": {"name": "wheat_minion", "tier": 6},
   "collection_req": ["wheat", 1]
 }

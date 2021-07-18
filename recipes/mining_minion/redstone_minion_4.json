@@ -2,18 +2,9 @@
   "name": "redstone_minion_4",
   "category": "mining",
   "ingredients": [
-    {
-      "name": "redstone_minion",
-      "tier": 3
-    },
-    {
-      "name": "enchanted_redstone",
-      "count": 8
-    }
+    {"name": "redstone_minion", "tier": 3},
+    {"name": "enchanted_redstone", "count": 8}
   ],
-  "result": {
-    "name": "redstone_minion",
-    "tier": 4
-  },
+  "result": {"name": "redstone_minion", "tier": 4},
   "collection_req": ["redstone", 1]
 }

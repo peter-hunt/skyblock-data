@@ -1,14 +1,7 @@
 {
   "name": "fish_hat",
   "category": "fishing",
-  "ingredients": [
-    {
-      "name": "fish",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "fish_hat"
-  },
+  "ingredients": [{"name": "fish", "count": 8}],
+  "result": {"name": "fish_hat"},
   "collection_req": ["fish", 1]
 }

@@ -2,17 +2,9 @@
   "name": "jungle_axe",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "enchanted_jungle",
-      "count": 3
-    },
-    {
-      "name": "stick",
-      "count": 2
-    }
+    {"name": "enchanted_jungle", "count": 3},
+    {"name": "stick", "count": 2}
   ],
-  "result": {
-    "name": "jungle_axe"
-  },
+  "result": {"name": "jungle_axe"},
   "collection_req": ["jungle_wood", 7]
 }

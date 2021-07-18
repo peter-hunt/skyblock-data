@@ -1,14 +1,7 @@
 {
   "name": "golem_hat",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "iron",
-      "count": 40
-    }
-  ],
-  "result": {
-    "name": "golem_hat"
-  },
+  "ingredients": [{"name": "iron", "count": 40}],
+  "result": {"name": "golem_hat"},
   "collection_req": ["iron", 2]
 }

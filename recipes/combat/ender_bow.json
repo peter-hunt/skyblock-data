@@ -2,17 +2,9 @@
   "name": "ender_bow",
   "category": "combat",
   "ingredients": [
-    {
-      "name": "enchanted_ender_pearl",
-      "count": 12
-    },
-    {
-      "name": "string",
-      "count": 3
-    }
+    {"name": "enchanted_ender_pearl", "count": 12},
+    {"name": "string", "count": 3}
   ],
-  "result": {
-    "name": "ender_bow"
-  },
+  "result": {"name": "ender_bow"},
   "collection_req": ["ender_pearl", 5]
 }

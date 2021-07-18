@@ -2,18 +2,9 @@
   "name": "cow_minion_2",
   "category": "farming",
   "ingredients": [
-    {
-      "name": "cow_minion",
-      "tier": 1
-    },
-    {
-      "name": "beef",
-      "count": 128
-    }
+    {"name": "cow_minion", "tier": 1},
+    {"name": "beef", "count": 128}
   ],
-  "result": {
-    "name": "cow_minion",
-    "tier": 2
-  },
+  "result": {"name": "cow_minion", "tier": 2},
   "collection_req": ["leather", 1]
 }

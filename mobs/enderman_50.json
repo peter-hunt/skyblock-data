@@ -7,80 +7,19 @@
   "exp": 10,
   "combat_exp": 40.8,
   "drops": [
+    [{"name": "ender_pearl"}, [1, 2], "common", 1],
+    [{"name": "enchanted_ender_pearl"}, 1, "rare", 0.01],
+    [{"name": "enderman_pet", "rarity": "rare"}, 1, "legendary", 0.001],
+    [{"name": "enderman_pet", "rarity": "epic"}, 1, "pray_rngesus", 0.0001],
     [
-      {
-        "name": "ender_pearl"
-      },
-      [1, 2],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "enchanted_ender_pearl"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "enderman_pet",
-        "rarity": "rare"
-      },
-      1,
-      "legendary",
-      0.001
-    ],
-    [
-      {
-        "name": "enderman_pet",
-        "rarity": "epic"
-      },
+      {"name": "enderman_pet", "rarity": "legendary"},
       1,
       "pray_rngesus",
-      0.0001
+      0.000006
     ],
-    [
-      {
-        "name": "enderman_pet",
-        "rarity": "legendary"
-      },
-      1,
-      "pray_rngesus",
-      6e-06
-    ],
-    [
-      {
-        "name": "ender_helmet"
-      },
-      1,
-      "legendary",
-      5e-05
-    ],
-    [
-      {
-        "name": "ender_chestplate"
-      },
-      1,
-      "legendary",
-      5e-05
-    ],
-    [
-      {
-        "name": "ender_leggings"
-      },
-      1,
-      "legendary",
-      5e-05
-    ],
-    [
-      {
-        "name": "ender_helmet"
-      },
-      1,
-      "legendary",
-      5e-05
-    ]
+    [{"name": "ender_helmet"}, 1, "legendary", 0.00005],
+    [{"name": "ender_chestplate"}, 1, "legendary", 0.00005],
+    [{"name": "ender_leggings"}, 1, "legendary", 0.00005],
+    [{"name": "ender_helmet"}, 1, "legendary", 0.00005]
   ]
 }

@@ -2,18 +2,9 @@
   "name": "jungle_minion_5",
   "category": "foraging",
   "ingredients": [
-    {
-      "name": "jungle_minion",
-      "tier": 4
-    },
-    {
-      "name": "enchanted_jungle",
-      "count": 8
-    }
+    {"name": "jungle_minion", "tier": 4},
+    {"name": "enchanted_jungle", "count": 8}
   ],
-  "result": {
-    "name": "jungle_minion",
-    "tier": 5
-  },
+  "result": {"name": "jungle_minion", "tier": 5},
   "collection_req": ["jungle_wood", 1]
 }

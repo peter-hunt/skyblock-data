@@ -1,13 +1,6 @@
 {
   "name": "coal_to_block",
   "category": "mining",
-  "ingredients": [
-    {
-      "name": "coal",
-      "count": 9
-    }
-  ],
-  "result": {
-    "name": "coal_block"
-  }
+  "ingredients": [{"name": "coal", "count": 9}],
+  "result": {"name": "coal_block"}
 }

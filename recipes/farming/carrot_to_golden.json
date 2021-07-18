@@ -1,16 +1,6 @@
 {
   "name": "carrot_to_golden",
   "category": "farming",
-  "ingredients": [
-    {
-      "name": "carrot"
-    },
-    {
-      "name": "gold_nugget",
-      "count": 8
-    }
-  ],
-  "result": {
-    "name": "golden_carrot"
-  }
+  "ingredients": [{"name": "carrot"}, {"name": "gold_nugget", "count": 8}],
+  "result": {"name": "golden_carrot"}
 }
