@@ -1,0 +1,9 @@
+{
+  "name": "end_stone",
+  "drop": "end_stone",
+  "breaking_power": 1,
+  "hardness": 3,
+  "exp": 0,
+  "mining_exp": 3,
+  "type": "mineral"
+}

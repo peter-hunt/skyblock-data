@@ -1,0 +1,9 @@
+{
+  "name": "netherrack",
+  "drop": "netherrack",
+  "breaking_power": 1,
+  "hardness": 0.4,
+  "exp": 0,
+  "mining_exp": 0.5,
+  "type": "mineral"
+}

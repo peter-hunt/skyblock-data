@@ -1,0 +1,11 @@
+{
+  "name": "dark_mithril",
+  "drop": "mithril",
+  "amount": 2,
+  "breaking_power": 4,
+  "hardness": 60,
+  "exp": 30,
+  "mining_exp": 45,
+  "mithril_powder": [1, 2],
+  "type": "mineral"
+}

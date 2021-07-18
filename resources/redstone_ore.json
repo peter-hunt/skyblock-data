@@ -1,0 +1,10 @@
+{
+  "name": "redstone_ore",
+  "drop": "redstone",
+  "amount": [4, 5],
+  "breaking_power": 3,
+  "hardness": 3,
+  "exp": [1, 5],
+  "mining_exp": 7,
+  "type": "mineral"
+}

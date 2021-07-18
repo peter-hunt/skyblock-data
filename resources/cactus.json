@@ -1,0 +1,6 @@
+{
+  "name": "cactus",
+  "amount": [5, 15],
+  "farming_exp": 2,
+  "type": "crop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "diamond_block",
+  "drop": "diamond",
+  "amount": 9,
+  "breaking_power": 3,
+  "hardness": 5,
+  "exp": 0,
+  "mining_exp": 15,
+  "type": "mineral"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sand",
+  "drop": "sand",
+  "hardness": 0.5,
+  "exp": 0,
+  "mining_exp": 3,
+  "type": "mineral"
+}

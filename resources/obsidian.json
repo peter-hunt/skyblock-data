@@ -1,0 +1,9 @@
+{
+  "name": "obsidian",
+  "drop": "obsidian",
+  "breaking_power": 4,
+  "hardness": 50,
+  "exp": 0,
+  "mining_exp": 20,
+  "type": "mineral"
+}

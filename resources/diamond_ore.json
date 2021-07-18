@@ -1,0 +1,9 @@
+{
+  "name": "diamond_ore",
+  "drop": "diamond",
+  "breaking_power": 3,
+  "hardness": 3,
+  "exp": [3, 7],
+  "mining_exp": 10,
+  "type": "mineral"
+}

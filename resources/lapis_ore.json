@@ -1,0 +1,10 @@
+{
+  "name": "lapis_ore",
+  "drop": "lapis",
+  "amount": [4, 9],
+  "breaking_power": 2,
+  "hardness": 3,
+  "exp": [2, 5],
+  "mining_exp": 7,
+  "type": "mineral"
+}

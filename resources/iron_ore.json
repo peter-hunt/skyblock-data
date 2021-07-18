@@ -1,0 +1,9 @@
+{
+  "name": "iron_ore",
+  "drop": "iron",
+  "breaking_power": 2,
+  "hardness": 3,
+  "exp": 0,
+  "mining_exp": 5,
+  "type": "mineral"
+}

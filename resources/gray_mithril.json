@@ -1,0 +1,10 @@
+{
+  "name": "gray_mithril",
+  "drop": "mithril",
+  "breaking_power": 4,
+  "hardness": 30,
+  "exp": 15,
+  "mining_exp": 45,
+  "mithril_powder": [0, 1],
+  "type": "mineral"
+}

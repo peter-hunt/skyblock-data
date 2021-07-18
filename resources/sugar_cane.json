@@ -1,0 +1,6 @@
+{
+  "name": "sugar_cane",
+  "amount": [3, 5],
+  "farming_exp": 2,
+  "type": "crop"
+}

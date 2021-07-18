@@ -1,0 +1,8 @@
+{
+  "name": "stone",
+  "drop": "cobblestone",
+  "breaking_power": 1,
+  "hardness": 1,
+  "exp": 0,
+  "type": "mineral"
+}

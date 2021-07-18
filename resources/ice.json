@@ -1,0 +1,8 @@
+{
+  "name": "ice",
+  "drop": "ice",
+  "hardness": 0.5,
+  "exp": 0,
+  "mining_exp": 0.5,
+  "type": "mineral"
+}

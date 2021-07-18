@@ -1,0 +1,9 @@
+{
+  "name": "quartz_ore",
+  "drop": "quartz",
+  "breaking_power": 1,
+  "hardness": 3,
+  "exp": [2, 5],
+  "mining_exp": 5,
+  "type": "mineral"
+}

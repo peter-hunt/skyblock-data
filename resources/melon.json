@@ -1,0 +1,6 @@
+{
+  "name": "melon",
+  "amount": [3, 7],
+  "farming_exp": 4,
+  "type": "crop"
+}

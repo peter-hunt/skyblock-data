@@ -1,0 +1,8 @@
+{
+  "name": "coal_ore",
+  "drop": "coal",
+  "breaking_power": 1,
+  "hardness": 3,
+  "mining_exp": 5,
+  "type": "mineral"
+}

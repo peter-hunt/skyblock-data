@@ -1,0 +1,9 @@
+{
+  "name": "titanium",
+  "drop": "titanium",
+  "breaking_power": 5,
+  "hardness": 150,
+  "exp": 75,
+  "mining_exp": 100,
+  "type": "mineral"
+}

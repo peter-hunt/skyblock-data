@@ -1,0 +1,10 @@
+{
+  "name": "gold_block",
+  "drop": "gold",
+  "amount": 9,
+  "breaking_power": 3,
+  "hardness": 30,
+  "exp": 20,
+  "mining_exp": 20,
+  "type": "mineral"
+}

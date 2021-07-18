@@ -1,0 +1,9 @@
+{
+  "name": "gold_ore",
+  "drop": "gold",
+  "breaking_power": 3,
+  "hardness": 3,
+  "exp": 0,
+  "mining_exp": 6,
+  "type": "mineral"
+}

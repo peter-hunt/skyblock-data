@@ -1,0 +1,9 @@
+{
+  "name": "emerald_ore",
+  "drop": "emerald",
+  "breaking_power": 3,
+  "hardness": 3,
+  "exp": [3, 7],
+  "mining_exp": 9,
+  "type": "mineral"
+}
