@@ -1,0 +1,184 @@
+[
+  [
+    {"name": "clay"},
+    "normal",
+    0.04,
+    30,
+    []
+  ],
+  [
+    {"name": "fish"},
+    "normal",
+    0.28,
+    25,
+    []
+  ],
+  [
+    {"name": "salmon"},
+    "normal",
+    0.13,
+    35,
+    []
+  ],
+  [
+    {"name": "pufferfish"},
+    "normal",
+    0.07,
+    50,
+    []
+  ],
+  [
+    {"name": "prismarine_shard"},
+    "good_catch",
+    0.01,
+    160,
+    []
+  ],
+  [
+    {"name": "prismarine_crystals"},
+    "good_catch",
+    0.01,
+    160,
+    []
+  ],
+  [
+    {"name": "clownfish"},
+    "normal",
+    0.02,
+    100,
+    []
+  ],
+  [
+    {"name": "golden_apple"},
+    "good_catch",
+    0.005,
+    160,
+    []
+  ],
+  [
+    [5000, 10000],
+    "good_catch",
+    0.03,
+    160,
+    []
+  ],
+  [
+    {"name": "grand_experience_bottle"},
+    "great_catch",
+    0.005,
+    160,
+    []
+  ],
+  [
+    {"name": "titanic_experience_bottle"},
+    "great_catch",
+    0.001,
+    300,
+    []
+  ],
+  [
+    {"name": "fairys_fedora"},
+    "great_catch",
+    0.01,
+    300,
+    ["wilderness"]
+  ],
+  [
+    {"name": "fairys_polo"},
+    "great_catch",
+    0.01,
+    300,
+    ["wilderness"]
+  ],
+  [
+    {"name": "fairys_trousers"},
+    "great_catch",
+    0.01,
+    300,
+    ["wilderness"]
+  ],
+  [
+    {"name": "fairys_galoshes"},
+    "great_catch",
+    0.01,
+    300,
+    ["wilderness"]
+  ],
+  [
+    {"name": "enchanted_clay"},
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    {"name": "enchanted_iron"},
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    {"name": "enchanted_gold"},
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    {"name": "enchanted_diamond"},
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    {"name": "enchanted_pufferfish"},
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    [10000, 20000],
+    "great_catch",
+    0.01,
+    300,
+    []
+  ],
+  [
+    {"name": "guardian_pet", "rarity": "epic"},
+    "great_catch",
+    0.008,
+    300,
+    []
+  ],
+  [
+    {"name": "guardian_pet", "rarity": "legendary"},
+    "great_catch",
+    0.002,
+    300,
+    []
+  ],
+  [
+    {"name": "squid_pet", "rarity": "epic"},
+    "great_catch",
+    0.02,
+    300,
+    ["birch"]
+  ],
+  [
+    {"name": "squid_pet", "rarity": "legendary"},
+    "great_catch",
+    0.02,
+    300,
+    ["birch"]
+  ],
+  [
+    {"name": "treasurite"},
+    "good_catch",
+    0.01,
+    300,
+    ["upper"]
+  ]
+]
