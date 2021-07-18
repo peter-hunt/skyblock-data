@@ -1,0 +1,19 @@
+{
+  "name": "mini_blaze",
+  "level": 12,
+  "health": 500,
+  "damage": 120,
+  "coins": 5,
+  "exp": 30,
+  "combat_exp": 10,
+  "drops": [
+    [
+      {
+        "name": "blaze_rod"
+      },
+      1,
+      "common",
+      1
+    ]
+  ]
+}

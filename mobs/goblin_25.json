@@ -1,0 +1,43 @@
+{
+  "name": "goblin",
+  "level": 25,
+  "health": 800,
+  "damage": 300,
+  "coins": 10,
+  "exp": 20,
+  "combat_exp": 50,
+  "drops": [
+    [
+      {
+        "name": "goblin_helmet"
+      },
+      1,
+      "pray_rngesus",
+      0.00075
+    ],
+    [
+      {
+        "name": "goblin_chestplate"
+      },
+      1,
+      "pray_rngesus",
+      0.00075
+    ],
+    [
+      {
+        "name": "goblin_leggings"
+      },
+      1,
+      "pray_rngesus",
+      0.00075
+    ],
+    [
+      {
+        "name": "goblin_boots"
+      },
+      1,
+      "pray_rngesus",
+      0.00075
+    ]
+  ]
+}

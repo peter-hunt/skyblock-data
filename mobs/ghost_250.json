@@ -1,0 +1,36 @@
+{
+  "name": "ghost",
+  "level": 250,
+  "health": 1000000,
+  "damage": 1000,
+  "true_damage": 100,
+  "coins": 100,
+  "exp": 30,
+  "combat_exp": 100,
+  "drops": [
+    [
+      {
+        "name": "sorrow"
+      },
+      1,
+      "rare",
+      0.0012
+    ],
+    [
+      {
+        "name": "plasma"
+      },
+      1,
+      "legendary",
+      0.001
+    ],
+    [
+      {
+        "name": "bag_of_cash"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ]
+  ]
+}

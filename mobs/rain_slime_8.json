@@ -1,0 +1,19 @@
+{
+  "name": "rain_slime",
+  "level": 8,
+  "health": 200,
+  "damage": 100,
+  "coins": 5,
+  "exp": 3,
+  "combat_exp": 4,
+  "drops": [
+    [
+      {
+        "name": "slime_ball"
+      },
+      1,
+      "common",
+      1
+    ]
+  ]
+}

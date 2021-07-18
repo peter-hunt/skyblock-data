@@ -1,0 +1,37 @@
+{
+  "name": "crypt_ghoul",
+  "level": 30,
+  "health": 2000,
+  "damage": 200,
+  "coins": 13,
+  "exp": 30,
+  "combat_exp": 32,
+  "drops": [
+    [
+      {
+        "name": "rotten_flesh"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "ghoul_pet",
+        "rarity": "epic"
+      },
+      1,
+      "pray_rngesus",
+      3e-05
+    ],
+    [
+      {
+        "name": "ghoul_pet",
+        "rarity": "legendary"
+      },
+      1,
+      "pray_rngesus",
+      1e-05
+    ]
+  ]
+}

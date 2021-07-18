@@ -1,0 +1,19 @@
+{
+  "name": "endermite",
+  "level": 37,
+  "health": 2000,
+  "damage": 400,
+  "coins": 10,
+  "exp": 8,
+  "combat_exp": 25,
+  "drops": [
+    [
+      {
+        "name": "end_stone"
+      },
+      [1, 2],
+      "common",
+      1
+    ]
+  ]
+}

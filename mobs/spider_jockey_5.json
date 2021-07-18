@@ -1,0 +1,43 @@
+{
+  "name": "spider_jockey",
+  "level": 5,
+  "health": 530,
+  "damage": 93,
+  "coins": 7,
+  "exp": 10,
+  "combat_exp": 14,
+  "drops": [
+    [
+      {
+        "name": "string"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "bone"
+      },
+      2,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "uncommon",
+      0.1
+    ],
+    [
+      {
+        "name": "bow"
+      },
+      1,
+      "rare",
+      0.02
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "weaver_spider",
+  "level": 5,
+  "health": 200,
+  "damage": 45,
+  "coins": 2,
+  "exp": 2,
+  "combat_exp": 8,
+  "drops": [
+    [
+      {
+        "name": "string"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "uncommon",
+      0.1
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "wolf",
+  "level": 15,
+  "health": 250,
+  "damage": 80,
+  "coins": 1,
+  "exp": 4,
+  "combat_exp": 10,
+  "drops": [
+    [
+      {
+        "name": "bone"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "hound_pet",
+        "rarity": "epic"
+      },
+      1,
+      "pray_rngesus",
+      1e-05
+    ],
+    [
+      {
+        "name": "hound_pet",
+        "rarity": "legendary"
+      },
+      1,
+      "pray_rngesus",
+      3e-06
+    ]
+  ]
+}

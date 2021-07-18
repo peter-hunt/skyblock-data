@@ -1,0 +1,35 @@
+{
+  "name": "obsidian_defender",
+  "level": 55,
+  "health": 10000,
+  "damage": 200,
+  "coins": 15,
+  "exp": 10,
+  "combat_exp": 40,
+  "drops": [
+    [
+      {
+        "name": "obsidian"
+      },
+      [2, 3],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_obsidian"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "obsidian_chestplate"
+      },
+      1,
+      "legendary",
+      0.001
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "zealot",
+  "level": 55,
+  "health": 13000,
+  "damage": 1250,
+  "coins": 15,
+  "exp": 10,
+  "combat_exp": 40,
+  "drops": [
+    [
+      {
+        "name": "ender_pearl"
+      },
+      [2, 4],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_ender_pearl"
+      },
+      1,
+      "rare",
+      0.02
+    ],
+    [
+      {
+        "name": "summoning_eye"
+      },
+      1,
+      "legendary",
+      0.002380952380952381
+    ]
+  ]
+}

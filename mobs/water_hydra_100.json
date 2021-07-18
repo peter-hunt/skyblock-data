@@ -1,0 +1,29 @@
+{
+  "name": "water_hydra",
+  "level": 100,
+  "health": 500000,
+  "damage": 500,
+  "exp": 175,
+  "fishing_exp": 3000,
+  "drops": [
+    [
+      {
+        "name": "water_hydra_head"
+      },
+      [1, 2],
+      "rare",
+      0.05
+    ],
+    [
+      {
+        "name": "enchanted_book",
+        "enchantments": {
+          "luck_of_the_sea": 6
+        }
+      },
+      1,
+      "rare",
+      0.02
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "voidling_fanatic",
+  "level": 85,
+  "health": 750000,
+  "damage": 3500,
+  "coins": 20,
+  "exp": 30,
+  "combat_exp": 110,
+  "drops": [
+    [
+      {
+        "name": "ender_pearl"
+      },
+      [4, 5],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_ender_pearl"
+      },
+      1,
+      "rare",
+      0.01
+    ]
+  ]
+}

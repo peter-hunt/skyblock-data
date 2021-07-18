@@ -1,0 +1,25 @@
+{
+  "name": "cow",
+  "level": 1,
+  "health": 10,
+  "exp": 2,
+  "farming_exp": 2,
+  "drops": [
+    [
+      {
+        "name": "beef"
+      },
+      [1, 3],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "leather"
+      },
+      [1, 2],
+      "common",
+      0.6666666666666666
+    ]
+  ]
+}

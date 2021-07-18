@@ -1,0 +1,27 @@
+{
+  "name": "voracious_spider",
+  "level": 45,
+  "health": 7000,
+  "damage": 648,
+  "coins": 12,
+  "exp": 9,
+  "combat_exp": 30,
+  "drops": [
+    [
+      {
+        "name": "string"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "uncommon",
+      0.1
+    ]
+  ]
+}

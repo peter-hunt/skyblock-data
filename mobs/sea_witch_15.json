@@ -1,0 +1,74 @@
+{
+  "name": "sea_witch",
+  "level": 15,
+  "health": 6000,
+  "damage": 160,
+  "exp": 35,
+  "fishing_exp": 338,
+  "drops": [
+    [
+      {
+        "name": "fish"
+      },
+      [1, 5],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "salmon"
+      },
+      [2, 4],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "clownfish"
+      },
+      1,
+      "common",
+      0.5
+    ],
+    [
+      {
+        "name": "lily_pad"
+      },
+      [2, 3],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "fairys_fedora"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "fairys_polo"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "fairys_trousers"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "fairys_galoshes"
+      },
+      1,
+      "rare",
+      0.01
+    ]
+  ]
+}

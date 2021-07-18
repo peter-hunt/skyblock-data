@@ -1,0 +1,27 @@
+{
+  "name": "medium_emerald_slime",
+  "level": 10,
+  "health": 150,
+  "damage": 100,
+  "coins": 8,
+  "exp": 30,
+  "combat_exp": 15,
+  "drops": [
+    [
+      {
+        "name": "slime_ball"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "exp_share_core"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ]
+  ]
+}

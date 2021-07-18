@@ -1,0 +1,27 @@
+{
+  "name": "splitter_spider",
+  "level": 2,
+  "health": 180,
+  "damage": 25,
+  "coins": 2,
+  "exp": 2,
+  "combat_exp": 8,
+  "drops": [
+    [
+      {
+        "name": "string"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "uncommon",
+      0.1
+    ]
+  ]
+}

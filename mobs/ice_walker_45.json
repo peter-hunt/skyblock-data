@@ -1,0 +1,44 @@
+{
+  "name": "ice_walker",
+  "level": 45,
+  "health": 888,
+  "defense": 800,
+  "damage": 500,
+  "coins": 40,
+  "exp": 35,
+  "combat_exp": 40,
+  "drops": [
+    [
+      {
+        "name": "glacite_helmet"
+      },
+      1,
+      "pray_rngesus",
+      0.0025
+    ],
+    [
+      {
+        "name": "glacite_chestplate"
+      },
+      1,
+      "pray_rngesus",
+      0.0025
+    ],
+    [
+      {
+        "name": "glacite_leggings"
+      },
+      1,
+      "pray_rngesus",
+      0.0025
+    ],
+    [
+      {
+        "name": "glacite_boots"
+      },
+      1,
+      "pray_rngesus",
+      0.0025
+    ]
+  ]
+}

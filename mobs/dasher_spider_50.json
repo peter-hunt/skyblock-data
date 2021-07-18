@@ -1,0 +1,53 @@
+{
+  "name": "dasher_spider",
+  "level": 50,
+  "health": 7000,
+  "damage": 720,
+  "coins": 15,
+  "exp": 10,
+  "combat_exp": 36,
+  "drops": [
+    [
+      {
+        "name": "string"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "common",
+      0.5
+    ],
+    [
+      {
+        "name": "travel_scroll_to_nest"
+      },
+      1,
+      "legendary",
+      0.0002
+    ],
+    [
+      {
+        "name": "tarantula_pet",
+        "rarity": "epic"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ],
+    [
+      {
+        "name": "tarantula_pet",
+        "rarity": "legendary"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ]
+  ]
+}

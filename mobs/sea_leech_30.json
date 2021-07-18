@@ -1,0 +1,53 @@
+{
+  "name": "sea_leech",
+  "level": 30,
+  "health": 60000,
+  "damage": 300,
+  "exp": 65,
+  "fishing_exp": 675,
+  "drops": [
+    [
+      {
+        "name": "fish"
+      },
+      [10, 20],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "clownfish"
+      },
+      2,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "lily_pad"
+      },
+      3,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "sponge"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_book",
+        "enchantments": {
+          "spiked_hook": 6
+        }
+      },
+      1,
+      "rare",
+      0.02
+    ]
+  ]
+}

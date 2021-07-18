@@ -1,0 +1,25 @@
+{
+  "name": "squid",
+  "level": 1,
+  "health": 2000,
+  "exp": 15,
+  "fishing_exp": 41,
+  "drops": [
+    [
+      {
+        "name": "lily_pad"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "ink_sack"
+      },
+      [2, 5],
+      "common",
+      1
+    ]
+  ]
+}

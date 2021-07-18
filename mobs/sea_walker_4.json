@@ -1,0 +1,34 @@
+{
+  "name": "sea_walker",
+  "level": 4,
+  "health": 1500,
+  "damage": 60,
+  "exp": 30,
+  "fishing_exp": 68,
+  "drops": [
+    [
+      {
+        "name": "rotten_flesh"
+      },
+      [1, 4],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "lily_pad"
+      },
+      [1, 6],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "fish"
+      },
+      [1, 4],
+      "common",
+      1
+    ]
+  ]
+}

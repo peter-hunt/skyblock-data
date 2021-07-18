@@ -1,0 +1,71 @@
+{
+  "name": "diamond_skeleton",
+  "level": 20,
+  "health": 300,
+  "damage": 190,
+  "coins": 15,
+  "exp": 40,
+  "combat_exp": 24,
+  "drops": [
+    [
+      {
+        "name": "bone"
+      },
+      4,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "miner_helmet",
+        "enchantments": {
+          "protection": 5
+        }
+      },
+      1,
+      "pray_rngesus",
+      0.00125
+    ],
+    [
+      {
+        "name": "miner_chestplate",
+        "enchantments": {
+          "protection": 5
+        }
+      },
+      1,
+      "pray_rngesus",
+      0.00125
+    ],
+    [
+      {
+        "name": "miner_leggings",
+        "enchantments": {
+          "protection": 5
+        }
+      },
+      1,
+      "pray_rngesus",
+      0.00125
+    ],
+    [
+      {
+        "name": "miner_boots",
+        "enchantments": {
+          "protection": 5
+        }
+      },
+      1,
+      "pray_rngesus",
+      0.00125
+    ],
+    [
+      {
+        "name": "exp_share_core"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ]
+  ]
+}

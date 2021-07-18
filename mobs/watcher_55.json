@@ -1,0 +1,43 @@
+{
+  "name": "watcher",
+  "level": 55,
+  "health": 9500,
+  "damage": 475,
+  "coins": 15,
+  "exp": 10,
+  "combat_exp": 40,
+  "drops": [
+    [
+      {
+        "name": "arrow"
+      },
+      [1, 4],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "ender_pearl"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_bone"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "end_stone_bow"
+      },
+      1,
+      "legendary",
+      0.001
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sheep",
+  "level": 1,
+  "health": 8,
+  "exp": 2,
+  "farming_exp": 2,
+  "drops": [
+    [
+      {
+        "name": "mutton"
+      },
+      [1, 2],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "wool"
+      },
+      1,
+      "common",
+      1
+    ]
+  ]
+}

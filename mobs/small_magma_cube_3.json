@@ -1,0 +1,19 @@
+{
+  "name": "small_magma_cube",
+  "level": 3,
+  "health": 200,
+  "damage": 70,
+  "coins": 3,
+  "exp": 7,
+  "combat_exp": 4,
+  "drops": [
+    [
+      {
+        "name": "magma_cream"
+      },
+      1,
+      "common",
+      1
+    ]
+  ]
+}

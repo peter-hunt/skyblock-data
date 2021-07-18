@@ -1,0 +1,27 @@
+{
+  "name": "voidling_extremist",
+  "level": 100,
+  "health": 8000000,
+  "damage": 13500,
+  "coins": 100,
+  "exp": 70,
+  "combat_exp": 500,
+  "drops": [
+    [
+      {
+        "name": "ender_pearl"
+      },
+      [32, 64],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_ender_pearl"
+      },
+      1,
+      "rare",
+      0.02
+    ]
+  ]
+}

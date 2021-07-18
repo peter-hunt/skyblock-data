@@ -1,0 +1,86 @@
+{
+  "name": "enderman",
+  "level": 42,
+  "health": 4500,
+  "damage": 500,
+  "coins": 10,
+  "exp": 8,
+  "combat_exp": 40.8,
+  "drops": [
+    [
+      {
+        "name": "ender_pearl"
+      },
+      [1, 3],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_ender_pearl"
+      },
+      1,
+      "rare",
+      0.01
+    ],
+    [
+      {
+        "name": "enderman_pet",
+        "rarity": "common"
+      },
+      1,
+      "legendary",
+      0.0005
+    ],
+    [
+      {
+        "name": "enderman_pet",
+        "rarity": "uncommon"
+      },
+      1,
+      "legendary",
+      0.0002
+    ],
+    [
+      {
+        "name": "enderman_pet",
+        "rarity": "rare"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ],
+    [
+      {
+        "name": "ender_helmet"
+      },
+      1,
+      "legendary",
+      0.00025
+    ],
+    [
+      {
+        "name": "ender_chestplate"
+      },
+      1,
+      "legendary",
+      0.00025
+    ],
+    [
+      {
+        "name": "ender_leggings"
+      },
+      1,
+      "legendary",
+      0.00025
+    ],
+    [
+      {
+        "name": "ender_helmet"
+      },
+      1,
+      "legendary",
+      0.00025
+    ]
+  ]
+}

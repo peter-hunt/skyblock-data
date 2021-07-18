@@ -1,0 +1,45 @@
+{
+  "name": "soul_of_the_alpha",
+  "level": 55,
+  "health": 31150,
+  "damage": 1150,
+  "coins": 50,
+  "exp": 15,
+  "combat_exp": 50,
+  "drops": [
+    [
+      {
+        "name": "jungle"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "travel_scroll_to_howl"
+      },
+      1,
+      "legendary",
+      0.00035
+    ],
+    [
+      {
+        "name": "hound_pet",
+        "rarity": "epic"
+      },
+      1,
+      "pray_rngesus",
+      6.666666666666667e-05
+    ],
+    [
+      {
+        "name": "hound_pet",
+        "rarity": "legendary"
+      },
+      1,
+      "pray_rngesus",
+      1.6666666666666667e-05
+    ]
+  ]
+}
