@@ -11,26 +11,26 @@
     [
       {"name": "miner_helmet", "enchantments": {"protection": 5}},
       1,
-      "pray_rngesus",
-      0.00125
+      "rare",
+      0.01
     ],
     [
       {"name": "miner_chestplate", "enchantments": {"protection": 5}},
       1,
-      "pray_rngesus",
-      0.00125
+      "rare",
+      0.01
     ],
     [
       {"name": "miner_leggings", "enchantments": {"protection": 5}},
       1,
-      "pray_rngesus",
-      0.00125
+      "rare",
+      0.01
     ],
     [
       {"name": "miner_boots", "enchantments": {"protection": 5}},
       1,
-      "pray_rngesus",
-      0.00125
+      "rare",
+      0.01
     ],
     [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]

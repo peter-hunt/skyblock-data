@@ -17,9 +17,9 @@
       "pray_rngesus",
       0.000006
     ],
-    [{"name": "ender_helmet"}, 1, "legendary", 0.00005],
-    [{"name": "ender_chestplate"}, 1, "legendary", 0.00005],
-    [{"name": "ender_leggings"}, 1, "legendary", 0.00005],
-    [{"name": "ender_helmet"}, 1, "legendary", 0.00005]
+    [{"name": "ender_helmet"}, 1, "legendary", 0.0002],
+    [{"name": "ender_chestplate"}, 1, "legendary", 0.0002],
+    [{"name": "ender_leggings"}, 1, "legendary", 0.0002],
+    [{"name": "ender_helmet"}, 1, "legendary", 0.0002]
   ]
 }

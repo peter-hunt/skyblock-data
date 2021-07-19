@@ -8,10 +8,10 @@
   "combat_exp": 20,
   "drops": [
     [{"name": "rotten_flesh"}, 4, "common", 1],
-    [{"name": "miner_helmet"}, 1, "pray_rngesus", 0.00125],
-    [{"name": "miner_chestplate"}, 1, "pray_rngesus", 0.00125],
-    [{"name": "miner_leggings"}, 1, "pray_rngesus", 0.00125],
-    [{"name": "miner_boots"}, 1, "pray_rngesus", 0.00125],
+    [{"name": "miner_helmet"}, 1, "rare", 0.01],
+    [{"name": "miner_chestplate"}, 1, "rare", 0.01],
+    [{"name": "miner_leggings"}, 1, "rare", 0.01],
+    [{"name": "miner_boots"}, 1, "rare", 0.01],
     [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }

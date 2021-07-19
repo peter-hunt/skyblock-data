@@ -8,10 +8,10 @@
   "combat_exp": 12,
   "drops": [
     [{"name": "rotten_flesh"}, [1, 2], "common", 1],
-    [{"name": "lapis_helmet"}, 1, "rare", 0.0025],
-    [{"name": "lapis_chestplate"}, 1, "rare", 0.0025],
-    [{"name": "lapis_leggings"}, 1, "rare", 0.0025],
-    [{"name": "lapis_boots"}, 1, "rare", 0.0025],
+    [{"name": "lapis_helmet"}, 1, "rare", 0.01],
+    [{"name": "lapis_chestplate"}, 1, "rare", 0.01],
+    [{"name": "lapis_leggings"}, 1, "rare", 0.01],
+    [{"name": "lapis_boots"}, 1, "rare", 0.01],
     [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }
