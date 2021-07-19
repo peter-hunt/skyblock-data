@@ -12,7 +12,6 @@
     [{"name": "lapis_chestplate"}, 1, "rare", 0.0025],
     [{"name": "lapis_leggings"}, 1, "rare", 0.0025],
     [{"name": "lapis_boots"}, 1, "rare", 0.0025],
-    [{"name": "lapis_crystal"}, 1, "rare", 0.0025],
     [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }
