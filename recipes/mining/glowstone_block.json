@@ -1,0 +1,6 @@
+{
+  "name": "glowstone_block",
+  "category": "mining",
+  "ingredients": [{"name": "glowstone", "count": 4}],
+  "result": {"name": "glowstone_block"}
+}

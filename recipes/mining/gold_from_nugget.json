@@ -1,0 +1,6 @@
+{
+  "name": "gold_from_nugget",
+  "category": "mining",
+  "ingredients": [{"name": "gold_nugget", "count": 9}],
+  "result": {"name": "gold"}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "dark_oak_planks",
+  "category": "foraging",
+  "ingredients": [{"name": "dark_oak_wood"}],
+  "result": {"name": "planks", "count": 4}
+}

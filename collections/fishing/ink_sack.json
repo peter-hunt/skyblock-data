@@ -4,7 +4,7 @@
   "levels": [
     [20, "squid_hat"],
     [40, "dark_bait"],
-    [100, "ink_sack_to_enchanted"],
+    [100, "enchanted_ink_sack"],
     [200, 20],
     [400, "caster_book"],
     [800, 80],

@@ -1,0 +1,6 @@
+{
+  "name": "enchanted_clownfish",
+  "category": "fishing",
+  "ingredients": [{"name": "clownfish", "count": 160}],
+  "result": {"name": "enchanted_clownfish"}
+}

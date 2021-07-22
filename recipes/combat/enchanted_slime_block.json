@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_slime_block",
+  "category": "combat",
+  "ingredients": [{"name": "enchanted_slime_ball", "count": 160}],
+  "result": {"name": "enchanted_slime_block"},
+  "collection_req": ["slime_ball", 8]
+}

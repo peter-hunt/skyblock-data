@@ -5,10 +5,10 @@
     [50, "coal_minion"],
     [100, 10],
     [250, 25],
-    [1000, "coal_to_enchanted"],
+    [1000, "enchanted_coal"],
     [2500, 250],
     [5000, "scroll_to_gold"],
-    [10000, "coal_to_enchanted_block"],
+    [10000, "enchanted_coal_block"],
     [25000, 2500],
     [50000, "epic_wither_skeleton_pet"]
   ]

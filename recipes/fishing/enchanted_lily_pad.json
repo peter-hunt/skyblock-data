@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_lily_pad",
+  "category": "fishing",
+  "ingredients": [{"name": "lily_pad", "count": 160}],
+  "result": {"name": "enchanted_lily_pad"},
+  "collection_req": ["lily_pad", 4]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_paper",
+  "category": "farming",
+  "ingredients": [{"name": "sugar_cane", "count": 192}],
+  "result": {"name": "enchanted_paper"},
+  "collection_req": ["sugar_cane", 5]
+}

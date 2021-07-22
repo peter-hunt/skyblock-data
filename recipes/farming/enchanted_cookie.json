@@ -1,0 +1,10 @@
+{
+  "name": "enchanted_cookie",
+  "category": "farming",
+  "ingredients": [
+    {"name": "enchanted_cocoa", "count": 128},
+    {"name": "wheat", "count": 32}
+  ],
+  "result": {"name": "enchanted_cookie"},
+  "collection_req": ["cocoa", 6]
+}

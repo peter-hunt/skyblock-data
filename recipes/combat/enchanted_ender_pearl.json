@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_ender_pearl",
+  "category": "combat",
+  "ingredients": [{"name": "ender_pearl", "count": 20}],
+  "result": {"name": "enchanted_ender_pearl"},
+  "collection_req": ["ender_pearl", 2]
+}

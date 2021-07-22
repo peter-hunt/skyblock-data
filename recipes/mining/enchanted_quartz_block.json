@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_quartz_block",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_quartz", "count": 160}],
+  "result": {"name": "enchanted_quartz_block"},
+  "collection_req": ["quartz", 6]
+}

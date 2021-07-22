@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_ink_sack",
+  "category": "fishing",
+  "ingredients": [{"name": "ink_sack", "count": 80}],
+  "result": {"name": "enchanted_ink_sack"},
+  "collection_req": ["ink_sack", 3]
+}

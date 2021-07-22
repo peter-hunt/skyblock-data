@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_obsidian",
+  "category": "mining",
+  "ingredients": [{"name": "obsidian", "count": 160}],
+  "result": {"name": "enchanted_obsidian"},
+  "collection_req": ["obsidian", 4]
+}

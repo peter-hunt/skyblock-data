@@ -1,0 +1,6 @@
+{
+  "name": "enchanted_dandelion",
+  "category": "foraging",
+  "ingredients": [{"name": "dandelion", "count": 160}],
+  "result": {"name": "enchanted_dandelion"}
+}

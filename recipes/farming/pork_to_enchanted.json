@@ -1,7 +1,0 @@
-{
-  "name": "pork_to_enchanted",
-  "category": "farming",
-  "ingredients": [{"name": "pork", "count": 160}],
-  "result": {"name": "enchanted_pork"},
-  "collection_req": ["pork", 4]
-}

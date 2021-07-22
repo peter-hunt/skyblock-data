@@ -1,6 +1,0 @@
-{
-  "name": "emerald_to_block",
-  "category": "mining",
-  "ingredients": [{"name": "emerald", "count": 9}],
-  "result": {"name": "emerald_block"}
-}

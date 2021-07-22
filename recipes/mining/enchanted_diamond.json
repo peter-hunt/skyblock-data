@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_diamond",
+  "category": "mining",
+  "ingredients": [{"name": "diamond", "count": 160}],
+  "result": {"name": "enchanted_diamond"},
+  "collection_req": ["diamond", 4]
+}

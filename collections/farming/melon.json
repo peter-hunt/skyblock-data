@@ -5,9 +5,9 @@
     [250, "melon_minion"],
     [500, 50],
     [1200, 120],
-    [5000, "melon_to_enchanted"],
-    [15500, "melon_to_enchanted_glistering"],
-    [25000, "melon_to_enchanted_block"],
+    [5000, "enchanted_melon"],
+    [15500, "enchanted_glistering_melon"],
+    [25000, "enchanted_melon_block"],
     [50000, 5000],
     [100000, 10000],
     [250000, 25000]

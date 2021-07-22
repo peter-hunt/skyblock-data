@@ -1,0 +1,6 @@
+{
+  "name": "slime_block",
+  "category": "combat",
+  "ingredients": [{"name": "slime_ball", "count": 9}],
+  "result": {"name": "slime_block"}
+}

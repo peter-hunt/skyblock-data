@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_salmon",
+  "category": "fishing",
+  "ingredients": [{"name": "salmon", "count": 160}],
+  "result": {"name": "enchanted_salmon"},
+  "collection_req": ["salmon", 4]
+}

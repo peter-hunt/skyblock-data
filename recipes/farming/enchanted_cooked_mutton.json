@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_cooked_mutton",
+  "category": "farming",
+  "ingredients": [{"name": "enchanted_mutton", "count": 160}],
+  "result": {"name": "enchanted_cooked_mutton"},
+  "collection_req": ["mutton", 8]
+}

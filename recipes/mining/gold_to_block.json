@@ -1,6 +1,0 @@
-{
-  "name": "gold_to_block",
-  "category": "mining",
-  "ingredients": [{"name": "gold", "count": 9}],
-  "result": {"name": "gold_block"}
-}

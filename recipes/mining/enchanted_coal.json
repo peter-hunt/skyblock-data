@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_coal",
+  "category": "mining",
+  "ingredients": [{"name": "coal", "count": 160}],
+  "result": {"name": "enchanted_coal"},
+  "collection_req": ["coal", 4]
+}

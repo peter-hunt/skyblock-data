@@ -1,0 +1,7 @@
+{
+  "name": "polished_pumpkin",
+  "category": "farming",
+  "ingredients": [{"name": "enchanted_pumpkin", "count": 160}],
+  "result": {"name": "polished_pumpkin"},
+  "collection_req": ["pumpkin", 10]
+}

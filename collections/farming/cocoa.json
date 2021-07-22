@@ -5,9 +5,9 @@
     [75, "cocoa_minion"],
     [200, 20],
     [500, 50],
-    [2000, "cocoa_to_enchanted"],
+    [2000, "enchanted_cocoa"],
     [5000, "scroll_to_desert"],
-    [10000, "cocoa_to_enchanted_cookie"],
+    [10000, "enchanted_cookie"],
     [20000, 2000],
     [50000, 5000],
     [100000, 10000]

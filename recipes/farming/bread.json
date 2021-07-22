@@ -1,0 +1,6 @@
+{
+  "name": "bread",
+  "category": "farming",
+  "ingredients": [{"name": "wheat", "count": 3}],
+  "result": {"name": "bread"}
+}

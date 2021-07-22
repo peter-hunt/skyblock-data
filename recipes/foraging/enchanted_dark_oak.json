@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_dark_oak",
+  "category": "foraging",
+  "ingredients": [{"name": "dark_oak_wood", "count": 160}],
+  "result": {"name": "enchanted_dark_oak"},
+  "collection_req": ["dark_oak_wood", 5]
+}

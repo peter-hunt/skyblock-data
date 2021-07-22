@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_cactus",
+  "category": "farming",
+  "ingredients": [{"name": "enchanted_cactus_green", "count": 160}],
+  "result": {"name": "enchanted_cactus"},
+  "collection_req": ["cactus", 8]
+}

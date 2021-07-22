@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_redstone",
+  "category": "mining",
+  "ingredients": [{"name": "redstone", "count": 160}],
+  "result": {"name": "enchanted_redstone"},
+  "collection_req": ["redstone", 4]
+}

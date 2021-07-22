@@ -1,0 +1,6 @@
+{
+  "name": "hay_bale",
+  "category": "farming",
+  "ingredients": [{"name": "wheat", "count": 9}],
+  "result": {"name": "hay_bale"}
+}

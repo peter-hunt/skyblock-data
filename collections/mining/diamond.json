@@ -5,11 +5,11 @@
     [50, "diamond_minion"],
     [100, "execute_book"],
     [250, 25],
-    [1000, "diamond_to_enchanted"],
+    [1000, "enchanted_diamond"],
     [2500, "critical_book"],
     [5000, 500],
     [10000, "hardened_diamond_armor"],
-    [25000, "diamond_to_enchanted_block"],
+    [25000, "enchanted_diamond_block"],
     [50000, "perfect_armor"]
   ]
 }

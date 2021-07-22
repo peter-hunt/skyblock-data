@@ -1,0 +1,7 @@
+{
+  "name": "haste_ring",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_cobblestone", "count": 256}],
+  "result": {"name": "haste_ring"},
+  "collection_req": ["cobblestone", 9]
+}

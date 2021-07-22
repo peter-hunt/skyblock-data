@@ -7,7 +7,7 @@
     [250, 25],
     [1000, 100],
     [2000, 200],
-    [5000, "jungle_to_enchanted"],
+    [5000, "enchanted_jungle"],
     [10000, "jungle_axe"],
     [25000, 2500],
     [50000, "ocelot_pet"]

@@ -7,9 +7,9 @@
     [250, "mushroom_armor"],
     [1000, 100],
     [2500, "mushroom_block"],
-    [5000, "mushroom_to_enchanted"],
+    [5000, "enchanted_mushroom"],
     [10000, "night_vision_charm"],
-    [25000, "mushroom_to_enchanted_block"],
+    [25000, "enchanted_mushroom_block"],
     [50000, "bat_pet"]
   ]
 }

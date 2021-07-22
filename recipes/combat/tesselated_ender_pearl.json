@@ -1,0 +1,9 @@
+{
+  "name": "tesselated_ender_pearl",
+  "category": "combat",
+  "ingredients": [
+    {"name": "absolute_ender_pearl", "count": 80},
+    {"name": "enchanted_lapis_block", "count": 32}
+  ],
+  "result": {"name": "tesselated_ender_pearl"}
+}

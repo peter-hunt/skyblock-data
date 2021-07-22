@@ -6,7 +6,7 @@
     [100, "dark_oak_leaves"],
     [250, 25],
     [1000, 100],
-    [2500, "dark_oak_to_enchanted"],
+    [2500, "enchanted_dark_oak"],
     [5000, 500],
     [10000, "growth_book"],
     [25000, 2500],

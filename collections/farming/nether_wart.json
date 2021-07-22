@@ -5,7 +5,7 @@
     [50, "nether_wart_minion"],
     [100, 10],
     [250, 25],
-    [1000, "nether_wart_to_enchanted"],
+    [1000, "enchanted_nether_wart"],
     [2500, 250],
     [5000, 500],
     [10000, 1000],
@@ -13,6 +13,6 @@
     [50000, 5000],
     [75000, 7500],
     [100000, 10000],
-    [250000, "nether_wart_to_mutant"]
+    [250000, "mutant_nether_wart"]
   ]
 }

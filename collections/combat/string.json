@@ -5,7 +5,7 @@
     [60, "spider_minion"],
     [100, 10],
     [250, 25],
-    [1000, "string_to_enchanted"],
+    [1000, "enchanted_string"],
     [2500, 250],
     [5000, "infinite_quiver_book"],
     [10000, 1000],

@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_end_stone",
+  "category": "mining",
+  "ingredients": [{"name": "end_stone", "count": 160}],
+  "result": {"name": "enchanted_end_stone"},
+  "collection_req": ["end_stone", 4]
+}

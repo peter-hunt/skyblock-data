@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_gunpowder",
+  "category": "combat",
+  "ingredients": [{"name": "gunpowder", "count": 160}],
+  "result": {"name": "enchanted_gunpowder"},
+  "collection_req": ["gunpowder", 4]
+}

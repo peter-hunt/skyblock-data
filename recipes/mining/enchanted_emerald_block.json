@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_emerald_block",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_emerald", "count": 160}],
+  "result": {"name": "enchanted_emerald_block"},
+  "collection_req": ["emerald", 7]
+}

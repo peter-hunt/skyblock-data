@@ -6,10 +6,10 @@
     [100, 10],
     [250, 25],
     [1000, 100],
-    [2500, "mutton_to_enchanted"],
+    [2500, "enchanted_mutton"],
     [5000, 500],
     [10000, 1000],
-    [25000, "mutton_to_enchanted_cooked"],
+    [25000, "enchanted_cooked_mutton"],
     [50000, 5000]
   ]
 }

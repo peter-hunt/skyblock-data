@@ -1,0 +1,6 @@
+{
+  "name": "jungle_planks",
+  "category": "foraging",
+  "ingredients": [{"name": "jungle_wood"}],
+  "result": {"name": "planks", "count": 4}
+}

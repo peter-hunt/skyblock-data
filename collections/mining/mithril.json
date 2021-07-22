@@ -4,7 +4,7 @@
   "levels": [
     [50, "mithril_minion"],
     [250, 25],
-    [1000, "mithril_to_enchanted"],
+    [1000, "enchanted_mithril"],
     [2500, 250],
     [5000, "mithril_coat"],
     [10000, 1000],

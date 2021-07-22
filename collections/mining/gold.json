@@ -5,10 +5,10 @@
     [50, "gold_minion"],
     [100, "cleaver"],
     [250, "looting_book"],
-    [1000, "gold_to_enchanted"],
+    [1000, "enchanted_gold"],
     [2500, 250],
     [5000, "scavenger_book"],
-    [10000, "gold_to_enchanted_block"],
+    [10000, "enchanted_gold_block"],
     [25000, "fortune_book"],
     [50000, 5000]
   ]

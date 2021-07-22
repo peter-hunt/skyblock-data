@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_melon",
+  "category": "farming",
+  "ingredients": [{"name": "melon", "count": 160}],
+  "result": {"name": "enchanted_melon"},
+  "collection_req": ["melon", 4]
+}

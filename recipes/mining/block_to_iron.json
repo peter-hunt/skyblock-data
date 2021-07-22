@@ -1,6 +1,0 @@
-{
-  "name": "block_to_iron",
-  "category": "mining",
-  "ingredients": [{"name": "iron_block"}],
-  "result": {"name": "iron", "count": 9}
-}

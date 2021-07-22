@@ -1,0 +1,10 @@
+{
+  "name": "enchanted_ender_eye",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_ender_pearl", "count": 16},
+    {"name": "blaze_powder", "count": 64}
+  ],
+  "result": {"name": "enchanted_ender_eye"},
+  "collection_req": ["ender_pearl", 6]
+}

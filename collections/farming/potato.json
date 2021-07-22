@@ -5,10 +5,10 @@
     [100, "potato_minion"],
     [250, 25],
     [500, "vaccine_talisman"],
-    [1700, "potato_to_enchanted"],
+    [1700, "enchanted_potato"],
     [5000, 500],
     [10000, "scroll_to_barn"],
-    [25000, "potato_to_enchanted_baked"],
+    [25000, "enchanted_baked_potato"],
     [50000, "hot_potato_book"],
     [100000, 10000]
   ]

@@ -1,0 +1,10 @@
+{
+  "name": "enchanted_firework_rocket",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_gunpowder", "count": 64},
+    {"name": "paper", "count": 4}
+  ],
+  "result": {"name": "enchanted_firework_rocket"},
+  "collection_req": ["gunpowder", 6]
+}

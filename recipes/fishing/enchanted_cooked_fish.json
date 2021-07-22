@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_cooked_fish",
+  "category": "fishing",
+  "ingredients": [{"name": "enchanted_fish", "count": 160}],
+  "result": {"name": "enchanted_cooked_fish"},
+  "collection_req": ["fish", 8]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "redstone",
+  "category": "mining",
+  "ingredients": [{"name": "redstone_block"}],
+  "result": {"name": "redstone", "count": 9}
+}

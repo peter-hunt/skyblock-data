@@ -1,6 +1,0 @@
-{
-  "name": "iron_to_nugget",
-  "category": "mining",
-  "ingredients": [{"name": "iron"}],
-  "result": {"name": "iron_nugget", "count": 9}
-}

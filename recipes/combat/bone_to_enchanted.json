@@ -1,7 +1,0 @@
-{
-  "name": "bone_to_enchanted",
-  "category": "combat",
-  "ingredients": [{"name": "bone", "count": 160}],
-  "result": {"name": "enchanted_bone"},
-  "collection_req": ["bone", 5]
-}

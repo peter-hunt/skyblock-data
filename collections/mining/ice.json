@@ -4,11 +4,11 @@
   "levels": [
     [50, "ice_minion"],
     [100, 10],
-    [250, "ice_to_packed"],
-    [500, "ice_to_enchanted"],
+    [250, "packed_ice"],
+    [500, "enchanted_ice"],
     [1000, 100],
     [5000, "ice_bait"],
-    [10000, "ice_to_enchanted_packed"],
+    [10000, "enchanted_packed_ice"],
     [50000, "frozen_scythe"],
     [100000, 10000],
     [250000, 25000]

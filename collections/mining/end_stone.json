@@ -5,7 +5,7 @@
     [50, "end_stone_minion"],
     [100, 10],
     [250, 25],
-    [1000, "end_stone_to_enchanted"],
+    [1000, "enchanted_end_stone"],
     [2500, 250],
     [5000, 500],
     [10000, "endermite_pet"],

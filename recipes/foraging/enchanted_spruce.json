@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_spruce",
+  "category": "foraging",
+  "ingredients": [{"name": "spruce_wood", "count": 160}],
+  "result": {"name": "enchanted_spruce"},
+  "collection_req": ["spruce_wood", 5]
+}

@@ -3,7 +3,7 @@
   "category": "fishing",
   "levels": [
     [20, "pufferfish_hat"],
-    [50, "pufferfish_to_enchanted"],
+    [50, "enchanted_pufferfish"],
     [100, "cleave_book"],
     [150, 15],
     [400, "spiked_bait"],

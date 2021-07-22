@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_string",
+  "category": "combat",
+  "ingredients": [{"name": "string", "count": 192}],
+  "result": {"name": "enchanted_string"},
+  "collection_req": ["string", 4]
+}

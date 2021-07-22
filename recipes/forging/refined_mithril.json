@@ -1,0 +1,6 @@
+{
+  "name": "refined_mithril",
+  "category": "forging",
+  "ingredients": [{"name": "enchanted_mithril", "count": 160}],
+  "result": {"name": "refined_mithril"}
+}

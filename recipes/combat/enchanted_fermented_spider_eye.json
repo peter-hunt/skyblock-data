@@ -1,0 +1,11 @@
+{
+  "name": "enchanted_fermented_spider_eye",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_spider_eye", "count": 64},
+    {"name": "mushroom", "count": 64},
+    {"name": "sugar", "count": 64}
+  ],
+  "result": {"name": "enchanted_fermented_spider_eye"},
+  "collection_req": ["spider_eye", 7]
+}

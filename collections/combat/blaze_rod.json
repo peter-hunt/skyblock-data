@@ -5,10 +5,10 @@
     [50, "blaze_minion"],
     [100, "blaze_hat"],
     [250, "fire_aspect_book"],
-    [1000, "blaze_rod_to_enchanted_powder"],
+    [1000, "enchanted_blaze_powder"],
     [2500, 250],
     [5000, "flame_book"],
-    [10000, "blaze_rod_to_enchanted"],
+    [10000, "enchanted_blaze_rod"],
     [25000, "blaze_armor"],
     [50000, "blaze_pet"]
   ]

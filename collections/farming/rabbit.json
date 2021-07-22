@@ -5,9 +5,9 @@
     [50, "rabbit_minion"],
     [100, "rabbit_pet"],
     [250, 25],
-    [1000, "rabbit_foot_to_enchanted"],
+    [1000, "enchanted_rabbit_foot"],
     [2500, "luck_book"],
-    [5000, "rabbit_hide_to_enchanted"],
+    [5000, "enchanted_rabbit_hide"],
     [10000, "luck_of_the_sea_book"],
     [25000, 2500],
     [50000, 5000]

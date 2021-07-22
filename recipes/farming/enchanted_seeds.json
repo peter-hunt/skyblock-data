@@ -1,0 +1,6 @@
+{
+  "name": "enchanted_seeds",
+  "category": "farming",
+  "ingredients": [{"name": "seeds", "count": 160}],
+  "result": {"name": "enchanted_seeds"}
+}

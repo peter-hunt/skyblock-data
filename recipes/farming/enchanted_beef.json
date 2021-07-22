@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_beef",
+  "category": "farming",
+  "ingredients": [{"name": "beef", "count": 160}],
+  "result": {"name": "enchanted_beef"},
+  "collection_req": ["leather", 4]
+}

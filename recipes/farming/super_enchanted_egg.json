@@ -1,0 +1,7 @@
+{
+  "name": "super_enchanted_egg",
+  "category": "farming",
+  "ingredients": [{"name": "enchanted_egg", "count": 144}],
+  "result": {"name": "super_enchanted_egg"},
+  "collection_req": ["chicken", 9]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_bread",
+  "category": "farming",
+  "ingredients": [{"name": "wheat", "count": 144}],
+  "result": {"name": "enchanted_bread"},
+  "collection_req": ["wheat", 5]
+}

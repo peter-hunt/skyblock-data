@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_spider_eye",
+  "category": "combat",
+  "ingredients": [{"name": "spider_eye", "count": 160}],
+  "result": {"name": "enchanted_spider_eye"},
+  "collection_req": ["spider_eye", 4]
+}

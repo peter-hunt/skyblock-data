@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_iron_block",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_iron", "count": 160}],
+  "result": {"name": "enchanted_iron_block"},
+  "collection_req": ["iron", 7]
+}

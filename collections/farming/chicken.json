@@ -5,11 +5,11 @@
     [50, "chicken_minion"],
     [100, 10],
     [250, 25],
-    [1000, "chicken_to_enchanted"],
-    [2500, "egg_to_enchanted"],
+    [1000, "enchanted_chicken"],
+    [2500, "enchanted_egg"],
     [5000, "chicken_pet"],
     [10000, "enchanted_cake"],
     [25000, 2500],
-    [50000, "egg_to_super_enchanted"]
+    [50000, "super_enchanted_egg"]
   ]
 }

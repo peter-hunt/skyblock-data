@@ -1,0 +1,10 @@
+{
+  "name": "enchanted_redstone_lamp",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_redstone", "count": 32},
+    {"name": "enchanted_glowstone", "count": 128}
+  ],
+  "result": {"name": "enchanted_redstone_lamp"},
+  "collection_req": ["glowstone", 7]
+}

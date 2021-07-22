@@ -1,0 +1,6 @@
+{
+  "name": "refined_titanium",
+  "category": "forging",
+  "ingredients": [{"name": "enchanted_titanium", "count": 16}],
+  "result": {"name": "refined_titanium"}
+}

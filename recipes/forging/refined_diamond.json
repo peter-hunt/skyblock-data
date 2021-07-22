@@ -1,0 +1,6 @@
+{
+  "name": "refined_diamond",
+  "category": "forging",
+  "ingredients": [{"name": "enchanted_diamond_block", "count": 2}],
+  "result": {"name": "refined_diamond"}
+}

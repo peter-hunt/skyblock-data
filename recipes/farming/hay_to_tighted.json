@@ -1,7 +1,0 @@
-{
-  "name": "hay_to_tighted",
-  "category": "farming",
-  "ingredients": [{"name": "enchanted_hay_bale", "count": 144}],
-  "result": {"name": "tightly_tied_hay_bale"},
-  "collection_req": ["wheat", 11]
-}

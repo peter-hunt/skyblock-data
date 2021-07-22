@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_potato",
+  "category": "farming",
+  "ingredients": [{"name": "potato", "count": 160}],
+  "result": {"name": "enchanted_potato"},
+  "collection_req": ["potato", 4]
+}

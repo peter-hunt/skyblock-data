@@ -5,9 +5,9 @@
     [50, "creeper_minion"],
     [100, "creeper_hat"],
     [250, "blast_protection_book"],
-    [1000, "gunpowder_to_enchanted"],
+    [1000, "enchanted_gunpowder"],
     [2500, "thunderlord_book"],
-    [5000, "gunpowder_to_enchanted_firework"],
+    [5000, "enchanted_firework_rocket"],
     [10000, 1000],
     [25000, "creeper_pants"],
     [50000, "explosive_bow"]

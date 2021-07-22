@@ -5,13 +5,13 @@
     [50, "pig_minion"],
     [100, 10],
     [250, "pig_pet"],
-    [1000, "pork_to_enchanted"],
+    [1000, "enchanted_pork"],
     [
       2500,
       ["piggy_bank", "repair_cracked_piggy_bank", "repair_broken_piggy_bank"]
     ],
     [5000, 500],
-    [10000, "pork_to_enchanted_grilled"],
+    [10000, "enchanted_grilled_pork"],
     [25000, "pigman_pet"],
     [50000, "pigman_sword"]
   ]

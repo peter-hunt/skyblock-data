@@ -1,0 +1,6 @@
+{
+  "name": "coal",
+  "category": "mining",
+  "ingredients": [{"name": "coal_block"}],
+  "result": {"name": "coal", "count": 9}
+}

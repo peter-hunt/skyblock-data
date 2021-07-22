@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_leather",
+  "category": "farming",
+  "ingredients": [{"name": "leather", "count": 576}],
+  "result": {"name": "enchanted_leather"},
+  "collection_req": ["leather", 6]
+}

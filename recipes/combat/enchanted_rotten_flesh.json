@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_rotten_flesh",
+  "category": "combat",
+  "ingredients": [{"name": "rotten_flesh", "count": 160}],
+  "result": {"name": "enchanted_rotten_flesh"},
+  "collection_req": ["rotten_flesh", 4]
+}

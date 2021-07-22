@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_hay_bale",
+  "category": "farming",
+  "ingredients": [{"name": "hay_bale", "count": 144}],
+  "result": {"name": "enchanted_hay_bale"},
+  "collection_req": ["wheat", 7]
+}

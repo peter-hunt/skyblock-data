@@ -9,7 +9,7 @@
     [500, "speedster_rod"],
     [1000, "fish_bait"],
     [2500, 250],
-    [5000, "salmon_to_enchanted_cooked"],
+    [5000, "enchanted_salmon"],
     [10000, "salmon_armor"]
   ]
 }

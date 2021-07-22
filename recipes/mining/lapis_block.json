@@ -1,0 +1,6 @@
+{
+  "name": "lapis_block",
+  "category": "mining",
+  "ingredients": [{"name": "lapis", "count": 9}],
+  "result": {"name": "lapis_block"}
+}

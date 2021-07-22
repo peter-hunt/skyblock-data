@@ -1,0 +1,6 @@
+{
+  "name": "enchanted_poppy",
+  "category": "foraging",
+  "ingredients": [{"name": "poppy", "count": 576}],
+  "result": {"name": "enchanted_poppy"}
+}

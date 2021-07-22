@@ -5,10 +5,10 @@
     [250, "lapis_minion"],
     [500, "experience_bottle"],
     [1000, "experience_book"],
-    [2000, "lapis_to_enchanted"],
+    [2000, "enchanted_lapis"],
     [10000, "grand_experience_bottle"],
     [25000, 2500],
-    [50000, "lapis_to_enchanted_block"],
+    [50000, "enchanted_lapis_block"],
     [100000, "titanic_experience_bottle"],
     [150000, 15000]
   ]

@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_rabbit_hide",
+  "category": "farming",
+  "ingredients": [{"name": "rabbit_hide", "count": 576}],
+  "result": {"name": "enchanted_rabbit_hide"},
+  "collection_req": ["rabbit", 6]
+}

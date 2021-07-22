@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_netherrack",
+  "category": "mining",
+  "ingredients": [{"name": "netherrack", "count": 160}],
+  "result": {"name": "enchanted_netherrack"},
+  "collection_req": ["netherrack", 4]
+}

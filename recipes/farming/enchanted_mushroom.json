@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_mushroom",
+  "category": "farming",
+  "ingredients": [{"name": "mushroom", "count": 160}],
+  "result": {"name": "enchanted_mushroom"},
+  "collection_req": ["mushroom", 6]
+}

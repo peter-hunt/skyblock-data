@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_magma_cream",
+  "category": "combat",
+  "ingredients": [{"name": "magma_cream", "count": 160}],
+  "result": {"name": "enchanted_magma_cream"},
+  "collection_req": ["magma_cream", 5]
+}

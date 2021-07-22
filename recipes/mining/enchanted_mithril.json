@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_mithril",
+  "category": "mining",
+  "ingredients": [{"name": "mithril", "count": 160}],
+  "result": {"name": "enchanted_mithril"},
+  "collection_req": ["mithril", 3]
+}

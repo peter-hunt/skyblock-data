@@ -5,9 +5,9 @@
     [50, "quartz_minion"],
     [100, 10],
     [250, 25],
-    [1000, "quartz_to_enchanted"],
+    [1000, "enchanted_quartz"],
     [2500, 250],
-    [5000, "quartz_to_enchanted_block"],
+    [5000, "enchanted_quartz_block"],
     [10000, 1000],
     [25000, 2500],
     [50000, 5000]

@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_glowstone_block",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_glowstone", "count": 192}],
+  "result": {"name": "enchanted_glowstone_block"},
+  "collection_req": ["glowstone", 6]
+}

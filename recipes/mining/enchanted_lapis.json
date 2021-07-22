@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_lapis",
+  "category": "mining",
+  "ingredients": [{"name": "lapis", "count": 160}],
+  "result": {"name": "enchanted_lapis"},
+  "collection_req": ["lapis", 4]
+}

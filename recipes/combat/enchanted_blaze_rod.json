@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_blaze_rod",
+  "category": "combat",
+  "ingredients": [{"name": "enchanted_blaze_powder", "count": 160}],
+  "result": {"name": "enchanted_blaze_rod"},
+  "collection_req": ["blaze_rod", 7]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mutant_nether_wart",
+  "category": "farming",
+  "ingredients": [{"name": "enchanted_nether_wart", "count": 160}],
+  "result": {"name": "mutant_nether_wart"},
+  "collection_req": ["nether_wart", 12]
+}

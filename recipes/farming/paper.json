@@ -1,0 +1,6 @@
+{
+  "name": "paper",
+  "category": "farming",
+  "ingredients": [{"name": "sugar_cane", "count": 3}],
+  "result": {"name": "paper", "count": 3}
+}
