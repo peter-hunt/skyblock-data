@@ -1,0 +1,7 @@
+{
+  "name": "sheep_pet",
+  "rarity": "common",
+  "category": "farming",
+  "intelligence": 100,
+  "type": "pet"
+}
