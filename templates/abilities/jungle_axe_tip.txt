@@ -1,0 +1,2 @@
+A powerful Wooden Axe which can break multiple logs in a single hit!
+%%dark_gray%%Cooldown: %%green%%%%time%%s

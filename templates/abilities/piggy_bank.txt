@@ -1,0 +1,1 @@
+Saves your coins from death. Only when in player inventory. %%red%%Fragile!

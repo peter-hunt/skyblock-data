@@ -1,0 +1,1 @@
+Increases your %%speed%% %%gray%%by %%green%%+%%amount%%%%gray%% while in %%place%%%%gray%%.

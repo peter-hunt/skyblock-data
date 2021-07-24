@@ -1,0 +1,2 @@
+A forceful Gold Axe which can break a large amount of logs in a single hit!
+%%dark_gray%%Cooldown: %%green%%%%time%%s

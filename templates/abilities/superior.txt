@@ -1,0 +1,1 @@
+Increases all stats by %%green%%%%percent%%%%%gray%%.

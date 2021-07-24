@@ -1,0 +1,1 @@
+Increases the defense of each armor piece by %%green%%+%%amount%%%%%gray%% %%defense%%%%gray%% for each missing percent of HP.

@@ -1,0 +1,1 @@
+Grants %%mining_speed%% %%gray%%for each of your mining levels.

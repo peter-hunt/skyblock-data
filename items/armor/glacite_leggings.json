@@ -6,6 +6,6 @@
   "speed": 15,
   "mining_speed": 10,
   "true_defense": 20,
-  "abilities": ["glacite_expert_miner", "glacite_double_defense"],
+  "abilities": ["expert_miner", "mining_double_defense"],
   "type": "armor"
 }

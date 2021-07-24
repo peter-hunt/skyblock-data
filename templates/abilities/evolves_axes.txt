@@ -1,0 +1,1 @@
+Reduces the cooldown of Jungle Axe and Treecapitator by %%green%%%%percent%%%%%gray%%.

@@ -1,0 +1,1 @@
+Actually adds %%red%%%%value%% %%gray%%damage to the Aspect of the Jerry.

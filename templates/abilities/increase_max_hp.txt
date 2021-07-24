@@ -1,0 +1,1 @@
+Increases the wearers maximum %%health%% %%gray%%by %%green%%%%amount%%%%gray%%.

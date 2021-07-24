@@ -1,0 +1,1 @@
+Gain +%%green%%%%value%% %%speed%% %%gray%%while in %%place%%.

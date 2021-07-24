@@ -1,0 +1,1 @@
+Take %%green%%%%percent%%% %%gray%%less damage from Sea Creatures.

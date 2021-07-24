@@ -1,0 +1,1 @@
+Increases your speed and speed cap by +%%green%%%%value%%%%gray%%.

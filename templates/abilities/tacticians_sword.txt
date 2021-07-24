@@ -1,0 +1,1 @@
+%%gray%%Gains %%red%%+%%value%% Damage %%gray%%for each Combat collection of Tier VII and over of its wearer.

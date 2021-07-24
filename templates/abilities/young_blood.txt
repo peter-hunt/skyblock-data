@@ -1,0 +1,2 @@
+Gain %%green%%+%%amount%%%%gray%% Walk Speed while you are above %%green%%%%percent%%%%%gray%% HP.
+%%dark_gray%%+%%cap%% Walk Speed Cap.

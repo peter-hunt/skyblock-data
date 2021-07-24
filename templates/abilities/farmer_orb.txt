@@ -1,0 +1,1 @@
+Increases the regrowth rate of nearby crops on the public islands.

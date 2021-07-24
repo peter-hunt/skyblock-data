@@ -1,0 +1,1 @@
+Increases your natural health regeneration by %%green%%%%multiplier%%x%%gray%%.

@@ -1,0 +1,1 @@
+Increases healing by %%green%%%%percent%%%%%gray%%.

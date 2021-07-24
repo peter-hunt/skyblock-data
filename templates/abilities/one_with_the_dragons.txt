@@ -1,0 +1,1 @@
+Buffs the Aspect of the Dragons sword by %%green%%%%val1%% %%damage%% %%gray%%and %%green%%%%val2%% %%strength%%%%gray%%.

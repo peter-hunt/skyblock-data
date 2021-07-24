@@ -1,0 +1,1 @@
+Each piece of this armour grants %%green%%%%amount%%% %%gray%%bonus experience when mining ores.

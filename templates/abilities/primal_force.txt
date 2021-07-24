@@ -1,0 +1,1 @@
+Adds +%%red%%%%val1%% %%damage%% %%gray%%and +%%red%%%%val2%% %%strength%% %%gray%%to your weapons.

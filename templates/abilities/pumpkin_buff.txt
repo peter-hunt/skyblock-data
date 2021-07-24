@@ -1,0 +1,1 @@
+Reduce all taken damage by %%green%%+%%reduction%%%%%gray%% and deal %%green%%+%%increase%%% %%gray%%damage.
