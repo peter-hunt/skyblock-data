@@ -1,1 +1,1 @@
-Increases your %%speed%% %%gray%%by %%green%%+%%amount%%%%%gray%% while held in %%place%%%%gray%%.
+Increases your %%speed%% %%gray%%by %%green%%+%%percent%%%%%gray%% while held in %%place%%%%gray%%.
