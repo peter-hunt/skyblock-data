@@ -1,0 +1,1 @@
+%%gray%%Earn %%gold%%+%%coins%% coins %%gray%%from monster kills (Level %%yellow%%10+ %%gray%%only)

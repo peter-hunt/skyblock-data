@@ -3,5 +3,6 @@
   "rarity": "rare",
   "damage": 80,
   "strength": 50,
+  "abilities": ["raider_coins"],
   "type": "sword"
 }
