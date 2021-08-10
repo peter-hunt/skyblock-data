@@ -6,7 +6,6 @@
   [{"name": "prismarine_shard"}, "good_catch", 0.01, 160, []],
   [{"name": "prismarine_crystals"}, "good_catch", 0.01, 160, []],
   [{"name": "clownfish"}, "normal", 0.02, 100, []],
-  [{"name": "golden_apple"}, "good_catch", 0.005, 160, []],
   [[5000, 10000], "good_catch", 0.03, 160, []],
   [{"name": "grand_experience_bottle"}, "great_catch", 0.005, 160, []],
   [{"name": "titanic_experience_bottle"}, "great_catch", 0.001, 300, []],
