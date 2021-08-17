@@ -1,0 +1,1 @@
+True Defense reduces the true damage that you take from enemies.

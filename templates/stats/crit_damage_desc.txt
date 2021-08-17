@@ -1,0 +1,1 @@
+Crit Damage is the amount of extra damage you deal when landing a critical hit.

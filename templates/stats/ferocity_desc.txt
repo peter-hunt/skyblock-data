@@ -1,0 +1,2 @@
+Ferocity grants percent chance to double-strike enemies.
+Increments of 100 increases the base number of strikes.

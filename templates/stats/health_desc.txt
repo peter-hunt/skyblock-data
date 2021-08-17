@@ -1,0 +1,1 @@
+Health is your total maximum health. Your natural regeneration gives %%green%%%%amount%% HP %%gray%%every %%green%%2s%%gray%%.
