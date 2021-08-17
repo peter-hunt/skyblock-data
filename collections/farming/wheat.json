@@ -12,6 +12,6 @@
     [15000, 1500],
     [25000, "farm_armor"],
     [50000, 5000],
-    [100000, "hay_to_tighted"]
+    [100000, "tightly_tied_hay_bale"]
   ]
 }
