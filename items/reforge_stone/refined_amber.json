@@ -1,0 +1,9 @@
+{
+  "name": "refined_amber",
+  "modifier": "refined",
+  "category": "pickaxe",
+  "rarity": "epic",
+  "cost": [10000, 10000, 10000, 10000, 10000, 10000],
+  "mining_skill_req": 25,
+  "type": "reforge_stone"
+}

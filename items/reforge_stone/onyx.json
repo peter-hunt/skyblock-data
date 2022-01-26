@@ -1,0 +1,9 @@
+{
+  "name": "onyx",
+  "modifier": "fruitful",
+  "category": "pickaxe",
+  "rarity": "rare",
+  "cost": [100, 250, 500, 1000, 2500, 15000],
+  "mining_skill_req": 2,
+  "type": "reforge_stone"
+}
