@@ -1,0 +1,6 @@
+{
+  "name": "protector_dragon_helmet",
+  "category": "combat",
+  "ingredients": [{"name": "protector_dragon_fragment", "count": 50}],
+  "result": {"name": "protector_dragon_helmet"}
+}

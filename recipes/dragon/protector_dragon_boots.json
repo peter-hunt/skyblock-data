@@ -1,0 +1,6 @@
+{
+  "name": "protector_dragon_boots",
+  "category": "combat",
+  "ingredients": [{"name": "protector_dragon_fragment", "count": 40}],
+  "result": {"name": "protector_dragon_boots"}
+}

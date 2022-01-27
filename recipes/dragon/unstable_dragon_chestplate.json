@@ -1,0 +1,6 @@
+{
+  "name": "unstable_dragon_chestplate",
+  "category": "combat",
+  "ingredients": [{"name": "unstable_dragon_fragment", "count": 80}],
+  "result": {"name": "unstable_dragon_chestplate"}
+}

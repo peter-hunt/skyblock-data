@@ -1,0 +1,6 @@
+{
+  "name": "superior_dragon_leggings",
+  "category": "combat",
+  "ingredients": [{"name": "superior_dragon_fragment", "count": 70}],
+  "result": {"name": "superior_dragon_leggings"}
+}

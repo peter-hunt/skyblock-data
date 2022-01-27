@@ -1,0 +1,6 @@
+{
+  "name": "wise_dragon_helmet",
+  "category": "combat",
+  "ingredients": [{"name": "wise_dragon_fragment", "count": 50}],
+  "result": {"name": "wise_dragon_helmet"}
+}

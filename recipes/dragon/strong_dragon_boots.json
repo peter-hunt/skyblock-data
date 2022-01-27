@@ -1,0 +1,6 @@
+{
+  "name": "strong_dragon_boots",
+  "category": "combat",
+  "ingredients": [{"name": "strong_dragon_fragment", "count": 40}],
+  "result": {"name": "strong_dragon_boots"}
+}

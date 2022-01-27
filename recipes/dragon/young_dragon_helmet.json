@@ -1,0 +1,6 @@
+{
+  "name": "young_dragon_helmet",
+  "category": "combat",
+  "ingredients": [{"name": "young_dragon_fragment", "count": 50}],
+  "result": {"name": "young_dragon_helmet"}
+}

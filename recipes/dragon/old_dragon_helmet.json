@@ -1,0 +1,6 @@
+{
+  "name": "old_dragon_helmet",
+  "category": "combat",
+  "ingredients": [{"name": "old_dragon_fragment", "count": 50}],
+  "result": {"name": "old_dragon_helmet"}
+}

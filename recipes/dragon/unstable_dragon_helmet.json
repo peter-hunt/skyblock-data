@@ -1,0 +1,6 @@
+{
+  "name": "unstable_dragon_helmet",
+  "category": "combat",
+  "ingredients": [{"name": "unstable_dragon_fragment", "count": 50}],
+  "result": {"name": "unstable_dragon_helmet"}
+}

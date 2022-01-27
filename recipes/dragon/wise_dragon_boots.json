@@ -1,0 +1,6 @@
+{
+  "name": "wise_dragon_boots",
+  "category": "combat",
+  "ingredients": [{"name": "wise_dragon_fragment", "count": 40}],
+  "result": {"name": "wise_dragon_boots"}
+}

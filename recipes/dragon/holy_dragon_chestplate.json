@@ -1,0 +1,6 @@
+{
+  "name": "holy_dragon_chestplate",
+  "category": "combat",
+  "ingredients": [{"name": "holy_dragon_fragment", "count": 80}],
+  "result": {"name": "holy_dragon_chestplate"}
+}

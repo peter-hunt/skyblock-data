@@ -1,0 +1,6 @@
+{
+  "name": "holy_dragon_leggings",
+  "category": "combat",
+  "ingredients": [{"name": "holy_dragon_fragment", "count": 70}],
+  "result": {"name": "holy_dragon_leggings"}
+}

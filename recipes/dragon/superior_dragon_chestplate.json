@@ -1,0 +1,6 @@
+{
+  "name": "superior_dragon_chestplate",
+  "category": "combat",
+  "ingredients": [{"name": "superior_dragon_fragment", "count": 80}],
+  "result": {"name": "superior_dragon_chestplate"}
+}
