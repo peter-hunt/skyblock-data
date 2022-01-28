@@ -1,0 +1,8 @@
+%%gray%%Earn %%gold%%20 %%gray%%extra %%gold%%coins %%gray%%from monster kills.
+%%dark_gray%%Kills count for mobs above level 10 and above
+
+%%gray%%Gains +1 %%damage%% for every %%green%%500 %%gray%%kills with this weapon.
+%%dark_gray%%Max +35 %%damage%% at 17,500 kills
+
+%%gray%%Gains %%red%%+1 %%damage%% %%gray%%for every %%green%%500 %%gray%%any type of wood in collections.
+%%dark_gray%%Max +100 Strength at 50,000 wood collections
