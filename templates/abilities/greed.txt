@@ -1,4 +1,4 @@
-The strength and damage bonus of this item is dependent on the price paid for it at the %%purple%%Dark Auction%%gray%%!
+The strength and damage bonus of this item is dependent on the price paid for it at the %%dark_purple%%Dark Auction%%gray%%!
 The maximum bonus of this item is %%red%%120 %%gray%%if the bid was %%gold%%50,000,000 Coins %%gray%%or higher!
 
 Price paid: %%gold%%%%coins%% Coins%%gray%%
