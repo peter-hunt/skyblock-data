@@ -8,7 +8,7 @@
   "combat_exp": 15,
   "drops": [
     [{"name": "spruce_wood"}, 1, "uncommon", 0.15],
-    [{"name": "dark_wood"}, 1, "uncommon", 0.15],
+    [{"name": "dark_oak_wood"}, 1, "uncommon", 0.15],
     [{"name": "acacia_wood"}, 1, "uncommon", 0.15],
     [{"name": "travel_scroll_to_howl"}, 1, "legendary", 0.0002],
     [
