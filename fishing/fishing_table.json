@@ -1,5 +1,6 @@
 [
   [{"name": "clay"}, "normal", 0.04, 30, []],
+  [{"name": "clay"}, "normal", 0.16, 30, ["wilderness"]],
   [{"name": "fish"}, "normal", 0.28, 25, []],
   [{"name": "salmon"}, "normal", 0.13, 35, []],
   [{"name": "pufferfish"}, "normal", 0.07, 50, []],
