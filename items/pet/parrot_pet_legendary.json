@@ -1,0 +1,9 @@
+{
+  "name": "parrot_pet",
+  "rarity": "legendary",
+  "category": "alchemy",
+  "intelligence": 100,
+  "crit_damage": 10,
+  "abilities": ["legendary_flamvoyant"],
+  "type": "pet"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "midas_sword",
+  "rarity": "legendary",
+  "damage": 150,
+  "combat_skill_req": 20,
+  "type": "sword"
+}

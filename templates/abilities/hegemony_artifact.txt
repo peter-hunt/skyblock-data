@@ -1,0 +1,1 @@
+Doubles the stats of the reforge on this item.
