@@ -1,0 +1,9 @@
+{
+  "name": "diamonite",
+  "modifier": "fleet",
+  "category": "pickaxe",
+  "rarity": "rare",
+  "cost": [15000, 30000, 60000, 125000, 250000, 500000],
+  "mining_skill_req": 15,
+  "type": "reforge_stone"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "diamonite",
+  "category": "forging",
+  "ingredients": [{"name": "refined_diamond", "count": 3}],
+  "result": {"name": "diamonite"}
+}
