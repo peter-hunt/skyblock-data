@@ -1,0 +1,3 @@
+Any damage taken is max %%grenn%%40% %%gray%%of the wearer's health.
+
+Gain regeneration when this ability activates.
