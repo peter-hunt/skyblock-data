@@ -4,5 +4,5 @@
 %%gray%%Gains +1 %%damage%% %%gray%%for every %%green%%500 %%gray%%kills with this weapon.
 %%dark_gray%%Max +35 %%damage%% %%dark_gray%%at 17,500 kills
 
-%%gray%%Gains %%red%%+1 %%damage%% %%gray%%for every %%green%%500 %%gray%%any type of wood in collections.
-%%dark_gray%%Max +100 Strength at 50,000 wood collections
+%%gray%%Gains %%red%%+1 %%strength%% %%gray%%for every %%green%%500 %%gray%%any type of wood in collections.
+%%dark_gray%%Max +100 %%strength%% %%dark_gray%%at 50,000 wood collections
