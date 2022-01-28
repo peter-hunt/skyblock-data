@@ -1,0 +1,10 @@
+{
+  "name": "celeste_leggings",
+  "rarity": "uncommon",
+  "part": "leggings",
+  "health": 15,
+  "defense": 15,
+  "intelligence": 40,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

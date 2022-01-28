@@ -1,0 +1,10 @@
+{
+  "name": "celeste_chestplate",
+  "rarity": "uncommon",
+  "part": "chestplate",
+  "health": 20,
+  "defense": 20,
+  "intelligence": 60,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

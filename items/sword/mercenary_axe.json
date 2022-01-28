@@ -1,0 +1,8 @@
+{
+  "name": "mercenary_axe",
+  "rarity": "rare",
+  "damage": 70,
+  "strength": 20,
+  "combat_skill_req": 4,
+  "type": "sword"
+}

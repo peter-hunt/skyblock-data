@@ -1,0 +1,8 @@
+{
+  "name": "squire_sword",
+  "rarity": "uncommon",
+  "damage": 50,
+  "strength": 10,
+  "combat_skill_req": 4,
+  "type": "sword"
+}

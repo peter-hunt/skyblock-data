@@ -1,0 +1,10 @@
+{
+  "name": "starlight_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 30,
+  "defense": 30,
+  "intelligence": 50,
+  "combat_skill_req": 8,
+  "type": "armor"
+}

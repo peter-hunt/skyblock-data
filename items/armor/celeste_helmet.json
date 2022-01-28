@@ -1,0 +1,9 @@
+{
+  "name": "celeste_helmet",
+  "rarity": "uncommon",
+  "part": "helmet",
+  "defense": 10,
+  "intelligence": 30,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "celeste_boots",
+  "rarity": "uncommon",
+  "part": "boots",
+  "health": 5,
+  "defense": 5,
+  "intelligence": 20,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mercenary_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 70,
+  "defense": 70,
+  "combat_skill_req": 8,
+  "abilities": ["death_tax"],
+  "type": "armor"
+}

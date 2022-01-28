@@ -1,0 +1,9 @@
+{
+  "name": "squire_leggings",
+  "rarity": "uncommon",
+  "part": "leggings",
+  "health": 30,
+  "defense": 30,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

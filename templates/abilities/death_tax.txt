@@ -1,0 +1,2 @@
+%%gray%%Earn %%gold%%+5 coins %%gray%%and heal %%red%%20%%health%% %%gray%%each kill.
+%%dark_gray%%Only against level 10+ mobs!

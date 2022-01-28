@@ -1,0 +1,9 @@
+{
+  "name": "squire_helmet",
+  "rarity": "uncommon",
+  "part": "helmet",
+  "health": 25,
+  "defense": 25,
+  "combat_skill_req": 4,
+  "type": "armor"
+}

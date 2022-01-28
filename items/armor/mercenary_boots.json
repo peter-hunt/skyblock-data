@@ -1,0 +1,10 @@
+{
+  "name": "mercenary_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "health": 30,
+  "defense": 30,
+  "combat_skill_req": 8,
+  "abilities": ["death_tax"],
+  "type": "armor"
+}
