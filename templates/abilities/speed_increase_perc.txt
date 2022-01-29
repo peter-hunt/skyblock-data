@@ -1,1 +1,1 @@
-Increases %%speed%% %%gray%%by %%green%%+%%percentage%%%%%gray%%.
+Increases %%speed%% %%gray%%by %%green%%+%%percent%%%%%gray%%.
