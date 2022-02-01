@@ -1,0 +1,9 @@
+{
+  "name": "magma_cube_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "health": 50,
+  "defense": 33.333333333333336,
+  "strength": 20,
+  "type": "pet"
+}
