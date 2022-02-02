@@ -2,7 +2,7 @@
   "name": "aspect_of_the_end",
   "category": "combat",
   "ingredients": [
-    {"name": "enchanted_eye_of_ender", "count": 32},
+    {"name": "enchanted_ender_eye", "count": 32},
     {"name": "enchanted_diamond"}
   ],
   "result": {"name": "aspect_of_the_end"},
