@@ -3,7 +3,7 @@
   "category": "combat",
   "ingredients": [
     {"name": "enderman_minion", "tier": 10},
-    {"name": "enchanted_eye_of_ender", "count": 192}
+    {"name": "enchanted_ender_eye", "count": 192}
   ],
   "result": {"name": "enderman_minion", "tier": 11},
   "collection_req": ["ender_pearl", 1]
