@@ -1,4 +1,4 @@
-# Skyblock Data Alpha
+# Skyblock Data Beta
 ![](https://img.shields.io/github/repo-size/peter-hunt/skyblock-data)
 ![](https://img.shields.io/github/license/peter-hunt/skyblock-data)
 ![](https://img.shields.io/github/stars/peter-hunt/skyblock-data)
@@ -7,7 +7,7 @@ Data Support for Hypixel Skyblock Remake in Python.
 
 The data will be installed by Skyblock automatically, so you don't have to install it manually to run Skyblock.
 
-If there are any issues with the data, please post them on the main repo for easier management.
+If there are any issues with the data, please post them on the main repository for easier management.
 
 # Furthur information
 This project is to support [Skyblock](https://github.com/peter-hunt/skyblock) by [PeterHunt](https://github.com/peter-hunt).
