@@ -7,7 +7,21 @@
   "exp": 35,
   "combat_exp": 10,
   "drops": [
-    [{"name": "blaze_rod"}, 2, "common", 1],
-    [{"name": "blaze_hat"}, 1, "uncommon", 0.05]
+    [
+      {
+        "name": "blaze_rod"
+      },
+      2,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "blaze_hat"
+      },
+      1,
+      "uncommon",
+      0.05
+    ]
   ]
 }

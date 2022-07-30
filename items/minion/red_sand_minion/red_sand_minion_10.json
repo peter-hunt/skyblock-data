@@ -1,0 +1,7 @@
+{
+  "name": "red_sand_minion",
+  "tier": 10,
+  "cooldown": 16,
+  "slots": 14,
+  "type": "minion"
+}

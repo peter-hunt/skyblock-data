@@ -1,0 +1,11 @@
+{
+  "name": "heat_armor",
+  "category": "mining",
+  "recipes": [
+    "heat_helmet",
+    "heat_chestplate",
+    "heat_leggings",
+    "heat_boots"
+  ],
+  "collection_req": ["hard_stone", 2]
+}

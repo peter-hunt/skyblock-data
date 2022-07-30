@@ -1,0 +1,13 @@
+{
+  "name": "hard_stone",
+  "category": "mining",
+  "levels": [
+    [50, "hard_stone_minion"],
+    [1000, "heat_armor"],
+    [5000, "enchanted_hard_stone"],
+    [50000, "hot_stuff"],
+    [150000, "flamebreaker_armor"],
+    [300000, "concentrated_stone"],
+    [1000000, "silex"]
+  ]
+}

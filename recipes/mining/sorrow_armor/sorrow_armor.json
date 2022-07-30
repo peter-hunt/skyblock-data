@@ -1,0 +1,10 @@
+{
+  "name": "sorrow_armor",
+  "category": "mining",
+  "recipes": [
+    "sorrow_helmet",
+    "sorrow_chestplate",
+    "sorrow_leggings",
+    "sorrow_boots"
+  ]
+}

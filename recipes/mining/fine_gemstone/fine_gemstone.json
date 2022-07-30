@@ -1,0 +1,15 @@
+{
+  "name": "fine_gemstone",
+  "category": "mining",
+  "recipes": [
+    "fine_ruby_gemstone",
+    "fine_amber_gemstone",
+    "fine_sapphire_gemstone",
+    "fine_jade_gemstone",
+    "fine_amethyst_gemstone",
+    "fine_topaz_gemstone",
+    "fine_jasper_gemstone",
+    "fine_opal_gemstone"
+  ],
+  "collection_req": ["gemstone", 5]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "perfect_gemstone",
+  "category": "forging",
+  "recipes": [
+    "perfect_ruby_gemstone",
+    "perfect_amber_gemstone",
+    "perfect_sapphire_gemstone",
+    "perfect_jade_gemstone",
+    "perfect_amethyst_gemstone",
+    "perfect_topaz_gemstone",
+    "perfect_jasper_gemstone",
+    "perfect_opal_gemstone"
+  ],
+  "collection_req": ["gemstone", 10]
+}

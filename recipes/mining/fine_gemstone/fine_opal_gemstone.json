@@ -1,0 +1,7 @@
+{
+  "name": "fine_opal_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "flawed_opal_gemstone", "count": 80}],
+  "result": {"name": "fine_opal_gemstone"},
+  "collection_req": ["gemstone", 5]
+}

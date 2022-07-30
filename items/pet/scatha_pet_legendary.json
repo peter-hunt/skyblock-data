@@ -1,0 +1,9 @@
+{
+  "name": "scatha_pet",
+  "rarity": "legendary",
+  "category": "mining",
+  "defense": 100,
+  "mining_speed": 100,
+  "abilities": ["epic_grounded", "epic_burrowing", "wormhole"],
+  "type": "pet"
+}

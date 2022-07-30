@@ -1,0 +1,10 @@
+{
+  "name": "pristine_book",
+  "category": "enchanting",
+  "ingredients": [
+    {"name": "paper", "count": 24},
+    {"name": "fine_topaz_gemstone", "count": 40}
+  ],
+  "result": {"name": "enchanted_book", "enchantments": {"pristine": 1}},
+  "collection_req": ["gemstone", 8]
+}

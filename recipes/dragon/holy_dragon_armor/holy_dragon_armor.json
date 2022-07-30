@@ -1,0 +1,10 @@
+{
+  "name": "holy_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "holy_dragon_helmet",
+    "holy_dragon_chestplate",
+    "holy_dragon_leggings",
+    "holy_dragon_boots"
+  ]
+}

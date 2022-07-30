@@ -1,0 +1,1 @@
+When mining, there is a %%green%%%%value%%%%%gray%% chance to mine up a treasure burrow.

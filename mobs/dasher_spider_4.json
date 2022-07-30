@@ -7,12 +7,44 @@
   "exp": 8,
   "combat_exp": 10,
   "drops": [
-    [{"name": "string"}, 1, "common", 1],
-    [{"name": "spider_eye"}, 1, "common", 0.5],
-    [{"name": "travel_scroll_to_nest"}, 1, "legendary", 0.0002],
-    [{"name": "tarantula_pet", "rarity": "epic"}, 1, "pray_rngesus", 0.0001],
     [
-      {"name": "tarantula_pet", "rarity": "legendary"},
+      {
+        "name": "string"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "spider_eye"
+      },
+      1,
+      "common",
+      0.5
+    ],
+    [
+      {
+        "name": "travel_scroll_to_nest"
+      },
+      1,
+      "legendary",
+      0.0002
+    ],
+    [
+      {
+        "name": "tarantula_pet",
+        "rarity": "epic"
+      },
+      1,
+      "pray_rngesus",
+      0.0001
+    ],
+    [
+      {
+        "name": "tarantula_pet",
+        "rarity": "legendary"
+      },
       1,
       "pray_rngesus",
       0.0001

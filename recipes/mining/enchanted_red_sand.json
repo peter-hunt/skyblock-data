@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_red_sand",
+  "category": "mining",
+  "ingredients": [{"name": "red_sand", "count": 160}],
+  "result": {"name": "enchanted_red_sand"},
+  "collection_req": ["red_sand", 2]
+}

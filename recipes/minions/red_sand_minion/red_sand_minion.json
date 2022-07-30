@@ -1,0 +1,18 @@
+{
+  "name": "red_sand_minion",
+  "category": "mining",
+  "recipes": [
+    "red_sand_minion_1",
+    "red_sand_minion_2",
+    "red_sand_minion_3",
+    "red_sand_minion_4",
+    "red_sand_minion_5",
+    "red_sand_minion_6",
+    "red_sand_minion_7",
+    "red_sand_minion_8",
+    "red_sand_minion_9",
+    "red_sand_minion_10",
+    "red_sand_minion_11"
+  ],
+  "collection_req": ["red_sand", 1]
+}

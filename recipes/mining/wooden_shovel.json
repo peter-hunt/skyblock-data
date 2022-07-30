@@ -1,0 +1,6 @@
+{
+  "name": "wooden_shovel",
+  "category": "mining",
+  "ingredients": [{"name": "planks", "count": 1}, {"name": "stick", "count": 2}],
+  "result": {"name": "wooden_shovel"}
+}

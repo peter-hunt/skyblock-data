@@ -1,0 +1,10 @@
+{
+  "name": "unstable_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "unstable_dragon_helmet",
+    "unstable_dragon_chestplate",
+    "unstable_dragon_leggings",
+    "unstable_dragon_boots"
+  ]
+}

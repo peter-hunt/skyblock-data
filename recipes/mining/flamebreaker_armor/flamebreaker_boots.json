@@ -1,0 +1,7 @@
+{
+  "name": "flamebreaker_boots",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_hard_stone", "count": 160}],
+  "result": {"name": "flamebreaker_boots"},
+  "collection_req": ["hard_stone", 5]
+}

@@ -1,0 +1,1 @@
+Gain %%gold%%+%%value%%%%mining_fortune%%.

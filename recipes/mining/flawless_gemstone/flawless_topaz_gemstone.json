@@ -1,0 +1,7 @@
+{
+  "name": "flawless_topaz_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "fine_topaz_gemstone", "count": 80}],
+  "result": {"name": "flawless_topaz_gemstone"},
+  "collection_req": ["gemstone", 9]
+}

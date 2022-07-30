@@ -1,0 +1,11 @@
+{
+  "name": "frozen_blaze_armor",
+  "category": "mining",
+  "recipes": [
+    "frozen_blaze_helmet",
+    "frozen_blaze_chestplate",
+    "frozen_blaze_leggings",
+    "frozen_blaze_boots"
+  ],
+  "collection_req": ["ice", 9]
+}

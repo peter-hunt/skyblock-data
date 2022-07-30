@@ -6,11 +6,62 @@
   "exp": 41,
   "fishing_exp": 270,
   "drops": [
-    [{"name": "lily_pad"}, [2, 4], "common", 1],
-    [{"name": "sponge"}, 1, "common", 1],
-    [{"name": "rotten_flesh"}, [1, 6], "common", 0.14285714285714285],
-    [{"name": "enchanted_rotten_flesh"}, 1, "common", 0.8571428571428571],
-    [{"name": "enchanted_feather"}, 1, "common", 0.8571428571428571],
-    [{"name": "enchanted_book", "enchantments": {"magnet": 6}}, 1, "rare", 0.02]
+    [
+      {
+        "name": "lily_pad"
+      },
+      [
+        2,
+        4
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "sponge"
+      },
+      1,
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "rotten_flesh"
+      },
+      [
+        1,
+        6
+      ],
+      "common",
+      0.14285714285714285
+    ],
+    [
+      {
+        "name": "enchanted_rotten_flesh"
+      },
+      1,
+      "common",
+      0.8571428571428571
+    ],
+    [
+      {
+        "name": "enchanted_feather"
+      },
+      1,
+      "common",
+      0.8571428571428571
+    ],
+    [
+      {
+        "name": "enchanted_book",
+        "enchantments": {
+          "magnet": 6
+        }
+      },
+      1,
+      "rare",
+      0.02
+    ]
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "red_sand_minion_7",
+  "category": "mining",
+  "ingredients": [
+    {"name": "red_sand_minion", "tier": 6},
+    {"name": "enchanted_red_sand", "count": 128}
+  ],
+  "result": {"name": "red_sand_minion", "tier": 7},
+  "collection_req": ["red_sand", 1]
+}

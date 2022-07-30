@@ -1,0 +1,11 @@
+{
+  "name": "flamebreaker_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 60,
+  "defense": 60,
+  "mining_speed": 25,
+  "mining_fortune": 10,
+  "collection_req": ["hard_stone", 5],
+  "type": "armor"
+}

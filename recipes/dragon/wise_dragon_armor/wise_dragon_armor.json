@@ -1,0 +1,10 @@
+{
+  "name": "wise_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "wise_dragon_helmet",
+    "wise_dragon_chestplate",
+    "wise_dragon_leggings",
+    "wise_dragon_boots"
+  ]
+}

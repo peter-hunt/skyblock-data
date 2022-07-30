@@ -1,0 +1,7 @@
+{
+  "name": "fine_sapphire_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "flawed_sapphire_gemstone", "count": 80}],
+  "result": {"name": "fine_sapphire_gemstone"},
+  "collection_req": ["gemstone", 5]
+}

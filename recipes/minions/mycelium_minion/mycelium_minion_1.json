@@ -1,0 +1,10 @@
+{
+  "name": "mycelium_minion_1",
+  "category": "mining",
+  "ingredients": [
+    {"name": "wooden_pickaxe"},
+    {"name": "mycelium", "count": 80}
+  ],
+  "result": {"name": "mycelium_minion", "tier": 1},
+  "collection_req": ["mycelium", 1]
+}

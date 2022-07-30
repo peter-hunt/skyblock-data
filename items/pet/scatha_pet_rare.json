@@ -1,0 +1,9 @@
+{
+  "name": "scatha_pet",
+  "rarity": "rare",
+  "category": "mining",
+  "defense": 100,
+  "mining_speed": 100,
+  "abilities": ["rare_grounded", "rare_burrowing"],
+  "type": "pet"
+}

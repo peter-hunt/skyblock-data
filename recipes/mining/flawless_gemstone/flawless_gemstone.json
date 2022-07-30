@@ -1,0 +1,15 @@
+{
+  "name": "flawless_gemstone",
+  "category": "mining",
+  "recipes": [
+    "flawless_ruby_gemstone",
+    "flawless_amber_gemstone",
+    "flawless_sapphire_gemstone",
+    "flawless_jade_gemstone",
+    "flawless_amethyst_gemstone",
+    "flawless_topaz_gemstone",
+    "flawless_jasper_gemstone",
+    "flawless_opal_gemstone"
+  ],
+  "collection_req": ["gemstone", 9]
+}

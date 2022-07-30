@@ -1,0 +1,7 @@
+{
+  "name": "flawed_amber_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "rough_amber_gemstone", "count": 80}],
+  "result": {"name": "flawed_amber_gemstone"},
+  "collection_req": ["gemstone", 2]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mycelium_minion",
+  "tier": 3,
+  "cooldown": 24,
+  "slots": 3,
+  "type": "minion"
+}

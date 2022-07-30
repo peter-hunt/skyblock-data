@@ -1,0 +1,10 @@
+{
+  "name": "hard_stone_minion_1",
+  "category": "mining",
+  "ingredients": [
+    {"name": "wooden_pickaxe"},
+    {"name": "hard_stone", "count": 256}
+  ],
+  "result": {"name": "hard_stone_minion", "tier": 1},
+  "collection_req": ["hard_stone", 1]
+}

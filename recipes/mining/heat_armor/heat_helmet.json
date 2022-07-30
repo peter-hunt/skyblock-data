@@ -1,0 +1,7 @@
+{
+  "name": "heat_helmet",
+  "category": "mining",
+  "ingredients": [{"name": "hard_stone", "count": 200}],
+  "result": {"name": "heat_helmet"},
+  "collection_req": ["hard_stone", 2]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flamebreaker_chestplate",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_hard_stone", "count": 320}],
+  "result": {"name": "flamebreaker_chestplate"},
+  "collection_req": ["hard_stone", 5]
+}

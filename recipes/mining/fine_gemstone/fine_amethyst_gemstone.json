@@ -1,0 +1,7 @@
+{
+  "name": "fine_amethyst_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "flawed_amethyst_gemstone", "count": 80}],
+  "result": {"name": "fine_amethyst_gemstone"},
+  "collection_req": ["gemstone", 5]
+}

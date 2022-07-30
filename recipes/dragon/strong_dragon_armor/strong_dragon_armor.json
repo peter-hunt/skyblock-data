@@ -1,0 +1,10 @@
+{
+  "name": "strong_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "strong_dragon_helmet",
+    "strong_dragon_chestplate",
+    "strong_dragon_leggings",
+    "strong_dragon_boots"
+  ]
+}

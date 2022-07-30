@@ -5,8 +5,35 @@
   "exp": 28,
   "fishing_exp": 270,
   "drops": [
-    [{"name": "ink_sack"}, [12, 27], "common", 1],
-    [{"name": "lily_pad"}, [1, 4], "common", 1],
-    [{"name": "squid_boots"}, 1, "rare", 0.05]
+    [
+      {
+        "name": "ink_sack"
+      },
+      [
+        12,
+        27
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "lily_pad"
+      },
+      [
+        1,
+        4
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "squid_boots"
+      },
+      1,
+      "rare",
+      0.05
+    ]
   ]
 }

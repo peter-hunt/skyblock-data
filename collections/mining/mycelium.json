@@ -1,0 +1,16 @@
+{
+  "name": "mycelium",
+  "category": "mining",
+  "levels": [
+    [50, 5],
+    [500, 50],
+    [750, "enchanted_mycelium"],
+    [1000, 100],
+    [2500, 250],
+    [10000, 1000],
+    [15000, "enchanted_mycelium_cube"],
+    [25000, 2500],
+    [50000, 5000],
+    [100000, 10000]
+  ]
+}

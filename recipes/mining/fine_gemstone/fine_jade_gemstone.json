@@ -1,0 +1,7 @@
+{
+  "name": "fine_jade_gemstone",
+  "category": "mining",
+  "ingredients": [{"name": "flawed_jade_gemstone", "count": 80}],
+  "result": {"name": "fine_jade_gemstone"},
+  "collection_req": ["gemstone", 5]
+}

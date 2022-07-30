@@ -1,0 +1,7 @@
+{
+  "name": "perfect_sapphire_gemstone",
+  "category": "forging",
+  "ingredients": [{"name": "flawless_sapphire_gemstone", "count": 80}],
+  "result": {"name": "perfect_sapphire_gemstone"},
+  "collection_req": ["gemstone", 10]
+}

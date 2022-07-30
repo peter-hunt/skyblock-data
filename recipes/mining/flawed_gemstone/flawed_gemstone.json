@@ -1,0 +1,15 @@
+{
+  "name": "flawed_gemstone",
+  "category": "mining",
+  "recipes": [
+    "flawed_ruby_gemstone",
+    "flawed_amber_gemstone",
+    "flawed_sapphire_gemstone",
+    "flawed_jade_gemstone",
+    "flawed_amethyst_gemstone",
+    "flawed_topaz_gemstone",
+    "flawed_jasper_gemstone",
+    "flawed_opal_gemstone"
+  ],
+  "collection_req": ["gemstone", 2]
+}

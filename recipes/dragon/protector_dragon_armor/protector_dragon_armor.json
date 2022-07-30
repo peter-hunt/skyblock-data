@@ -1,0 +1,10 @@
+{
+  "name": "protector_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "protector_dragon_helmet",
+    "protector_dragon_chestplate",
+    "protector_dragon_leggings",
+    "protector_dragon_boots"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "perfect_topaz_gemstone",
+  "category": "forging",
+  "ingredients": [{"name": "flawless_topaz_gemstone", "count": 80}],
+  "result": {"name": "perfect_topaz_gemstone"},
+  "collection_req": ["gemstone", 10]
+}

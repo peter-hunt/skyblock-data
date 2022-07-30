@@ -1,0 +1,7 @@
+{
+  "name": "perfect_jasper_gemstone",
+  "category": "forging",
+  "ingredients": [{"name": "flawless_jasper_gemstone", "count": 80}],
+  "result": {"name": "perfect_jasper_gemstone"},
+  "collection_req": ["gemstone", 10]
+}

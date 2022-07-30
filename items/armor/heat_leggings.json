@@ -1,0 +1,11 @@
+{
+  "name": "heat_leggings",
+  "rarity": "rare",
+  "part": "leggings",
+  "health": 30,
+  "defense": 30,
+  "mining_speed": 10,
+  "mining_fortune": 5,
+  "collection_req": ["hard_stone", 2],
+  "type": "armor"
+}

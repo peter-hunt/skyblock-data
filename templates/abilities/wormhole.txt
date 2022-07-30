@@ -1,0 +1,1 @@
+Gives a %%green%%%%value%%%%%gray%% chance to mine 2 adjacent stone or hard stone.

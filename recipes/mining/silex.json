@@ -1,0 +1,7 @@
+{
+  "name": "silex",
+  "category": "mining",
+  "ingredients": [{"name": "concentrated_stone", "count": 9}],
+  "result": {"name": "silex"},
+  "collection_req": ["hard_stone", 7]
+}

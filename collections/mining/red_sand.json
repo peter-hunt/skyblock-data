@@ -1,0 +1,14 @@
+{
+  "name": "red_sand",
+  "category": "mining",
+  "levels": [
+    [50, 5],
+    [500, "enchanted_red_sand"],
+    [2500, 250],
+    [10000, "enchanted_red_sand_cube"],
+    [15000, 1500],
+    [25000, 2500],
+    [50000, 5000],
+    [100000, 10000]
+  ]
+}

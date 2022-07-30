@@ -1,0 +1,11 @@
+{
+  "name": "flamebreaker_armor",
+  "category": "mining",
+  "recipes": [
+    "flamebreaker_helmet",
+    "flamebreaker_chestplate",
+    "flamebreaker_leggings",
+    "flamebreaker_boots"
+  ],
+  "collection_req": ["hard_stone", 5]
+}

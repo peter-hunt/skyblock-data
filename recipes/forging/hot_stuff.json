@@ -1,0 +1,7 @@
+{
+  "name": "hot_stuff",
+  "category": "forging",
+  "ingredients": [{"name": "enchanted_hard_stone", "count": 96}],
+  "result": {"name": "hot_stuff"},
+  "collection_req": ["hard_stone", 4]
+}

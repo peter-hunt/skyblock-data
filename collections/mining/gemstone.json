@@ -1,0 +1,17 @@
+{
+  "name": "gemstone",
+  "category": "mining",
+  "levels": [
+    [100, 10],
+    [250, "flawed_gemstone"],
+    [1000, 100],
+    [2500, 250],
+    [5000, "fine_gemstone"],
+    [25000, 2500],
+    [100000, 10000],
+    [250000, "pristine_book"],
+    [500000, "flawless_gemstone"],
+    [1000000, "perfect_gemstone"],
+    [2000000, "gemstone_gauntlet"]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hard_stone_minion",
+  "tier": 11,
+  "cooldown": 7,
+  "slots": 15,
+  "type": "minion"
+}

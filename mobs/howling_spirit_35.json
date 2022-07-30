@@ -7,18 +7,52 @@
   "exp": 10,
   "combat_exp": 15,
   "drops": [
-    [{"name": "spruce_wood"}, 1, "uncommon", 0.15],
-    [{"name": "dark_oak_wood"}, 1, "uncommon", 0.15],
-    [{"name": "acacia_wood"}, 1, "uncommon", 0.15],
-    [{"name": "travel_scroll_to_howl"}, 1, "legendary", 0.0002],
     [
-      {"name": "hound_pet", "rarity": "epic"},
+      {
+        "name": "spruce_wood"
+      },
+      1,
+      "uncommon",
+      0.15
+    ],
+    [
+      {
+        "name": "dark_oak_wood"
+      },
+      1,
+      "uncommon",
+      0.15
+    ],
+    [
+      {
+        "name": "acacia_wood"
+      },
+      1,
+      "uncommon",
+      0.15
+    ],
+    [
+      {
+        "name": "travel_scroll_to_howl"
+      },
+      1,
+      "legendary",
+      0.0002
+    ],
+    [
+      {
+        "name": "hound_pet",
+        "rarity": "epic"
+      },
       1,
       "pray_rngesus",
       0.00006666666666666667
     ],
     [
-      {"name": "hound_pet", "rarity": "legendary"},
+      {
+        "name": "hound_pet",
+        "rarity": "legendary"
+      },
       1,
       "pray_rngesus",
       0.000016666666666666667

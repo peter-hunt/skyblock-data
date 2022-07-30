@@ -1,0 +1,7 @@
+{
+  "name": "perfect_ruby_gemstone",
+  "category": "forging",
+  "ingredients": [{"name": "flawless_ruby_gemstone", "count": 80}],
+  "result": {"name": "perfect_ruby_gemstone"},
+  "collection_req": ["gemstone", 10]
+}

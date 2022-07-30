@@ -1,0 +1,7 @@
+{
+  "name": "enchanted_mycelium_cube",
+  "category": "mining",
+  "ingredients": [{"name": "enchanted_mycelium", "count": 160}],
+  "result": {"name": "enchanted_mycelium_cube"},
+  "collection_req": ["mycelium", 7]
+}

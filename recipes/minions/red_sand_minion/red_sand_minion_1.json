@@ -1,0 +1,10 @@
+{
+  "name": "red_sand_minion_1",
+  "category": "mining",
+  "ingredients": [
+    {"name": "wooden_pickaxe"},
+    {"name": "red_sand", "count": 80}
+  ],
+  "result": {"name": "red_sand_minion", "tier": 1},
+  "collection_req": ["red_sand", 1]
+}

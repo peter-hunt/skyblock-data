@@ -1,0 +1,10 @@
+{
+  "name": "hard_stone_minion_7",
+  "category": "mining",
+  "ingredients": [
+    {"name": "hard_stone_minion", "tier": 6},
+    {"name": "enchanted_hard_stone", "count": 128}
+  ],
+  "result": {"name": "hard_stone_minion", "tier": 7},
+  "collection_req": ["hard_stone", 1]
+}

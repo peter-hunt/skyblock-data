@@ -1,0 +1,10 @@
+{
+  "name": "young_dragon_armor",
+  "category": "combat",
+  "recipes": [
+    "young_dragon_helmet",
+    "young_dragon_chestplate",
+    "young_dragon_leggings",
+    "young_dragon_boots"
+  ]
+}

@@ -6,10 +6,60 @@
   "exp": 100,
   "fishing_exp": 1350,
   "drops": [
-    [{"name": "clownfish"}, [10, 25], "common", 1],
-    [{"name": "lily_pad"}, [30, 40], "common", 1],
-    [{"name": "enchanted_iron"}, [2, 4], "common", 1],
-    [{"name": "sponge"}, [1, 3], "common", 1],
-    [{"name": "enchanted_book", "enchantments": {"angler": 4}}, 1, "rare", 0.02]
+    [
+      {
+        "name": "clownfish"
+      },
+      [
+        10,
+        25
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "lily_pad"
+      },
+      [
+        30,
+        40
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_iron"
+      },
+      [
+        2,
+        4
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "sponge"
+      },
+      [
+        1,
+        3
+      ],
+      "common",
+      1
+    ],
+    [
+      {
+        "name": "enchanted_book",
+        "enchantments": {
+          "angler": 4
+        }
+      },
+      1,
+      "rare",
+      0.02
+    ]
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "mycelium_minion_4",
+  "category": "mining",
+  "ingredients": [
+    {"name": "mycelium_minion", "tier": 3},
+    {"name": "enchanted_mycelium", "count": 16}
+  ],
+  "result": {"name": "mycelium_minion", "tier": 4},
+  "collection_req": ["mycelium", 1]
+}
