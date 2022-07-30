@@ -1,1 +1,5 @@
-{"name": "hay_bale", "count": 64, "type": "item"}
+{
+  "name": "hay_bale",
+  "count": 64,
+  "type": "item"
+}

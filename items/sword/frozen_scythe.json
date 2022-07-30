@@ -1,1 +1,6 @@
-{"name": "frozen_scythe", "rarity": "rare", "damage": 80, "type": "sword"}
+{
+  "name": "frozen_scythe",
+  "rarity": "rare",
+  "damage": 80,
+  "type": "sword"
+}

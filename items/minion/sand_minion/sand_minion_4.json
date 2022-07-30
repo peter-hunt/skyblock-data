@@ -1,1 +1,7 @@
-{"name": "sand_minion", "tier": 4, "cooldown": 24, "slots": 6, "type": "minion"}
+{
+  "name": "sand_minion",
+  "tier": 4,
+  "cooldown": 24,
+  "slots": 6,
+  "type": "minion"
+}

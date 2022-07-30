@@ -1,1 +1,6 @@
-{"name": "efficient_axe", "rarity": "uncommon", "tool_speed": 6, "type": "axe"}
+{
+  "name": "efficient_axe",
+  "rarity": "uncommon",
+  "tool_speed": 6,
+  "type": "axe"
+}

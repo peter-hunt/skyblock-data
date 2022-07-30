@@ -1,1 +1,6 @@
-{"name": "enchanted_rabbit", "count": 64, "rarity": "uncommon", "type": "item"}
+{
+  "name": "enchanted_rabbit",
+  "count": 64,
+  "rarity": "uncommon",
+  "type": "item"
+}

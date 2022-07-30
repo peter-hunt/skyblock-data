@@ -1,1 +1,6 @@
-{"name": "blessed_bait", "count": 64, "rarity": "uncommon", "type": "item"}
+{
+  "name": "blessed_bait",
+  "count": 64,
+  "rarity": "uncommon",
+  "type": "item"
+}

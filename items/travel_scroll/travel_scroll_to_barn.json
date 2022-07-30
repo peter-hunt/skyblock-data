@@ -1,1 +1,5 @@
-{"name": "travel_scroll_to_barn", "island": "barn", "type": "travel_scroll"}
+{
+  "name": "travel_scroll_to_barn",
+  "island": "barn",
+  "type": "travel_scroll"
+}

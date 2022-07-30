@@ -1,1 +1,5 @@
-{"name": "oak_leaves", "count": 64, "type": "item"}
+{
+  "name": "oak_leaves",
+  "count": 64,
+  "type": "item"
+}

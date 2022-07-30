@@ -1,1 +1,5 @@
-{"name": "bottle", "count": 64, "type": "item"}
+{
+  "name": "bottle",
+  "count": 64,
+  "type": "item"
+}

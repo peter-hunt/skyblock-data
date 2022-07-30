@@ -1,1 +1,5 @@
-{"name": "travel_scroll_to_end", "island": "end", "type": "travel_scroll"}
+{
+  "name": "travel_scroll_to_end",
+  "island": "end",
+  "type": "travel_scroll"
+}

@@ -1,1 +1,5 @@
-{"name": "poisonous_potato", "count": 64, "type": "item"}
+{
+  "name": "poisonous_potato",
+  "count": 64,
+  "type": "item"
+}

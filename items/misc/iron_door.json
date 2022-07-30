@@ -1,1 +1,5 @@
-{"name": "iron_door", "count": 64, "type": "item"}
+{
+  "name": "iron_door",
+  "count": 64,
+  "type": "item"
+}

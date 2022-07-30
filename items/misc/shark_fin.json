@@ -1,1 +1,6 @@
-{"name": "shark_fin", "count": 64, "rarity": "rare", "type": "item"}
+{
+  "name": "shark_fin",
+  "count": 64,
+  "rarity": "rare",
+  "type": "item"
+}

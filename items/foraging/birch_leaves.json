@@ -1,1 +1,5 @@
-{"name": "birch_leaves", "count": 64, "type": "item"}
+{
+  "name": "birch_leaves",
+  "count": 64,
+  "type": "item"
+}

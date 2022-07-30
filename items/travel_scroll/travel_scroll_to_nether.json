@@ -1,1 +1,5 @@
-{"name": "travel_scroll_to_nether", "island": "nether", "type": "travel_scroll"}
+{
+  "name": "travel_scroll_to_nether",
+  "island": "nether",
+  "type": "travel_scroll"
+}

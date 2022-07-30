@@ -1,1 +1,5 @@
-{"name": "nether_artifact", "rarity": "epic", "type": "accessory"}
+{
+  "name": "nether_artifact",
+  "rarity": "epic",
+  "type": "accessory"
+}

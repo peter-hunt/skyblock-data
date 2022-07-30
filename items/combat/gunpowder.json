@@ -1,1 +1,5 @@
-{"name": "gunpowder", "count": 64, "type": "item"}
+{
+  "name": "gunpowder",
+  "count": 64,
+  "type": "item"
+}

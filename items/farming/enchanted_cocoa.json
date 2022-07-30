@@ -1,1 +1,6 @@
-{"name": "enchanted_cocoa", "count": 64, "rarity": "uncommon", "type": "item"}
+{
+  "name": "enchanted_cocoa",
+  "count": 64,
+  "rarity": "uncommon",
+  "type": "item"
+}

@@ -1,1 +1,5 @@
-{"name": "hot_potato_book", "rarity": "epic", "type": "item"}
+{
+  "name": "hot_potato_book",
+  "rarity": "epic",
+  "type": "item"
+}
