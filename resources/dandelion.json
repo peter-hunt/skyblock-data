@@ -1,1 +1,5 @@
-{"name": "dandelion", "hardness": 0, "type": "log"}
+{
+  "name": "dandelion",
+  "hardness": 0,
+  "type": "log"
+}

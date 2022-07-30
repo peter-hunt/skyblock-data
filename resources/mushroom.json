@@ -1,1 +1,5 @@
-{"name": "mushroom", "farming_exp": 3, "type": "crop"}
+{
+  "name": "mushroom",
+  "farming_exp": 3,
+  "type": "crop"
+}

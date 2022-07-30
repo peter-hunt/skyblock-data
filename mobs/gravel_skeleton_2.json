@@ -6,17 +6,5 @@
   "coins": 1,
   "exp": 4,
   "combat_exp": 6,
-  "drops": [
-    [
-      {
-        "name": "bone"
-      },
-      [
-        3,
-        6
-      ],
-      "common",
-      1
-    ]
-  ]
+  "drops": [[{"name": "bone"}, [3, 6], "common", 1]]
 }

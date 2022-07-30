@@ -6,14 +6,5 @@
   "coins": 4,
   "exp": 9,
   "combat_exp": 4,
-  "drops": [
-    [
-      {
-        "name": "magma_cream"
-      },
-      1,
-      "common",
-      1
-    ]
-  ]
+  "drops": [[{"name": "magma_cream"}, 1, "common", 1]]
 }

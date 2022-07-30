@@ -1,1 +1,5 @@
-{"name": "poppy", "hardness": 0, "type": "log"}
+{
+  "name": "poppy",
+  "hardness": 0,
+  "type": "log"
+}

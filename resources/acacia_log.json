@@ -1,1 +1,5 @@
-{"name": "acacia_log", "foraging_exp": 6, "type": "log"}
+{
+  "name": "acacia_log",
+  "foraging_exp": 6,
+  "type": "log"
+}

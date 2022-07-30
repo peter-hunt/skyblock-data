@@ -1,1 +1,5 @@
-{"name": "dark_oak_log", "foraging_exp": 6, "type": "log"}
+{
+  "name": "dark_oak_log",
+  "foraging_exp": 6,
+  "type": "log"
+}

@@ -7,24 +7,7 @@
   "exp": 30,
   "combat_exp": 15,
   "drops": [
-    [
-      {
-        "name": "slime_ball"
-      },
-      [
-        1,
-        2
-      ],
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "exp_share_core"
-      },
-      1,
-      "pray_rngesus",
-      0.0001
-    ]
+    [{"name": "slime_ball"}, [1, 2], "common", 1],
+    [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }

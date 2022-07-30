@@ -7,53 +7,11 @@
   "exp": 30,
   "combat_exp": 20,
   "drops": [
-    [
-      {
-        "name": "bone"
-      },
-      4,
-      "common",
-      1
-    ],
-    [
-      {
-        "name": "miner_helmet"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "miner_chestplate"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "miner_leggings"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "miner_boots"
-      },
-      1,
-      "rare",
-      0.01
-    ],
-    [
-      {
-        "name": "exp_share_core"
-      },
-      1,
-      "pray_rngesus",
-      0.0001
-    ]
+    [{"name": "bone"}, 4, "common", 1],
+    [{"name": "miner_helmet"}, 1, "rare", 0.01],
+    [{"name": "miner_chestplate"}, 1, "rare", 0.01],
+    [{"name": "miner_leggings"}, 1, "rare", 0.01],
+    [{"name": "miner_boots"}, 1, "rare", 0.01],
+    [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
   ]
 }

@@ -1,1 +1,5 @@
-{"name": "pumpkin", "farming_exp": 4.5, "type": "crop"}
+{
+  "name": "pumpkin",
+  "farming_exp": 4.5,
+  "type": "crop"
+}

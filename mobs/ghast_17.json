@@ -6,14 +6,5 @@
   "coins": 30,
   "exp": 32,
   "combat_exp": 50,
-  "drops": [
-    [
-      {
-        "name": "ghast_tear"
-      },
-      1,
-      "common",
-      1
-    ]
-  ]
+  "drops": [[{"name": "ghast_tear"}, 1, "common", 1]]
 }
