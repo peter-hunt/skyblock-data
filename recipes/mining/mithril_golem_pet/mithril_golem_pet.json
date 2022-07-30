@@ -1,0 +1,6 @@
+{
+  "name": "mithril_golem_pet",
+  "category": "mining",
+  "recipes": ["common_mithril_golem_pet", "epic_mithril_golem_pet"],
+  "collection_req": ["mithril", 7]
+}

@@ -1,7 +1,0 @@
-{
-  "name": "magma_cube_head",
-  "category": "combat",
-  "ingredients": [{"name": "magma_cream", "count": 8}],
-  "result": {"name": "magma_cube_head"},
-  "collection_req": ["magma_cream", 2]
-}

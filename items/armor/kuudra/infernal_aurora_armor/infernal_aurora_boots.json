@@ -1,0 +1,10 @@
+{
+  "name": "infernal_terror_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 328,
+  "defense": 101,
+  "intelligence": 315,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

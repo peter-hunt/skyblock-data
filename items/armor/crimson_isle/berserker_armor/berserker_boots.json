@@ -1,0 +1,8 @@
+{
+  "name": "berserker_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "strength": 25,
+  "crit_damage": 25,
+  "type": "armor"
+}

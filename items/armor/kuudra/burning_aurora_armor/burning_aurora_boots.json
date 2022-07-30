@@ -1,0 +1,10 @@
+{
+  "name": "burning_aurora_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 206,
+  "defense": 64,
+  "intelligence": 198,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

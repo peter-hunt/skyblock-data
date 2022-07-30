@@ -1,0 +1,10 @@
+{
+  "name": "common_chicken_pet",
+  "category": "farming",
+  "ingredients": [
+    {"name": "enchanted_chicken", "count": 64},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "chicken_pet", "rarity": "common"},
+  "collection_req": ["chicken", 6]
+}

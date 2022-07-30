@@ -1,0 +1,11 @@
+{
+  "name": "common_mushroom_cow_pet",
+  "category": "farming",
+  "ingredients": [
+    {"name": "enchanted_mycelium", "count": 128},
+    {"name": "digested_mushrooms", "count": 128},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "mushroom_cow_pet", "rarity": "common"},
+  "collection_req": ["mycelium", 8]
+}

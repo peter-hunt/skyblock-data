@@ -1,0 +1,6 @@
+{
+  "name": "zombie_pet",
+  "category": "combat",
+  "recipes": ["common_zombie_pet", "epic_zombie_pet"],
+  "collection_req": ["rotten_flesh", 9]
+}

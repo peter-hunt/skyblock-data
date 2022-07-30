@@ -1,0 +1,12 @@
+{
+  "name": "infernal_crimson_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "strength": 76,
+  "crit_damage": 50,
+  "health": 517,
+  "defense": 139,
+  "intelligence": 13,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

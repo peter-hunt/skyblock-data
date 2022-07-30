@@ -1,0 +1,10 @@
+{
+  "name": "infernal_fervor_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 454,
+  "defense": 252,
+  "intelligence": 38,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

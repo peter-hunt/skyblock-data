@@ -1,0 +1,12 @@
+{
+  "name": "burning_terror_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "crit_damage": 79,
+  "health": 254,
+  "defense": 79,
+  "intelligence": 24,
+  "speed": 19,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

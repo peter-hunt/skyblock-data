@@ -1,0 +1,6 @@
+{
+  "name": "sheep_pet",
+  "category": "farming",
+  "recipes": ["common_sheep_pet", "epic_sheep_pet"],
+  "collection_req": ["mutton", 7]
+}

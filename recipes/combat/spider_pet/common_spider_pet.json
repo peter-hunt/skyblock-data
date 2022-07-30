@@ -1,0 +1,10 @@
+{
+  "name": "common_spider_pet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_string", "count": 512},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "spider_pet", "rarity": "common"},
+  "collection_req": ["string", 9]
+}

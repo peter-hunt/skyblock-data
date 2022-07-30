@@ -1,0 +1,12 @@
+{
+  "name": "infernal_terror_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "crit_damage": 126,
+  "health": 403,
+  "defense": 126,
+  "intelligence": 38,
+  "speed": 30,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

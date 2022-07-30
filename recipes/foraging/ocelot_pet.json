@@ -1,6 +1,0 @@
-{
-  "name": "ocelot_pet",
-  "category": "foraging",
-  "recipes": ["uncommon_ocelot_pet", "epic_ocelot_pet"],
-  "collection_req": ["jungle_wood", 9]
-}

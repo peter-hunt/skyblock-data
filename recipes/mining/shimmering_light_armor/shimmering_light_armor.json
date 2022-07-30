@@ -1,0 +1,11 @@
+{
+  "name": "shimmering_light_armor",
+  "category": "mining",
+  "recipes": [
+    "shimmering_light_hood",
+    "shimmering_light_tunic",
+    "shimmering_light_trousers",
+    "shimmering_light_slippers"
+  ],
+  "collection_req": ["mycelium", 9]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "spider_pet",
+  "category": "combat",
+  "recipes": ["common_spider_pet", "epic_spider_pet"],
+  "collection_req": ["string", 9]
+}

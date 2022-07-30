@@ -1,0 +1,10 @@
+{
+  "name": "common_zombie_pet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "zombies_heart", "count": 8},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "zombie_pet", "rarity": "common"},
+  "collection_req": ["rotten_flesh", 9]
+}

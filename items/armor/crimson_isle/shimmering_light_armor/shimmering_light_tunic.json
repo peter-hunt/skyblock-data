@@ -1,0 +1,10 @@
+{
+  "name": "shimmering_light_tunic",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 130,
+  "defense": 120,
+  "intelligence": 120,
+  "abilities": ["shimmer"],
+  "type": "armor"
+}

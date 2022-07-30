@@ -1,0 +1,11 @@
+{
+  "name": "shimmering_light_tunic",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_mycelium_cube", "count": 5},
+    {"name": "y", "count": 60},
+    {"name": "z", "count": 10}
+  ],
+  "result": {"name": "shimmering_light_tunic"},
+  "collection_req": ["mycelium", 9]
+}

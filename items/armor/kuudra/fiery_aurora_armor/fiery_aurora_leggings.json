@@ -1,0 +1,10 @@
+{
+  "name": "fiery_aurora_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 410,
+  "defense": 110,
+  "intelligence": 250,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

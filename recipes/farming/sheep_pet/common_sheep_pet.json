@@ -1,0 +1,10 @@
+{
+  "name": "common_sheep_pet",
+  "category": "farming",
+  "ingredients": [
+    {"name": "enchanted_mutton", "count": 512},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "sheep_pet", "rarity": "common"},
+  "collection_req": ["mutton", 7]
+}

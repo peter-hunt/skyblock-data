@@ -1,0 +1,11 @@
+{
+  "name": "epic_snail_pet",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_red_sand", "count": 128},
+    {"name": "burning_eye", "count": 128},
+    {"name": "super_enchanted_egg"}
+  ],
+  "result": {"name": "snail_pet", "rarity": "epic"},
+  "collection_req": ["red_sand", 6]
+}

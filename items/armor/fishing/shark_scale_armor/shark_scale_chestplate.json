@@ -1,0 +1,9 @@
+{
+  "name": "shark_scale_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 175,
+  "defense": 175,
+  "sea_creature_chance": 2.5,
+  "type": "armor"
+}

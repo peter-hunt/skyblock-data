@@ -1,0 +1,12 @@
+{
+  "name": "hot_terror_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_damage": 63,
+  "health": 164,
+  "defense": 50,
+  "intelligence": 6,
+  "speed": 15,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

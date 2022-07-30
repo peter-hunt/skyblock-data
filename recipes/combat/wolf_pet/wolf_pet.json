@@ -1,0 +1,6 @@
+{
+  "name": "wolf_pet",
+  "category": "combat",
+  "recipes": ["common_wolf_pet", "epic_wolf_pet"],
+  "collection_req": ["spruce_wood", 8]
+}

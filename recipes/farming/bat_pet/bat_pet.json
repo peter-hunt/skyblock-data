@@ -1,0 +1,6 @@
+{
+  "name": "bat_pet",
+  "category": "farming",
+  "recipes": ["common_bat_pet", "epic_bat_pet"],
+  "collection_req": ["mushroom", 9]
+}

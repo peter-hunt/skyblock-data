@@ -1,0 +1,8 @@
+{
+  "name": "mushroom_cow_pet",
+  "rarity": "rare",
+  "category": "farming",
+  "health": 100,
+  "farming_fortune": 110,
+  "type": "pet"
+}

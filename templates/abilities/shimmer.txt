@@ -1,0 +1,2 @@
+%%dark_gray%%This armor gets stronger the more pieces you wear!
+%%gray%%Increases all Experience Orbs gained by %%green%%%%value%%%%%gray%%.

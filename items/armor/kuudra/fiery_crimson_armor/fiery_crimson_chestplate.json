@@ -1,0 +1,12 @@
+{
+  "name": "fiery_crimson_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 60,
+  "crit_damage": 40,
+  "health": 460,
+  "defense": 130,
+  "intelligence": 10,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

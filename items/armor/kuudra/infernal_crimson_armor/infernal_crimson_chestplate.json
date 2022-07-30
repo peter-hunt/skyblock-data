@@ -1,0 +1,12 @@
+{
+  "name": "infernal_crimson_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 76,
+  "crit_damage": 50,
+  "health": 580,
+  "defense": 164,
+  "intelligence": 13,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

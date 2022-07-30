@@ -1,0 +1,12 @@
+{
+  "name": "burning_crimson_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 48,
+  "crit_damage": 32,
+  "health": 206,
+  "defense": 64,
+  "intelligence": 8,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

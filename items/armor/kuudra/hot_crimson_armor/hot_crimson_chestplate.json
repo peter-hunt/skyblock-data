@@ -1,0 +1,12 @@
+{
+  "name": "hot_crimson_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 38,
+  "crit_damage": 25,
+  "health": 290,
+  "defense": 82,
+  "intelligence": 6,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shimmering_light_trousers",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_mycelium_cube", "count": 4},
+    {"name": "y", "count": 60},
+    {"name": "z", "count": 10}
+  ],
+  "result": {"name": "shimmering_light_trousers"},
+  "collection_req": ["mycelium", 9]
+}

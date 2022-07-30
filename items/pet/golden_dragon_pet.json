@@ -1,0 +1,9 @@
+{
+  "name": "golden_dragon_pet",
+  "rarity": "legendary",
+  "category": "combat",
+  "strength": 50,
+  "magic_find": 20,
+  "attack_speed": 50,
+  "type": "pet"
+}

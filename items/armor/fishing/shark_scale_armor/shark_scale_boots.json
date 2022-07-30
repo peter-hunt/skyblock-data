@@ -1,0 +1,9 @@
+{
+  "name": "shark_scale_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 100,
+  "defense": 100,
+  "sea_creature_chance": 2.5,
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "infernal_aurora_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 403,
+  "defense": 126,
+  "intelligence": 479,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

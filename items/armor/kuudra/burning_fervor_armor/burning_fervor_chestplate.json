@@ -1,0 +1,10 @@
+{
+  "name": "burning_fervor_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 421,
+  "defense": 222,
+  "intelligence": 8,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

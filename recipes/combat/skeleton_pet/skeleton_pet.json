@@ -1,0 +1,6 @@
+{
+  "name": "skeleton_pet",
+  "category": "combat",
+  "recipes": ["common_skeleton_pet", "epic_skeleton_pet"],
+  "collection_req": ["bone", 6]
+}

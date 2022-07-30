@@ -1,0 +1,10 @@
+{
+  "name": "infernal_fervor_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 668,
+  "defense": 353,
+  "intelligence": 13,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

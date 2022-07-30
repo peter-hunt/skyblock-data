@@ -1,0 +1,6 @@
+{
+  "name": "silverfish_pet",
+  "category": "mining",
+  "recipes": ["common_silverfish_pet", "epic_silverfish_pet"],
+  "collection_req": ["cobblestone", 6]
+}

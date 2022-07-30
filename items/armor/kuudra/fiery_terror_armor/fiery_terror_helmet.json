@@ -1,0 +1,12 @@
+{
+  "name": "fiery_terror_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "crit_damage": 100,
+  "health": 320,
+  "defense": 100,
+  "intelligence": 30,
+  "speed": 24,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

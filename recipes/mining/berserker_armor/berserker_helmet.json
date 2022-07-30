@@ -1,0 +1,11 @@
+{
+  "name": "berserker_helmet",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_red_sand_cube", "count": 2},
+    {"name": "burning_eye", "count": 50},
+    {"name": "magma_chunk", "count": 40}
+  ],
+  "result": {"name": "berserker_helmet"},
+  "collection_req": ["red_sand", 7]
+}

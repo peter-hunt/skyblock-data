@@ -1,7 +1,0 @@
-{
-  "name": "armor_of_magma_boots",
-  "category": "combat",
-  "ingredients": [{"name": "enchanted_magma_cream", "count": 48}],
-  "result": {"name": "armor_of_magma_boots"},
-  "collection_req": ["magma_cream", 8]
-}

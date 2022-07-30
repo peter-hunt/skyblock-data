@@ -1,0 +1,9 @@
+{
+  "name": "shark_scale_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 120,
+  "defense": 120,
+  "sea_creature_chance": 2.5,
+  "type": "armor"
+}

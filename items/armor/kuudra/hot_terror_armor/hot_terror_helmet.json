@@ -1,0 +1,12 @@
+{
+  "name": "hot_terror_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "crit_damage": 63,
+  "health": 202,
+  "defense": 63,
+  "intelligence": 19,
+  "speed": 15,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "epic_mushroom_cow_pet",
+  "category": "farming",
+  "ingredients": [
+    {"name": "enchanted_mycelium", "count": 128},
+    {"name": "digested_mushrooms", "count": 128},
+    {"name": "super_enchanted_egg"}
+  ],
+  "result": {"name": "mushroom_cow_pet", "rarity": "epic"},
+  "collection_req": ["mycelium", 8]
+}

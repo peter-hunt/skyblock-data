@@ -1,0 +1,10 @@
+{
+  "name": "fiery_aurora_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 260,
+  "defense": 80,
+  "intelligence": 250,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

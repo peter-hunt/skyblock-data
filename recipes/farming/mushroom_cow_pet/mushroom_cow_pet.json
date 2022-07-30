@@ -1,0 +1,6 @@
+{
+  "name": "mushroom_cow_pet",
+  "category": "farming",
+  "recipes": ["common_mushroom_cow_pet", "epic_mushroom_cow_pet"],
+  "collection_req": ["mycelium", 8]
+}

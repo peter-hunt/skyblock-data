@@ -1,0 +1,6 @@
+{
+  "name": "snail_pet",
+  "category": "mining",
+  "recipes": ["common_snail_pet", "epic_snail_pet"],
+  "collection_req": ["red_sand", 6]
+}

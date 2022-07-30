@@ -1,0 +1,10 @@
+{
+  "name": "shimmering_light_hood",
+  "category": "mining",
+  "ingredients": [
+    {"name": "enchanted_mycelium_cube", "count": 2},
+    {"name": "x", "count": 150}
+  ],
+  "result": {"name": "shimmering_light_hood"},
+  "collection_req": ["mycelium", 9]
+}

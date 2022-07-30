@@ -1,0 +1,12 @@
+{
+  "name": "infernal_crimson_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 76,
+  "crit_damage": 50,
+  "health": 328,
+  "defense": 101,
+  "intelligence": 13,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

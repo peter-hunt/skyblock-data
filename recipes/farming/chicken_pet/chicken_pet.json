@@ -1,0 +1,6 @@
+{
+  "name": "chicken_pet",
+  "category": "farming",
+  "recipes": ["common_chicken_pet", "epic_chicken_pet"],
+  "collection_req": ["chicken", 6]
+}

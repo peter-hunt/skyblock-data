@@ -6,5 +6,5 @@
     {"name": "enchanted_ghast_tear", "count": 8}
   ],
   "result": {"name": "enchanted_book", "enchantments": {"vampirism": 4}},
-  "collection_req": ["ghast_tear", 5]
+  "collection_req": ["ghast_tear", 4]
 }

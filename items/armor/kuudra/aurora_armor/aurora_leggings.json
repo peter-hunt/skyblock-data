@@ -1,0 +1,10 @@
+{
+  "name": "aurora_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 205,
+  "defense": 55,
+  "intelligence": 125,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

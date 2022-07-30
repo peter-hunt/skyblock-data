@@ -1,0 +1,12 @@
+{
+  "name": "fiery_terror_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_damage": 100,
+  "health": 260,
+  "defense": 80,
+  "intelligence": 10,
+  "speed": 24,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

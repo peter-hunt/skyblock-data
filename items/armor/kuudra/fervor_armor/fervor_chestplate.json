@@ -1,0 +1,10 @@
+{
+  "name": "fervor_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 265,
+  "defense": 140,
+  "intelligence": 5,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

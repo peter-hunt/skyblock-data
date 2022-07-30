@@ -1,0 +1,10 @@
+{
+  "name": "hot_aurora_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 164,
+  "defense": 50,
+  "intelligence": 158,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

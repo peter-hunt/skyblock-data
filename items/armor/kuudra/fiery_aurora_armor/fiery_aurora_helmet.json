@@ -1,0 +1,10 @@
+{
+  "name": "fiery_aurora_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 320,
+  "defense": 100,
+  "intelligence": 380,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

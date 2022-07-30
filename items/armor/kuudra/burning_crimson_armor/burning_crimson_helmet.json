@@ -1,0 +1,12 @@
+{
+  "name": "burning_crimson_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 48,
+  "crit_damage": 32,
+  "health": 254,
+  "defense": 79,
+  "intelligence": 24,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

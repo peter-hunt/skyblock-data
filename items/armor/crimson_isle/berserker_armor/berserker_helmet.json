@@ -1,0 +1,8 @@
+{
+  "name": "berserker_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "strength": 35,
+  "crit_damage": 35,
+  "type": "armor"
+}

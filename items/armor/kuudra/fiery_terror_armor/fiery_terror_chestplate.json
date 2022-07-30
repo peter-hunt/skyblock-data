@@ -1,0 +1,12 @@
+{
+  "name": "fiery_terror_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "crit_damage": 100,
+  "health": 460,
+  "defense": 130,
+  "intelligence": 10,
+  "speed": 24,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

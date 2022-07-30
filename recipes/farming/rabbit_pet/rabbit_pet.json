@@ -1,0 +1,6 @@
+{
+  "name": "rabbit_pet",
+  "category": "farming",
+  "recipes": ["common_rabbit_pet", "epic_rabbit_pet"],
+  "collection_req": ["rabbit", 2]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fiery_aurora_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 460,
+  "defense": 130,
+  "intelligence": 250,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

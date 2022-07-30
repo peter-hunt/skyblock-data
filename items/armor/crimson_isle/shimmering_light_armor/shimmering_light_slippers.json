@@ -1,0 +1,10 @@
+{
+  "name": "shimmering_light_slippers",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 70,
+  "defense": 60,
+  "intelligence": 60,
+  "abilities": ["shimmer"],
+  "type": "armor"
+}

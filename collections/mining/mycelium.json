@@ -9,8 +9,8 @@
     [2500, 250],
     [10000, 1000],
     [15000, "enchanted_mycelium_cube"],
-    [25000, 2500],
-    [50000, 5000],
+    [25000, "mushroom_cow_pet"],
+    [50000, "shimmering_light_armor"],
     [100000, 10000]
   ]
 }

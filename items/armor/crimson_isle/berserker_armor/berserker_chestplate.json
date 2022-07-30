@@ -1,0 +1,8 @@
+{
+  "name": "berserker_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "strength": 60,
+  "crit_damage": 60,
+  "type": "armor"
+}

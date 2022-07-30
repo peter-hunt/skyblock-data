@@ -1,0 +1,10 @@
+{
+  "name": "shimmering_light_trousers",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 120,
+  "defense": 100,
+  "intelligence": 100,
+  "abilities": ["shimmer"],
+  "type": "armor"
+}

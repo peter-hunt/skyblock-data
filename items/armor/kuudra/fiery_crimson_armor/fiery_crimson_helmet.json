@@ -1,0 +1,12 @@
+{
+  "name": "fiery_crimson_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 60,
+  "crit_damage": 40,
+  "health": 320,
+  "defense": 100,
+  "intelligence": 30,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

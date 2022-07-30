@@ -1,0 +1,12 @@
+{
+  "name": "crimson_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "strength": 30,
+  "crit_damage": 20,
+  "health": 160,
+  "defense": 50,
+  "intelligence": 15,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hot_terror_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "crit_damage": 63,
+  "health": 290,
+  "defense": 82,
+  "intelligence": 6,
+  "speed": 15,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "terror_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "crit_damage": 50,
+  "health": 130,
+  "defense": 40,
+  "intelligence": 5,
+  "speed": 12,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

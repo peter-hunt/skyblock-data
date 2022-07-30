@@ -1,0 +1,8 @@
+{
+  "name": "kuudra_pet",
+  "rarity": "uncommon",
+  "category": "combat",
+  "health": 400,
+  "strength": 40,
+  "type": "pet"
+}

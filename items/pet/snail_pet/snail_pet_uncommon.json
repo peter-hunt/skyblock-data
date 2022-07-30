@@ -1,0 +1,7 @@
+{
+  "name": "snail_pet",
+  "rarity": "uncommon",
+  "category": "mining",
+  "intelligence": 100,
+  "type": "pet"
+}

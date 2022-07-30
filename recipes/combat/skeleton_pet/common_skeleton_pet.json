@@ -1,0 +1,10 @@
+{
+  "name": "common_skeleton_pet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_bone", "count": 128},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "skeleton_pet", "rarity": "common"},
+  "collection_req": ["bone", 6]
+}

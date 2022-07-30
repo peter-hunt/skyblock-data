@@ -1,0 +1,12 @@
+{
+  "name": "burning_terror_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "crit_damage": 79,
+  "health": 365,
+  "defense": 103,
+  "intelligence": 8,
+  "speed": 19,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

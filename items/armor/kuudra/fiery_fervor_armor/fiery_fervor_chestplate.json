@@ -1,0 +1,10 @@
+{
+  "name": "fiery_fervor_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 530,
+  "defense": 280,
+  "intelligence": 10,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

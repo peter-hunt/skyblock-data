@@ -1,0 +1,10 @@
+{
+  "name": "infernal_fervor_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 529,
+  "defense": 290,
+  "intelligence": 13,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

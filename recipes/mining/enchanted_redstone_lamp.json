@@ -6,5 +6,5 @@
     {"name": "enchanted_glowstone", "count": 128}
   ],
   "result": {"name": "enchanted_redstone_lamp"},
-  "collection_req": ["glowstone", 7]
+  "collection_req": ["glowstone", 6]
 }

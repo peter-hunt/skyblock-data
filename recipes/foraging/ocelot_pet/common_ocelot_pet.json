@@ -1,0 +1,10 @@
+{
+  "name": "common_ocelot_pet",
+  "category": "foraging",
+  "ingredients": [
+    {"name": "enchanted_jungle", "count": 512},
+    {"name": "enchanted_egg"}
+  ],
+  "result": {"name": "ocelot_pet", "rarity": "common"},
+  "collection_req": ["jungle_wood", 9]
+}

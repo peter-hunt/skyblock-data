@@ -4,12 +4,10 @@
   "levels": [
     [50, "glowstone_minion"],
     [100, 10],
-    [250, 25],
     [1000, "enchanted_glowstone"],
     [2500, 250],
     [5000, "enchanted_glowstone_block"],
     [10000, "enchanted_redstone_lamp"],
-    [25000, 2500],
-    [50000, 5000]
+    [25000, 2500]
   ]
 }

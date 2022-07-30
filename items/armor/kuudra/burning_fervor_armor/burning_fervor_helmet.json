@@ -1,0 +1,10 @@
+{
+  "name": "fervor_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 286,
+  "defense": 159,
+  "intelligence": 24,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

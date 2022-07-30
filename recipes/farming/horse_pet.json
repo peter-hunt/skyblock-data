@@ -1,6 +1,0 @@
-{
-  "name": "horse_pet",
-  "category": "farming",
-  "recipes": ["uncommon_horse_pet", "epic_horse_pet"],
-  "collection_req": ["leather", 9]
-}

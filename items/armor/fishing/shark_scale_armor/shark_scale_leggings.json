@@ -1,0 +1,9 @@
+{
+  "name": "shark_scale_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 150,
+  "defense": 150,
+  "sea_creature_chance": 2.5,
+  "type": "armor"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "crimson_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "strength": 30,
+  "crit_damage": 20,
+  "health": 205,
+  "defense": 55,
+  "intelligence": 5,
+  "combat_skill_req": 24,
+  "type": "armor"
+}

@@ -1,6 +1,0 @@
-{
-  "name": "pig_pet",
-  "category": "farming",
-  "recipes": ["uncommon_pig_pet", "epic_pig_pet"],
-  "collection_req": ["pork", 3]
-}

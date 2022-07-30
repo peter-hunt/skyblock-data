@@ -1,0 +1,11 @@
+{
+  "name": "shimmering_light_hood",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 80,
+  "defense": 70,
+  "intelligence": 70,
+  "speed": 10,
+  "abilities": ["shimmer"],
+  "type": "armor"
+}
