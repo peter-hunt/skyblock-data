@@ -1,0 +1,10 @@
+{
+  "name": "ruby_drill_15",
+  "rarity": "rare",
+  "breaking_power": 7,
+  "mining_speed": 150,
+  "gemstone_mining_speed": 800,
+  "gemstone_mining_fortune": 60,
+  "damage": 75,
+  "type": "drill"
+}

@@ -1,5 +1,6 @@
 {
   "name": "zombie_ring",
   "rarity": "uncommon",
+  "slayer_req": ["zombie", 2],
   "type": "accessory"
 }

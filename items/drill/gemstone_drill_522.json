@@ -1,0 +1,10 @@
+{
+  "name": "gemstone_drill_522",
+  "rarity": "rare",
+  "breaking_power": 8,
+  "mining_speed": 300,
+  "gemstone_mining_speed": 800,
+  "gemstone_mining_fortune": 80,
+  "damage": 75,
+  "type": "drill"
+}

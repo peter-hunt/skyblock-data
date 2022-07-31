@@ -1,0 +1,9 @@
+{
+  "name": "amethyst_shard",
+  "drop": "rough_amethyst_gemstone",
+  "amount": [2, 4],
+  "breaking_power": 7,
+  "hardness": 3000,
+  "mining_exp": 70,
+  "type": "mineral"
+}

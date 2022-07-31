@@ -1,0 +1,9 @@
+{
+  "name": "topaz_block",
+  "drop": "rough_topaz_gemstone",
+  "amount": [3, 6],
+  "breaking_power": 8,
+  "hardness": 4000,
+  "mining_exp": 70,
+  "type": "mineral"
+}

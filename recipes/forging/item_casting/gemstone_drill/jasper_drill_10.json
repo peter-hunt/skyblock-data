@@ -1,0 +1,10 @@
+{
+  "name": "jasper_drill_10",
+  "category": "forging",
+  "ingredients": [
+    {"name": "topaz_drill_12"},
+    {"name": "flawless_jasper_gemstone"},
+    {"name": "treasurite", "count": 100}
+  ],
+  "result": {"name": "jasper_drill_10"}
+}

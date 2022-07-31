@@ -1,0 +1,9 @@
+{
+  "name": "amber_material",
+  "category": "forging",
+  "ingredients": [
+    {"name": "fine_amber_gemstone", "count": 12},
+    {"name": "golden_plate"}
+  ],
+  "result": {"name": "amber_material"}
+}

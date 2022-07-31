@@ -1,0 +1,11 @@
+{
+  "name": "travel_scroll_to_forge",
+  "category": "forging",
+  "ingredients": [
+    {"name": "mithril", "count": 48},
+    {"name": "titanium", "count": 80},
+    {"name": "enchanted_ender_pearl", "count": 16},
+    25000
+  ],
+  "result": {"name": "travel_scroll_to_forge"}
+}

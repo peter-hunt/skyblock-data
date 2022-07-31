@@ -1,0 +1,9 @@
+{
+  "name": "amber_block",
+  "drop": "rough_amber_gemstone",
+  "amount": [3, 6],
+  "breaking_power": 7,
+  "hardness": 3200,
+  "mining_exp": 70,
+  "type": "mineral"
+}

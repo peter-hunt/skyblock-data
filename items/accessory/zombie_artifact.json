@@ -1,5 +1,6 @@
 {
   "name": "zombie_artifact",
   "rarity": "rare",
+  "slayer_req": ["zombie", 7],
   "type": "accessory"
 }

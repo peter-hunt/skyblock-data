@@ -1,0 +1,9 @@
+{
+  "name": "revenant_falchion",
+  "rarity": "rare",
+  "damage": 90,
+  "strength": 50,
+  "intelligence": 100,
+  "slayer_req": ["zombie", 3],
+  "type": "sword"
+}

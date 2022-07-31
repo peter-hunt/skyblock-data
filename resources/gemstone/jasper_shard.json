@@ -1,0 +1,9 @@
+{
+  "name": "jasper_shard",
+  "drop": "rough_jasper_gemstone",
+  "amount": [2, 4],
+  "breaking_power": 9,
+  "hardness": 4800,
+  "mining_exp": 70,
+  "type": "mineral"
+}

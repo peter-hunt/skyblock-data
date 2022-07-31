@@ -1,0 +1,9 @@
+{
+  "name": "ruby_shard",
+  "drop": "rough_ruby_gemstone",
+  "amount": [2, 4],
+  "breaking_power": 6,
+  "hardness": 2300,
+  "mining_exp": 70,
+  "type": "mineral"
+}

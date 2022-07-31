@@ -1,0 +1,9 @@
+{
+  "name": "topaz_shard",
+  "drop": "rough_topaz_gemstone",
+  "amount": [2, 4],
+  "breaking_power": 8,
+  "hardness": 3800,
+  "mining_exp": 70,
+  "type": "mineral"
+}

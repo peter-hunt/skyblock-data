@@ -1,0 +1,11 @@
+{
+  "name": "topaz_drill_12",
+  "category": "forging",
+  "ingredients": [
+    {"name": "gemstone_drill_522"},
+    {"name": "flawless_topaz_gemstone"},
+    {"name": "gemstone_mixture", "count": 3},
+    {"name": "magma_core", "count": 5}
+  ],
+  "result": {"name": "topaz_drill_12"}
+}

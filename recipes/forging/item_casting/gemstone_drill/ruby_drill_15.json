@@ -1,0 +1,10 @@
+{
+  "name": "ruby_drill_15",
+  "category": "forging",
+  "ingredients": [
+    {"name": "drill_engine"},
+    {"name": "fuel_tank"},
+    {"name": "fine_ruby_gemstone", "count": 6}
+  ],
+  "result": {"name": "ruby_drill_15"}
+}

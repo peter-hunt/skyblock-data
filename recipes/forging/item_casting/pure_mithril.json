@@ -1,0 +1,8 @@
+{
+  "name": "pure_mithril",
+  "category": "forging",
+  "ingredients": [
+    {"name": "refined_mithril", "count": 2}
+  ],
+  "result": {"name": "pure_mithril"}
+}

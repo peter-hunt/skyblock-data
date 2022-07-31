@@ -1,9 +1,9 @@
 {
-  "name": "rock_gemstone",
-  "modifier": "auspicious",
+  "name": "amber_material",
+  "modifier": "ambered",
   "category": "pickaxe",
   "rarity": "rare",
   "cost": [20000, 40000, 80000, 150000, 300000, 600000],
-  "mining_skill_req": 21,
+  "mining_skill_req": 30,
   "type": "reforge_stone"
 }
