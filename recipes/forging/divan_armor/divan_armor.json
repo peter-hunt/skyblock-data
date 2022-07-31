@@ -1,0 +1,10 @@
+{
+  "name": "divan_armor",
+  "category": "forging",
+  "recipes": [
+    "divan_helmet",
+    "divan_chestplate",
+    "divan_leggings",
+    "divan_boots"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "divan_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 80,
+  "defense": 110,
+  "mining_speed": 80,
+  "mining_fortune": 30,
+  "type": "armor"
+}

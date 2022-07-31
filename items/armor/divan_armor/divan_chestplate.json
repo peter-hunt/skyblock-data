@@ -1,0 +1,10 @@
+{
+  "name": "divan_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 200,
+  "defense": 130,
+  "mining_speed": 80,
+  "mining_fortune": 30,
+  "type": "armor"
+}

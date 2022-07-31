@@ -1,0 +1,10 @@
+{
+  "name": "divan_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 130,
+  "defense": 170,
+  "mining_speed": 80,
+  "mining_fortune": 30,
+  "type": "armor"
+}

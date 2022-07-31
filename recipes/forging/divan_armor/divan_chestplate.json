@@ -1,0 +1,10 @@
+{
+  "name": "divan_chestplate",
+  "category": "forging",
+  "ingredients": [
+    {"name": "divan_fragment", "count": 8},
+    {"name": "gemstone_mixture", "count": 10},
+    {"name": "flawless_ruby_gemstone", "count": 1}
+  ],
+  "result": {"name": "divan_chestplate"}
+}

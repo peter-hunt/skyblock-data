@@ -1,0 +1,14 @@
+{
+  "name": "titanium_drill_655",
+  "category": "forging",
+  "ingredients": [
+    {"name": "titanium_drill_555"},
+    {"name": "corleonite", "count": 30},
+    {"name": "flawless_ruby_gemstone", "count": 1},
+    {"name": "refined_diamond", "count": 5},
+    {"name": "gemstone_mixture", "count": 16},
+    {"name": "refined_titanium", "count": 12},
+    {"name": "mithril_plate", "count": 5}
+  ],
+  "result": {"name": "titanium_drill_655"}
+}

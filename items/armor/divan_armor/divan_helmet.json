@@ -1,0 +1,10 @@
+{
+  "name": "divan_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 100,
+  "defense": 130,
+  "mining_speed": 80,
+  "mining_fortune": 30,
+  "type": "armor"
+}

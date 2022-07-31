@@ -1,0 +1,9 @@
+{
+  "name": "ammonite_pet",
+  "category": "forging",
+  "ingredients": [
+    {"name": "helix"},
+    300000
+  ],
+  "result": {"name": "ammonite_pet"}
+}

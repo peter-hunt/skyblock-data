@@ -1,0 +1,9 @@
+{
+  "name": "divans_drill",
+  "rarity": "mythic",
+  "breaking_power": 10,
+  "mining_speed": 1800,
+  "mining_fortune": 150,
+  "damage": 70,
+  "type": "drill"
+}

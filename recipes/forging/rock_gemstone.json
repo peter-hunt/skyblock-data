@@ -1,0 +1,9 @@
+{
+  "name": "rock_gemstone",
+  "category": "forging",
+  "ingredients": [
+    {"name": "enchanted_cobblestone", "count": 128},
+    {"name": "treasurite", "count": 64}
+  ],
+  "result": {"name": "rock_gemstone"}
+}
