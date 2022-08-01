@@ -1,0 +1,7 @@
+{
+  "name": "tarantula_talisman",
+  "rarity": "epic",
+  "slayer_req": ["spider", 6],
+  "abilities": ["tarantula_talisman"],
+  "type": "accessory"
+}

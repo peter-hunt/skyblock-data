@@ -1,0 +1,9 @@
+{
+  "name": "mosquito_bow",
+  "rarity": "legendary",
+  "damage": 251,
+  "strength": 151,
+  "crit_damage": 39,
+  "slayer_req": ["spider", 7],
+  "type": "bow"
+}

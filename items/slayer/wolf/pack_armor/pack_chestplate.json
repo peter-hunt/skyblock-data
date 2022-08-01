@@ -1,0 +1,9 @@
+{
+  "name": "pack_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 175,
+  "defense": 110,
+  "slayer_req": ["wolf", 6],
+  "type": "armor"
+}

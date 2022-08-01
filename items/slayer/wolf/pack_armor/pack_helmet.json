@@ -1,0 +1,9 @@
+{
+  "name": "pack_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 145,
+  "defense": 80,
+  "slayer_req": ["wolf", 6],
+  "type": "armor"
+}

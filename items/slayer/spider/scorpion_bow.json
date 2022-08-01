@@ -1,0 +1,8 @@
+{
+  "name": "scorpion_bow",
+  "rarity": "epic",
+  "damage": 110,
+  "strength": 10,
+  "slayer_req": ["spider", 3],
+  "type": "bow"
+}

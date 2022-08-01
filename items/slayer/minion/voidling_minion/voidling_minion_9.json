@@ -1,0 +1,7 @@
+{
+  "name": "voidling_minion",
+  "tier": 9,
+  "cooldown": 30,
+  "slots": 12,
+  "type": "minion"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "red_claw_ring",
+  "rarity": "rare",
+  "crit_damage": 3,
+  "slayer_req": ["wolf", 5],
+  "type": "accessory"
+}

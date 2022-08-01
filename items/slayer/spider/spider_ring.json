@@ -1,0 +1,6 @@
+{
+  "name": "spider_ring",
+  "rarity": "rare",
+  "slayer_req": ["spider", 1],
+  "type": "accessory"
+}

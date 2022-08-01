@@ -1,0 +1,8 @@
+{
+  "name": "reaper_scythe",
+  "rarity": "legendary",
+  "damage": 333,
+  "speed": 10,
+  "slayer_req": ["zombie", 7],
+  "type": "sword"
+}

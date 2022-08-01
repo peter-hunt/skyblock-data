@@ -1,0 +1,7 @@
+{
+  "name": "red_claw_artifact",
+  "rarity": "epic",
+  "crit_damage": 5,
+  "slayer_req": ["wolf", 5],
+  "type": "accessory"
+}

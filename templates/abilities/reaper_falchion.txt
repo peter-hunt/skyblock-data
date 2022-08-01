@@ -1,0 +1,3 @@
+Heals 10 %%health%% %%gray%%per hit.
+Deals %%green%%+200%%%gray%% damage to Zombies.
+Recieve %%green%%20% %%gray%%less damage from Zombies when held.

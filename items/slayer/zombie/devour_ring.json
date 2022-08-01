@@ -1,0 +1,6 @@
+{
+  "name": "devour_ring",
+  "rarity": "rare",
+  "slayer_req": ["zombie", 5],
+  "type": "accessory"
+}

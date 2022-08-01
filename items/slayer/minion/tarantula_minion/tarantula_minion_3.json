@@ -1,0 +1,7 @@
+{
+  "name": "tarantula_minion",
+  "tier": 3,
+  "cooldown": 26,
+  "slots": 3,
+  "type": "minion"
+}

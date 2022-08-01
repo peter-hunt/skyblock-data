@@ -1,0 +1,10 @@
+{
+  "name": "terminator",
+  "rarity": "legendary",
+  "damage": 310,
+  "strength": 50,
+  "crit_damage": 250,
+  "attack_speed": 40,
+  "slayer_req": ["enderman", 7],
+  "type": "bow"
+}

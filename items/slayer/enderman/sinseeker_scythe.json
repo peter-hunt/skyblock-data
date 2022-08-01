@@ -1,0 +1,8 @@
+{
+  "name": "sinseeker_scythe",
+  "rarity": "epic",
+  "damage": 100,
+  "strength": 100,
+  "slayer_req": ["enderman", 6],
+  "type": "sword"
+}

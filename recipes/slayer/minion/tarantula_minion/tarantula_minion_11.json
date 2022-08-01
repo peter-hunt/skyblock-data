@@ -1,0 +1,11 @@
+{
+  "name": "tarantula_minion_11",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_minion", "tier": 10},
+    {"name": "spider_minion", "tier": 10},
+    {"name": "tarantula_silk", "count": 448}
+  ],
+  "result": {"name": "tarantula_minion", "tier": 11},
+  "slayer_req": ["spider", 5]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "aspect_of_the_void",
+  "rarity": "epic",
+  "damage": 120,
+  "strength": 100,
+  "slayer_req": ["enderman", 6],
+  "type": "sword"
+}

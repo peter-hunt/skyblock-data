@@ -1,0 +1,9 @@
+{
+  "name": "tarantula_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 60,
+  "defense": 20,
+  "slayer_req": ["spider", 4],
+  "type": "armor"
+}

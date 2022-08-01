@@ -1,0 +1,12 @@
+{
+  "name": "reaper_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "strength": 25,
+  "health": 180,
+  "defense": 70,
+  "intelligence": 250,
+  "slayer_req": ["zombie", 7],
+  "abilities": ["reaper_trolling_the_reaper"],
+  "type": "armor"
+}

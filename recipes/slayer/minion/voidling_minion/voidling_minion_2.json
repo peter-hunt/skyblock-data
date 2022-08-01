@@ -1,0 +1,11 @@
+{
+  "name": "voidling_minion_2",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "voidling_minion", "tier": 1},
+    {"name": "obsidian_minion", "tier": 1},
+    {"name": "null_sphere", "count": 140}
+  ],
+  "result": {"name": "voidling_minion", "tier": 2},
+  "slayer_req": ["enderman", 3]
+}

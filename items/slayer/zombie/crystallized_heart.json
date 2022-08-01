@@ -1,8 +1,11 @@
 {
-  "name": "zombies_heart",
+  "name": "crystallized_heart",
   "rarity": "rare",
   "part": "helmet",
   "health": 50,
+  "defense": 10,
+  "intelligence": 50,
+  "slayer_req": ["zombie", 3],
   "abilities": ["healing_boost"],
   "type": "armor"
 }

@@ -1,0 +1,18 @@
+{
+  "name": "voidling_minion",
+  "category": "slayer",
+  "recipes": [
+    "voidling_minion_1",
+    "voidling_minion_2",
+    "voidling_minion_3",
+    "voidling_minion_4",
+    "voidling_minion_5",
+    "voidling_minion_6",
+    "voidling_minion_7",
+    "voidling_minion_8",
+    "voidling_minion_9",
+    "voidling_minion_10",
+    "voidling_minion_11"
+  ],
+  "slayer_req": ["enderman", 3]
+}

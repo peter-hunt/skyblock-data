@@ -1,5 +1,6 @@
 {
   "name": "titanium_artifact",
   "rarity": "epic",
+  "mining_speed": 45,
   "type": "accessory"
 }

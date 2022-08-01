@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 120,
+  "defense": 100,
+  "intelligence": 100,
+  "slayer_req": ["spider", 4],
+  "type": "armor"
+}

@@ -1,5 +1,6 @@
 {
   "name": "titanium_ring",
   "rarity": "rare",
+  "mining_speed": 30,
   "type": "accessory"
 }

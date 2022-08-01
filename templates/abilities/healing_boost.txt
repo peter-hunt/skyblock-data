@@ -1,0 +1,1 @@
+Doubles all healing effects, including your natural regeneration, while wearing.

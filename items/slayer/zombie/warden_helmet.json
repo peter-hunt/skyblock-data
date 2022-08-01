@@ -1,0 +1,10 @@
+{
+  "name": "warden_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 300,
+  "defense": 100,
+  "slayer_req": ["zombie", 8],
+  "abilities": ["brute_force"],
+  "type": "armor"
+}

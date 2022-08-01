@@ -1,0 +1,11 @@
+{
+  "name": "revived_heart",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 100,
+  "defense": 35,
+  "intelligence": 100,
+  "slayer_req": ["zombie", 6],
+  "abilities": ["healing_boost"],
+  "type": "armor"
+}

@@ -1,0 +1,1 @@
+Heal 5 %%health%% %%gray%%when killing a monster.

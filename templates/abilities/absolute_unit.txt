@@ -1,0 +1,4 @@
+%%red%%+50 %%health%%%%gray%% per %%red%%1% %%crit_damage%%%%gray%%.
+Regain %%red%%2%%%gray%% of %%red%%max %%health%%%%gray%% when hit.
+Recieve %%green%%-20%%%gray%% damage from wolves.
+Your crit damage is %%blue%%50%%%gray%% less effective.

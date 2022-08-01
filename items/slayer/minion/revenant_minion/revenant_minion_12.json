@@ -1,0 +1,7 @@
+{
+  "name": "revenant_minion",
+  "tier": 12,
+  "cooldown": 8,
+  "slots": 15,
+  "type": "minion"
+}

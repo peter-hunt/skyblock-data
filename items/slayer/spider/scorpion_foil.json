@@ -1,0 +1,9 @@
+{
+  "name": "scorpion_foil",
+  "rarity": "rare",
+  "damage": 100,
+  "strength": 100,
+  "slayer_req": ["spider", 6],
+  "abilities": ["scorpion_foil"],
+  "type": "sword"
+}

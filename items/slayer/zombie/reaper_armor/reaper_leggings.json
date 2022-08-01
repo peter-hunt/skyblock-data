@@ -1,0 +1,12 @@
+{
+  "name": "reaper_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "strength": 25,
+  "health": 120,
+  "defense": 50,
+  "intelligence": 250,
+  "slayer_req": ["zombie", 7],
+  "abilities": ["reaper_trolling_the_reaper"],
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "recluse_fang",
+  "rarity": "rare",
+  "damage": 120,
+  "strength": 30,
+  "crit_damage": 20,
+  "slayer_req": ["spider", 2],
+  "type": "sword"
+}

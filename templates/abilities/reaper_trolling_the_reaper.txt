@@ -1,0 +1,2 @@
+Gain %%green%%+100 %%defense%% %%gray%%against Zombies.
+Deal %%red%%+100% %%gray%%damage to zombies but %%red%%1% %%gray%%to other mobs.

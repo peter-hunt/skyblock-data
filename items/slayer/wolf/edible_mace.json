@@ -1,0 +1,9 @@
+
+{
+  "name": "edible_mace",
+  "rarity": "rare",
+  "damage": 125,
+  "strength": 25,
+  "slayer_req": ["wolf", 5],
+  "type": "sword"
+}

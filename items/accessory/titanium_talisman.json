@@ -1,5 +1,6 @@
 {
   "name": "titanium_talisman",
+  "mining_speed": 15,
   "rarity": "uncommon",
   "type": "accessory"
 }

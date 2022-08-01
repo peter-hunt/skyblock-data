@@ -1,0 +1,9 @@
+{
+  "name": "axe_of_the_shredded",
+  "rarity": "legendary",
+  "damage": 140,
+  "strength": 115,
+  "slayer_req": ["zombie", 8],
+  "abilities": ["axe_of_the_shredded"],
+  "type": "sword"
+}

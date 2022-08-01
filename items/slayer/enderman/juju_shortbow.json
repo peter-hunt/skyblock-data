@@ -1,0 +1,10 @@
+{
+  "name": "juju_shortbow",
+  "rarity": "epic",
+  "damage": 310,
+  "strength": 40,
+  "crit_chance": 10,
+  "crit_damage": 110,
+  "slayer_req": ["enderman", 3],
+  "type": "bow"
+}

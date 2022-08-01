@@ -1,0 +1,8 @@
+{
+  "name": "shard_of_the_shredded",
+  "count": 64,
+  "rarity": "legendary",
+  "slayer_req": ["zombie", 8],
+  "abilities": ["shard_of_the_shredded"],
+  "type": "item"
+}

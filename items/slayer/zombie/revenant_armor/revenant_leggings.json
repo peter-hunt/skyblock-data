@@ -1,0 +1,10 @@
+{
+  "name": "revenant_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 120,
+  "defense": 50,
+  "slayer_req": ["zombie", 4],
+  "abilities": ["revenant_trolling_the_reaper"],
+  "type": "armor"
+}

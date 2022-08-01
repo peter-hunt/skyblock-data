@@ -1,0 +1,3 @@
+Deal %%red%%+1 %%damage%%%%gray%% per %%red%%50 max %%health%%%%gray%%.
+Recieve %%green%%-20%%%gray%% damage from wolves.
+Gain %%red%%+150 %%strength%%%%gray%% againt wolves.

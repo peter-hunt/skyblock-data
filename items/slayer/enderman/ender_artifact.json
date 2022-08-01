@@ -1,0 +1,6 @@
+{
+  "name": "ender_relic",
+  "rarity": "legendary",
+  "slayer_req": ["enderman", 7],
+  "type": "accessory"
+}

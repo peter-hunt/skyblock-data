@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "health": 100,
+  "defense": 80,
+  "intelligence": 100,
+  "slayer_req": ["spider", 4],
+  "type": "armor"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "revenant_minion",
+  "category": "slayer",
+  "recipes": [
+    "revenant_minion_1",
+    "revenant_minion_2",
+    "revenant_minion_3",
+    "revenant_minion_4",
+    "revenant_minion_5",
+    "revenant_minion_6",
+    "revenant_minion_7",
+    "revenant_minion_8",
+    "revenant_minion_9",
+    "revenant_minion_10",
+    "revenant_minion_11"
+  ],
+  "slayer_req": ["zombie", 5]
+}

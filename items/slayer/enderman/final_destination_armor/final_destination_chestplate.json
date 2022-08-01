@@ -1,0 +1,10 @@
+{
+  "name": "final_destination_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "health": 200,
+  "defense": 100,
+  "intelligence": 100,
+  "slayer_req": ["enderman", 4],
+  "type": "armor"
+}

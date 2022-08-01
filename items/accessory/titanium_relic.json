@@ -1,5 +1,6 @@
 {
   "name": "titanium_relic",
   "rarity": "legendary",
+  "mining_speed": 60,
   "type": "accessory"
 }

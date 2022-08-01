@@ -1,0 +1,10 @@
+{
+  "name": "final_destination_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "health": 100,
+  "defense": 100,
+  "intelligence": 100,
+  "slayer_req": ["enderman", 4],
+  "type": "armor"
+}

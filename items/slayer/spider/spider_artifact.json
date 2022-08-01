@@ -1,0 +1,6 @@
+{
+  "name": "spider_artifact",
+  "rarity": "epic",
+  "slayer_req": ["spider", 7],
+  "type": "accessory"
+}

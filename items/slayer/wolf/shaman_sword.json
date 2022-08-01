@@ -1,0 +1,10 @@
+{
+  "name": "shaman_sword",
+  "rarity": "epic",
+  "damage": 100,
+  "strength": 20,
+  "speed": 5,
+  "slayer_req": ["wolf", 3],
+  "abilities": ["shaman_sword"],
+  "type": "sword"
+}

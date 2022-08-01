@@ -1,0 +1,10 @@
+{
+  "name": "revenant_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "health": 180,
+  "defense": 70,
+  "slayer_req": ["zombie", 4],
+  "abilities": ["revenant_trolling_the_reaper"],
+  "type": "armor"
+}

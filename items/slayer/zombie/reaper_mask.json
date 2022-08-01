@@ -1,0 +1,11 @@
+{
+  "name": "reaper_mask",
+  "rarity": "legendary",
+  "part": "helmet",
+  "health": 150,
+  "defense": 100,
+  "intelligence": 100,
+  "slayer_req": ["zombie", 7],
+  "abilities": ["disgusting_healing"],
+  "type": "armor"
+}

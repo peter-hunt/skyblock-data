@@ -1,0 +1,11 @@
+{
+  "name": "tarantula_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 70,
+  "defense": 100,
+  "intelligence": 50,
+  "speed": 5,
+  "slayer_req": ["spider", 4],
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pack_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 125,
+  "defense": 60,
+  "slayer_req": ["wolf", 6],
+  "type": "armor"
+}

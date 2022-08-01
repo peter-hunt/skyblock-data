@@ -1,0 +1,10 @@
+{
+  "name": "revenant_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "health": 100,
+  "defense": 30,
+  "slayer_req": ["zombie", 4],
+  "abilities": ["revenant_trolling_the_reaper"],
+  "type": "armor"
+}

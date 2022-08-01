@@ -1,0 +1,10 @@
+{
+  "name": "mastiff_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 500,
+  "defense": -1000000,
+  "slayer_req": ["wolf", 4],
+  "abilities": ["absolute_unit"],
+  "type": "armor"
+}

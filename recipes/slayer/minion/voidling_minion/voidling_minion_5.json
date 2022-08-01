@@ -1,0 +1,11 @@
+{
+  "name": "voidling_minion_5",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "voidling_minion", "tier": 4},
+    {"name": "enderman_minion", "tier": 4},
+    {"name": "null_ovoid", "count": 7}
+  ],
+  "result": {"name": "voidling_minion", "tier": 5},
+  "slayer_req": ["enderman", 3]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pack_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "health": 150,
+  "defense": 70,
+  "slayer_req": ["wolf", 6],
+  "type": "armor"
+}

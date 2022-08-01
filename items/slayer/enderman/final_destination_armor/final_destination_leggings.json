@@ -1,0 +1,10 @@
+{
+  "name": "final_destination_leggings",
+  "rarity": "legendary",
+  "part": "leggings",
+  "health": 160,
+  "defense": 100,
+  "intelligence": 100,
+  "slayer_req": ["enderman", 4],
+  "type": "armor"
+}

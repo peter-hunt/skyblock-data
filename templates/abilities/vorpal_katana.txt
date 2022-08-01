@@ -1,0 +1,2 @@
+Deals %%green%%+350%%%gray%% damage to Enderman.
+Recieve %%green%%9% %%gray%%less damage from Enderman when held.

@@ -1,0 +1,6 @@
+{
+  "name": "hunter_ring",
+  "rarity": "rare",
+  "slayer_req": ["wolf", 7],
+  "type": "accessory"
+}

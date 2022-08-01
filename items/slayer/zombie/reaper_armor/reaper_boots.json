@@ -1,0 +1,12 @@
+{
+  "name": "reaper_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "strength": 25,
+  "health": 100,
+  "defense": 30,
+  "intelligence": 250,
+  "slayer_req": ["zombie", 7],
+  "abilities": ["reaper_trolling_the_reaper"],
+  "type": "armor"
+}

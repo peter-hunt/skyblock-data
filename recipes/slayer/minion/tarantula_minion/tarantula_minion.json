@@ -1,0 +1,18 @@
+{
+  "name": "tarantula_minion",
+  "category": "slayer",
+  "recipes": [
+    "tarantula_minion_1",
+    "tarantula_minion_2",
+    "tarantula_minion_3",
+    "tarantula_minion_4",
+    "tarantula_minion_5",
+    "tarantula_minion_6",
+    "tarantula_minion_7",
+    "tarantula_minion_8",
+    "tarantula_minion_9",
+    "tarantula_minion_10",
+    "tarantula_minion_11"
+  ],
+  "slayer_req": ["spider", 5]
+}

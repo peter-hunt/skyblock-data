@@ -1,0 +1,1 @@
+Halves your speed but grants %%red%%+20%%%gray%% base weapon damage for every %%green%%25%%gray%% speed.

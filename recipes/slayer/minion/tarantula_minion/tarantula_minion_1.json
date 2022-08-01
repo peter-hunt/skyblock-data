@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_minion_1",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "enchanted_fermented_spider_eye"},
+    {"name": "tarantula_web", "count": 80}
+  ],
+  "result": {"name": "tarantula_minion", "tier": 1},
+  "slayer_req": ["spider", 5]
+}

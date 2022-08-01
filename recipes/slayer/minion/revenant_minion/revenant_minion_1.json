@@ -1,0 +1,10 @@
+{
+  "name": "revenant_minion_1",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "crystallized_heart"},
+    {"name": "revenant_flesh", "count": 80}
+  ],
+  "result": {"name": "revenant_minion", "tier": 1},
+  "slayer_req": ["zombie", 5]
+}
