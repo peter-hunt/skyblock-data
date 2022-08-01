@@ -1,0 +1,7 @@
+{
+  "name": "spell_powder",
+  "count": 64,
+  "rarity": "epic",
+  "abilities": ["spell_powder"],
+  "type": "item"
+}

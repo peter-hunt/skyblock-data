@@ -1,0 +1,8 @@
+{
+  "name": "staff_of_the_volcano",
+  "rarity": "rare",
+  "damage": 60,
+  "strength": 150,
+  "combat_skill_req": 24,
+  "type": "sword"
+}

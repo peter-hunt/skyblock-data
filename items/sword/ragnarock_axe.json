@@ -1,0 +1,8 @@
+{
+  "name": "ragnarock_axe",
+  "rarity": "rare",
+  "damage": 250,
+  "strength": 70,
+  "combat_skill_req": 24,
+  "type": "sword"
+}

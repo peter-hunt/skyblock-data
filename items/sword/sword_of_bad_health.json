@@ -1,0 +1,9 @@
+{
+  "name": "sword_of_bad_health",
+  "rarity": "uncommon",
+  "damage": 200,
+  "strength": 50,
+  "crit_chance": 50,
+  "combat_skill_req": 24,
+  "type": "sword"
+}

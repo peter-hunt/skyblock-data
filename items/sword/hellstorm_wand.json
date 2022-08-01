@@ -1,0 +1,9 @@
+{
+  "name": "hellstorm_wand",
+  "rarity": "epic",
+  "damage": 120,
+  "strength": 50,
+  "intelligence": 100,
+  "combat_skill_req": 24,
+  "type": "sword"
+}

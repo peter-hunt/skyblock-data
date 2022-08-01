@@ -1,0 +1,8 @@
+{
+  "name": "fire_freeze_staff",
+  "rarity": "epic",
+  "damage": 50,
+  "strength": 20,
+  "combat_skill_req": 24,
+  "type": "sword"
+}

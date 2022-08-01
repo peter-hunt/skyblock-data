@@ -2,5 +2,6 @@
   "name": "digested_mushrooms",
   "count": 64,
   "rarity": "uncommon",
+  "abilities": ["digested_mushrooms"],
   "type": "item"
 }

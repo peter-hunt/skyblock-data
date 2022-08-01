@@ -2,5 +2,6 @@
   "name": "burning_eye",
   "count": 64,
   "rarity": "uncommon",
+  "abilities": ["burning_eye"],
   "type": "item"
 }

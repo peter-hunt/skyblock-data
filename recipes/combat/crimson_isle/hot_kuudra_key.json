@@ -1,0 +1,6 @@
+{
+  "name": "hot_kuudra_key",
+  "category": "combat",
+  "ingredients": [{"name": "kuudra_key", "count": 4}],
+  "result": {"name": "hot_kuudra_key"}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "fiery_kuudra_key",
+  "category": "combat",
+  "ingredients": [{"name": "burning_kuudra_key", "count": 4}],
+  "result": {"name": "fiery_kuudra_key"}
+}
