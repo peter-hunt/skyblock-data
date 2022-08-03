@@ -1,0 +1,10 @@
+{
+  "name": "voidwalker_katana",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "stick"},
+    {"name": "null_sphere", "count": 32}
+  ],
+  "result": {"name": "voidwalker_katana"},
+  "slayer_req": ["enderman", 1]
+}

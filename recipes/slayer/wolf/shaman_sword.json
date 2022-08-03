@@ -1,0 +1,11 @@
+{
+  "name": "shaman_sword",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "golden_tooth", "count": 2},
+    {"name": "enchanted_iron", "count": 8},
+    {"name": "enchanted_bone", "count": 4}
+  ],
+  "result": {"name": "shaman_sword"},
+  "slayer_req": ["wolf", 3]
+}

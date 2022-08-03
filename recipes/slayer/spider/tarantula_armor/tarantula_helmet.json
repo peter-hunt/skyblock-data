@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_helmet",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_silk", "count": 3},
+    {"name": "enchanted_iron", "count": 128}
+  ],
+  "result": {"name": "tarantula_helmet"},
+  "slayer_req": ["spider", 5]
+}

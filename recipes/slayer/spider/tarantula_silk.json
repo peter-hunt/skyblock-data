@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_silk",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_web", "count": 128},
+    {"name": "enchanted_flint", "count": 32}
+  ],
+  "result": {"name": "tarantula_silk"},
+  "slayer_req": ["spider", 2]
+}

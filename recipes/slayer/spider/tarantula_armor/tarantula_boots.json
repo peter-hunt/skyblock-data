@@ -1,0 +1,12 @@
+{
+  "name": "tarantula_boots",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "spider_boots"},
+    {"name": "spider_catalyst"},
+    {"name": "tarantula_silk", "count": 4},
+    {"name": "enchanted_iron", "count": 192}
+  ],
+  "result": {"name": "tarantula_boots"},
+  "slayer_req": ["spider", 4]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "red_claw_talisman",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "wolf_tooth", "count": 8},
+    {"name": "enchanted_bone"}
+  ],
+  "result": {"name": "red_claw_talisman"},
+  "slayer_req": ["wolf", 1]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aspect_of_the_void",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "aspect_of_the_end"},
+    {"name": "null_ovoid", "count": 32}
+  ],
+  "result": {"name": "aspect_of_the_void"},
+  "slayer_req": ["enderman", 6]
+}

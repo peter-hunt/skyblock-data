@@ -1,0 +1,11 @@
+{
+  "name": "axe_of_the_shredded",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "reaper_falchion"},
+    {"name": "shard_of_the_shredded", "count": 4},
+    {"name": "revenant_viscera", "count": 256}
+  ],
+  "result": {"name": "axe_of_the_shredded"},
+  "slayer_req": ["zombie", 8]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reaper_falchion",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_falchion"},
+    {"name": "revenant_catalyst"},
+    {"name": "revived_heart"}
+  ],
+  "result": {"name": "reaper_falchion"},
+  "slayer_req": ["zombie", 6]
+}

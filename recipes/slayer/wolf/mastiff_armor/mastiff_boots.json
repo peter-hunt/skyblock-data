@@ -1,0 +1,11 @@
+{
+  "name": "mastiff_boots",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "growth_boots"},
+    {"name": "wolf_tooth", "count": 4},
+    {"name": "enchanted_diamond", "count": 64}
+  ],
+  "result": {"name": "mastiff_boots"},
+  "slayer_req": ["wolf", 4]
+}

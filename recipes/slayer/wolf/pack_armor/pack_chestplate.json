@@ -1,0 +1,10 @@
+{
+  "name": "pack_chestplate",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "golden_tooth", "count": 4},
+    {"name": "enchanted_mutton", "count": 128}
+  ],
+  "result": {"name": "pack_chestplate"},
+  "slayer_req": ["wolf", 6]
+}

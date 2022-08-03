@@ -1,0 +1,11 @@
+{
+  "name": "devour_ring",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_viscera", "count": 39},
+    {"name": "enchanted_salmon", "count": 8},
+    {"name": "enchanted_chicken", "count": 2}
+  ],
+  "result": {"name": "devour_ring"},
+  "slayer_req": ["zombie", 5]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "edible_mace",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "golden_tooth", "count": 18},
+    {"name": "enchanted_mutton", "count": 18}
+  ],
+  "result": {"name": "edible_mace"},
+  "slayer_req": ["wolf", 5]
+}

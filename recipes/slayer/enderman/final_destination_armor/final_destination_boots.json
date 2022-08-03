@@ -1,0 +1,10 @@
+{
+  "name": "final_destination_boots",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "null_ovoid", "count": 2},
+    {"name": "enchanted_diamond", "count": 128}
+  ],
+  "result": {"name": "final_destination_boots"},
+  "slayer_req": ["enderman", 4]
+}

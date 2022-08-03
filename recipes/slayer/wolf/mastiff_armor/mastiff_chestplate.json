@@ -1,0 +1,11 @@
+{
+  "name": "mastiff_chestplate",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "growth_chestplate"},
+    {"name": "wolf_tooth", "count": 4},
+    {"name": "enchanted_gold", "count": 64}
+  ],
+  "result": {"name": "mastiff_chestplate"},
+  "slayer_req": ["wolf", 4]
+}

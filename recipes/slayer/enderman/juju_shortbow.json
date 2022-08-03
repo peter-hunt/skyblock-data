@@ -1,0 +1,12 @@
+{
+  "name": "juju_shortbow",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "enchanted_string", "count": 192},
+    {"name": "null_ovoid", "count": 32},
+    {"name": "enchanted_quartz_block", "count": 32},
+    {"name": "enchanted_ender_eye", "count": 32}
+  ],
+  "result": {"name": "juju_shortbow"},
+  "slayer_req": ["enderman", 3]
+}

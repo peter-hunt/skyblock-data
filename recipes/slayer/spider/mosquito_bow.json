@@ -1,0 +1,11 @@
+{
+  "name": "mosquito_bow",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "digested_mosquito"},
+    {"name": "tarantula_silk", "count": 192},
+    {"name": "enchanted_iron", "count": 128}
+  ],
+  "result": {"name": "mosquito_bow"},
+  "slayer_req": ["spider", 7]
+}

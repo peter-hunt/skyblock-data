@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_chestplate",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_silk", "count": 4},
+    {"name": "enchanted_iron", "count": 256}
+  ],
+  "result": {"name": "tarantula_chestplate"},
+  "slayer_req": ["spider", 5]
+}

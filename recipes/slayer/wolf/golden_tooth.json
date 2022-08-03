@@ -1,0 +1,10 @@
+{
+  "name": "golden_tooth",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "wolf_tooth", "count": 128},
+    {"name": "enchanted_gold", "count": 32}
+  ],
+  "result": {"name": "golden_tooth"},
+  "slayer_req": ["wolf", 2]
+}

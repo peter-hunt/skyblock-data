@@ -1,0 +1,10 @@
+{
+  "name": "final_destination_chestplate",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "null_ovoid", "count": 4},
+    {"name": "enchanted_diamond", "count": 256}
+  ],
+  "result": {"name": "final_destination_chestplate"},
+  "slayer_req": ["enderman", 4]
+}

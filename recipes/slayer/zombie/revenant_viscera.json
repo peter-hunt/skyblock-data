@@ -1,0 +1,10 @@
+{
+  "name": "revenant_viscera",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_flesh", "count": 128},
+    {"name": "enchanted_string", "count": 32}
+  ],
+  "result": {"name": "revenant_viscera"},
+  "slayer_req": ["zombie", 2]
+}

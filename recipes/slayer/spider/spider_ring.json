@@ -1,0 +1,10 @@
+{
+  "name": "spider_ring",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "spider_talisman"},
+    {"name": "tarantula_web", "count": 64}
+  ],
+  "result": {"name": "spider_ring"},
+  "slayer_req": ["spider", 1]
+}

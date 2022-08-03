@@ -1,0 +1,11 @@
+{
+  "name": "mastiff_crown",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "growth_helmet"},
+    {"name": "wolf_tooth", "count": 4},
+    {"name": "enchanted_gold", "count": 64}
+  ],
+  "result": {"name": "mastiff_crown"},
+  "slayer_req": ["wolf", 4]
+}

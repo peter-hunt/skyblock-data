@@ -1,0 +1,11 @@
+{
+  "name": "mastiff_armor",
+  "category": "slayer",
+  "recipes": [
+    "mastiff_crown",
+    "mastiff_chestplate",
+    "mastiff_leggings",
+    "mastiff_boots"
+  ],
+  "slayer_req": ["wolf", 4]
+}

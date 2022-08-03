@@ -1,0 +1,11 @@
+{
+  "name": "red_claw_ring",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "red_claw_talisman"},
+    {"name": "golden_tooth", "count": 8},
+    {"name": "enchanted_leather", "count": 32}
+  ],
+  "result": {"name": "red_claw_ring"},
+  "slayer_req": ["wolf", 5]
+}

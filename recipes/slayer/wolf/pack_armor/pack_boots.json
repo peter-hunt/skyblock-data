@@ -1,0 +1,10 @@
+{
+  "name": "pack_boots",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "golden_tooth", "count": 2},
+    {"name": "enchanted_mutton", "count": 64}
+  ],
+  "result": {"name": "pack_boots"},
+  "slayer_req": ["wolf", 6]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "warden_hlmet",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revived_heart", "count": 2},
+    {"name": "warden_heart"},
+    {"name": "enchanted_iron_block", "count": 128}
+  ],
+  "result": {"name": "warden_hlmet"},
+  "slayer_req": ["zombie", 8]
+}

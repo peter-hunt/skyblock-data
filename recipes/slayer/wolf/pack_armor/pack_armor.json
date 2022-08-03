@@ -1,0 +1,11 @@
+{
+  "name": "pack_armor",
+  "category": "slayer",
+  "recipes": [
+    "pack_crown",
+    "pack_chestplate",
+    "pack_leggings",
+    "pack_boots"
+  ],
+  "slayer_req": ["wolf", 6]
+}

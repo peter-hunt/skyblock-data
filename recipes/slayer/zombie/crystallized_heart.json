@@ -1,0 +1,10 @@
+{
+  "name": "crystallized_heart",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "zombies_heart"},
+    {"name": "enchanted_diamond", "count": 256}
+  ],
+  "result": {"name": "crystallized_heart"},
+  "slayer_req": ["zombie", 3]
+}

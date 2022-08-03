@@ -1,0 +1,12 @@
+{
+  "name": "zombie_artifact",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "zombie_ring"},
+    {"name": "revenant_viscera", "count": 48},
+    {"name": "enchanted_iron", "count": 32},
+    {"name": "enchanted_diamond", "count": 16}
+  ],
+  "result": {"name": "zombie_artifact"},
+  "slayer_req": ["zombie", 7]
+}

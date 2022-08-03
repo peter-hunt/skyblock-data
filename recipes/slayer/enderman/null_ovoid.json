@@ -1,0 +1,10 @@
+{
+  "name": "null_ovoid",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "null_sphere", "count": 128},
+    {"name": "enchanted_obsidian", "count": 32}
+  ],
+  "result": {"name": "null_ovoid"},
+  "slayer_req": ["enderman", 2]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "voidedge_katana",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "voidwalker_katana"},
+    {"name": "null_ovoid"},
+    {"name": "refined_mithril"}
+  ],
+  "result": {"name": "voidedge_katana"},
+  "slayer_req": ["enderman", 3]
+}

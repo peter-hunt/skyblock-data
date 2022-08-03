@@ -1,0 +1,12 @@
+{
+  "name": "reaper_mask",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revived_heart"},
+    {"name": "beheaded_horror"},
+    {"name": "revenant_viscera", "count": 128},
+    {"name": "enchanted_string", "count": 32}
+  ],
+  "result": {"name": "reaper_mask"},
+  "slayer_req": ["zombie", 7]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scorpion_bow",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_silk", "count": 48},
+    {"name": "enchanted_emerald", "count": 64},
+    {"name": "enchanted_gold", "count": 32}
+  ],
+  "result": {"name": "scorpion_bow"},
+  "slayer_req": ["spider", 1]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "revenant_leggings",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_viscera", "count": 3},
+    {"name": "enchanted_diamond", "count": 64}
+  ],
+  "result": {"name": "revenant_leggings"},
+  "slayer_req": ["zombie", 4]
+}

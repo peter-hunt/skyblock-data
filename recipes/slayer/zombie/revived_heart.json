@@ -1,0 +1,10 @@
+{
+  "name": "revived_heart",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "crystallized_heart"},
+    {"name": "zombies_heart", "count": 8}
+  ],
+  "result": {"name": "revived_heart"},
+  "slayer_req": ["zombie", 6]
+}

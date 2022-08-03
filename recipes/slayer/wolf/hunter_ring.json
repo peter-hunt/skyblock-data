@@ -1,0 +1,11 @@
+{
+  "name": "hunter_ring",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "hunter_talisman"},
+    {"name": "grizzly_bait"},
+    {"name": "golden_tooth", "count": 224}
+  ],
+  "result": {"name": "hunter_ring"},
+  "slayer_req": ["wolf", 7]
+}

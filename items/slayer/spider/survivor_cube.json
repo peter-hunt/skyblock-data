@@ -1,0 +1,6 @@
+{
+  "name": "survivor_cube",
+  "rarity": "rare",
+  "slayer_req": ["spider", 7],
+  "type": "accessory"
+}

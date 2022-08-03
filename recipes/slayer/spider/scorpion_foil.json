@@ -1,0 +1,11 @@
+{
+  "name": "scorpion_foil",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_silk", "count": 24},
+    {"name": "enchanted_acacia", "count": 128},
+    {"name": "stick"}
+  ],
+  "result": {"name": "scorpion_foil"},
+  "slayer_req": ["spider", 6]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "terminator",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "judgement_core"},
+    {"name": "tesselated_ender_pearl", "count": 8},
+    {"name": "null_blade", "count": 3},
+    {"name": "tarantula_silk", "count": 128},
+    {"name": "braided_griffin_feather", "count": 4}
+  ],
+  "result": {"name": "terminator"},
+  "slayer_req": ["enderman", 7]
+}

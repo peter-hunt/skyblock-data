@@ -1,0 +1,10 @@
+{
+  "name": "zombie_ring",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "zombie_talisman"},
+    {"name": "revenant_flesh", "count": 64}
+  ],
+  "result": {"name": "zombie_ring"},
+  "slayer_req": ["zombie", 2]
+}

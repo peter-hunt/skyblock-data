@@ -1,0 +1,12 @@
+{
+  "name": "ender_relic",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "ender_artifact"},
+    {"name": "ender_artifact_upgrader"},
+    {"name": "enchanted_obsidian", "count": 128},
+    {"name": "enchanted_ender_eye", "count": 96}
+  ],
+  "result": {"name": "ender_relic"},
+  "slayer_req": ["enderman", 7]
+}

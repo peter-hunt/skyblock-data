@@ -1,0 +1,11 @@
+{
+  "name": "reaper_boots",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_boots"},
+    {"name": "enchanted_diamond_block", "count": 6},
+    {"name": "revenant_viscera", "count": 128}
+  ],
+  "result": {"name": "reaper_boots"},
+  "slayer_req": ["zombie", 7]
+}

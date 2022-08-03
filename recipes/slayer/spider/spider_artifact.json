@@ -1,0 +1,11 @@
+{
+  "name": "spider_artifact",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "spider_ring"},
+    {"name": "tarantula_silk", "count": 32},
+    {"name": "enchanted_emerald", "count": 32}
+  ],
+  "result": {"name": "spider_artifact"},
+  "slayer_req": ["spider", 7]
+}

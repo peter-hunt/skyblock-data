@@ -1,0 +1,11 @@
+{
+  "name": "recluse_fang",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "spider_sword"},
+    {"name": "spider_catalyst"},
+    {"name": "tarantula_web", "count": 28}
+  ],
+  "result": {"name": "recluse_fang"},
+  "slayer_req": ["spider", 2]
+}

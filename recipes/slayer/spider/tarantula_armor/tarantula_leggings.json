@@ -1,0 +1,10 @@
+{
+  "name": "tarantula_leggings",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "tarantula_silk", "count": 3},
+    {"name": "enchanted_iron", "count": 256}
+  ],
+  "result": {"name": "tarantula_leggings"},
+  "slayer_req": ["spider", 4]
+}

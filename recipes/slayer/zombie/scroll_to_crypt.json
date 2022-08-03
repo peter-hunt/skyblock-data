@@ -1,0 +1,11 @@
+{
+  "name": "scroll_to_crypt",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "enchanted_ender_pearl", "count": 16},
+    {"name": "revenant_viscera", "count": 3},
+    {"name": "enchanted_obsidian", "count": 80}
+  ],
+  "result": {"name": "travel_scroll_to_crypt"},
+  "slayer_req": ["zombie", 4]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reaper_scythe",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "reaper_falchion", "count": 3},
+    {"name": "scythe_blade"},
+    {"name": "revenant_viscera", "count": 64}
+  ],
+  "result": {"name": "reaper_scythe"},
+  "slayer_req": ["zombie", 7]
+}

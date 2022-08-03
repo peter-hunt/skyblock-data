@@ -1,0 +1,11 @@
+{
+  "name": "scroll_to_void",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "absolute_ender_pearl", "count": 16},
+    {"name": "null_ovoid", "count": 3},
+    {"name": "raw_soulflow", "count": 80}
+  ],
+  "result": {"name": "travel_scroll_to_void"},
+  "slayer_req": ["enderman", 4]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reaper_armor",
+  "category": "slayer",
+  "recipes": [
+    "reaper_chestplate",
+    "reaper_leggings",
+    "reaper_boots"
+  ],
+  "slayer_req": ["zombie", 7]
+}

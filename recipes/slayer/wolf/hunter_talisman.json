@@ -1,0 +1,10 @@
+{
+  "name": "hunter_talisman",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "golden_tooth", "count": 64},
+    {"name": "enchanted_rotten_flesh", "count": 32}
+  ],
+  "result": {"name": "hunter_talisman"},
+  "slayer_req": ["wolf", 7]
+}

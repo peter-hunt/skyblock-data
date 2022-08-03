@@ -1,0 +1,9 @@
+{
+  "name": "braided_griffin_feather",
+  "category": "combat",
+  "ingredients": [
+    {"name": "griffin_feather", "count": 120},
+    {"name": "soul_string", "count": 256}
+  ],
+  "result": {"name": "braided_griffin_feather"}
+}

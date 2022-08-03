@@ -1,0 +1,11 @@
+{
+  "name": "sinseeker_scythe",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "sinful_dice"},
+    {"name": "null_ovoid", "count": 32},
+    {"name": "null_atom", "count": 16}
+  ],
+  "result": {"name": "sinseeker_scythe"},
+  "slayer_req": ["enderman", 6]
+}
