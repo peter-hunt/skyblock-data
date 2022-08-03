@@ -1,0 +1,14 @@
+{
+  "name": "flare",
+  "level": 90,
+  "health": 5000000,
+  "damage": 4500,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120,
+  "drops": [
+    [{"name": "blaze_rod"}, 1, "common", 1],
+    [{"name": "blaze_rod"}, 1, "common", 0.5],
+    [{"name": "gazing_pearl"}, 1, "uncommon", 0.05]
+  ]
+}

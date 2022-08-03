@@ -1,0 +1,20 @@
+{
+  "name": "ashfang",
+  "level": 200,
+  "health": 50000000,
+  "damage": 5000,
+  "coins": 500,
+  "exp": 2500,
+  "combat_exp": 2000,
+  "drops": [
+    [{"name": "lumibo_fiber"}, 1, "common", 1],
+    [{"name": "blaze_rod"}, 20, "common", 1],
+    [{"name": "blaze_rod"}, 10, "common", 0.7],
+    [{"name": "blaze_rod"}, 5, "common", 0.5],
+    [{"name": "enchanted_blaze_powder"}, 1, "common", 0.5],
+    [{"name": "enchanted_blaze_powder"}, 1, "common", 0.5],
+    [{"name": "fire_veil_wand"}, 1, "legendary", 0.005],
+    [{"name": "kuudra_key"}, 1, "rare", 0.06],
+    [{"name": "hot_kuudra_key"}, 1, "rare", 0.04]
+  ]
+}

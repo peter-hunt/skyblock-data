@@ -1,0 +1,19 @@
+{
+  "name": "wither_spectre",
+  "level": 70,
+  "health": 1000000,
+  "damage": 3000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120,
+  "drops": [
+    [{"name": "gunpowder"}, 1, "common", 1],
+    [{"name": "spectre_dust"}, 1, "uncommon", 0.2],
+    [{"name": "redstone"}, 1, "uncommon", 0.2],
+    [{"name": "rampart_helmet"}, 1, "legendary", 0.001],
+    [{"name": "rampart_chestplate"}, 1, "legendary", 0.001],
+    [{"name": "rampart_leggings"}, 1, "legendary", 0.001],
+    [{"name": "rampart_boots"}, 1, "legendary", 0.001],
+    [{"name": "sword_of_bad_health"}, 1, "legendary", 0.0005]
+  ]
+}

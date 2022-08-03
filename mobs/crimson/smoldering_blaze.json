@@ -1,0 +1,16 @@
+{
+  "name": "smoldering_blaze",
+  "level": 110,
+  "health": 5500000,
+  "damage": 3900,
+  "coins": 35,
+  "exp": 10,
+  "combat_exp": 240,
+  "drops": [
+    [{"name": "blaze_rod"}, 2, "common", 1],
+    [{"name": "blaze_rod"}, 1, "uncommon", 0.5],
+    [{"name": "blaze_ashes"}, 1, "uncommon", 0.2],
+    [{"name": "netherrack_looking_sunshade"}, 1, "rare", 0.01],
+    [{"name": "enchanted_book", "enchantments": {"smoldering": 1}}, 1, "legendary", 0.00016]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "goliath_barbarian",
+  "level": 80,
+  "health": 5000000,
+  "damage": 4000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120
+}

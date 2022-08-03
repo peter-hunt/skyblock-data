@@ -1,0 +1,24 @@
+{
+  "name": "magma_cube_boss",
+  "level": 200,
+  "health": 70000000,
+  "damage": 5000,
+  "coins": 1000,
+  "exp": 5000,
+  "combat_exp": 4000,
+  "drops": [
+    [{"name": "compact_ooze"}, 1, "common", 1],
+    [{"name": "rekindled_ember_fragment"}, 1, "common", 1],
+    [{"name": "magma_cream"}, 20, "common", 1],
+    [{"name": "magma_cream"}, 10, "common", 0.7],
+    [{"name": "magma_cream"}, 5, "common", 0.5],
+    [{"name": "enchanted_magma_cream"}, 1, "common", 0.5],
+    [{"name": "enchanted_magma_cream"}, 1, "common", 0.5],
+    [{"name": "magma_cube_pet", "rarity": "epic"}, 1, "rare", 0.015],
+    [{"name": "fire_fury_staff"}, 1, "legendary", 0.005],
+    [{"name": "molten_cube"}, 1, "legendary", 0.005],
+    [{"name": "magma_cube_pet", "rarity": "legendary"}, 1, "legendary", 0.005],
+    [{"name": "kuudra_key"}, 1, "rare", 0.06],
+    [{"name": "hot_kuudra_key"}, 1, "rare", 0.04]
+  ]
+}

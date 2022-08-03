@@ -1,0 +1,12 @@
+{
+  "name": "vanquisher",
+  "level": 100,
+  "health": 10000000,
+  "damage": 5000,
+  "coins": 100,
+  "exp": 50,
+  "combat_exp": 1000,
+  "drops": [
+    [{"name": "nether_star"}, 3, "common", 1]
+  ]
+}

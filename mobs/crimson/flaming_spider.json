@@ -1,0 +1,14 @@
+{
+  "name": "flaming_spider",
+  "level": 80,
+  "health": 2500000,
+  "damage": 2000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120,
+  "drops": [
+    [{"name": "string"}, 1, "common", 1],
+    [{"name": "string"}, 1, "common", 0.5],
+    [{"name": "burning_eye"}, 1, "uncommon", 0.2]
+  ]
+}

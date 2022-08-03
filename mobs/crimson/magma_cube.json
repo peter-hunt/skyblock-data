@@ -1,0 +1,22 @@
+{
+  "name": "magma_cube",
+  "level": 90,
+  "health": 1500000,
+  "damage": 3000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120,
+  "drops": [
+    [{"name": "magma_cream"}, 1, "common", 1],
+    [{"name": "magma_cream"}, 1, "common", 0.8],
+    [{"name": "magma_cream"}, 1, "common", 0.6],
+    [{"name": "magma_chunk"}, 1, "uncommon", 0.2],
+    [{"name": "magma_cube_pet", "rarity": "common"}, 1, "rare", 0.01],
+    [{"name": "rampart_helmet"}, 1, "legendary", 0.001],
+    [{"name": "rampart_chestplate"}, 1, "legendary", 0.001],
+    [{"name": "rampart_leggings"}, 1, "legendary", 0.001],
+    [{"name": "rampart_boots"}, 1, "legendary", 0.001],
+    [{"name": "magma_cube_pet", "rarity": "uncommon"}, 1, "legendary", 0.0005],
+    [{"name": "magma_cube_pet", "rarity": "rare"}, 1, "rngesus", 0.0001]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "fire_mage",
+  "level": 75,
+  "health": 2000000,
+  "damage": 3000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120
+}

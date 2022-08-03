@@ -1,0 +1,20 @@
+{
+  "name": "bladesoul",
+  "level": 200,
+  "health": 50000000,
+  "damage": 4000,
+  "coins": 1000,
+  "exp": 5000,
+  "combat_exp": 4000,
+  "drops": [
+    [{"name": "hallowed_skull"}, 1, "common", 1],
+    [{"name": "coal"}, 20, "common", 1],
+    [{"name": "coal"}, 10, "common", 0.7],
+    [{"name": "coal"}, 5, "common", 0.5],
+    [{"name": "enchanted_coal"}, 1, "common", 0.5],
+    [{"name": "enchanted_coal"}, 1, "common", 0.5],
+    [{"name": "ragnarock_axe"}, 1, "legendary", 0.005],
+    [{"name": "kuudra_key"}, 1, "rare", 0.06],
+    [{"name": "hot_kuudra_key"}, 1, "rare", 0.04]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dive_ghast",
+  "level": 90,
+  "health": 200000,
+  "damage": 10000,
+  "coins": 400,
+  "exp": 500,
+  "combat_exp": 400,
+  "drops": [
+    [{"name": "ghast_tear"}, 1, "common", 1],
+    [{"name": "tentacle_meat"}, 1, "uncommon", 0.1]
+  ]
+}

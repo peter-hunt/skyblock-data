@@ -1,0 +1,8 @@
+{
+  "name": "red_sand",
+  "drop": "red_sand",
+  "breaking_power": 1,
+  "hardness": 0.6,
+  "mining_exp": 5,
+  "type": "mineral"
+}

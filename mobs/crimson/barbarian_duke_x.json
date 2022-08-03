@@ -1,0 +1,19 @@
+{
+  "name": "barbarian_duke_x",
+  "level": 200,
+  "health": 70000000,
+  "damage": 5000,
+  "coins": 1000,
+  "exp": 5000,
+  "combat_exp": 4000,
+  "drops": [
+    [{"name": "leather_cloth"}, 1, "common", 1],
+    [{"name": "pork"}, 20, "common", 1],
+    [{"name": "pork"}, 10, "common", 0.7],
+    [{"name": "pork"}, 5, "common", 0.5],
+    [{"name": "enchanted_pork"}, 1, "common", 0.5],
+    [{"name": "enchanted_pork"}, 1, "common", 0.5],
+    [{"name": "kuudra_key"}, 1, "rare", 0.06],
+    [{"name": "hot_kuudra_key"}, 1, "rare", 0.04]
+  ]
+}

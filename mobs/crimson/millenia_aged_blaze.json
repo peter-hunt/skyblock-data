@@ -1,0 +1,16 @@
+{
+  "name": "millenia_aged_blaze",
+  "level": 110,
+  "health": 30000000,
+  "damage": 15000,
+  "coins": 100,
+  "exp": 35,
+  "combat_exp": 660,
+  "drops": [
+    [{"name": "blaze_rod"}, 32, "common", 1],
+    [{"name": "blaze_ashes"}, 1, "uncommon", 0.2],
+    [{"name": "millenia_old_blaze_ashes"}, 1, "uncommon", 0.045],
+    [{"name": "netherrack_looking_sunshade"}, 1, "rare", 0.01],
+    [{"name": "enchanted_book", "enchantments": {"smoldering": 1}}, 1, "legendary", 0.00016]
+  ]
+}

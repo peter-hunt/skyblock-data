@@ -1,0 +1,15 @@
+{
+  "name": "kada_knight",
+  "level": 90,
+  "health": 2000000,
+  "damage": 4000,
+  "coins": 20,
+  "exp": 100,
+  "combat_exp": 120,
+  "drops": [
+    [{"name": "rotten_flesh"}, 1, "common", 1],
+    [{"name": "rotten_flesh"}, 1, "common", 0.5],
+    [{"name": "feather"}, 1, "common", 0.4],
+    [{"name": "kada_lead"}, 1, "uncommon", 0.2]
+  ]
+}
