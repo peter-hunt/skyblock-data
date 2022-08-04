@@ -1,0 +1,10 @@
+{
+  "name": "inferno_minion_5",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "inferno_minion", "tier": 4},
+    {"name": "molder_powder", "count": 32}
+  ],
+  "result": {"name": "inferno_minion", "tier": 5},
+  "slayer_req": ["blaze", 3]
+}

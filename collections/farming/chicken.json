@@ -10,6 +10,7 @@
     [5000, "chicken_pet"],
     [10000, "enchanted_cake"],
     [25000, 2500],
-    [50000, "super_enchanted_egg"]
+    [50000, "super_enchanted_egg"],
+    [100000, "omega_enchanted_egg"]
   ]
 }

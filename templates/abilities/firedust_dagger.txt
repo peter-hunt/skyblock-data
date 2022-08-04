@@ -1,0 +1,2 @@
+Deal %%red%%1.2x%%gray%% damage to Blazes.
+Deal %%red%%1.1x%%gray%% damage to Pigmen.

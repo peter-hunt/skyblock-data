@@ -1,0 +1,10 @@
+{
+  "name": "inferno_minion_1",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "blaze_minion", "tier": 1},
+    {"name": "derelict_ashe", "count": 80}
+  ],
+  "result": {"name": "inferno_minion", "tier": 1},
+  "slayer_req": ["blaze", 3]
+}

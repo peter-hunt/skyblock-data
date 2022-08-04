@@ -1,0 +1,7 @@
+{
+  "name": "inferno_minion",
+  "tier": 4,
+  "cooldown": 999,
+  "slots": 6,
+  "type": "minion"
+}

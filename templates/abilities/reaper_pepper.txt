@@ -1,0 +1,3 @@
+Consume this %%italic%%dangerous%%gray%% pepper to permanently gain %%red%%+1%%health%%%%gray%%.
+
+You may eat up to 5 peppers before it's considered truly dangerous.
