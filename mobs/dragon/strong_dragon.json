@@ -1,0 +1,9 @@
+{
+  "name": "strong_dragon",
+  "level": 100,
+  "health": 9000000,
+  "defense": 25,
+  "damage": 1100,
+  "coins": 0,
+  "exp": 0
+}
