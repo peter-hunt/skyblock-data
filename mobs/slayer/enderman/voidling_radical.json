@@ -1,0 +1,12 @@
+{
+  "name": "voidling_radical",
+  "level": 2500,
+  "health": 25000000,
+  "damage": 7400,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 2000,
+  "drops": [
+    [{"name": "null_sphere"}, 2, "common", 1]
+  ]
+}

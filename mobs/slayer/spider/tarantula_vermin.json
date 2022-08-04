@@ -1,0 +1,12 @@
+{
+  "name": "tarantula_vermin",
+  "level": 120,
+  "health": 54000,
+  "damage": 360,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 150,
+  "drops": [
+    [{"name": "tarantula_web"}, 1, "common", 1]
+  ]
+}

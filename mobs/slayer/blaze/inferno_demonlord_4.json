@@ -1,0 +1,17 @@
+{
+  "name": "inferno_demonlord",
+  "level": 6000,
+  "tier": 4,
+  "health": 150000000,
+  "damage": 100,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 500,
+  "slayer_exp": ["blaze", 500],
+  "drops": [
+    [{"name": "derelict_ashe"}, [110, 155], "common", 1],
+    [{"name": "enchanted_book", "enchantments": {"fire_aspect": 3}}, 1, "extraordinary", 0.0127],
+    [{"name": "flawed_opal_gemstone"}, 1, "rare", 0.0279],
+    [{"name": "enchanted_book", "enchantments": {"duplex": 1}}, 1, "extraordinary", 0.0179]
+  ]
+}

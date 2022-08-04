@@ -1,0 +1,23 @@
+{
+  "name": "atoned_horror",
+  "level": 1580,
+  "tier": 5,
+  "health": 10000000,
+  "damage": 2400,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 2000,
+  "slayer_exp": ["zombie", 1500],
+  "drops": [
+    [{"name": "revenant_flesh"}, [63, 64], "common", 1],
+    [{"name": "undead_catalyst"}, 1, "extraordinary", 0.0169],
+    [{"name": "enchanted_book", "enchantments": {"smite": 6}}, 1, "extraordinary", 0.0069],
+    [{"name": "beheaded_horror"}, 1, "pray_rngesus", 0.0014],
+    [{"name": "revenant_catalyst"}, 1, "extraordinary", 0.0086],
+    [{"name": "revenant_viscera"}, [1, 2], "rare", 0.1377],
+    [{"name": "scythe_blade"}, 1, "pray_rngesus", 0.001032556],
+    [{"name": "shard_of_the_shredded"}, 1, "pray_rngesus", 0.000550700],
+    [{"name": "enchanted_book", "enchantments": {"smite": 6}}, 1, "pray_rngesus", 0.0069],
+    [{"name": "shard_of_the_shredded"}, 1, "rngesus_incarnate", 0.000137674]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "burningsoul_demon",
+  "level": 4330,
+  "health": 75000000,
+  "damage": 30000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 8000,
+  "drops": [
+    [{"name": "derelict_ashe"}, 5, "common", 1]
+  ]
+}

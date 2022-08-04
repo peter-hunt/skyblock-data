@@ -1,0 +1,12 @@
+{
+  "name": "atoned_champion",
+  "level": 390,
+  "health": 600000,
+  "damage": 800,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 900,
+  "drops": [
+    [{"name": "revenant_flesh"}, 2, "common", 1]
+  ]
+}

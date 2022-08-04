@@ -1,0 +1,18 @@
+{
+  "name": "revenant_horror",
+  "level": 320,
+  "tier": 3,
+  "health": 400000,
+  "damage": 120,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 200,
+  "slayer_exp": ["zombie", 100],
+  "drops": [
+    [{"name": "revenant_flesh"}, [30, 50], "common", 1],
+    [{"name": "undead_catalyst"}, 1, "extraordinary", 0.0201],
+    [{"name": "enchanted_book", "enchantments": {"smite": 6}}, 1, "extraordinary", 0.0081],
+    [{"name": "beheaded_horror"}, 1, "pray_rngesus", 0.0008],
+    [{"name": "revenant_catalyst"}, 1, "extraordinary", 0.0101]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mutant_tarantula",
+  "level": 380,
+  "health": 576000,
+  "damage": 2000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 500,
+  "drops": [
+    [{"name": "tarantula_web"}, 5, "common", 1]
+  ]
+}

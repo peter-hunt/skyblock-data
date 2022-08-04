@@ -1,0 +1,12 @@
+{
+  "name": "kindleheart_demon",
+  "level": 2500,
+  "health": 25000000,
+  "damage": 12000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 2400,
+  "drops": [
+    [{"name": "derelict_ashe"}, 2, "common", 1]
+  ]
+}

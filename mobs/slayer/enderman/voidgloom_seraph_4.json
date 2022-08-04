@@ -1,0 +1,21 @@
+{
+  "name": "voidgloom_seraph",
+  "level": 8860,
+  "tier": 4,
+  "health": 300000000,
+  "damage": 21000,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 500,
+  "slayer_exp": ["endereman", 500],
+  "drops": [
+    [{"name": "null_sphere"}, [105, 155], "common", 1],
+    [{"name": "summoning_eye"}, 1, "extraodinary", 0.0056],
+    [{"name": "null_atom"}, 1, "rare", 0.0494],
+    [{"name": "enchanted_book", "enchantments": {"smarty_pants": 1}}, 1, "extraordinary", 0.0176],
+    [{"name": "sinful_dice"}, 1, "extraordinary", 0.0046],
+    [{"name": "ender_artifact_upgrader"}, 1, "pray_rngesus", 0.0003],
+    [{"name": "judgement_core"}, 1, "pray_rngesus", 0.0006],
+    [{"name": "enchanted_book", "enchantments": {"ender_slayer": 7}}, 1, "rngesus_incarnate", 0.0001]
+  ]
+}

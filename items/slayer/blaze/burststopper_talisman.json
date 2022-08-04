@@ -1,0 +1,8 @@
+{
+  "name": "burststopper_talisman",
+  "rarity": "rare",
+  "strength": 1,
+  "true_defense": 2,
+  "slayer_req": ["blaze", 3],
+  "type": "accessory"
+}

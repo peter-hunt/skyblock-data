@@ -1,0 +1,12 @@
+{
+  "name": "deformed_revenant",
+  "level": 300,
+  "health": 360000,
+  "damage": 1600,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 1200,
+  "drops": [
+    [{"name": "revenant_flesh"}, 5, "common", 1]
+  ]
+}

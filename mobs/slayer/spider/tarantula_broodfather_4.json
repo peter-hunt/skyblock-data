@@ -1,0 +1,18 @@
+{
+  "name": "tarantula_broodfather",
+  "level": 770,
+  "tier": 4,
+  "health": 2400000,
+  "damage": 530,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 500,
+  "slayer_exp": ["spider", 500],
+  "drops": [
+    [{"name": "tarantula_web"}, [52, 64], "common", 1],
+    [{"name": "spider_catalyst"}, 1, "extraordinary", 0.0062],
+    [{"name": "enchanted_book", "enchantments": {"bane_of_arthropods": 6}}, 1, "extraordinary", 0.0083],
+    [{"name": "tarantula_talisman"}, 1, "pray_rngesus", 0.0017],
+    [{"name": "digested_mosquito"}, 1, "pray_rngesus", 0.000582265]
+  ]
+}

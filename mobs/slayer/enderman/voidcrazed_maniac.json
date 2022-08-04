@@ -1,0 +1,12 @@
+{
+  "name": "voidcrazed_maniac",
+  "level": 4330,
+  "health": 75000000,
+  "damage": 25000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 5000,
+  "drops": [
+    [{"name": "null_sphere"}, 5, "common", 1]
+  ]
+}

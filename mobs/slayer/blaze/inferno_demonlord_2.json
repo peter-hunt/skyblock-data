@@ -1,0 +1,14 @@
+{
+  "name": "inferno_demonlord",
+  "level": 1200,
+  "tier": 2,
+  "health": 10000000,
+  "damage": 100,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 100,
+  "slayer_exp": ["blaze", 25],
+  "drops": [
+    [{"name": "derelict_ashe"}, [12, 22], "common", 1]
+  ]
+}

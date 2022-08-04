@@ -1,0 +1,12 @@
+{
+  "name": "flare_demon",
+  "level": 1730,
+  "health": 12000000,
+  "damage": 7000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 1200,
+  "drops": [
+    [{"name": "derelict_ashe"}, 1, "common", 1]
+  ]
+}

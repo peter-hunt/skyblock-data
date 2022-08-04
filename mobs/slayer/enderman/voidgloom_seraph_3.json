@@ -1,0 +1,16 @@
+{
+  "name": "voidgloom_seraph",
+  "level": 4080,
+  "tier": 3,
+  "health": 66666666,
+  "damage": 12000,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 200,
+  "slayer_exp": ["endereman", 100],
+  "drops": [
+    [{"name": "null_sphere"}, [60, 80], "common", 1],
+    [{"name": "summoning_eye"}, 1, "extraodinary", 0.0060],
+    [{"name": "null_atom"}, 1, "rare", 0.0373]
+  ]
+}

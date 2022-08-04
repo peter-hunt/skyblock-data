@@ -1,0 +1,14 @@
+{
+  "name": "voidgloom_seraph",
+  "level": 270,
+  "tier": 1,
+  "health": 300000,
+  "damage": 1200,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 50,
+  "slayer_exp": ["endereman", 5],
+  "drops": [
+    [{"name": "null_sphere"}, [2, 3], "common", 1]
+  ]
+}

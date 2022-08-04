@@ -1,0 +1,14 @@
+{
+  "name": "tarantula_broodfather",
+  "level": 90,
+  "tier": 2,
+  "health": 30000,
+  "damage": 45,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 100,
+  "slayer_exp": ["spider", 25],
+  "drops": [
+    [{"name": "tarantula_web"}, [9, 18], "common", 1]
+  ]
+}

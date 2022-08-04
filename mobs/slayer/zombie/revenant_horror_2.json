@@ -1,0 +1,16 @@
+{
+  "name": "revenant_horror",
+  "level": 70,
+  "tier": 2,
+  "health": 20000,
+  "damage": 25,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 100,
+  "slayer_exp": ["zombie", 25],
+  "drops": [
+    [{"name": "revenant_flesh"}, [9, 18], "common", 1],
+    [{"name": "undead_catalyst"}, 1, "extraordinary", 0.0202],
+    [{"name": "revenant_catalyst"}, 1, "extraordinary", 0.0101]
+  ]
+}

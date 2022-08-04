@@ -1,0 +1,14 @@
+{
+  "name": "revenant_horror",
+  "level": 10,
+  "tier": 1,
+  "health": 500,
+  "damage": 15,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 50,
+  "slayer_exp": ["zombie", 5],
+  "drops": [
+    [{"name": "revenant_flesh"}, [1, 3], "common", 1]
+  ]
+}

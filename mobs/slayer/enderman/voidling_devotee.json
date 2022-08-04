@@ -1,0 +1,12 @@
+{
+  "name": "voidling_devotee",
+  "level": 1730,
+  "health": 12000000,
+  "damage": 5000,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 800,
+  "drops": [
+    [{"name": "null_sphere"}, 1, "common", 1]
+  ]
+}

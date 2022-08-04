@@ -1,0 +1,12 @@
+{
+  "name": "revenant_sychophant",
+  "level": 80,
+  "health": 24000,
+  "damage": 320,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 360,
+  "drops": [
+    [{"name": "revenant_flesh"}, 1, "common", 1]
+  ]
+}

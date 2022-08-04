@@ -1,0 +1,8 @@
+{
+  "name": "burststopper_artifact",
+  "rarity": "epic",
+  "strength": 2,
+  "true_defense": 3,
+  "slayer_req": ["blaze", 7],
+  "type": "accessory"
+}
