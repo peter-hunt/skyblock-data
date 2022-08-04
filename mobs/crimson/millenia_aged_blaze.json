@@ -11,6 +11,7 @@
     [{"name": "blaze_ashes"}, 1, "uncommon", 0.2],
     [{"name": "millenia_old_blaze_ashes"}, 1, "uncommon", 0.045],
     [{"name": "netherrack_looking_sunshade"}, 1, "rare", 0.01],
-    [{"name": "enchanted_book", "enchantments": {"smoldering": 1}}, 1, "legendary", 0.00016]
+    [{"name": "enchanted_book", "enchantments": {"smoldering": 1}}, 1, "legendary", 0.00016],
+    [{"name": "flame_dye"}, 1, "rngesus", 0.000001]
   ]
 }

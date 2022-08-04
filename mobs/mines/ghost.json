@@ -10,6 +10,6 @@
   "drops": [
     [{"name": "sorrow"}, 1, "rare", 0.0012],
     [{"name": "plasma"}, 1, "legendary", 0.001],
-    [{"name": "bag_of_cash"}, 1, "pray_rngesus", 0.0001]
+    [{"name": "bag_of_cash"}, 1, "rngesus", 0.0001]
   ]
 }

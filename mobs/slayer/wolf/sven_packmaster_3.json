@@ -1,0 +1,17 @@
+{
+  "name": "sven_packmaster",
+  "level": 430,
+  "tier": 3,
+  "health": 750000,
+  "damage": 180,
+  "true_damage": 50,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 200,
+  "slayer_exp": ["wolf", 100],
+  "drops": [
+    [{"name": "wolf_tooth"}, [30, 50], "common", 1],
+    [{"name": "enchanted_book", "enchantments": {"critical": 6}}, 1, "extraordinary", 0.0041],
+    [{"name": "red_claw_egg"}, 1, "pray_rngesus", 0.0004]
+  ]
+}

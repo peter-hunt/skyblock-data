@@ -8,6 +8,7 @@
   "combat_exp": 8,
   "drops": [
     [{"name": "gunpowder"}, 1, "common", 1],
-    [{"name": "exp_share_core"}, 1, "pray_rngesus", 0.0001]
+    [{"name": "exp_share_core"}, 1, "rngesus", 0.0001],
+    [{"name": "nyanza_dye"}, 1, "rngesus", 0.0000005]
   ]
 }

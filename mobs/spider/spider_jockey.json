@@ -10,6 +10,7 @@
     [{"name": "string"}, [1, 2], "common", 1],
     [{"name": "bone"}, 2, "common", 1],
     [{"name": "spider_eye"}, 1, "uncommon", 0.1],
-    [{"name": "bow"}, 1, "rare", 0.02]
+    [{"name": "bow"}, 1, "rare", 0.02],
+    [{"name": "bone_dye"}, 1, "rngesus", 0.000000333]
   ]
 }

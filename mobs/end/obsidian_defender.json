@@ -9,6 +9,7 @@
   "drops": [
     [{"name": "obsidian"}, [2, 3], "common", 1],
     [{"name": "enchanted_obsidian"}, 1, "rare", 0.01],
-    [{"name": "obsidian_chestplate"}, 1, "legendary", 0.001]
+    [{"name": "obsidian_chestplate"}, 1, "legendary", 0.001],
+    [{"name": "bone_dye"}, 1, "rngesus", 0.000000333]
   ]
 }

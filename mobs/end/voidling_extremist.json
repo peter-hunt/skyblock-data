@@ -8,6 +8,7 @@
   "combat_exp": 500,
   "drops": [
     [{"name": "ender_pearl"}, [32, 64], "common", 1],
-    [{"name": "enchanted_ender_pearl"}, 1, "rare", 0.02]
+    [{"name": "enchanted_ender_pearl"}, 1, "rare", 0.02],
+    [{"name": "byzantium_dye"}, 1, "rngesus", 0.00000005]
   ]
 }

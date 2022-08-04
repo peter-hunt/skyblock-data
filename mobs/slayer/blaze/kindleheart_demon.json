@@ -7,6 +7,7 @@
   "exp": 0,
   "combat_exp": 2400,
   "drops": [
-    [{"name": "derelict_ashe"}, 2, "common", 1]
+    [{"name": "derelict_ashe"}, 2, "common", 1],
+    [{"name": "flame_dye"}, 1, "rngesus", 0.000001]
   ]
 }

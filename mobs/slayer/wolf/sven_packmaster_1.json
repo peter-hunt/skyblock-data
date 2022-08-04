@@ -1,0 +1,14 @@
+{
+  "name": "sven_packmaster",
+  "level": 20,
+  "tier": 1,
+  "health": 2000,
+  "damage": 60,
+  "coins": 1,
+  "exp": 1,
+  "combat_exp": 50,
+  "slayer_exp": ["wolf", 5],
+  "drops": [
+    [{"name": "wolf_tooth"}, [1, 3], "common", 1]
+  ]
+}

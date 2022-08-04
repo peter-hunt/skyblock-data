@@ -9,6 +9,7 @@
   "drops": [
     [{"name": "blaze_rod"}, 2, "common", 1],
     [{"name": "blaze_rod"}, 1, "common", 0.2],
-    [{"name": "mutated_blaze_ashes"}, 1, "common", 0.2]
+    [{"name": "mutated_blaze_ashes"}, 1, "common", 0.2],
+    [{"name": "flame_dye"}, 1, "rngesus", 0.000001]
   ]
 }

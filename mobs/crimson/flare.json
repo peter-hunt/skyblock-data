@@ -9,6 +9,7 @@
   "drops": [
     [{"name": "blaze_rod"}, 1, "common", 1],
     [{"name": "blaze_rod"}, 1, "common", 0.5],
-    [{"name": "gazing_pearl"}, 1, "uncommon", 0.05]
+    [{"name": "gazing_pearl"}, 1, "uncommon", 0.05],
+    [{"name": "flame_dye"}, 1, "rngesus", 0.000001]
   ]
 }

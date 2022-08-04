@@ -7,6 +7,7 @@
   "exp": 0,
   "combat_exp": 2000,
   "drops": [
-    [{"name": "null_sphere"}, 2, "common", 1]
+    [{"name": "null_sphere"}, 2, "common", 1],
+    [{"name": "byzantium_dye"}, 1, "rngesus", 0.00000005]
   ]
 }

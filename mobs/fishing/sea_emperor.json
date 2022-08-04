@@ -11,6 +11,7 @@
     [{"name": "shredder"}, 1, "rare", 0.2],
     [{"name": "flying_fish_pet", "rarity": "rare"}, 1, "rare", 0.1],
     [{"name": "flying_fish_pet", "rarity": "epic"}, 1, "rare", 0.04],
-    [{"name": "flying_fish_pet", "rarity": "legendary"}, 1, "rare", 0.01]
+    [{"name": "flying_fish_pet", "rarity": "legendary"}, 1, "rare", 0.01],
+    [{"name": "bone_dye"}, 1, "rngesus", 0.000000333]
   ]
 }

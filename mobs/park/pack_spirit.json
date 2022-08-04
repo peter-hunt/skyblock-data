@@ -11,17 +11,8 @@
     [{"name": "dark_oak_wood"}, 1, "uncommon", 0.15],
     [{"name": "acacia_wood"}, 1, "uncommon", 0.15],
     [{"name": "travel_scroll_to_howl"}, 1, "legendary", 0.0002],
-    [
-      {"name": "hound_pet", "rarity": "epic"},
-      1,
-      "pray_rngesus",
-      0.00006666666666666667
-    ],
-    [
-      {"name": "hound_pet", "rarity": "legendary"},
-      1,
-      "pray_rngesus",
-      0.000016666666666666667
-    ]
+    [{"name": "hound_pet", "rarity": "epic"}, 1, "rngesus", 0.0000667],
+    [{"name": "hound_pet", "rarity": "legendary"}, 1, "rngesus", 0.00001667],
+    [{"name": "celeste_dye"}, 1, "rngesus", 0.00000001]
   ]
 }

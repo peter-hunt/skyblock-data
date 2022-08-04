@@ -1,0 +1,13 @@
+{
+  "name": "pack_enforcer",
+  "level": 110,
+  "health": 45000,
+  "damage": 360,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 150,
+  "drops": [
+    [{"name": "wolf_tooth"}, 1, "common", 1],
+    [{"name": "celeste_dye"}, 1, "rngesus", 0.00000001]
+  ]
+}

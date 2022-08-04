@@ -1,0 +1,13 @@
+{
+  "name": "sven_alpha",
+  "level": 350,
+  "health": 480000,
+  "damage": 2200,
+  "coins": 0,
+  "exp": 0,
+  "combat_exp": 500,
+  "drops": [
+    [{"name": "wolf_tooth"}, 5, "common", 1],
+    [{"name": "celeste_dye"}, 1, "rngesus", 0.00000001]
+  ]
+}

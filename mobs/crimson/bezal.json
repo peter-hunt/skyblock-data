@@ -14,6 +14,7 @@
     [{"name": "rampart_chestplate"}, 1, "legendary", 0.001],
     [{"name": "rampart_leggings"}, 1, "legendary", 0.001],
     [{"name": "rampart_boots"}, 1, "legendary", 0.001],
-    [{"name": "sword_of_bad_health"}, 1, "legendary", 0.0005]
+    [{"name": "sword_of_bad_health"}, 1, "legendary", 0.0005],
+    [{"name": "flame_dye"}, 1, "rngesus", 0.000001]
   ]
 }

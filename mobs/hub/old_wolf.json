@@ -9,7 +9,8 @@
   "drops": [
     [{"name": "bone"}, 1, "common", 1],
     [{"name": "wolf_talisman"}, 1, "legendary", 0.001],
-    [{"name": "hound_pet", "rarity": "epic"}, 1, "pray_rngesus", 0.00001],
-    [{"name": "hound_pet", "rarity": "legendary"}, 1, "pray_rngesus", 0.000003]
+    [{"name": "hound_pet", "rarity": "epic"}, 1, "rngesus", 0.00001],
+    [{"name": "hound_pet", "rarity": "legendary"}, 1, "rngesus", 0.000003],
+    [{"name": "celeste_dye"}, 1, "rngesus", 0.00000001]
   ]
 }
