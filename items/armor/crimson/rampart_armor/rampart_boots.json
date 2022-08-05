@@ -5,6 +5,5 @@
   "health": 75,
   "defense": 40,
   "intelligence": 5,
-  "abilities": ["rampart"],
   "type": "armor"
 }

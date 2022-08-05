@@ -1,0 +1,1 @@
+Grants %%red%%+50 %%health%%%%gray%%, %%red%%+20 %%strength%%%%gray%%, and %%blue%%+15 %%crit_damage%%%%gray%% while on the %%red%%Crimson Isle%%gray%%.

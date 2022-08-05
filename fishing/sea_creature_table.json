@@ -1,80 +1,28 @@
 [
-  [
-    "squid",
-    0.12,
-    1,
-    "A Squid appeared."
-  ],
-  [
-    "sea_walker",
-    0.07,
-    2,
-    "You caught a Sea Walker."
-  ],
-  [
-    "night_squid",
-    0.06,
-    3,
-    "Pitch Darkness reveals you've caught a Night Squid."
-  ],
-  [
-    "sea_guardian",
-    0.05,
-    5,
-    "You stumbled upon a Sea Guardian."
-  ],
-  [
-    "sea_witch",
-    0.04,
-    7,
-    "It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!"
-  ],
-  [
-    "sea_archer",
-    0.04,
-    10,
-    "You reeled in a Sea Archer."
-  ],
-  [
-    "monster_of_the_deep",
-    0.03,
-    11,
-    "The Monster of The Deep emerges from the dark depths..."
-  ],
-  [
-    "catfish",
-    0.02,
-    13,
-    "Huh? A Catfish!"
-  ],
-  [
-    "sea_leech",
-    0.012,
-    16,
-    "Gross! A Sea Leech!"
-  ],
-  [
-    "guardian_defender",
-    0.01,
-    17,
-    "You've discovered a Guardian Defender of the sea."
-  ],
-  [
-    "deep_sea_protector",
-    0.008,
-    18,
-    "You have awoken the Deep Sea Protector, prepare for a battle!"
-  ],
-  [
-    "water_hydra",
-    0.006,
-    19,
-    "The Water Hydra has come to test your Strength."
-  ],
-  [
-    "sea_emperor",
-    0.005,
-    20,
-    "The Sea Emperor arises from the depths..."
-  ]
+  ["squid", 0.12, 1,
+   "A Squid appeared."],
+  ["sea_walker", 0.07, 2,
+   "You caught a Sea Walker."],
+  ["night_squid", 0.06, 3,
+   "Pitch Darkness reveals you've caught a Night Squid."],
+  ["sea_guardian", 0.05, 5,
+   "You stumbled upon a Sea Guardian."],
+  ["sea_witch", 0.04, 7,
+   "It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!"],
+  ["sea_archer", 0.04, 10,
+   "You reeled in a Sea Archer."],
+  ["monster_of_the_deep", 0.03, 11,
+   "The Monster of The Deep emerges from the dark depths..."],
+  ["catfish", 0.02, 13,
+   "Huh? A Catfish!"],
+  ["sea_leech", 0.012, 16,
+   "Gross! A Sea Leech!"],
+  ["guardian_defender", 0.01, 17,
+   "You've discovered a Guardian Defender of the sea."],
+  ["deep_sea_protector", 0.008, 18,
+   "You have awoken the Deep Sea Protector, prepare for a battle!"],
+  ["water_hydra", 0.006, 19,
+   "The Water Hydra has come to test your Strength."],
+  ["sea_emperor", 0.005, 20,
+   "The Sea Emperor arises from the depths..."]
 ]
