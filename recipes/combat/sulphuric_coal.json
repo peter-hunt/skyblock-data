@@ -1,0 +1,11 @@
+{
+  "name": "sulphuric_coal",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_coal", "count": 16},
+    {"name": "chili_pepper", "count": 4},
+    {"name": "enchanted_sulphur"}
+  ],
+  "result": {"name": "sulphuric_coal", "count": 12},
+  "collection_req": ["chili_pepper", 2]
+}

@@ -1,7 +1,0 @@
-{
-  "name": "enchanted_sulfur",
-  "category": "mining",
-  "ingredients": [{"name": "sulfur", "count": 160}],
-  "result": {"name": "enchanted_sulfur"},
-  "collection_req": ["sulfur", 2]
-}

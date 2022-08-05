@@ -1,0 +1,15 @@
+{
+  "name": "chili_pepper",
+  "category": "combat",
+  "levels": [
+    [10, 1],
+    [25, "sulphuric_coal"],
+    [75, 1],
+    [250, 1],
+    [1000, 1],
+    [2500, "stuffed_chili_pepper"],
+    [5000, 1],
+    [10000, 1],
+    [20000, 1]
+  ]
+}

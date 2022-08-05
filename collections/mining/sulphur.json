@@ -1,13 +1,13 @@
 {
-  "name": "sulfur",
+  "name": "sulphur",
   "category": "mining",
   "levels": [
     [200, 20],
-    [1000, "enchanted_sulfur"],
+    [1000, "enchanted_sulphur"],
     [2500, 250],
     [5000, 500],
     [10000, 1000],
-    [15000, "enchanted_sulfur_cube"],
+    [15000, "enchanted_sulphur_cube"],
     [25000, 2500],
     [50000, 5000],
     [100000, 10000]

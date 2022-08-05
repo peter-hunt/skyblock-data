@@ -9,6 +9,7 @@
   "combat_exp": 100,
   "slayer_exp": ["blaze", 25],
   "drops": [
-    [{"name": "derelict_ashe"}, [12, 22], "common", 1]
+    [{"name": "derelict_ashe"}, [12, 22], "common", 1],
+    [{"name": "kelvin_inverter"}, 1, "rare", 0.0282]
   ]
 }

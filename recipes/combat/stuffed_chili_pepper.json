@@ -1,0 +1,9 @@
+{
+  "name": "stuffed_chili_pepper",
+  "category": "combat",
+  "ingredients": [
+    {"name": "chili_pepper", "count": 160}
+  ],
+  "result": {"name": "stuffed_chili_pepper"},
+  "collection_req": ["chili_pepper", 6]
+}
