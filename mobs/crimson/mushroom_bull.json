@@ -7,9 +7,9 @@
   "exp": 100,
   "combat_exp": 120,
   "drops": [
-    [{"name": "raw_beef"}, 1, "common", 1],
-    [{"name": "red_mushroom"}, 4, "common", 1],
+    [{"name": "beef"}, 1, "common", 1],
+    [{"name": "mushroom"}, 4, "common", 1],
     [{"name": "leather"}, 1, "common", 1],
-    [{"name": "digested_mushroom"}, 1, "uncommon", 0.2]
+    [{"name": "digested_mushrooms"}, 1, "uncommon", 0.2]
   ]
 }

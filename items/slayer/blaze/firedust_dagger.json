@@ -5,6 +5,5 @@
   "strength": 45,
   "crit_damage": 15,
   "slayer_req": ["blaze", 2],
-  "abilities": ["firedust_dagger"],
   "type": "sword"
 }

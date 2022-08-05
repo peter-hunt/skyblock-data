@@ -6,6 +6,5 @@
   "crit_damage": 50,
   "speed": 5,
   "slayer_req": ["wolf", 6],
-  "abilities": ["pooch_sword"],
   "type": "sword"
 }

@@ -1,6 +1,5 @@
 {
   "name": "experience_bottle",
   "count": 64,
-  "abilities": ["exp_bottle"],
   "type": "item"
 }

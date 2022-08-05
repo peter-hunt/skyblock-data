@@ -2,6 +2,5 @@
   "name": "sword_of_the_stars",
   "rarity": "special",
   "damage": 99999,
-  "abilities": ["sword_of_the_stars"],
   "type": "sword"
 }

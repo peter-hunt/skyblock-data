@@ -5,6 +5,5 @@
   "strength": 100,
   "intelligence": 200,
   "slayer_req": ["zombie", 6],
-  "abilities": ["reaper_falchion"],
   "type": "sword"
 }

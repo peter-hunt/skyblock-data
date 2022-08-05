@@ -1,0 +1,1 @@
+Provides immunity to %%blue%%Poison%%gray%% damage when held.

@@ -7,7 +7,7 @@
   "exp": 2500,
   "combat_exp": 2000,
   "drops": [
-    [{"name": "lumibo_fiber"}, 1, "common", 1],
+    [{"name": "lumino_fiber"}, 1, "common", 1],
     [{"name": "blaze_rod"}, 20, "common", 1],
     [{"name": "blaze_rod"}, 10, "common", 0.7],
     [{"name": "blaze_rod"}, 5, "common", 0.5],

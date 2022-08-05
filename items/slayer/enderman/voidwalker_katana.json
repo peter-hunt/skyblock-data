@@ -5,6 +5,5 @@
   "strength": 40,
   "crit_damage": 10,
   "slayer_req": ["enderman", 1],
-  "abilities": ["voidwalker_katana"],
   "type": "sword"
 }

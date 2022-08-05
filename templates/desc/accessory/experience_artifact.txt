@@ -1,0 +1,1 @@
+Increase experience orbs you gain by %%green%%25%%%gray%% while this item is in your inventory.

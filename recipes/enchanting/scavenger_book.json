@@ -1,7 +1,10 @@
 {
   "name": "scavenger_book",
   "category": "enchanting",
-  "ingredients": [{"name": "paper", "count": 6}, {"name": "gold_sword"}],
+  "ingredients": [
+    {"name": "paper", "count": 6},
+    {"name": "golden_sword"}
+  ],
   "result": {"name": "enchanted_book", "enchantments": {"scavenger": 2}},
   "collection_req": ["gold", 6]
 }

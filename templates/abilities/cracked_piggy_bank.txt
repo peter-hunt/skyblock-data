@@ -1,1 +1,0 @@
-Saves %%red%%%%percent%%% %%gray%%of your coins from death. Only when in player inventory. %%red%%Very fragile!

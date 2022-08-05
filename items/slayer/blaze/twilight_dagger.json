@@ -5,6 +5,5 @@
   "strength": 45,
   "crit_damage": 15,
   "slayer_req": ["blaze", 2],
-  "abilities": ["twilight_dagger"],
   "type": "sword"
 }

@@ -6,6 +6,5 @@
   "crit_damage": 25,
   "intelligence": 200,
   "slayer_req": ["enderman", 5],
-  "abilities": ["vorpal_katana"],
   "type": "sword"
 }

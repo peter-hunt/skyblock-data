@@ -6,6 +6,5 @@
   "crit_damage": 20,
   "attack_speed": 10,
   "slayer_req": ["blaze", 4],
-  "abilities": ["mawdredge_dagger"],
   "type": "sword"
 }

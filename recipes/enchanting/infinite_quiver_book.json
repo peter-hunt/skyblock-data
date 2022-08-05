@@ -1,7 +1,10 @@
 {
   "name": "infinite_quiver_book",
   "category": "enchanting",
-  "ingredients": [{"name": "paper", "count": 24}, {"name": "bow"}],
+  "ingredients": [
+    {"name": "paper", "count": 24},
+    {"name": "bow"}
+  ],
   "result": {"name": "enchanted_book", "enchantments": {"infinite_quiver": 4}},
   "collection_req": ["string", 6]
 }

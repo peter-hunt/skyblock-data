@@ -1,7 +1,10 @@
 {
   "name": "power_book",
   "category": "enchanting",
-  "ingredients": [{"name": "paper", "count": 24}, {"name": "bone", "count": 40}],
+  "ingredients": [
+    {"name": "paper", "count": 24},
+    {"name": "bone", "count": 40}
+  ],
   "result": {"name": "enchanted_book", "enchantments": {"power": 4}},
   "collection_req": ["bone", 3]
 }

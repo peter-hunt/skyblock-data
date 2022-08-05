@@ -1,1 +1,0 @@
-Level %%green%%%%value%% %%gray%%monsters will no longer target you.

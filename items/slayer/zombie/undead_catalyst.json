@@ -2,6 +2,5 @@
   "name": "undead_catalyst",
   "count": 64,
   "rarity": "rare",
-  "abilities": ["undead_catalyst"],
   "type": "item"
 }

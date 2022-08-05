@@ -6,7 +6,7 @@
     {"name": "inferno_minion", "tier": 8},
     {"name": "inferno_apex", "count": 1},
     {"name": "inferno_vertex", "count": 48},
-    {"name": "molder_powder", "count": 256}
+    {"name": "molten_powder", "count": 256}
   ],
   "result": {"name": "inferno_minion", "tier": 11},
   "slayer_req": ["blaze", 3]

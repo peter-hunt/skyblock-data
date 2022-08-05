@@ -6,6 +6,5 @@
   "crit_damage": 20,
   "intelligence": 50,
   "slayer_req": ["enderman", 3],
-  "abilities": ["voidedge_katana"],
   "type": "sword"
 }
