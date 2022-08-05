@@ -1,7 +1,7 @@
 {
   "name": "sheep_pet",
-  "rarity": "uncommon",
-  "category": "farming",
+  "rarity": "legendary",
+  "category": "alchemy",
   "intelligence": 100,
   "type": "pet"
 }
