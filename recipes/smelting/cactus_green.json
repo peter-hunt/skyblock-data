@@ -1,6 +1,0 @@
-{
-  "name": "cactus_green",
-  "category": "smelting",
-  "ingredients": [{"name": "cactus", "count": 1}],
-  "result": {"name": "cactus_green"}
-}
