@@ -1,0 +1,9 @@
+{
+  "name": "red_scarf",
+  "modifier": "loving",
+  "category": "chestplate",
+  "rarity": "rare",
+  "cost": [30000, 75000, 150000, 300000, 600000, 1200000],
+  "mining_skill_req": 21,
+  "type": "reforge_stone"
+}

@@ -1,0 +1,1 @@
+Grants %%green%%increased %%mining_speed%% %%gray%%the deeper you venture.

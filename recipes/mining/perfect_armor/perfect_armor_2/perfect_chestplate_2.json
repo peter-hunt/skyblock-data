@@ -1,0 +1,10 @@
+{
+  "name": "perfect_chestplate_2",
+  "category": "mining",
+  "ingredients": [
+    {"name": "perfect_chestplate", "tier": 1},
+    {"name": "enchanted_diamond_block", "count": 4}
+  ],
+  "result": {"name": "perfect_chestplate", "tier": 2},
+  "collection_req": ["diamond", 9]
+}

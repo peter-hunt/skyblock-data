@@ -1,0 +1,9 @@
+{
+  "name": "warped_stone",
+  "modifier": "warped",
+  "category": "melee",
+  "rarity": "rare",
+  "cost": [1000000, 2500000, 5000000, 10000000, 20000000, 40000000],
+  "mining_skill_req": 26,
+  "type": "reforge_stone"
+}

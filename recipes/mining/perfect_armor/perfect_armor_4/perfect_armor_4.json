@@ -1,0 +1,11 @@
+{
+  "name": "perfect_armor_4",
+  "category": "mining",
+  "recipes": [
+    "perfect_helmet_4",
+    "perfect_chestplate_4",
+    "perfect_leggings_4",
+    "perfect_boots_4"
+  ],
+  "collection_req": ["diamond", 9]
+}

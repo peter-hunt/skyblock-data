@@ -1,0 +1,10 @@
+{
+  "name": "last_breath",
+  "rarity": "legendary",
+  "damage": 200,
+  "strength": 180,
+  "crit_damage": 50,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "bow"
+}

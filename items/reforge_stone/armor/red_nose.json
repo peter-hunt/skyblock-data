@@ -1,0 +1,9 @@
+{
+  "name": "red_nose",
+  "modifier": "ridiculous",
+  "category": "helmet",
+  "rarity": "rare",
+  "cost": [7500, 15000, 30000, 75000, 150000, 300000],
+  "mining_skill_req": 17,
+  "type": "reforge_stone"
+}

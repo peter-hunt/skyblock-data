@@ -1,0 +1,8 @@
+{
+  "name": "catacombs_expert_ring",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_catalyst", "count": 24}
+  ],
+  "result": {"name": "catacombs_expert_ring"}
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dreadlord_sword",
+  "rarity": "rare",
+  "damage": 70,
+  "strength": 31,
+  "intelligence": 119,
+  "stars": 0,
+  "tier": 5,
+  "dungeon_skill_req": 5,
+  "type": "sword"
+}

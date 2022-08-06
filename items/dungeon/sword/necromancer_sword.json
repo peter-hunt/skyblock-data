@@ -1,0 +1,10 @@
+{
+  "name": "necromancer_sword",
+  "rarity": "legendary",
+  "damage": 250,
+  "strength": 125,
+  "defense": 125,
+  "stars": 0,
+  "dungeon_completion_req": 6,
+  "type": "sword"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "machine_gun_bow",
+  "rarity": "rare",
+  "damage": 124,
+  "strength": 34,
+  "crit_damage": 20,
+  "stars": 0,
+  "tier": 7,
+  "dungeon_skill_req": 2,
+  "type": "bow"
+}

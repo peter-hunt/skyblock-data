@@ -1,0 +1,9 @@
+{
+  "name": "bonzo_staff",
+  "rarity": "rare",
+  "damage": 160,
+  "intelligence": 250,
+  "stars": 0,
+  "dungeon_completion_req": 1,
+  "type": "sword"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "earth_shard",
+  "rarity": "rare",
+  "damage": 126,
+  "defense": 87,
+  "stars": 0,
+  "tier": 7,
+  "dungeon_skill_req": 19,
+  "type": "sword"
+}

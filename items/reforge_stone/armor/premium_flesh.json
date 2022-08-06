@@ -1,0 +1,9 @@
+{
+  "name": "premium_flesh",
+  "modifier": "undead",
+  "category": "armor",
+  "rarity": "rare",
+  "cost": [7500, 15000, 30000, 75000, 150000, 300000],
+  "mining_skill_req": 16,
+  "type": "reforge_stone"
+}

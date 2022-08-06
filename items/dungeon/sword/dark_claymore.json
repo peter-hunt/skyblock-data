@@ -1,0 +1,9 @@
+{
+  "name": "dark_claymore",
+  "rarity": "legendary",
+  "damage": 500,
+  "strength": 100,
+  "stars": 0,
+  "dungeon_completion_req": 14,
+  "type": "sword"
+}

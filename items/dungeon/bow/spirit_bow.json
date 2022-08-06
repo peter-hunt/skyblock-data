@@ -1,0 +1,9 @@
+{
+  "name": "spirit_bow",
+  "rarity": "legendary",
+  "damage": 210,
+  "strength": 100,
+  "stars": 0,
+  "dungeon_completion_req": 4,
+  "type": "bow"
+}

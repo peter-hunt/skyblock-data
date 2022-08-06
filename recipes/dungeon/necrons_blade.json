@@ -1,0 +1,9 @@
+{
+  "name": "necrons_blade",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_handle"},
+    {"name": "wither_catalyst", "count": 24}
+  ],
+  "result": {"name": "necrons_blade"}
+}

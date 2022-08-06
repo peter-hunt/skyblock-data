@@ -1,0 +1,9 @@
+{
+  "name": "perfect_boots",
+  "rarity": "legendary",
+  "part": "boots",
+  "defense": 290,
+  "tier": 11,
+  "dungeon_skill_req": 19,
+  "type": "armor"
+}

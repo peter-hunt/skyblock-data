@@ -1,0 +1,10 @@
+{
+  "name": "sniper_bow",
+  "rarity": "rare",
+  "damage": 132,
+  "crit_damage": 5,
+  "stars": 0,
+  "tier": 5,
+  "dungeon_skill_req": 10,
+  "type": "bow"
+}

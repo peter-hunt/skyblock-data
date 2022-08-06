@@ -1,0 +1,11 @@
+{
+  "name": "zombie_soldier_cutlass",
+  "rarity": "rare",
+  "damage": 80,
+  "strength": 40,
+  "stars": 0,
+  "tier": 7,
+  "dungeon_skill_req": 5,
+  "abilities": ["love_tap"],
+  "type": "sword"
+}

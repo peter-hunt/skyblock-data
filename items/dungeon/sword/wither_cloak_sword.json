@@ -1,0 +1,10 @@
+{
+  "name": "wither_cloak_sword",
+  "rarity": "epic",
+  "damage": 190,
+  "strength": 135,
+  "defense": 200,
+  "stars": 0,
+  "dungeon_completion_req": 7,
+  "type": "sword"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "perfect_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "defense": 220,
+  "tier": 5,
+  "dungeon_skill_req": 11,
+  "type": "armor"
+}

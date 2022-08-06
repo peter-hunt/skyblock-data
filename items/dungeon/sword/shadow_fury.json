@@ -1,0 +1,10 @@
+{
+  "name": "shadow_fury",
+  "rarity": "legendary",
+  "damage": 300,
+  "strength": 125,
+  "speed": 30,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "sword"
+}

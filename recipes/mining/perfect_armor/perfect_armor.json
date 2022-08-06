@@ -2,10 +2,18 @@
   "name": "perfect_armor",
   "category": "mining",
   "recipes": [
-    "perfect_helmet",
-    "perfect_chestplate",
-    "perfect_leggings",
-    "perfect_boots"
+    "perfect_armor_1",
+    "perfect_armor_2",
+    "perfect_armor_3",
+    "perfect_armor_4",
+    "perfect_armor_5",
+    "perfect_armor_6",
+    "perfect_armor_7",
+    "perfect_armor_8",
+    "perfect_armor_9",
+    "perfect_armor_10",
+    "perfect_armor_11",
+    "perfect_armor_12"
   ],
   "collection_req": ["diamond", 9]
 }

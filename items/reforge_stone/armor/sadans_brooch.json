@@ -1,0 +1,9 @@
+{
+  "name": "sadans_brooch",
+  "modifier": "empowered",
+  "category": "armor",
+  "rarity": "epic",
+  "cost": [60000, 125000, 250000, 500000, 1000000, 2000000],
+  "mining_skill_req": 25,
+  "type": "reforge_stone"
+}

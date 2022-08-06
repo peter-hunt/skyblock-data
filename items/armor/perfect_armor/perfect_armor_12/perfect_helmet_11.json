@@ -1,0 +1,9 @@
+{
+  "name": "perfect_helmet",
+  "rarity": "legendary",
+  "part": "helmet",
+  "defense": 330,
+  "tier": 12,
+  "dungeon_skill_req": 21,
+  "type": "armor"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "perfect_chestplate",
+  "rarity": "legendary",
+  "part": "chestplate",
+  "defense": 300,
+  "tier": 8,
+  "dungeon_skill_req": 15,
+  "type": "armor"
+}

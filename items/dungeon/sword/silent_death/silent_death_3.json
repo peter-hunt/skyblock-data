@@ -1,0 +1,12 @@
+{
+  "name": "silent_death",
+  "rarity": "rare",
+  "damage": 100,
+  "strength": 37,
+  "crit_chance": 1,
+  "crit_damage": 11,
+  "stars": 0,
+  "tier": 3,
+  "dungeon_skill_req": 20,
+  "type": "sword"
+}

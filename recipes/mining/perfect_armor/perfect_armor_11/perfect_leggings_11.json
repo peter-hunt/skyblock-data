@@ -1,0 +1,10 @@
+{
+  "name": "perfect_leggings_11",
+  "category": "mining",
+  "ingredients": [
+    {"name": "perfect_leggings", "tier": 10},
+    {"name": "enchanted_diamond_block", "count": 4}
+  ],
+  "result": {"name": "perfect_leggings", "tier": 11},
+  "collection_req": ["diamond", 9]
+}

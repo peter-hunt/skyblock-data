@@ -1,0 +1,9 @@
+{
+  "name": "wither_relic",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_artifact"},
+    {"name": "wither_catalyst", "count": 8}
+  ],
+  "result": {"name": "wither_relic"}
+}

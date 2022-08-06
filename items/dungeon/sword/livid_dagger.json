@@ -1,0 +1,12 @@
+{
+  "name": "livid_dagger",
+  "rarity": "legendary",
+  "damage": 210,
+  "strength": 60,
+  "crit_chance": 100,
+  "crit_damage": 50,
+  "attack_speed": 100,
+  "stars": 0,
+  "dungeon_completion_req": 5,
+  "type": "sword"
+}

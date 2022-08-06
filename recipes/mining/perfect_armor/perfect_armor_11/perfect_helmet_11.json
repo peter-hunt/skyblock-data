@@ -1,0 +1,10 @@
+{
+  "name": "perfect_helmet_11",
+  "category": "mining",
+  "ingredients": [
+    {"name": "perfect_helmet", "tier": 10},
+    {"name": "enchanted_diamond_block", "count": 4}
+  ],
+  "result": {"name": "perfect_helmet", "tier": 11},
+  "collection_req": ["diamond", 9]
+}

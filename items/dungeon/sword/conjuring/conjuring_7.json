@@ -1,0 +1,11 @@
+{
+  "name": "conjuring",
+  "rarity": "rare",
+  "damage": 105,
+  "strength": 56,
+  "intelligence": 140,
+  "stars": 0,
+  "tier": 7,
+  "dungeon_skill_req": 13,
+  "type": "sword"
+}

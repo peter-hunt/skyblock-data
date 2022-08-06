@@ -1,0 +1,1 @@
+Heals you for %%red%%+10 %%health%%%%gray%% when you hit an entity!
