@@ -1,0 +1,10 @@
+{
+  "name": "valkyrie",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_blade"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "valkyrie"},
+  "copy_upgrades": true
+}

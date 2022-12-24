@@ -6,5 +6,6 @@
     {"name": "coal", "count": 320}
   ],
   "result": {"name": "coal_minion", "tier": 3},
+  "copy_upgrades": true,
   "collection_req": ["coal", 1]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "twilight_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "stick"},
+    {"name": "molten_powder"},
+    {"name": "enchanted_sulphur", "count": 5}
+  ],
+  "result": {"name": "twilight_dagger"},
+  "slayer_req": ["blaze", 2]
+}

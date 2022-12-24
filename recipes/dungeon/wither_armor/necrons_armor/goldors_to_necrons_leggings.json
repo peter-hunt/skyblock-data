@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_necrons_leggings",
+  "category": "combat",
+  "ingredients": [
+    {"name": "goldors_leggings"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "necrons_leggings"},
+  "copy_upgrades": true
+}

@@ -6,5 +6,6 @@
     {"name": "revenant_flesh", "count": 64}
   ],
   "result": {"name": "zombie_ring"},
+  "copy_upgrades": true,
   "slayer_req": ["zombie", 2]
 }

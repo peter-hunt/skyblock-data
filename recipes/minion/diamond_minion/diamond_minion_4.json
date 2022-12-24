@@ -6,5 +6,6 @@
     {"name": "diamond", "count": 512}
   ],
   "result": {"name": "diamond_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["diamond", 1]
 }

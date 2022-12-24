@@ -6,5 +6,6 @@
     {"name": "flawless_jasper_gemstone"},
     {"name": "treasurite", "count": 100}
   ],
-  "result": {"name": "jasper_drill_10"}
+  "result": {"name": "jasper_drill_10"},
+  "copy_upgrades": true
 }

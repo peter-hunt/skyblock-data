@@ -8,5 +8,6 @@
     {"name": "enchanted_ender_eye", "count": 96}
   ],
   "result": {"name": "ender_relic"},
+  "copy_upgrades": true,
   "slayer_req": ["enderman", 7]
 }

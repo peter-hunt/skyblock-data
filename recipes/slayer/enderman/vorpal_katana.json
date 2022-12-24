@@ -8,5 +8,6 @@
     {"name": "refined_mithril", "count": 8}
   ],
   "result": {"name": "vorpal_katana"},
+  "copy_upgrades": true,
   "slayer_req": ["enderman", 5]
 }

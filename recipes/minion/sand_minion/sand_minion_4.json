@@ -6,5 +6,6 @@
     {"name": "sand", "count": 512}
   ],
   "result": {"name": "sand_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["sand", 1]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "storms_to_necrons_armor",
+  "category": "combat",
+  "recipes": [
+    "storms_to_necrons_helmet",
+    "storms_to_necrons_chestplate",
+    "storms_to_necrons_leggings",
+    "storms_to_necrons_boots"
+  ]
+}

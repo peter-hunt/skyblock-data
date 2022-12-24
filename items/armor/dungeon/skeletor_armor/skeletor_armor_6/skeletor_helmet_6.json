@@ -1,0 +1,14 @@
+{
+  "name": "skeletor_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "crit_chance": 3,
+  "crit_damage": 30,
+  "health": 22,
+  "defense": 36,
+  "stars": 0,
+  "tier": 6,
+  "dungeon_skill_req": 15,
+  "abilities": ["skeletor"],
+  "type": "armor"
+}

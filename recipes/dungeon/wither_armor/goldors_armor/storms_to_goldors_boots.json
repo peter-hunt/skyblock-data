@@ -1,0 +1,10 @@
+{
+  "name": "storms_to_goldors_boots",
+  "category": "combat",
+  "ingredients": [
+    {"name": "storms_boots"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "goldors_boots"},
+  "copy_upgrades": true
+}

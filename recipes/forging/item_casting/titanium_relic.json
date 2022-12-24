@@ -5,5 +5,6 @@
     {"name": "titanium_artifact"},
     {"name": "refined_titanium", "count": 20}
   ],
-  "result": {"name": "titanium_relic"}
+  "result": {"name": "titanium_relic"},
+  "copy_upgrades": true
 }

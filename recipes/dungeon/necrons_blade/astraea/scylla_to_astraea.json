@@ -1,0 +1,10 @@
+{
+  "name": "scylla_to_astraea",
+  "category": "combat",
+  "ingredients": [
+    {"name": "scylla"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "astraea"},
+  "copy_upgrades": true
+}

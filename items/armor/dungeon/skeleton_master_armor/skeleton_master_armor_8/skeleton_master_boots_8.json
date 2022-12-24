@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_master_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "crit_chance": 3,
+  "crit_damage": 38,
+  "health": 25,
+  "defense": 41,
+  "stars": 0,
+  "tier": 8,
+  "dungeon_skill_req": 12,
+  "abilities": ["skeleton_master"],
+  "type": "armor"
+}

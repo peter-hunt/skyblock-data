@@ -6,5 +6,6 @@
     {"name": "zombies_heart", "count": 8}
   ],
   "result": {"name": "revived_heart"},
+  "copy_upgrades": true,
   "slayer_req": ["zombie", 6]
 }

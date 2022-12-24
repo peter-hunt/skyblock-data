@@ -1,0 +1,10 @@
+{
+  "name": "any_valkyrie",
+  "category": "combat",
+  "recipes": [
+    "valkyrie",
+    "astraea_to_valkyrie",
+    "hyperion_to_valkyrie",
+    "scylla_to_valkyrie"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_grunt_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "crit_damage": 18,
+  "health": 28,
+  "defense": 44,
+  "stars": 0,
+  "tier": 3,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

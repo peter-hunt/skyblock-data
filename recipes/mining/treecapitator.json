@@ -6,5 +6,6 @@
     {"name": "enchanted_obsidian", "count": 512}
   ],
   "result": {"name": "treecapitator"},
+  "copy_upgrades": true,
   "collection_req": ["obsidian", 8]
 }

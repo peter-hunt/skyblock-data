@@ -1,0 +1,10 @@
+{
+  "name": "necrons_to_storms_leggings",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_leggings"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "storms_leggings"},
+  "copy_upgrades": true
+}

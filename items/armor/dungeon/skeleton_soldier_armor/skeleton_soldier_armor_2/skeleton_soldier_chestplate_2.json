@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_soldier_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "crit_chance": 2,
+  "crit_damage": 18,
+  "health": 29,
+  "defense": 45,
+  "stars": 0,
+  "tier": 2,
+  "dungeon_skill_req": 9,
+  "abilities": ["skeleton_soldier"],
+  "type": "armor"
+}

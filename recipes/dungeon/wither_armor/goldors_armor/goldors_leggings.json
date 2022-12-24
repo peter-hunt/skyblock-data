@@ -1,0 +1,10 @@
+{
+  "name": "goldors_leggings",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_leggings"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "goldors_leggings"},
+  "copy_upgrades": true
+}

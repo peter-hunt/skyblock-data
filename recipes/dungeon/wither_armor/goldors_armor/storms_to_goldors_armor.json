@@ -1,0 +1,10 @@
+{
+  "name": "storms_to_goldors_armor",
+  "category": "combat",
+  "recipes": [
+    "storms_to_goldors_helmet",
+    "storms_to_goldors_chestplate",
+    "storms_to_goldors_leggings",
+    "storms_to_goldors_boots"
+  ]
+}

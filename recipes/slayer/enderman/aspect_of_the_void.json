@@ -6,5 +6,6 @@
     {"name": "null_ovoid", "count": 32}
   ],
   "result": {"name": "aspect_of_the_void"},
+  "copy_upgrades": true,
   "slayer_req": ["enderman", 6]
 }

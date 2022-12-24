@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_necrons_armor",
+  "category": "combat",
+  "recipes": [
+    "goldors_to_necrons_helmet",
+    "goldors_to_necrons_chestplate",
+    "goldors_to_necrons_leggings",
+    "goldors_to_necrons_boots"
+  ]
+}

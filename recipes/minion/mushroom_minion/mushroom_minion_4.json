@@ -6,5 +6,6 @@
     {"name": "mushroom_block", "count": 512}
   ],
   "result": {"name": "mushroom_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["mushroom", 1]
 }

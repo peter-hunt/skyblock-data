@@ -1,7 +1,10 @@
 {
   "name": "creeper_minion_1",
   "category": "combat",
-  "ingredients": [{"name": "wooden_sword"}, {"name": "gunpowder", "count": 80}],
+  "ingredients": [
+    {"name": "wooden_sword"},
+    {"name": "gunpowder", "count": 80}
+  ],
   "result": {"name": "creeper_minion", "tier": 1},
   "collection_req": ["gunpowder", 1]
 }

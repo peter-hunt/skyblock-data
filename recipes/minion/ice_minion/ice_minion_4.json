@@ -6,5 +6,6 @@
     {"name": "ice", "count": 512}
   ],
   "result": {"name": "ice_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["ice", 1]
 }

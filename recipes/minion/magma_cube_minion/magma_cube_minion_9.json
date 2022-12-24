@@ -6,5 +6,6 @@
     {"name": "enchanted_magma_cream", "count": 128}
   ],
   "result": {"name": "magma_cube_minion", "tier": 9},
+  "copy_upgrades": true,
   "collection_req": ["magma_cream", 1]
 }

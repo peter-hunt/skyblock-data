@@ -6,5 +6,6 @@
     {"name": "nether_wart", "count": 512}
   ],
   "result": {"name": "nether_wart_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["nether_wart", 1]
 }

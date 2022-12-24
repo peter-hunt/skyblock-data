@@ -6,5 +6,6 @@
     {"name": "derelict_ashe", "count": 320}
   ],
   "result": {"name": "inferno_minion", "tier": 2},
+  "copy_upgrades": true,
   "slayer_req": ["blaze", 3]
 }

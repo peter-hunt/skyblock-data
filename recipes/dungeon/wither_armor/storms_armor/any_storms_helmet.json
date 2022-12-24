@@ -1,0 +1,10 @@
+{
+  "name": "any_storms_helmet",
+  "category": "combat",
+  "recipes": [
+    "storms_helmet",
+    "goldors_to_storms_helmet",
+    "maxors_to_storms_helmet",
+    "necrons_to_storms_helmet"
+  ]
+}

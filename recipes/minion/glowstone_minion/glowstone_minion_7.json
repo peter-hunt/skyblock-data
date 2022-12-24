@@ -6,5 +6,6 @@
     {"name": "enchanted_glowstone", "count": 128}
   ],
   "result": {"name": "glowstone_minion", "tier": 7},
+  "copy_upgrades": true,
   "collection_req": ["glowstone", 1]
 }

@@ -6,5 +6,6 @@
     {"name": "enchanted_coal_block", "count": 8}
   ],
   "result": {"name": "coal_minion", "tier": 11},
+  "copy_upgrades": true,
   "collection_req": ["coal", 1]
 }

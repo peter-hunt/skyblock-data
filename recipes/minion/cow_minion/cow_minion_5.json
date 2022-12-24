@@ -6,5 +6,6 @@
     {"name": "enchanted_beef", "count": 8}
   ],
   "result": {"name": "cow_minion", "tier": 5},
+  "copy_upgrades": true,
   "collection_req": ["leather", 1]
 }

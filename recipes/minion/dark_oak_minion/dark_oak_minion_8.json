@@ -6,5 +6,6 @@
     {"name": "enchanted_dark_oak", "count": 64}
   ],
   "result": {"name": "dark_oak_minion", "tier": 8},
+  "copy_upgrades": true,
   "collection_req": ["dark_oak_wood", 1]
 }

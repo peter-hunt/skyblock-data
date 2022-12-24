@@ -6,5 +6,6 @@
     {"name": "tarantula_web", "count": 64}
   ],
   "result": {"name": "spider_ring"},
+  "copy_upgrades": true,
   "slayer_req": ["spider", 1]
 }

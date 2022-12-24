@@ -1,0 +1,14 @@
+{
+  "name": "skeletor_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "crit_chance": 4,
+  "crit_damage": 43,
+  "health": 51,
+  "defense": 81,
+  "stars": 0,
+  "tier": 10,
+  "dungeon_skill_req": 15,
+  "abilities": ["skeletor"],
+  "type": "armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maxors_to_necrons_helmet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "maxors_helmet"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "necrons_helmet"},
+  "copy_upgrades": true
+}

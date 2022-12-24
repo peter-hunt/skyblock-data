@@ -7,5 +7,6 @@
     {"name": "enchanted_diamond", "count": 64}
   ],
   "result": {"name": "mastiff_boots"},
+  "copy_upgrades": true,
   "slayer_req": ["wolf", 4]
 }

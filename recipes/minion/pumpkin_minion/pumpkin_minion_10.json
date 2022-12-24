@@ -6,5 +6,6 @@
     {"name": "enchanted_pumpkin", "count": 256}
   ],
   "result": {"name": "pumpkin_minion", "tier": 10},
+  "copy_upgrades": true,
   "collection_req": ["pumpkin", 1]
 }

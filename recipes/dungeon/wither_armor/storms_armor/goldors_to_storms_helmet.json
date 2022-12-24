@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_storms_helmet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "goldors_helmet"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "storms_helmet"},
+  "copy_upgrades": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_master_chestplate",
+  "rarity": "epic",
+  "part": "chestplate",
+  "crit_chance": 3,
+  "crit_damage": 38,
+  "health": 47,
+  "defense": 74,
+  "stars": 0,
+  "tier": 8,
+  "dungeon_skill_req": 12,
+  "abilities": ["skeleton_master"],
+  "type": "armor"
+}

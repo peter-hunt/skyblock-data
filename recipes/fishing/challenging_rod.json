@@ -1,7 +1,11 @@
 {
   "name": "challenging_rod",
   "category": "fishing",
-  "ingredients": [{"name": "fishing_rod"}, {"name": "lily_pad", "count": 512}],
+  "ingredients": [
+    {"name": "fishing_rod"},
+    {"name": "lily_pad", "count": 512}
+  ],
   "result": {"name": "challenging_rod"},
+  "copy_upgrades": true,
   "collection_req": ["lily_pad", 5]
 }

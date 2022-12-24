@@ -6,5 +6,6 @@
     {"name": "blaze_rod", "count": 512}
   ],
   "result": {"name": "blaze_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["blaze_rod", 1]
 }

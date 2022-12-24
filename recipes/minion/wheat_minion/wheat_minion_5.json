@@ -6,5 +6,6 @@
     {"name": "hay_bale", "count": 96}
   ],
   "result": {"name": "wheat_minion", "tier": 5},
+  "copy_upgrades": true,
   "collection_req": ["wheat", 1]
 }

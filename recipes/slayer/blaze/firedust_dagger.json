@@ -1,0 +1,11 @@
+{
+  "name": "firedust_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "stick"},
+    {"name": "molten_powder"},
+    {"name": "silver_magmafish", "count": 30}
+  ],
+  "result": {"name": "firedust_dagger"},
+  "slayer_req": ["blaze", 2]
+}

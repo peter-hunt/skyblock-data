@@ -6,5 +6,6 @@
     {"name": "golden_plate", "count": 10},
     {"name": "mithril_plate", "count": 2}
   ],
-  "result": {"name": "mithril_drill_326"}
+  "result": {"name": "mithril_drill_326"},
+  "copy_upgrades": true
 }

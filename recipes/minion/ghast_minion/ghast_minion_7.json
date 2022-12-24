@@ -6,5 +6,6 @@
     {"name": "silver_fang", "count": 32}
   ],
   "result": {"name": "ghast_minion", "tier": 7},
+  "copy_upgrades": true,
   "collection_req": ["ghast_tear", 1]
 }

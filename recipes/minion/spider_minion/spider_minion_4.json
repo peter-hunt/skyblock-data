@@ -6,5 +6,6 @@
     {"name": "string", "count": 512}
   ],
   "result": {"name": "spider_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["string", 1]
 }

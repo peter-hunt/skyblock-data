@@ -1,0 +1,17 @@
+{
+  "name": "magmafish",
+  "category": "fishing",
+  "levels": [
+    [20, "magmafish_hat"],
+    [100, 10],
+    [500, "silver_magmafish"],
+    [1000, 100],
+    [15000, 1500],
+    [30000, "gold_magmafish"],
+    [50000, 5000],
+    [75000, 7500],
+    [100000, "diamond_magmafish"],
+    [250000, 25000],
+    [500000, 50000]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scylla",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_blade"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "scylla"},
+  "copy_upgrades": true
+}

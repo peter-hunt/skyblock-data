@@ -1,0 +1,10 @@
+{
+  "name": "any_goldors_leggings",
+  "category": "combat",
+  "recipes": [
+    "goldors_leggings",
+    "maxors_to_goldors_leggings",
+    "necrons_to_goldors_leggings",
+    "storms_to_goldors_leggings"
+  ]
+}

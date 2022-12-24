@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_maxors_boots",
+  "category": "combat",
+  "ingredients": [
+    {"name": "goldors_boots"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "maxors_boots"},
+  "copy_upgrades": true
+}

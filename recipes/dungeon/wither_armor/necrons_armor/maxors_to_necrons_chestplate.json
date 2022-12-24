@@ -1,0 +1,10 @@
+{
+  "name": "maxors_to_necrons_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {"name": "maxors_chestplate"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "necrons_chestplate"},
+  "copy_upgrades": true
+}

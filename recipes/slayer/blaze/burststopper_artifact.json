@@ -1,0 +1,12 @@
+{
+  "name": "burststopper_artifact",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "burststopper_talisman"},
+    {"name": "whipped_magma_cream", "count": 80},
+    {"name": "molten_powder", "count": 128}
+  ],
+  "result": {"name": "burststopper_artifact"},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 7]
+}

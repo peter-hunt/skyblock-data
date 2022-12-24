@@ -1,0 +1,10 @@
+{
+  "name": "maxors_to_storms_boots",
+  "category": "combat",
+  "ingredients": [
+    {"name": "maxors_boots"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "storms_boots"},
+  "copy_upgrades": true
+}

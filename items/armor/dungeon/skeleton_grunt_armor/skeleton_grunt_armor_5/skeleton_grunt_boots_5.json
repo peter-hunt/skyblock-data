@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_grunt_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "crit_damage": 21,
+  "health": 17,
+  "defense": 29,
+  "stars": 0,
+  "tier": 5,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

@@ -6,5 +6,6 @@
     {"name": "enchanted_ice", "count": 128}
   ],
   "result": {"name": "ice_minion", "tier": 9},
+  "copy_upgrades": true,
   "collection_req": ["ice", 1]
 }

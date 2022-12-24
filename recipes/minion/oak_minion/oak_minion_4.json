@@ -6,5 +6,6 @@
     {"name": "oak_wood", "count": 512}
   ],
   "result": {"name": "oak_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["oak_wood", 1]
 }

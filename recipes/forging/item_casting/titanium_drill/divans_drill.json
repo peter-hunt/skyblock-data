@@ -1,0 +1,11 @@
+{
+  "name": "divans_drill",
+  "category": "forging",
+  "ingredients": [
+    {"name": "titanium_drill_655"},
+    {"name": "divans_alloy"},
+    50000000
+  ],
+  "result": {"name": "divans_drill"},
+  "copy_upgrades": true
+}

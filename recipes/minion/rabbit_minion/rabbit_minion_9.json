@@ -6,5 +6,6 @@
     {"name": "enchanted_rabbit_foot", "count": 512}
   ],
   "result": {"name": "rabbit_minion", "tier": 9},
+  "copy_upgrades": true,
   "collection_req": ["rabbit", 1]
 }

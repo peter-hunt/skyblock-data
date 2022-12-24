@@ -6,5 +6,6 @@
     {"name": "flint", "count": 512}
   ],
   "result": {"name": "flint_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["flint", 1]
 }

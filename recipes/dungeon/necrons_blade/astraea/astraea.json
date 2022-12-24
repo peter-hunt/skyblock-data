@@ -1,0 +1,10 @@
+{
+  "name": "astraea",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_blade"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "astraea"},
+  "copy_upgrades": true
+}

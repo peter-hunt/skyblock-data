@@ -1,0 +1,2 @@
+Deal %%red%%3.5x%%gray%% damage to Blazes.
+Deal %%red%%2x%%gray%% damage to Skeletons.

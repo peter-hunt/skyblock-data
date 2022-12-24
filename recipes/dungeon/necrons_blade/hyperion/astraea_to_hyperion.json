@@ -1,0 +1,10 @@
+{
+  "name": "astraea_to_hyperion",
+  "category": "combat",
+  "ingredients": [
+    {"name": "astraea"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "hyperion"},
+  "copy_upgrades": true
+}

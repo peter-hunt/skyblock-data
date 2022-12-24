@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_master_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "crit_chance": 3,
+  "crit_damage": 32,
+  "health": 36,
+  "defense": 58,
+  "stars": 0,
+  "tier": 6,
+  "dungeon_skill_req": 12,
+  "abilities": ["skeleton_master"],
+  "type": "armor"
+}

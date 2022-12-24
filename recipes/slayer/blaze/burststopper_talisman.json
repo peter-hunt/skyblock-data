@@ -1,0 +1,11 @@
+{
+  "name": "burststopper_talisman",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "refined_titanium", "count": 6},
+    {"name": "whipped_magma_cream", "count": 4},
+    {"name": "molten_powder", "count": 128}
+  ],
+  "result": {"name": "burststopper_talisman"},
+  "slayer_req": ["blaze", 3]
+}

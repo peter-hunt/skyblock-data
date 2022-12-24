@@ -1,0 +1,10 @@
+{
+  "name": "maxors_helmet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_helmet"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "maxors_helmet"},
+  "copy_upgrades": true
+}

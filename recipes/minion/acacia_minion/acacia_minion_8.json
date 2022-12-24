@@ -6,5 +6,6 @@
     {"name": "enchanted_acacia", "count": 64}
   ],
   "result": {"name": "acacia_minion", "tier": 8},
+  "copy_upgrades": true,
   "collection_req": ["acacia_wood", 1]
 }

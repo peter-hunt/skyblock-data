@@ -1,0 +1,10 @@
+{
+  "name": "goldors_helmet",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_helmet"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "goldors_helmet"},
+  "copy_upgrades": true
+}

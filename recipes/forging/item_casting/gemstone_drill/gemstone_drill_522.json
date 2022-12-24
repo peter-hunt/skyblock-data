@@ -5,5 +5,6 @@
     {"name": "ruby_drill_15"},
     {"name": "gemstone_mixture", "count": 3}
   ],
-  "result": {"name": "gemstone_drill_522"}
+  "result": {"name": "gemstone_drill_522"},
+  "copy_upgrades": true
 }

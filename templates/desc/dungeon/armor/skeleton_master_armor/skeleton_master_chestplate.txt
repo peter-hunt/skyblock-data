@@ -1,0 +1,2 @@
+Increases the damage you deal with arrows by %%red%%5%%%gray%%.
+Your bows don't consume arrows.

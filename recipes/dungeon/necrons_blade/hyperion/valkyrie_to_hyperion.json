@@ -1,0 +1,10 @@
+{
+  "name": "valkyrie_to_hyperion",
+  "category": "combat",
+  "ingredients": [
+    {"name": "valkyrie"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "hyperion"},
+  "copy_upgrades": true
+}

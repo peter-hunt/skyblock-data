@@ -6,5 +6,6 @@
     {"name": "cobblestone", "count": 160}
   ],
   "result": {"name": "cobblestone_minion", "tier": 2},
+  "copy_upgrades": true,
   "collection_req": ["cobblestone", 1]
 }

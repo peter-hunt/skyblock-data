@@ -6,5 +6,6 @@
     {"name": "golden_tooth", "count": 48}
   ],
   "result": {"name": "pooch_sword"},
+  "copy_upgrades": true,
   "slayer_req": ["wolf", 6]
 }

@@ -6,5 +6,6 @@
     {"name": "acacia_wood", "count": 512}
   ],
   "result": {"name": "acacia_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["acacia_wood", 1]
 }

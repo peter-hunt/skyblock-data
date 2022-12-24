@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_maxors_armor",
+  "category": "combat",
+  "recipes": [
+    "goldors_to_maxors_helmet",
+    "goldors_to_maxors_chestplate",
+    "goldors_to_maxors_leggings",
+    "goldors_to_maxors_boots"
+  ]
+}

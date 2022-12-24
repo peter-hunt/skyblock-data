@@ -1,0 +1,13 @@
+{
+  "name": "deathripper_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "mawdredge_dagger"},
+    {"name": "inferno_vertex", "count": 16},
+    {"name": "molten_powder", "count": 64},
+    {"name": "enchanted_sulphur_cube", "count": 16}
+  ],
+  "result": {"name": "deathripper_dagger"},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 6]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maxors_boots",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_boots"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "maxors_boots"},
+  "copy_upgrades": true
+}

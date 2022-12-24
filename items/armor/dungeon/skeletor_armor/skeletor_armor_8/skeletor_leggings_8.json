@@ -1,0 +1,14 @@
+{
+  "name": "skeletor_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "crit_chance": 3,
+  "crit_damage": 36,
+  "health": 40,
+  "defense": 63,
+  "stars": 0,
+  "tier": 8,
+  "dungeon_skill_req": 15,
+  "abilities": ["skeletor"],
+  "type": "armor"
+}

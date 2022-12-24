@@ -1,0 +1,10 @@
+{
+  "name": "hyperion",
+  "category": "combat",
+  "ingredients": [
+    {"name": "necrons_blade"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "hyperion"},
+  "copy_upgrades": true
+}

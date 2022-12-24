@@ -1,0 +1,14 @@
+{
+  "name": "skeletor_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "crit_chance": 2,
+  "crit_damage": 25,
+  "health": 16,
+  "defense": 26,
+  "stars": 0,
+  "tier": 4,
+  "dungeon_skill_req": 15,
+  "abilities": ["skeletor"],
+  "type": "armor"
+}

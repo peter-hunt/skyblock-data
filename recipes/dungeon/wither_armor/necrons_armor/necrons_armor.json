@@ -1,0 +1,10 @@
+{
+  "name": "necrons_armor",
+  "category": "combat",
+  "recipes": [
+    "necrons_helmet",
+    "necrons_chestplate",
+    "necrons_leggings",
+    "necrons_boots"
+  ]
+}

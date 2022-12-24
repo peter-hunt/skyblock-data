@@ -1,0 +1,1 @@
+Increases the damage you deal with arrows by %%red%%10%%%gray%%.

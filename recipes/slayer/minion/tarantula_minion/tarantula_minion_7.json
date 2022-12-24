@@ -7,5 +7,6 @@
     {"name": "tarantula_silk", "count": 28}
   ],
   "result": {"name": "tarantula_minion", "tier": 7},
+  "copy_upgrades": true,
   "slayer_req": ["spider", 5]
 }

@@ -6,5 +6,6 @@
     {"name": "fish", "count": 512}
   ],
   "result": {"name": "fishing_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["fish", 1]
 }

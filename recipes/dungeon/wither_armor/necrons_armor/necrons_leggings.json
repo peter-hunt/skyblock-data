@@ -1,0 +1,10 @@
+{
+  "name": "necrons_leggings",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_leggings"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "necrons_leggings"},
+  "copy_upgrades": true
+}

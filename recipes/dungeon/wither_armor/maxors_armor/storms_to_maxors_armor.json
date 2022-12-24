@@ -1,0 +1,10 @@
+{
+  "name": "storms_to_maxors_armor",
+  "category": "combat",
+  "recipes": [
+    "storms_to_maxors_helmet",
+    "storms_to_maxors_chestplate",
+    "storms_to_maxors_leggings",
+    "storms_to_maxors_boots"
+  ]
+}

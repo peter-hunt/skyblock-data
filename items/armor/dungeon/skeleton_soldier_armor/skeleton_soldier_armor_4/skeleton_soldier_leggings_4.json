@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_soldier_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "crit_chance": 2,
+  "crit_damage": 21,
+  "health": 31,
+  "defense": 50,
+  "stars": 0,
+  "tier": 4,
+  "dungeon_skill_req": 9,
+  "abilities": ["skeleton_soldier"],
+  "type": "armor"
+}

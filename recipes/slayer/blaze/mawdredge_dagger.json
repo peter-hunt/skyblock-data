@@ -1,0 +1,12 @@
+{
+  "name": "mawdredge_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "twilight_dagger"},
+    {"name": "molten_powder", "count": 8},
+    {"name": "enchanted_sulphur_cube"}
+  ],
+  "result": {"name": "mawdredge_dagger"},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 4]
+}

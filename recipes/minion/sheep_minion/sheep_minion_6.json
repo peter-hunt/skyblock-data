@@ -6,5 +6,6 @@
     {"name": "enchanted_mutton", "count": 24}
   ],
   "result": {"name": "sheep_minion", "tier": 6},
+  "copy_upgrades": true,
   "collection_req": ["mutton", 1]
 }

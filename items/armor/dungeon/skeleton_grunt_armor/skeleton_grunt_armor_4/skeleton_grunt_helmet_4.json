@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_grunt_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "crit_damage": 19,
+  "health": 19,
+  "defense": 30,
+  "stars": 0,
+  "tier": 4,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

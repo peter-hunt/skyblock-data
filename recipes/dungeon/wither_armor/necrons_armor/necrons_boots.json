@@ -1,0 +1,10 @@
+{
+  "name": "necrons_boots",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_boots"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "necrons_boots"},
+  "copy_upgrades": true
+}

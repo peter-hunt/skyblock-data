@@ -6,5 +6,6 @@
     {"name": "melon_block", "count": 256}
   ],
   "result": {"name": "melon_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["melon", 1]
 }

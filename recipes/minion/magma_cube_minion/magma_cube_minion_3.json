@@ -6,5 +6,6 @@
     {"name": "magma_cream", "count": 320}
   ],
   "result": {"name": "magma_cube_minion", "tier": 3},
+  "copy_upgrades": true,
   "collection_req": ["magma_cream", 1]
 }

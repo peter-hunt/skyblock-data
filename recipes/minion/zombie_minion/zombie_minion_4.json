@@ -6,5 +6,6 @@
     {"name": "rotten_flesh", "count": 512}
   ],
   "result": {"name": "zombie_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["rotten_flesh", 1]
 }

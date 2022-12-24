@@ -6,5 +6,6 @@
     {"name": "enchanted_lily_pad", "count": 128}
   ],
   "result": {"name": "rod_of_legends"},
+  "copy_upgrades": true,
   "collection_req": ["lily_pad", 9]
 }

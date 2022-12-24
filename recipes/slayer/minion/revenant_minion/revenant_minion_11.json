@@ -7,5 +7,6 @@
     {"name": "revenant_viscera", "count": 448}
   ],
   "result": {"name": "revenant_minion", "tier": 11},
+  "copy_upgrades": true,
   "slayer_req": ["zombie", 5]
 }

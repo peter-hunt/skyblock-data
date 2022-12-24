@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_soldier_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "crit_chance": 2,
+  "crit_damage": 16,
+  "health": 16,
+  "defense": 26,
+  "stars": 0,
+  "tier": 1,
+  "dungeon_skill_req": 9,
+  "abilities": ["skeleton_soldier"],
+  "type": "armor"
+}

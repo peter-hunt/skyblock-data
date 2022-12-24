@@ -1,0 +1,10 @@
+{
+  "name": "goldors_armor",
+  "category": "combat",
+  "recipes": [
+    "goldors_helmet",
+    "goldors_chestplate",
+    "goldors_leggings",
+    "goldors_boots"
+  ]
+}

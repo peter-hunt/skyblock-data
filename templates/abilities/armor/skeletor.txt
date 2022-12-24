@@ -1,0 +1,1 @@
+Grants %%red%%+1 %%strength%%%%gray%% and %%blue%%+1 %%crit_damage%%%%gray%% for every %%light_blue%%10%%gray%% Skeletor kills.

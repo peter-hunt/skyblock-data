@@ -1,7 +1,10 @@
 {
   "name": "cave_spider_minion_1",
   "category": "combat",
-  "ingredients": [{"name": "wooden_sword"}, {"name": "spider_eye", "count": 80}],
+  "ingredients": [
+    {"name": "wooden_sword"},
+    {"name": "spider_eye", "count": 80}
+  ],
   "result": {"name": "cave_spider_minion", "tier": 1},
   "collection_req": ["spider_eye", 1]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "pyrochaos_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "kindlebane_dagger"},
+    {"name": "inferno_vertex", "count": 16},
+    {"name": "molten_powder", "count": 64},
+    {"name": "gold_magmafish", "count": 8}
+  ],
+  "result": {"name": "pyrochaos_dagger"},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 6]
+}

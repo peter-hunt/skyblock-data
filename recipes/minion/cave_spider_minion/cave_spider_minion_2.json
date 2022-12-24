@@ -6,5 +6,6 @@
     {"name": "spider_eye", "count": 160}
   ],
   "result": {"name": "cave_spider_minion", "tier": 2},
+  "copy_upgrades": true,
   "collection_req": ["spider_eye", 1]
 }

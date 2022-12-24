@@ -1,0 +1,12 @@
+{
+  "name": "kindlebane_dagger",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "firedust_dagger"},
+    {"name": "molten_powder", "count": 8},
+    {"name": "gold_magmafish"}
+  ],
+  "result": {"name": "kindlebane_dagger"},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 4]
+}

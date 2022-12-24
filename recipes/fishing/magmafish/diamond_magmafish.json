@@ -1,0 +1,7 @@
+{
+  "name": "diamond_magmafish",
+  "category": "fishing",
+  "ingredients": [{"name": "gold_magmafish", "count": 80}],
+  "result": {"name": "diamond_magmafish"},
+  "collection_req": ["magmafish", 10]
+}

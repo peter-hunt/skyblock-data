@@ -1,0 +1,10 @@
+{
+  "name": "storms_armor",
+  "category": "combat",
+  "recipes": [
+    "storms_helmet",
+    "storms_chestplate",
+    "storms_leggings",
+    "storms_boots"
+  ]
+}

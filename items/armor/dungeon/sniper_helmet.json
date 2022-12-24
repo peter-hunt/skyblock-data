@@ -1,0 +1,10 @@
+{
+  "name": "sniper_helmet",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 175,
+  "defense": 25,
+  "stars": 0,
+  "dungeon_skill_req": 8,
+  "type": "armor"
+}

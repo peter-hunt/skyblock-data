@@ -1,0 +1,10 @@
+{
+  "name": "valkyrie_to_scylla",
+  "category": "combat",
+  "ingredients": [
+    {"name": "valkyrie"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "scylla"},
+  "copy_upgrades": true
+}

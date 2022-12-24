@@ -1,7 +1,10 @@
 {
   "name": "mithril_minion_1",
   "category": "mining",
-  "ingredients": [{"name": "wooden_pickaxe"}, {"name": "mithril", "count": 80}],
+  "ingredients": [
+    {"name": "wooden_pickaxe"},
+    {"name": "mithril", "count": 80}
+  ],
   "result": {"name": "mithril_minion", "tier": 1},
   "collection_req": ["mithril", 1]
 }

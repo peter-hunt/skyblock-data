@@ -1,0 +1,11 @@
+{
+  "name": "bonzo_mask",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 100,
+  "defense": 100,
+  "intelligence": 100,
+  "stars": 0,
+  "dungeon_completion_req": 1,
+  "type": "armor"
+}

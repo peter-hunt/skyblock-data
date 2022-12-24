@@ -1,0 +1,10 @@
+{
+  "name": "hyperion_to_astraea",
+  "category": "combat",
+  "ingredients": [
+    {"name": "hyperion"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "astraea"},
+  "copy_upgrades": true
+}

@@ -6,5 +6,6 @@
     {"name": "molten_powder", "count": 16}
   ],
   "result": {"name": "inferno_minion", "tier": 4},
+  "copy_upgrades": true,
   "slayer_req": ["blaze", 3]
 }

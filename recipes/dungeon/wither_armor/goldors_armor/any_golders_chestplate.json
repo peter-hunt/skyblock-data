@@ -1,0 +1,10 @@
+{
+  "name": "any_goldors_chestplate",
+  "category": "combat",
+  "recipes": [
+    "goldors_chestplate",
+    "maxors_to_goldors_chestplate",
+    "necrons_to_goldors_chestplate",
+    "storms_to_goldors_chestplate"
+  ]
+}

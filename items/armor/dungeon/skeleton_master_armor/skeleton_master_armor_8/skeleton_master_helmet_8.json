@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_master_helmet",
+  "rarity": "epic",
+  "part": "helmet",
+  "crit_chance": 3,
+  "crit_damage": 38,
+  "health": 29,
+  "defense": 45,
+  "stars": 0,
+  "tier": 8,
+  "dungeon_skill_req": 12,
+  "abilities": ["skeleton_master"],
+  "type": "armor"
+}

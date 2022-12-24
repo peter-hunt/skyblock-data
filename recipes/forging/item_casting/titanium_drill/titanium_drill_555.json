@@ -9,5 +9,6 @@
     {"name": "mithril_plate", "count": 15},
     {"name": "plasma", "count": 20}
   ],
-  "result": {"name": "titanium_drill_555"}
+  "result": {"name": "titanium_drill_555"},
+  "copy_upgrades": true
 }

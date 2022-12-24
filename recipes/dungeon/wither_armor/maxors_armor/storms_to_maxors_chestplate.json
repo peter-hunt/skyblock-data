@@ -1,0 +1,10 @@
+{
+  "name": "storms_to_maxors_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {"name": "storms_chestplate"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "maxors_chestplate"},
+  "copy_upgrades": true
+}

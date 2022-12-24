@@ -1,0 +1,10 @@
+{
+  "name": "any_maxors_armor",
+  "category": "combat",
+  "recipes": [
+    "any_maxors_helmet",
+    "any_maxors_chestplate",
+    "any_maxors_leggings",
+    "any_maxors_boots"
+  ]
+}

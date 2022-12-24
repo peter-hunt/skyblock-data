@@ -8,5 +8,6 @@
     {"name": "enchanted_string", "count": 32}
   ],
   "result": {"name": "reaper_mask"},
+  "copy_upgrades": true,
   "slayer_req": ["zombie", 7]
 }

@@ -6,5 +6,6 @@
     {"name": "gunpowder", "count": 512}
   ],
   "result": {"name": "creeper_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["gunpowder", 1]
 }

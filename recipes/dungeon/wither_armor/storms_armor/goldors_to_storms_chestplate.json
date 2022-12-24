@@ -1,0 +1,10 @@
+{
+  "name": "goldors_to_storms_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {"name": "goldors_chestplate"},
+    {"name": "lasrs_eye", "count": 8}
+  ],
+  "result": {"name": "storms_chestplate"},
+  "copy_upgrades": true
+}

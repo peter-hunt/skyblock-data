@@ -8,5 +8,6 @@
     {"name": "enchanted_iron", "count": 192}
   ],
   "result": {"name": "tarantula_boots"},
+  "copy_upgrades": true,
   "slayer_req": ["spider", 4]
 }

@@ -6,5 +6,6 @@
     {"name": "enchanted_gold_block", "count": 8}
   ],
   "result": {"name": "gold_minion", "tier": 11},
+  "copy_upgrades": true,
   "collection_req": ["gold", 1]
 }

@@ -6,5 +6,6 @@
     {"name": "beef", "count": 512}
   ],
   "result": {"name": "cow_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["leather", 1]
 }

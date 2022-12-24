@@ -1,0 +1,12 @@
+{
+  "name": "skeleton_grunt_leggings",
+  "rarity": "epic",
+  "part": "leggings",
+  "crit_damage": 16,
+  "health": 23,
+  "defense": 38,
+  "stars": 0,
+  "tier": 2,
+  "dungeon_skill_req": 1,
+  "type": "armor"
+}

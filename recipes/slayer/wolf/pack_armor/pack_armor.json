@@ -2,7 +2,7 @@
   "name": "pack_armor",
   "category": "slayer",
   "recipes": [
-    "pack_crown",
+    "pack_helmet",
     "pack_chestplate",
     "pack_leggings",
     "pack_boots"

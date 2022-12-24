@@ -1,0 +1,10 @@
+{
+  "name": "any_storms_boots",
+  "category": "combat",
+  "recipes": [
+    "storms_boots",
+    "goldors_to_storms_boots",
+    "maxors_to_storms_boots",
+    "necrons_to_storms_boots"
+  ]
+}

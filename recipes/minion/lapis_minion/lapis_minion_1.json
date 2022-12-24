@@ -1,7 +1,10 @@
 {
   "name": "lapis_minion_1",
   "category": "mining",
-  "ingredients": [{"name": "wooden_pickaxe"}, {"name": "lapis", "count": 256}],
+  "ingredients": [
+    {"name": "wooden_pickaxe"},
+    {"name": "lapis", "count": 256}
+  ],
   "result": {"name": "lapis_minion", "tier": 1},
   "collection_req": ["lapis", 1]
 }

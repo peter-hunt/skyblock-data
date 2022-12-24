@@ -6,5 +6,6 @@
     {"name": "ghast_tear", "count": 128}
   ],
   "result": {"name": "ghast_minion", "tier": 2},
+  "copy_upgrades": true,
   "collection_req": ["ghast_tear", 1]
 }

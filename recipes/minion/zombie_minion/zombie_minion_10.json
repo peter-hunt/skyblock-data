@@ -6,5 +6,6 @@
     {"name": "enchanted_rotten_flesh", "count": 256}
   ],
   "result": {"name": "zombie_minion", "tier": 10},
+  "copy_upgrades": true,
   "collection_req": ["rotten_flesh", 1]
 }

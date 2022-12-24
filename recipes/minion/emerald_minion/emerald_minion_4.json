@@ -6,5 +6,6 @@
     {"name": "emerald", "count": 512}
   ],
   "result": {"name": "emerald_minion", "tier": 4},
+  "copy_upgrades": true,
   "collection_req": ["emerald", 1]
 }

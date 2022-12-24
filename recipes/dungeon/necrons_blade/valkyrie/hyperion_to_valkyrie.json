@@ -1,0 +1,10 @@
+{
+  "name": "hyperion_to_valkyrie",
+  "category": "combat",
+  "ingredients": [
+    {"name": "hyperion"},
+    {"name": "diamantes_handle", "count": 8}
+  ],
+  "result": {"name": "valkyrie"},
+  "copy_upgrades": true
+}

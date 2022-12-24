@@ -1,0 +1,10 @@
+{
+  "name": "goldors_chestplate",
+  "category": "combat",
+  "ingredients": [
+    {"name": "wither_chestplate"},
+    {"name": "jolly_pink_rock", "count": 8}
+  ],
+  "result": {"name": "goldors_chestplate"},
+  "copy_upgrades": true
+}

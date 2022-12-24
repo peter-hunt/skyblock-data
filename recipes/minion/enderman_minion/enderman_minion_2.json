@@ -6,5 +6,6 @@
     {"name": "ender_pearl", "count": 128}
   ],
   "result": {"name": "enderman_minion", "tier": 2},
+  "copy_upgrades": true,
   "collection_req": ["ender_pearl", 1]
 }

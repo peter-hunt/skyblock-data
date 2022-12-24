@@ -1,0 +1,14 @@
+{
+  "name": "skeleton_soldier_boots",
+  "rarity": "epic",
+  "part": "boots",
+  "crit_chance": 3,
+  "crit_damage": 30,
+  "health": 25,
+  "defense": 41,
+  "stars": 0,
+  "tier": 8,
+  "dungeon_skill_req": 9,
+  "abilities": ["skeleton_soldier"],
+  "type": "armor"
+}

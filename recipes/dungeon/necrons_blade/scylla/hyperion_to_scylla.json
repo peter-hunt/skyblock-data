@@ -1,0 +1,10 @@
+{
+  "name": "hyperion_to_scylla",
+  "category": "combat",
+  "ingredients": [
+    {"name": "hyperion"},
+    {"name": "bigfoots_lasso", "count": 8}
+  ],
+  "result": {"name": "scylla"},
+  "copy_upgrades": true
+}

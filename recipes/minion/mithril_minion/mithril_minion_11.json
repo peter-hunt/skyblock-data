@@ -6,5 +6,6 @@
     {"name": "refined_mithril", "count": 8}
   ],
   "result": {"name": "mithril_minion", "tier": 11},
+  "copy_upgrades": true,
   "collection_req": ["mithril", 1]
 }
