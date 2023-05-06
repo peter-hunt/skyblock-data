@@ -1,1 +1,1 @@
-Monsters drop coins will killed.
+Monsters drop coins when killed.

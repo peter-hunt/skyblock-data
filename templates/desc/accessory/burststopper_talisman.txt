@@ -1,1 +1,1 @@
-If an incomining hit would deal at least %%red%%50%%%gray%% of your %%health%%%%gray%%, multiply its damage by %%green%%0.95%%gray%%.
+If an incoming hit would deal at least %%red%%50%%%gray%% of your %%health%%%%gray%%, multiply its damage by %%green%%0.95%%gray%%.

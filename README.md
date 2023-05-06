@@ -9,7 +9,7 @@ The data will be installed by Skyblock automatically, so you don't have to insta
 
 If there are any issues with the data, please post them on the main repository for easier management.
 
-# Furthur information
+# Further information
 This project is to support [Skyblock](https://github.com/peter-hunt/skyblock) by [PeterHunt](https://github.com/peter-hunt).
 
 # License

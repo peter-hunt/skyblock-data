@@ -4,6 +4,6 @@
   "category": "alchemy",
   "intelligence": 100,
   "crit_damage": 10,
-  "abilities": ["epic_flamvoyant"],
+  "abilities": ["epic_flamboyant"],
   "type": "pet"
 }

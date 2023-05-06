@@ -4,6 +4,6 @@
   "part": "leggings",
   "defense": 95,
   "speed": 15,
-  "abilities": ["speester_bonus"],
+  "abilities": ["speedster_bonus"],
   "type": "armor"
 }

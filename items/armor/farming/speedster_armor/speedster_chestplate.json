@@ -4,6 +4,6 @@
   "part": "chestplate",
   "defense": 120,
   "speed": 15,
-  "abilities": ["speester_bonus"],
+  "abilities": ["speedster_bonus"],
   "type": "armor"
 }
