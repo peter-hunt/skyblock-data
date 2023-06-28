@@ -7,10 +7,10 @@
   "coins": 1,
   "exp": 1,
   "combat_exp": 200,
-  "slayer_exp": ["endereman", 100],
+  "slayer_exp": ["enderman", 100],
   "drops": [
     [{"name": "null_sphere"}, [60, 80], "common", 1],
-    [{"name": "summoning_eye"}, 1, "extraodinary", 0.0060],
+    [{"name": "summoning_eye"}, 1, "extraordinary", 0.0060],
     [{"name": "null_atom"}, 1, "rare", 0.0373]
   ]
 }

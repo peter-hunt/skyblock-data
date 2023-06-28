@@ -1,6 +1,6 @@
 {
   "name": "sword_of_the_universe",
   "rarity": "special",
-  "damage": Infinity,
+  "damage": 9007199254740992,
   "type": "sword"
 }

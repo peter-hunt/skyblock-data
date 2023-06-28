@@ -7,10 +7,10 @@
   "coins": 1,
   "exp": 1,
   "combat_exp": 500,
-  "slayer_exp": ["endereman", 500],
+  "slayer_exp": ["enderman", 500],
   "drops": [
     [{"name": "null_sphere"}, [105, 155], "common", 1],
-    [{"name": "summoning_eye"}, 1, "extraodinary", 0.0056],
+    [{"name": "summoning_eye"}, 1, "extraordinary", 0.0056],
     [{"name": "null_atom"}, 1, "rare", 0.0494],
     [{"name": "enchanted_book", "enchantments": {"smarty_pants": 1}}, 1, "extraordinary", 0.0176],
     [{"name": "sinful_dice"}, 1, "extraordinary", 0.0046],

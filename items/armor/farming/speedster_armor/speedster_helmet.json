@@ -4,6 +4,6 @@
   "part": "helmet",
   "defense": 70,
   "speed": 15,
-  "abilities": ["speester_bonus"],
+  "abilities": ["speedster_bonus"],
   "type": "armor"
 }
